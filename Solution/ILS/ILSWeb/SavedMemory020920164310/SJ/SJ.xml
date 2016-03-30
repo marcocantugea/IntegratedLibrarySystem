@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SJY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SJY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for High pressure manifold package BS101).pdf</filepath>
+        <Paragraphs>751-BS0201  Document title:  LIFTING GEAR CERTIFICATE  Rev.: Reason for issue: Date: Author: Checked: Approved:                       01 Issued for Approval 01.02.2010 DAW PRB SJY SJY  Acceptance code</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROSJEKTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROSJEKTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mud gas separator VX011).pdf</filepath>
+        <Paragraphs>AkerMH AS J: \ NOR_SWA \ 210 - PROSJEKTER PROSJEKTER \ 004 - P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

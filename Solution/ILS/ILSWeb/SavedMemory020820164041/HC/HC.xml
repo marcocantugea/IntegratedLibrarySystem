@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>2HCX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HCX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>2HCX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>2HCX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HCl</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCl</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HCOMP3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HCOMP3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HCALDAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HCALDAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

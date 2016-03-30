@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ESD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ESD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WFSD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WFSD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Flowserve WFSD 350-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESD2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESD2</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    Emergency   Visu al alarm   Audible Alarm   Normal Condition   Green   N/A   Fire Alarm   Red   977 Hz. Cont. 3.3 Cyc./Sec.   Combustible Gas   Yellow   470 Hz. Continuous   Toxic Gas   Blue   Down 77 Hz. To High 424 Hz. 15 Cyc./Min   Abandon ESD2 ESD2   White   7 Short / Sec. 1 Long .   Man Overboard   Violet   Down 368 Hz. To High  518 Hz. 60 C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESD1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESD1</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    Emergency   Visu al alarm   Audible Alarm   Normal Condition   Green   N/A   Fire Alarm   Red   977 Hz. Cont. 3.3 Cyc./Sec.   Combustible Gas   Yellow   470 Hz. Continuous   Toxic Gas   Blue   Down 77 Hz. To High 424 Hz. 15 Cyc./Min   Abandon ESD2   White   7 Short / Sec. 1 Long .   Man Overboard   Violet   Down 368 Hz. To High  518 Hz. 60 Cyc./ Sec.   General Alarm ESD1   N/A   7 Short / Sec. 1 Long .    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SDPO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SDPO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\12 Submarino-Subsea\Procedures\PDF\077.PB031 - Calibration &amp; Set Up Riser Angle Monitoring Sensors (12-Apr-12).pdf</filepath>
+        <Paragraphs>The SDPO on watch is responsible for the correct calibration of the RAM sensors and set up of the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

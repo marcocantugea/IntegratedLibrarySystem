@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TYPE-EXAMINATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPE-EXAMINATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEXAGONAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEXAGONAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXAMPLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXAMPLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXAMINATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXAMINATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>EXAMINATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXAMINACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXAMINACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXAMINATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXAMINATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRAXAIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRAXAIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEXAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEXAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

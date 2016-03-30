@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GDASPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GDASPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRAWINGDOCUMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRAWINGDOCUMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KINGDOM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KINGDOM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

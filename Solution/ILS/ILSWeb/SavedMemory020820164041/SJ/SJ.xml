@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SJA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT030 - Movimiento de la plataforma con BOP suspendido  (11-Abr-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FORMATSJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FORMATSJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BYSJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BYSJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SJY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SJY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for High pressure manifold package BS101).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROSJEKTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROSJEKTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mud gas separator VX011).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SJOYSTICK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SJOYSTICK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SJS-01</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SJS-01</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

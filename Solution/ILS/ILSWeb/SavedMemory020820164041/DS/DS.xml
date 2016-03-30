@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BANDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BANDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA FUERA DE BORDA NEW.docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCDSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCDSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VCDSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VCDSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>miniDST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>miniDST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M003_00.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M006_01.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Drawworks BG031).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M006_01.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNIT14302561PDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNIT14302561PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>UNIT14302561PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM-24-PDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM-24-PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEM-24-PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDS-80</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDS-80</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS-80</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MSDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MSDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MSDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAZARDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAZARDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>HAZARDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KINDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KINDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STANDARDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANDARDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>STANDARDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECORDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECORDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>RECORDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TDS-P-PND-09a-E</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Port Crane Boom NDT.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TR 1345a LA MURALLA IV.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-09a-E</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BORDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BORDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLDSMOBILE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLDSMOBILE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PADS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PADS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Port Crane Boom NDT.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TR 1345a LA MURALLA IV.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WELDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TDS-P-PND-10a-EINSPECTED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TDS-P-PND-10a-EINSPECTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-10a-EINSPECTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TDS-P-PND-10a-EINSPECTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\5-crewboat-181-fsiv-procyon.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\fsiv-181-bourbon-deneb.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGARDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGARDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMDSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\5-crewboat-181-fsiv-procyon.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GMDSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\fsiv-181-bourbon-deneb.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HMDSPRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HMDSPRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECOMMENDEDPROCEDUREFOREXTENDEDSTORAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECOMMENDEDPROCEDUREFOREXTENDEDSTORAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONTROLLERWITHHARDWIREDSIGNALINTERFACE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONTROLLERWITHHARDWIREDSIGNALINTERFACE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CABLEGLANDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CABLEGLANDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

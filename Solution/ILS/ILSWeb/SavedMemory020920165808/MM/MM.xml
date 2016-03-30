@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COMMUNICATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMMUNICATIONS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>COMMUNICATIONS SYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMMAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMMAND</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CHAIN OF COMMAND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMMUNICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMMUNICATION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>8.9 COMMUNICATION SY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAMMAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAMMAR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>HAMMAR H20 Hydrostatic Release Unit (35 DKF)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUMMARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUMMARY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>3.1 TANK SUMMARY SUMMARY TABLE ......................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUMMARY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>3.1 TANK SUMMARY SUMMARY TABLE ......................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUMMATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUMMATION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  FINAL WEIGHT SUMMATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUMMATION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  FINAL WEIGHT SUMMATION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MMM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MMM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.pdf</filepath>
+        <Paragraphs>  CATEGORY   REV.   DATE     00   DD - MMM MMM - AA         E L A B O R A T E S   A P P R O V E S           SUPERINTENDENT or   MANAGER    RIG </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

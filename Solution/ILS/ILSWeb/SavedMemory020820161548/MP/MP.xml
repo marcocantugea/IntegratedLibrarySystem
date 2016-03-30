@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPANY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPANY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>COMPANY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPOSITION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPOSITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>COMPOSITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEMPERATURE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEMPERATURE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DECOMPOSITION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECOMPOSITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POMPA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POMPA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPONENTIBILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPONENTIBILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMPIEGANDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMPIEGANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEMPERATURES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEMPERATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STAMPING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STAMPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEMPERATURA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEMPERATURA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEMPRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEMPRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXAMPLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXAMPLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPANIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPANIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MPI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MPI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYMPTOMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYMPTOMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPRESSOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPRESSOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAMPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAMPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INCOMPLETE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INCOMPLETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCOMPLETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCOMPLETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCOMPLETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCOMPLETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

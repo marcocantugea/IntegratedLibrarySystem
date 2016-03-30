@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RESPIRATORY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESPIRATORY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIRST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIRST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FIRST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FIRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>AIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CIRCUIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CIRCUIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIRMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIRMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WIRINGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WIRINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRETTIVA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRETTIVA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRECTIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRECTIVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRECTIVEThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRECTIVEThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIREMENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIRST-AID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIRST-AID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIRE-FIGHTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIRE-FIGHTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SIRA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SIRA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

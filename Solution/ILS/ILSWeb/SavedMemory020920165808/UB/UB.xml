@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUBE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.10   LUBE OIL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUBSEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUBSEA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SUBSEA OFF., MUD LAB, POD SERVICE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUBSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUBSECTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  BALLAST PATTERN CALCULATIONNOTE : 1) R.WT: THE CONDITION OF FULL WATER. 4)  :VCG IS OBTAINED FROM "TANK CAPACITY TABLES" PRESENTED IN SUBSECTION 1.1.5 (2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUBSECTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  BALLAST PATTERN CALCULATIONNOTE : 1) R.WT: THE CONDITION OF FULL WATER. 4)  :VCG IS OBTAINED FROM "TANK CAPACITY TABLES" PRESENTED IN SUBSECTION 1.1.5 (2)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UBSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UBSECTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>UBSECTION 1.1.5 (2) FINAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UBSECTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>UBSECTION 1.1.5 (2) FINAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUBTOTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUBTOTAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CONT DRAIN SUBTOTAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUBTOTAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CONT DRAIN SUBTOTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FUEL OIL SUB TOTAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>FUEL OIL SUB TOTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

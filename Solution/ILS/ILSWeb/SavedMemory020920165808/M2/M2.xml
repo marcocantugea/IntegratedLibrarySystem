@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>M206</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M206</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Chiller Room M206</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M203</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M203</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M 102   EL   C     M 105   MCC   C   M203 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M207</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M 125   EL   C     52S   Void   C   50S   Void   C     44S   Mud Tank RM   C   42S   Mud Tank RM   C     36S   Mud Tank RM   C   34S   Mud Tank RM   C     57S   Access Trunk   C   P2   Pump Room2   C     6S   Pipe Tunnel   C   M207 M207   Passage way   C     M129   MCC   C   M126   Lobby   C     M128   Lir/Vent Pipe RM   C   T2   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M220</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M220</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M144   Lobby   C     M142   MCC   C   M220 M220   Passage Way   C     M141   LIR/Vent Pipe RM   C   T5   Truster Room 5   C     T7   Truster Ro</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M226</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M226</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M226   Passage Way   C     M163   LIR/Vent Pipe RM   C     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M22</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M22</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M22 5   Drilling SWBD Room   LC   M15</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M202</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M202</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M 302   Fan Room   V   M202</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M201</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M201</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M201</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M209</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M209</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M209   Vent. Pipe Room   V   M208</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M208</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M208</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M209   Vent. Pipe Room   V   M208</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M218</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M218</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M3 18   Fire Station   V   M218   Hydraulic Room    V   M217</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M217</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M217</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M3 18   Fire Station   V   M218   Hydraulic Room    V   M217</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M219</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M219</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    M219</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M210</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M210</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M210 M210   Pipe/Cable Way   V   M132   Pipe/Cable Way   V   C: Cooling, V: Ventilation, D: Dehumidificat</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M228</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M228</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M219   Vent. Pipe Room   V   M228   Hydraulic Room   V   M227</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M227</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M227</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M219   Vent. Pipe Room   V   M228   Hydraulic Room   V   M227</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M216</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M216</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M216</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M222</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M222</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    M222</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M212</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M212</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M212   Inergen Room   V   M133</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M221</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M221</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>M221</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOM224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOM224</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MUD PIT ROOM224</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M223</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M223</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>M223</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M201-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M201-</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M201-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M204</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M204</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A240   Lobby   C     A241   Men222s CH   C   A242   Corridor    C     M204   El. Room   C   M205   Fan room   C     A202   Toilet   C     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M205</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M205</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A240   Lobby   C     A241   Men222s CH   C   A242   Corridor    C     M204   El. Room   C   M205   Fan room   C     A202   Toilet   C     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OIM222s</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OIM222s</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>It is always the OIM222s responsibility to decide whether to abandon the Vessel. If </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

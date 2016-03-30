@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>00AUNI1751-A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>00AUNI1751-A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNI1734</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNI1734</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>I10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>I10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

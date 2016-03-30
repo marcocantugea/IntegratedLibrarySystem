@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>(VCG) of the rig lower than the recommended VCG g</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FREE SURFACE MOMENT AT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGp</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGp</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  VCGp</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCGp</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>: VCGp VCGp IS OBTAINED FROM MAX. PERMISSIBLE VCG CURVE. 6)  :FSM(T), FSM(L) ARE OBTAINED FROM "TANK CAPACI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGo</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  GoML   m   Is the longitudinal metacentric   height of the rig corrected for free surfaces   GoMT   m   Is the transverse metacentric height of the rig corrected for free surfaces   VCGo   m   Is the vertical center - of - gravity of the rig corrected for longitudinal or    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>225    VCS Functional Description226</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  3   C.3 Hydrostatic Table Draft   Displ LCB TCB VCB WPA LCF   TPcm MTcm KML KMT  (m) (ton) (m) (m) (m) (m2) (m) (ton/cm)   (ton-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  3   C.3 Hydrostatic Table Draft   Displ LCB TCB VCB WPA LCF   TPcm MTcm KML KMT  (m) (ton) (m) (m) (m) (m2) (m) (ton/cm)   (ton-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGINITIAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGINITIAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VM = WT × VCGINITIAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCGINITIAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VM = WT × VCGINITIAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

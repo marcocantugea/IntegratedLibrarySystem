@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DGPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT032 - Operaciones de Embarcaciones de Suministro R.01  (17-May-14).docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT036 - Llegada a la ubicación de perforación (11-Abr-12).docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT053 - Procedimiento de tránsito (11-Apr-12).docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Requerimientos de la SDC para la movilización de Mirus-1 a Exploratus 1-DL ENG.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT033 - Uso de la K-ECDIS y estación de planeación (11-Abr-12).docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\5-crewboat-181-fsiv-procyon.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\fsiv-181-bourbon-deneb.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>GPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QGPILZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QGPILZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPR090522H23</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPR090522H23</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Quotation\P-01242 LA, MURALLA IV  Insp., P.H. y Recarga Cilindros Aire.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>phckqIGP5J4RegoUaaCHyQBv9OVC4c7</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>phckqIGP5J4RegoUaaCHyQBv9OVC4c7</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDLOPLFJLNLINHPCGPGJPFBDLEODDELJILNIBMFENMDEKHJMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDLOPLFJLNLINHPCGPGJPFBDLEODDELJILNIBMFENMDEKHJMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GP-30</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GP-30</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SETINGPARAMETERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SETINGPARAMETERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TURNOFFALLDRILLINGPUMPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TURNOFFALLDRILLINGPUMPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VERIFYVALVESEALSARENOTLEAKINGATWORKINGPRESSUREDOING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERIFYVALVESEALSARENOTLEAKINGATWORKINGPRESSUREDOING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

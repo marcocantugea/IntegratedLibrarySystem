@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>M80</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M80</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M8x20</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M8x20</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SM8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SM8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M8000</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M8000</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M8000-S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M8000-S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

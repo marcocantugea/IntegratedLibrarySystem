@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>UPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>UPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>forces in case of DPS mode. The buoyancy of the pontoons, columns and wing </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUMPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.3.4   BALLAST PUMPS AND PIPING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PSV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>PSV and water supply connection to prevent pump dry running.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DGPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DGPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DGPS Display Simrad GN-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>containing the Schlumberger CPS 665 cement unit which has </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Port 5: GPS I/O, NMEA outp</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPSIZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPSIZE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MINIMUM OF THE CAPSIZE AND </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>APS Pushbutton station (dual button) are installed in Helideck Area </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

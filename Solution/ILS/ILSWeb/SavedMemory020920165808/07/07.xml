@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>007</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    Mud Tank Room 36S   752 - TK - 005   107.0   100.0   Mud Tank Room 42P   752 - TK - 006   107.0   100.0   Mud Tank Room  44P   752 - TK - 007   107.0   100.0   Mud Tank Room 42S   752 - TK - 008   107.0   100.0   Mud Tank Room 44S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CDTK 007</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>07S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>07S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>: LIQ. MUD 07P, 07S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>07S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MUD 07S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>15907</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15907</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>15907 tonnes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>307</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>307</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>307</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>307</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 307  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS07</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS07</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>rteam        Ethernet        FS05        21        Thruster 6 IJS Link      Converteam        RS485, 4 wire        FS06        22        Thruster 6 MTC CCR      Converteam        Fibre optic        FS06        23        Thruster 6 MTC BCR      Converteam        Fibre optic        FS06        24        Thruster 6 VFD Link      Converteam        Ethernet        FS06        25        Thruster 7 IJS Link      Converteam        RS485, 4 wire        FS07 FS07        26        Thruster 7 MTC CCR      Converteam        Fibre optic        FS07        27   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>107</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>107</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>IAS Interface A        AKMH        Fibre Optic        FS32        96        LS4 Switchboard ACB Relays (LS4, 41 &amp; MCC41)        ABB        RS485, 2 wire        FS42        97        LS4 Switchboard Starter Relays (MCC41)        HIMAP        RS485, 2 wire        FS42        98        LS4 Switchboard Starter Relays (MCC41)        HIMAP        RS485, 2 wire        FS42        99        LS4 Switchboard ACB Relays (MCC43)        ABB        RS485, 2 wire        FS42        100        LS4 Switchboard Starter Relays (MCC43)        HIMAP        RS485, 2 wire        FS42        101        LS4 Switchboard Starter Relays (MCC43)        HIMAP        RS485, 2 wire        FS42        102        LS4 Switchboard Starter Relays (MCC43)        HIMAP        RS485, 2 wire        FS42        103        LS4 Switchboard Starter Relays (MCC43)        HIMAP        RS485, 2 wire        FS42        104        LS4 Switchboard Starter Relays (VMCC41)        HIMAP        RS485, 2 wire        FS42        105        LS4 Switchboard Starter Relays (VMCC41)        HIMAP        RS485, 2 wire        FS42        106        LS4 Switchboard Starter Relays (VMCC41)        HIMAP        RS485, 2 wire        FS42        107 107        LS4 Switchboard ACB Relays (MCC42 &amp; VMCC41)        ABB        RS485, 2 wire        FS42  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>107</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 107  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>86RCN0007</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>86RCN0007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  86RCN0008   Drill Floor(Drawwork Drum View)   86RCN0007 86RCN0007   Located on LGA   86RCN0010   Shell Shaker R oom   86RCN0011   Shell Shaker Room   86RCN0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>207</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Hydraulic pressure:   P = 207 207 bar   (265 0 psi)   Hydraulic Flow:   G = 180 l/min (42 U.S. gal./min.)   Air pressure:   P = 7b</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 207  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>907</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>907</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>907 MT (2,000,000lbs)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>207bar</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>207bar</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>207bar (3000psi)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DA071F001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DA071F001</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DA071F001  8.5.2 Life Boats</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2233026DA071R001224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2233026DA071R001224</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>See the drawing 2233026DA071R001224 for the Hazardous Area Classification.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M207</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M 125   EL   C     52S   Void   C   50S   Void   C     44S   Mud Tank RM   C   42S   Mud Tank RM   C     36S   Mud Tank RM   C   34S   Mud Tank RM   C     57S   Access Trunk   C   P2   Pump Room2   C     6S   Pipe Tunnel   C   M207 M207   Passage way   C     M129   MCC   C   M126   Lobby   C     M128   Lir/Vent Pipe RM   C   T2   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>07224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>07224</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>07224 is covered in </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>071A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>071A</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>071A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>071B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>071B</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>071B (1 x 100% fan), which exhausts the air via a Bulkhead mounted Mushroom </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>071H</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>071H</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>071H </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>071I</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>071I</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>071B~ 071I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M107</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M107</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M106   Seawage Treatment    V   M106   Hydraulic Room   V   M107</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>607</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>607</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>607</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A207</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A207 A207   Catering CHEM.   C     A213A   Dry PRO. ST   C   A213B   Waste H. Area   C     A215   Store K</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A607</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A607</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A606A   Chief ENG. OFF   C     A606B   Bedroom   C   A607 A607   Adimin Safety OFF.   C     A609   Metting RM   C   A613   Office[A]   C     A614   Office[B] </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3027DA071F001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3027DA071F001</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>3027DA071F001 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13807</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13807</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    29.4  15.00    47677    0.01 -0.00  5.77  13807  0.02 10.82 107.13    30.2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>13807</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    29.4  15.00    47677    0.01 -0.00  5.77  13807  0.02 10.82 107.13    30.2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>107790</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>107790</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    46.3  41.00   107790   -1.10  0.01 21.02  23590 -3.02 55.94 378.75    59.2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>107790</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    46.3  41.00   107790   -1.10  0.01 21.02  23590 -3.02 55.94 378.75    59.2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDTK007</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDTK007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CDTK007 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDTK007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CDTK007 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDTK107</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDTK107</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CDTK107 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDTK107</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CDTK107 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDTK207</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDTK207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CDTK207 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDTK207</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CDTK207 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDTK407</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDTK407</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CDTK407 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDTK407</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CDTK407 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MLTF307</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MLTF307</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MLTF307 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MLTF307</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MLTF307 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>752-TK-007</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>752-TK-007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>752-TK-007 ....................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>752-TK-007</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>752-TK-007 ....................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MLTK507</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MLTK507</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MLTK507 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MLTK507</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MLTK507 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>407</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>407</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 407  of  414   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>407</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 407  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>507</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>507</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MLTK 507</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>507</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MLTK 507</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>07P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>07P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MUD 07P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>07P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MUD 07P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0730</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0730</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>0730 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

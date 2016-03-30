@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENVIRONMENTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENVIRONMENTAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MAXIMUM ENVIRONMENTAL CRITERIA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONMENT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EVACUATION, ABANDONMENT PROCEDURES ..............................................................18</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NMEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NMEA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  NMEA - 0183   $MWV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INMARSAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INMARSAT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>INMARSAT Fleet 77 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENVIRONMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENVIRONMENT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.pdf</filepath>
+        <Paragraphs>    REQUISITIONING AUTHORITY          GENERAL  DESCRIPTION OF ACTIVITIES          QUALITY, SAFETY AND ENVIRONMENT     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

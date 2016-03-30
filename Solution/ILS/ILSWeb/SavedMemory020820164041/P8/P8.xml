@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>NP82</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NP82</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Plan de Navegación MIRUS-1 a Exploratus-1DL.docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P8DOUBLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P8DOUBLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XCAP8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XCAP8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

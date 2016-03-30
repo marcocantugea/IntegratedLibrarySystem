@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SINGLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Formato 12 preguntas (Si-Si) esp-eng.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\12 PREGUNTAS\12 preguntas (Si-Si) esp-eng.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SINGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLOBO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLOBO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA CHEQUEO DE VALVULA.docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARREGLO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARREGLO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ARREGLO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ARREGLO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ARREGLO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RREGLO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RREGLO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CR10-1260-10-102-32GLOBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CR10-1260-10-102-32GLOBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLOBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLOBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLASS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLASS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLOBALEGLOBAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLOBALEGLOBAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOGLIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOGLIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONSIGLIATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONSIGLIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M326GLICHE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M326GLICHE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENGLISH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENGLISH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WRANGLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WRANGLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANGLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ANGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ANGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANGLE255BEAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANGLE255BEAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANGLE-BEAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANGLE-BEAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANGLE-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANGLE-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Quotation\PA-00743 LA MURALLA IV  Insp. Balsas (1er. Lote) 3027-14-1017.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APBBBPAPBNDJHPGLNBLGOCHBGBBLAPHOMCFICFNEDFADDAHJA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APBBBPAPBNDJHPGLNBLGOCHBGBBLAPHOMCFICFNEDFADDAHJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLOBAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLOBAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CABLEGLANDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CABLEGLANDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

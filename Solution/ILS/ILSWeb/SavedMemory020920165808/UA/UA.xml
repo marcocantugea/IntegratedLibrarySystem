@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MANUAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANUAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MANUAL (NON VMS) BLACKOUT RECOVERY PROCEDURE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MANUAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>Printed initials in the approval columns above confirm that the document has been signed and approved. The original signed co py is held  within the Document Controller.         DOCUMENT TITLE:      REMOTE OPERATED VEHICLE (ROV) OPERATIONS MANUAL MANUAL       DOCUMENT NO:      Company Code   Department   Code   Document Code   Sequence No   KS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACTUAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACTUAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    Important   IF THE ACTUAL HEEL ANGLE EXCEEDS THOSE PREDICTED BY THE DAMAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACTUAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FREE SURFACE MOMENT AT ACTUAL ACTUAL TANK LEVEL tm   A PCPCWM_4828539:WP_0000037WP_0000037APCPCWM_4828539:WP_0000037WP_000003 7   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUCTUATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUCTUATE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FLUCTUATE WITH THE DISPLACEMENT, HEEL ANGLE, TRIM ANGLE, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MANUAL224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANUAL224</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MGT02 223EMERGENCY RESPONSE MANUAL224 for guidance regarding </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QUALITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QUALITY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>QUALITY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LANGUAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LANGUAGE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.pdf</filepath>
+        <Paragraphs>NCE    LANGUAGE     AGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

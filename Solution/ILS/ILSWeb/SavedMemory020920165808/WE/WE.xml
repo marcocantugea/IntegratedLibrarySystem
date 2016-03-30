@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WEIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEIGHT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>WEIGHT &amp; LOAD DEF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEIGHT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  LIGHTSHIP WEIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>POWER GENERATION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WELL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>WELL TEST SYSTEMS.................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEATHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SEVERE WEATHER WEATHER PROCEDURES .................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOWERING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOWERING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    PAY MAXIMUM ATTENTION TO LOWERING EFFECTIVE VERTICAL CENTER  OF GRAVITY OF VARIABLE LOADS.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOWER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>LOWER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WELDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELDING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS WELDING SHOP, FAN ROOM, DRILL TOOL STORE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TWEEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TWEEN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    System51(LOWER &amp; TWEEN DECK SUPPLY &amp; EXHAUST)  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ITEMWEIGHTFOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ITEMWEIGHTFOR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ITEMWEIGHTFOR REMOVALVCG-5.12VM GAINVM CUM. (m)m/M  APPENDIX D. La Muralla IV -DAILY STABILITY REPORT E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMWEIGHTFOR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ITEMWEIGHTFOR REMOVALVCG-5.12VM GAINVM CUM. (m)m/M  APPENDIX D. La Muralla IV -DAILY STABILITY REPORT E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\MSWordReader\bin\Debug\MSWordReader.dll
+C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\MSWordReader\bin\Debug\MSWordReader.pdb
+C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\MSWordReader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\MSWordReader\obj\Debug\MSWordReader.dll
+C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\MSWordReader\obj\Debug\MSWordReader.pdb

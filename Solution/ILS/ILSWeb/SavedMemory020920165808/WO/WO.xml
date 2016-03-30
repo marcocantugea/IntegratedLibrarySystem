@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DRAWWORKS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRAWWORKS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DRAWWORKS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLOWOUTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLOWOUTS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BLOWOUTS &amp; GAS RELEASE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAEWOO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  DAEWOO SHIPBUILDING &amp; MARINE  ENGINEERING CO., LTD.      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WORKSHOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WORKSHOP</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>WORKSHOP (SYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WORK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WORK</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>WORK METHOD </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

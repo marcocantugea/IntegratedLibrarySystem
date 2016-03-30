@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ATTACHMENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATTACHMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ATTACHMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ATTACHMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HMIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HMCDVIV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HMCDVIV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HMDSPRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HMDSPRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ThereisanoffsetparameterontheHMIscreentomakethedisplayedmudpressureshow</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ThereisanoffsetparameterontheHMIscreentomakethedisplayedmudpressureshow</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>equipmentthescreengraphicsandlogicontheirHMIscreensandPLCequipmentinorderto</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>equipmentthescreengraphicsandlogicontheirHMIscreensandPLCequipmentinorderto</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PerformahighmudpressuretriptestandcomparethehighpressuretripsetpointontheHMI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PerformahighmudpressuretriptestandcomparethehighpressuretripsetpointontheHMI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>verifythattheactualhighpressuretrippointmatchesthehighpressuretripsetpointontheHMI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>verifythattheactualhighpressuretrippointmatchesthehighpressuretripsetpointontheHMI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>-CURVES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-CURVES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>-CURVES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CASE-FORM-C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CASE-FORM-C</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CASE-FORM-C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASE-FORM-C</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CASE-FORM-C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FORM-C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FORM-C</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CASE- Example 1, 9.94m Transit FORM-C   UPPER DECK LEVEL LOADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FORM-C</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CASE- Example 1, 9.94m Transit FORM-C   UPPER DECK LEVEL LOADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

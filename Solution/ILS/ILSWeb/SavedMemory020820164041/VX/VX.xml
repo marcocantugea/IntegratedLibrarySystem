@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>4-3VX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>4-3VX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3VX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3VX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VX011</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VX011</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mud gas separator VX011).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

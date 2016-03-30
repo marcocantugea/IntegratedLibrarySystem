@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HANDLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDLING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DANGEROUS MATERIAL HANDLING PROCEDURES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DL850</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DL850</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Doppler speed log, Skipper DL850 [transducer in port side HIPAP room]. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

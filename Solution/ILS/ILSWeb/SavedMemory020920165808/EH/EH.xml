@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DEHUMIDIFICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEHUMIDIFICATION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS FWD/PORT COLUMN &amp; PONTOON DEHUMIDIFICATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VEHICLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>Printed initials in the approval columns above confirm that the document has been signed and approved. The original signed co py is held  within the Document Controller.         DOCUMENT TITLE:      REMOTE OPERATED VEHICLE VEHICLE (ROV) OPERATIONS MANUAL       DOCUMENT NO:      Company Code   Department   Code   Document </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

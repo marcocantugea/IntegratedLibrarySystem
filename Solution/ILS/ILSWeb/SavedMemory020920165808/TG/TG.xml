@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TGB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TGB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  TGB   m   Is the transverse distance between TCG and TCB i.e.heeling lever arm   Ta222</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>327TGB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>327TGB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>327TGB use </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STTG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STTG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\15 Información de Calidad - Quality Information\Presentaciones\ISO 9001 2008 SPANISH.pdf</filepath>
+        <Paragraphs>Esta traducción es parte del resultado del trabajo que el Grupo ISO/TC 176 STTG viene desarrollando desde </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

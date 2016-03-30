@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>KUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT048-Recarga de combustible a helicoptero\542.PT048 - Recarga de combustible a helicóptero (31-Oct-15).docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>KUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT048-Recarga de combustible a helicoptero\542.PT048 - Recarga de combustible a helicóptero (31-Oct-15).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KUNAH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KUNAH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KUNAH-1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KUNAH-1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KUNAH-1DL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KUNAH-1DL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BACKUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BACKUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

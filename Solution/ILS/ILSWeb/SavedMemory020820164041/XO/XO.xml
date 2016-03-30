@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ANEXOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANEXOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ANEXOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ANEXOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANEXO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANEXO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ANEXO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEXO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEXO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BaseefaO4ATEXOO24X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BaseefaO4ATEXOO24X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEXOO24</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEXOO24</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XOCHIMANCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XOCHIMANCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

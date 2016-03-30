@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PIKLIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PIKLIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PIKLIS-1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PIKLIS-1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PIKLIS-1DL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PIKLIS-1DL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CORREASTMCORREASTMBIKE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CORREASTMCORREASTMBIKE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IKKE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IKKE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mousehole 45FT BX201).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VIKING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VIKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cot. VIKING\300314..pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VIKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Quotation\PA-00743 LA MURALLA IV  Insp. Balsas (1er. Lote) 3027-14-1017.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VIKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VIKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Quotation\R-023.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

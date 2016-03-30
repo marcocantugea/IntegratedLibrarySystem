@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VERIFYVALVESEALSARENOTLEAKINGATWORKINGPRESSUREDOING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERIFYVALVESEALSARENOTLEAKINGATWORKINGPRESSUREDOING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>VERIFYVALVESEALSARENOTLEAKINGATWORKINGPRESSUREDOING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>SEAL KIT TITAN BX 1502 CONN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOTTLEKIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOTTLEKIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>BOTTLEKIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

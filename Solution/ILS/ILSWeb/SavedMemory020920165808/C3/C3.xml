@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SC3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SC3</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    SC3 SC3   Thruster Room 2   1 - comp adjacent to sea   833.6   SC6   Pipe Trunk 58S   1 - comp adjacent </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MC3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MC3</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    SC3   Thruster Room 2   1 - comp adjacent to sea   833.6   SC6   Pipe Trunk 58S   1 - comp adjacent to sea   705.3   SC7   Thruster Room 4   1 - comp adjacent to sea   610.8   SC10   FO 11S   1 - comp adjacent to sea   749.1   SC14   FO  16S   1 - comp adjacent to sea   749.2   SC16   Thruster Room 6   1 - comp adjacent to sea   610.8   SC17   Pipe Trunk 59S   1 - comp adjacent to sea   705.3   SC20   Thruster Room 8   1 - comp adjacent to sea   833.7   SC23   WB 26S   1 - comp adjacent to sea   474.4   MC1   WB 3S/WB 33S   2 - comp  Collision zone   519/166   MC2   WB 5S/WB 35S   2 - comp Collision zone   413/69   MC3 MC3   WB 21S/WB 39S   2 - comp Collision zone   519/166   MC4   WB 20S/WB 37S   2 - comp Collision z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SC30</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SC30</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  SC30   WB 45S   1 - comp Collision zone   383.40   SC31</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SC31</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SC31</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  SC30   WB 45S   1 - comp Collision zone   383.40   SC31</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SC32</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SC32</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  SC32 SC32   Bulk Tank Room 48S   1 - comp Collision zone   575.21   Table 9.2 Operation Draught Damage Ca</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>C323DIGO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>C323DIGO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\9 Perforacion - Drilling (077)\Procedimientos\PDF\077.PD061 - Operaciones de Cementación (09-Abr-12).pdf</filepath>
+        <Paragraphs>      C323DIGO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>C323DIGO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\9 Perforacion - Drilling (077)\Procedimientos\PDF\077.PD100 - Revisión de Flujo (09-Abr-12).pdf</filepath>
+        <Paragraphs>   C323DIGO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WINDOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WINDOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\SP-01-05-01T Daily Knuckleboom crane Rev1.doc</filepath>
+      </itemcol>
+      <itemcol>
+        <word>WINDOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Formato 12 preguntas (Si-Si) esp-eng.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\12 PREGUNTAS\12 preguntas (Si-Si) esp-eng.docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOLLOWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOLLOWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Formato 12 preguntas (Si-Si) esp-eng.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FOLLOWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\12 PREGUNTAS\12 preguntas (Si-Si) esp-eng.docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROWAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROWAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\carta de recomendacion II.docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DOWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT037 - Elevación y bajada de transductor (11-Abr-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M003_00.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUTDOWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUTDOWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M003_00.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SHUTDOWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M006_01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STOWAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STOWAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OWNER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OWNER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OWNER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OWNER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OWNER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OWNER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLOWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLOWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>6HL1POWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>6HL1POWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POTENZAPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POTENZAPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DOWEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOWEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALLOWED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREAKDOWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREAKDOWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TORQUETnNmPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TORQUETnNmPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROADPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROADPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APLICACIONESPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APLICACIONESPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POWERTRAX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POWERTRAX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAJAPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAJAPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STEP-N-TOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STEP-N-TOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PERFORMANCEMAGNAFLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PERFORMANCEMAGNAFLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>METMLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>METMLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XTTMLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XTTMLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THROWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THROWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>THROWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\PO 3027-14-0107.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LINETRHOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LINETRHOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Quotation\30-2014 LINE THROWING APPARATUS- GRUPO R .pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DOWNLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOWNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DOWNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>DOWNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DNOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-13-0820 APROBADA.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KNOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KNOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERTHROW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERTHROW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Quotation\R-023.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HORSEPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HORSEPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>HORSEPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>BOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLOWSERVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLOWSERVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BROWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BROWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>YESCALLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>YESCALLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OUTPUTLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OUTPUTLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

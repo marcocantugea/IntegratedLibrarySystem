@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BUILDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUILDER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VESSEL OWNER, DESIGNER, BUILDER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DISTRIBUTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DISTRIBUTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>POWER GENERATION &amp; DISTRIBUTION SYSTEMS ..............................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHIPBUILDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHIPBUILDING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  DAEWOO SHIPBUILDING &amp; MARINE  ENGINEERING CO., LTD.      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  ACCESS TRUNK  60P   BULK TANK  ROOM 40P   10</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BULK TANK 753-VX0001A (Room 38P)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMBUSTIBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMBUSTIBLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>8.4.2 COMBUSTIBLE INSULATION MATERIAL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMBUSTIBLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\21. Tecnico para la Recepción y Despacho de Combustible.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 21 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   TÉCNICO  PARA LA RECEPCI ÓN Y  DESPACH O   DE COMBUSTIBLE COMBUSTIBLE   REPORTA A   O ficial de Operaciones del Helipuerto       UNIDAD  OPERACIONAL   LA MURA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REDISTRIBUTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REDISTRIBUTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  LOAD REDISTRIBUTION CALCULATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REDISTRIBUTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  LOAD REDISTRIBUTION CALCULATION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUQUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUQUE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\39. Oficial de Proteccion de Buque.pdf</filepath>
+        <Paragraphs>               DESCRIPCION DE PUESTO              ( 3 9 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  2                                                                                                                        REV.01   CARGO   OFICIAL DE PROTECCION DE  BUQUE BUQUE   REPORTA A   Capitán / OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

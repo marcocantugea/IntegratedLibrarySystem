@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HVAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HVAC</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>HVAC SYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HVA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HVA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for HVA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHVA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHVA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\15 Información de Calidad - Quality Information\Presentaciones\ISO 9001 2008 SPANISH.pdf</filepath>
+        <Paragraphs>Verificar-Actuar" (PHVA). PHVA puede describirse brevemente como: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

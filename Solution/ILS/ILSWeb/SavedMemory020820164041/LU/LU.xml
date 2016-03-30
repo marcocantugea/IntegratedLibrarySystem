@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LUIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\2.- Eval h.agua y les.doc</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLUMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLUMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT057 - Recepción y despacho de helicópteros R.01(14-Dic-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLUMNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLUMNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>COLUMNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>COLUMNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUIDOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUIDOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FLUIDOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FLUIDOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUJO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUJO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONCLUSIONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONCLUSIONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUIDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FLUIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FLUIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLUMEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLUMEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLUG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLUG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PLUG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLUMNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLUMNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUIDOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUIDOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUIDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLUMENES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLUMENES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOLUBILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOLUBILITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DILUTED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DILUTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLUGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLUGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUNGO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUNGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUBRICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUBRICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HILUX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HILUX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELUXE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELUXE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROADLUCES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROADLUCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INCLUYE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INCLUYE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCLUYE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUGAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\MR 3027-14-0365.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\MR 3027-14-0739.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Invoicing\Factura de clientes 19014.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Invoicing\Factura de clientes 19015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Invoicing\Factura de clientes 19019.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Invoicing\Factura de clientes 19017.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Invoicing\Factura de clientes 19018.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>LUGAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cot. TORMAGE\45-2014 LIGHT SMOKE SIGNAL-GRUPO R..pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Invoicing\44143 - Rev 1.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUDES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUDES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INCLUIDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INCLUIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCLUIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010 APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCLUIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCLUIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCLUIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011 APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>INCLUIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Quotation\PA-00743 LA MURALLA IV  Insp. Balsas (1er. Lote) 3027-14-1017.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REVOLUCION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REVOLUCION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DILUVIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DILUVIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEVOLUCION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEVOLUCION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLUMENES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLUMENES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INCLUDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INCLUDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

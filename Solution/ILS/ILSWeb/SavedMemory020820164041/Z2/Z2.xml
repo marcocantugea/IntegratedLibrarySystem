@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>Z2010-08-30AS-BUILT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Z2010-08-30AS-BUILT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>223Z224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>223Z224</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>170079-R-IZ212-VB03-0100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>170079-R-IZ212-VB03-0100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Subsea Camera Package IZ212).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

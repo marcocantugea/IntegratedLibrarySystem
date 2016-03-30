@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EMISI356N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMISI356N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>6NA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927 APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017 APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMS-880307-6NA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMS-880307-6NA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\OC 3027-15-0651.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

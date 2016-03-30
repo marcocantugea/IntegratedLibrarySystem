@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LMRP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LMRP</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>position below the LMRP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG T</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

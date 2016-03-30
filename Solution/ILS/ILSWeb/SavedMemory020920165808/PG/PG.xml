@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PG0010B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PG0010B</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>PG0010B on port, 756-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGSPR11</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGSPR11</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>   PGSPR11 High voltage test probe added. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGSPR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGSPR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>The PGSPR 11 High Voltage Test Probe is suitable and is available from Power and  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

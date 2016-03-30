@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SWL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for POD Crane MF021).pdf</filepath>
+        <Paragraphs>SWL 15000kg/4 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWITCHSET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWITCHSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>SWITCHSET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>USWeight</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>USWeight</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>HOUSTON, TX 77040 USWeight</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWIVEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWIVEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>RG HOIST SWIVEL SWIVEL 1000 LB 3/8-1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

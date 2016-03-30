@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>P10DOUBLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P10DOUBLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P12DOUBLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P12DOUBLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P14D</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P14D</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P16D</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P16D</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P1-A-XX-X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P1-A-XX-X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EP1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EP1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>230P160</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>230P160</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

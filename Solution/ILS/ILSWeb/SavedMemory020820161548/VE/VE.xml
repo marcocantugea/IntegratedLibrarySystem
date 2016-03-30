@@ -1,0 +1,376 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>COVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROTECTIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SLEEVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SLEEVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRIVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTERVENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTERVENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRIVERed110</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRIVERed110</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRIVEMAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRIVEMAIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRIVEBACK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRIVEBACK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VESSEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VESSEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELIVERY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELIVERY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRECTIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRECTIVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERALL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERALL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VERDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REMOVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REMOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RIMUOVERE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RIMUOVERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHIAVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHIAVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERHEATS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERHEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTERVEE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTERVEE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VERIFICARE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERIFICARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRIVEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRIVEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONVERTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONVERTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SELF-VENTILATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SELF-VENTILATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VENTILATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VENTILATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRECTIVEThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRECTIVEThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXPLOSIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXPLOSIVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONVERTERThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONVERTERThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INVERTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INVERTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VENTILATIONForced</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VENTILATIONForced</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VENTILATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VENTILATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VERACRUZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERACRUZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VERACRUZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VERACRUZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VERACRUZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VERACRUZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELEVETOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELEVETOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ELEVETOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIVERTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIVERTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

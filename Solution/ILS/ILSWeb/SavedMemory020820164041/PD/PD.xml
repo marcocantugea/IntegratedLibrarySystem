@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PDT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\1.- PLANEACION.doc</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\2.- Evaluacion .doc</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\2.- Eval h.agua y les.doc</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT036 - Llegada a la ubicación de perforación (11-Abr-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M006_01.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNIT14302561PDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNIT14302561PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>UNIT14302561PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM-24-PDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM-24-PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEM-24-PDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EPDM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EPDM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>EPDM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDS-80</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDS-80</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDS-80</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDA006WT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDA006WT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDA005WT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDA005WT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDA004WT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDA004WT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TNCEFEofPDX-AxisY-Axis</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TNCEFEofPDX-AxisY-Axis</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TNCEFEofPDX-AxisY-Axis</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TNCEFEofPDX-AxisY-Axis</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Drawworks BG031).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cuadro 3027-14-0171.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0807\Quotation\Cuadro comparativo 3027-14-0807.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Quotation\Cuadro comparativo 3027-15-0651.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\Cuadro comparativo 3027-15-0733.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Quotation\Cuadro comparativo 3027-15-0834.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BPD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\2013 Bourbon Opale Español.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

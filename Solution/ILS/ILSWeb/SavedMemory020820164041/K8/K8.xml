@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MK8A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MK8A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Quotation\cotizacion Grupo R , pirotecnicos 31-Octubre-.2013 Alfonso.doc</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MK8A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MK8A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\PO 3027-14-0105.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>K8557</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>K8557</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

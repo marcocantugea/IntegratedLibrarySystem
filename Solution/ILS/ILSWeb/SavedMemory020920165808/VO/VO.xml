@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VOLUME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLUME</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOLUME </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLUME</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs> 2.2 ABBREVIATIONS  Symbol  Description  Unit  S.G(Rho) SPECIFIC GRAVITY t/ m3  RED STEEL REDUCTION %  VNET NET VOLUME OF COMPARTM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CORPORATIVO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CORPORATIVO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Operator   CORPORATIVO GRUPO R, S.A. DE C.V.   Design   GVAC   Builder</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID 50P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID25P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID25P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID25P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID25P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID25P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID25S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID25S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID25S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID25S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID25S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID27P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID27P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID27P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID27P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID27P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID27S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID27S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID27S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID27S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID27S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID29P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID29P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID29P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID29P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID29P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID29S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID29S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID29S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID29S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID29S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID31P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID31P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID31P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID31P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID31P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID31S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID31S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID31S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID31S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID31S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID50S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID50S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID50S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID50S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID50S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID52S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID52S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID52S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID52S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID52S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID54P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID54P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID54P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID54P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID54P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID54S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID54S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID54S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID54S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID54S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID56P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID56P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID56P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID56P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID56P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID56S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID56S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID56S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID56S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID56S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG T</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>VOLTAGE TEST AREA224) is suitable. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

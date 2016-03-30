@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TM601</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TM601</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  TM601  Electric Motor</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M605</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M605</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Heavy Drill Tool Store M605 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M601</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M601</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M601 M601   Fan room   C     M602   Stairway   C   A602   Water Closet   C     A608   TEL Booth   C   A61</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M602</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M602</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M601   Fan room   C     M602   Stairway   C   A602   Water Closet   C     A608   TEL Booth   C   A610 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M603</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M603</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A803   WC   C     A701   L.E.R   C   M603 M603   DP Back    C           C: Cooling, V: Ventilation, D: Dehumidification, LC: Local Cooling   A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

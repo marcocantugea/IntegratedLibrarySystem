@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VRC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VRC</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>motor). Local start/stop panel for HPU of VRC is located in LCP.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DVR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>equipment which is the DVR via a composi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VRU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VRU</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>In a typical system, the Processor receives reference information from a VRU and a </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

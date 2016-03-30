@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>3026DA101M003</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3026DA101M003</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M003_00.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3026DA101M006</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3026DA101M006</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA101M006_01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M0694</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M0694</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\OC 3027-14-0739.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>M0694</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>M0694</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>266-M0694-00</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>266-M0694-00</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>266-M0694-00</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\PO 3027-15-0479.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

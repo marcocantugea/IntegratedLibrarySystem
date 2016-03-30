@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MTC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT042 - Encendido y paro de propulsores. (11-Abr-12) OK\542.PT042 - Encendido y paro de propulsores (thrusters) (20-Ago-14)Editable CORREGIDO.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT042 - Encendido y paro de propulsores. (11-Abr-12) OK\542.PT042 - Encendido y paro de propulsores.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT036 - Llegada a la ubicación de perforación (11-Abr-12).docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>STC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT042 - Inicio y parada de propulsores (thrusters) (11-Abr-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VETCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VETCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VETCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>VETCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TCP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Nobilis- 1_2_11_15_final costeo 15.61.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\HEM-1\Programa de Perforación Hem-1 (20 Marzo 2014).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWITCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SWITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SWITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SWITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SWITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWITCHSCOPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWITCHSCOPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SWITCHSCOPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT REV Z (1 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WESTCAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WESTCAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PTC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REMOLQUEHITCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REMOLQUEHITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HITCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>7WTCB305306</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>7WTCB305306</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>7WTCB292244245</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>7WTCB292244245</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>7WTCB292244247245</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>7WTCB292244247245</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>7WTCB266136</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>7WTCB266136</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>59047TCARACTER315STICAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>59047TCARACTER315STICAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SKETCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TC1A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TC1A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TC15-000075</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TC15-000075</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733 APROBADA.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>TC15-000075</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENTCRANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENTCRANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PITCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LATCH-INDICATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LATCH-INDICATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWITCHSET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWITCHSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONFIGURINGANALOGOUTPUTCORRECTIONSETPOINTTO9116</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFIGURINGANALOGOUTPUTCORRECTIONSETPOINTTO9116</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTCJC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTCJC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

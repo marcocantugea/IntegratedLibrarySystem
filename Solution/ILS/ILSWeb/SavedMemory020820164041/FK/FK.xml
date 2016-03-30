@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FKM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FKM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>FKM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FKI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFRICAFKI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PACIFICFKI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PACIFICFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OHJDEFFJEAFOICEDPEDGCIEBFFMHLNKJFKMIBENKEBBJMIBKN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OHJDEFFJEAFOICEDPEDGCIEBFFMHLNKJFKMIBENKEBBJMIBKN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>INSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDENTIFICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDENTIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>IDENTIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>AID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACCIDENTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACCIDENTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>ACCIDENTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONSIDERATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONSIDERATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDRODINAMIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDRODINAMIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDROMECCANICI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDROMECCANICI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDENTIFIED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDENTIFIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROVIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROVIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDENTIFICAZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDENTIFICAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDROMECCANICO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDROMECCANICO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RAPIDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RAPIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIOXIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIOXIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIRST-AID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIRST-AID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCIDENTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCIDENTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOLENOID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOLENOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIDRAULIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIDRAULIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>HIDRAULIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

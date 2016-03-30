@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>7KM1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>7KM1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>No200709427K</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>No200709427K</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Quotation\VDR.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>V7KP3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>V7KP3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

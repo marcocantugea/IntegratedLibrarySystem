@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SYMBOLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYMBOLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POLYMERIZATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POLYMERIZATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYMPTOMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYMPTOMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLYMPUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLYMPUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OLYMPUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>OLYMPUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAYMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAYMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PAYMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>PAYMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Quotation\Copia de Proforma Invoice  MS0000014 (002).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>YMnxsXj</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>YMnxsXj</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MACHINERYMAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MACHINERYMAIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

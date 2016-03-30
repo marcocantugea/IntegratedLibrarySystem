@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SURFACE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SURFACE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>4.4.5 FREE SURFACE MOMENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SURFACE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FREE SURFACE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM_4828539:WP_0000037WP_0000037APCPCWM_4828539:WP_000</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAILURES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAILURES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>7 BALLASTING SYSTEM FAILURES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SURFACES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SURFACES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.10.3 INTERNAL AND EXTERNAL SURFACES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTERFACES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTERFACES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  MTC INTERFACES   Each lever connects by ethernet to the respective </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ERFACE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ERFACE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ERFACE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAX</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Weather facsimile satellite receiver, Furuno FAX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAST</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>8.5.6 FAST RESCUE BOAT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS HURRICANE GENERATOR ROOM, FAN ROOM (SYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

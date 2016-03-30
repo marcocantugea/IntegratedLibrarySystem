@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WKSP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WKSP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DY-WK-T-001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DY-WK-T-001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

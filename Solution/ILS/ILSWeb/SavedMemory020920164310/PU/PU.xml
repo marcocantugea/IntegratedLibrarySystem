@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TURNOFFALLDRILLINGPUMPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TURNOFFALLDRILLINGPUMPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>TURNOFFALLDRILLINGPUMPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VERIFYTHERELIEFVALVESBEINGWORKEDONANDTHEPUMPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERIFYTHERELIEFVALVESBEINGWORKEDONANDTHEPUMPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>VERIFYTHERELIEFVALVESBEINGWORKEDONANDTHEPUMPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PURGEUNIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PURGEUNIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>PURGEUNIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZONE2PURGEUNITFOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZONE2PURGEUNITFOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>ZONE2PURGEUNITFOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONFIGURINGANALOGOUTPUTCORRECTIONSETPOINTTO9116</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFIGURINGANALOGOUTPUTCORRECTIONSETPOINTTO9116</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>CONFIGURINGANALOGOUTPUTCORRECTIONSETPOINTTO9116</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OUTPUTLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OUTPUTLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>OUTPUTLOW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OUTPUTHI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OUTPUTHI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>OUTPUTHI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MUDPUMPLINES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MUDPUMPLINES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>MUDPUMPLINES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

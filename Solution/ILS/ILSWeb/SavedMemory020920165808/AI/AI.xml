@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CHAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHAIN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CHAIN OF COMMAND.....................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAINTAINING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAINTAINING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>GUIDANCE FOR MAINTAINING STABILITY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRAINAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRAINAGE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BILGE &amp; DRAINAGE SYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAINTENANCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAINTENANCE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>INSPECTION, MAINTENANCE &amp; REPAIRS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAINTENANCE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>TMS FOR MAINTENANCE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPAIRS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPAIRS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>INSPECTION, MAINTENANCE &amp; REPAIRS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAI</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>4.3 GUIDANCE FOR MAI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NTAINING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NTAINING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>NTAINING STABILITY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAILY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>4.4.8 DAILY STABILITY CALCULATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>                      cumulative VM CUM. (m) equals or exceeds M.  DAILY STABILITY REPORT should then</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GAIN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>(i.e. relocation of load) because  there is no change in displacement of the platform.   VM GAIN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRAINS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRAINS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.2.3   DRAINS SYSTEMS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAILURES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAILURES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>7 BALLASTING SYSTEM FAILURES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.8   COMPRESSED AIR SYSTEM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>AIS Transponder Jotron TR2500  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAIN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>8.3.1   FIRE MAIN MAIN SYSTEM.........................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAINT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAINT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS PAINT STORE, AC/OX ROOM, CHEMICAL STORE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OBTAINED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OBTAINED</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  BALLAST PATTERN CALCULATIONNOTE : 1) R.WT: THE CONDITION OF FULL WATER. 4)  :VCG IS OBTAINED FROM "TANK CAPACITY TABLES" PRESENTED IN SUBSECTION 1.1.5 (2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OBTAINED</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  BALLAST PATTERN CALCULATIONNOTE : 1) R.WT: THE CONDITION OF FULL WATER. 4)  :VCG IS OBTAINED FROM "TANK CAPACITY TABLES" PRESENTED IN SUBSECTION 1.1.5 (2)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-DAILY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-DAILY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VCGo*=VCGp=VCGo*=VCGp=VCGo*=VCGp=  A PCPCWM_4828539:WP_0000045WP_0000045 APCPCWM_4828539:WP_0000045WP_0000045 APPENDIX D. La Muralla IV -DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>-DAILY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VCGo*=VCGp=VCGo*=VCGp=VCGo*=VCGp=  A PCPCWM_4828539:WP_0000045WP_0000045 APCPCWM_4828539:WP_0000045WP_0000045 APPENDIX D. La Muralla IV -DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRAIN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CONT DRAIN SUBTOTAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRAIN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>CONT DRAIN SUBTOTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAINDECK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAINDECK</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MAINDECK TANKS TOTAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAINDECK</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MAINDECK TANKS TOTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GAINVM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GAINVM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ITEMWEIGHTFOR REMOVALVCG-5.12VM GAINVM CUM. (m)m/M  APPENDIX D. La Muralla IV -DAILY STABILITY REPORT E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GAINVM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ITEMWEIGHTFOR REMOVALVCG-5.12VM GAINVM CUM. (m)m/M  APPENDIX D. La Muralla IV -DAILY STABILITY REPORT E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

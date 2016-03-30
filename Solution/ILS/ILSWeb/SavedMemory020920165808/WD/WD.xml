@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FWD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FWD Column </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WDI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WDI</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Construction : Python WDI 35 X 19 Non </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VOLUME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLUME</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOLUME </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLUME</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs> 2.2 ABBREVIATIONS  Symbol  Description  Unit  S.G(Rho) SPECIFIC GRAVITY t/ m3  RED STEEL REDUCTION %  VNET NET VOLUME OF COMPARTM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUW</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>LUW shall consist of the following items:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLUMN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLUMN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>COLUMN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COLUMN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  COLUMN LEVEL LOADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAILURES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAILURES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>7 BALLASTING SYSTEM FAILURES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUBE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.10   LUBE OIL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUSBL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUSBL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Dimona LUSBL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELUGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELUGE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>8.3.4   DELUGE SYSTEM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALUES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALUES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Important   THE VALUES GIVEN IN THE HYDROSTATIC TABLES IN VOLUME II FOR THE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUCTUATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUCTUATE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FLUCTUATE WITH THE DISPLACEMENT, HEEL ANGLE, TRIM ANGLE, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SALUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SALUD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\32. Supervisor Especialista en Seguridad y Salud en el Trabajo.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 32 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  3                                                                                                                        REV.01   CARGO   SUPERVISOR ESPECIALISTA EN  SEGURIDAD Y SALUD SALUD EN EL  TRABAJO   REPORTA A   Capitán/ OIM       UNIDAD  OPERACIONAL   LA MURALLA IV         RE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

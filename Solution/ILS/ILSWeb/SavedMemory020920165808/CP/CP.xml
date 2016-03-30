@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LCP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LCP</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>The compressors are controlled locally from their own LCP (One LCP per compressor). The </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ICCP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ICCP</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>The ICCP system anodes are sized for a twenty year life expectancy without </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>containing the Schlumberger CPS 665 cement unit which has </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>The Centralized system control is fully automatic with redundant CPU cards capable of </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

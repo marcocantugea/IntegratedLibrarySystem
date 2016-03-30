@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>the vertical moment of the load taken about horizontal plane through the  baseline of the platform (always +).   FSM FSM (T)   ton - m   is transverse free surface moment of liquid tank.   FSM (L)   ton - m   is longi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM_4828539:WP_0000037WP_0000037APCPCWM_48285</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FSL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  KML   m   Is the distance from the keel to the longitudinal metacenter of the rig   KMT   m   Is the distance from the keel to the transverse metacenter of the rig.   GML   m   Is the longitudinal metacentric height of the rig before free surface correction   GMT   m   Is the transverse metacentric height of the rig before free surface correction   FSL   m   Is the longitudinal free surface correction for slack tanks   FST </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FST</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  KML   m   Is the distance from the keel to the longitudinal metacenter of the rig   KMT   m   Is the distance from the keel to the transverse metacenter of the rig.   GML   m   Is the longitudinal metacentric height of the rig before free surface correction   GMT   m   Is the transverse metacentric height of the rig before free surface correction   FSL   m   Is the longitudinal free surface correction for slack tanks   FST </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS01</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS01</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    1        Thruster 1 IJS Link      Converteam        RS485, 4 wire        FS01 FS01        2        Thruster 1 MTC CCR      Converteam        Fibre optic        FS01        3     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS02</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS02</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>et        FS01        5        Thruster 2 IJS Link      Converteam        RS485, 4 wire        FS02 FS02        6        Thruster 2 MTC CCR      Converteam        Fibre optic        FS02        7     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS03</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS03</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>      9        Thruster 3 IJS Link      Converteam        RS485, 4 wire        FS03 FS03        10        Thruster 3 MTC CCR      Converteam        Fibre optic        FS03        11   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS04</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS04</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>thernet        FS03        13        Thruster 4 IJS Link      Converteam        RS485, 4 wire        FS04 FS04        14        Thruster 4 MTC CCR      Converteam        Fibre optic        FS04        15   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS05</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS05</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>        Ethernet        FS04        17        Thruster 5 IJS Link      Converteam        RS485, 4 wire        FS05 FS05        18        Thruster 5 MTC CCR      Converteam        Fibre optic        FS05        19   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS06</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS06</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>rteam        Ethernet        FS05        21        Thruster 6 IJS Link      Converteam        RS485, 4 wire        FS06 FS06        22        Thruster 6 MTC CCR      Converteam        Fibre optic        FS06        23   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS07</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS07</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>rteam        Ethernet        FS05        21        Thruster 6 IJS Link      Converteam        RS485, 4 wire        FS06        22        Thruster 6 MTC CCR      Converteam        Fibre optic        FS06        23        Thruster 6 MTC BCR      Converteam        Fibre optic        FS06        24        Thruster 6 VFD Link      Converteam        Ethernet        FS06        25        Thruster 7 IJS Link      Converteam        RS485, 4 wire        FS07 FS07        26        Thruster 7 MTC CCR      Converteam        Fibre optic        FS07        27   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS08</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS08</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>nk      Converteam        Ethernet        FS07        29        Thruster 8 IJS Link      Converteam        RS485, 4 wire        FS08 FS08        30        Thruster 8 MTC CCR      Converteam        Fibre optic        FS08        31   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS10</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FD Link      Converteam        Ethernet        FS08        33        HS1 Switchboard IJS Link      Converteam        RS485, 4 wire        FS10 FS10        34        HS1 Switchboard SEPAM Link      Converteam        RS485, 2 wire        FS10   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS20</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS20</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FD Link      Converteam        Ethernet        FS08        33        HS1 Switchboard IJS Link      Converteam        RS485, 4 wire        FS10        34        HS1 Switchboard SEPAM Link      Converteam        RS485, 2 wire        FS10        35        HS1 Switchboard Engine 1 Link        Caterpillar        RS485, 2 wire        FS10        36        HS1 Switchboard Engine 2 Link        Caterpillar        RS485, 2 wire        FS10        37        HS2 Switchboard IJS Link      Converteam        RS485, 4 wire        FS20                </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS30</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS30</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>witchboard Engine 3 Link        Caterpillar        RS485, 2 wire        FS20        40        HS2 Switchboard Engine 4 Link        Caterpillar        RS485, 2 wire        FS20        41        HS3 Switchboard IJS Link      Converteam        RS485, 4 wire        FS30 FS30        42        HS3 Switchboard SEPAM Link      Converteam        RS485, 2 wire        FS30   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS40</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS40</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MCC Interface      Converteam        Ethernet        FS30        46        HS4 Switchboard IJS Link      Converteam        RS485, 4 wire        FS40 FS40        47        HS4 Switchboard SEPAM Link      Converteam        RS485, 2 wire        FS40   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS12</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MCC Interface        Converteam     Ethernet        FS40        51        LS1 Switchboard ACB Relays (LS1)        ABB        RS485, 2 wire        FS12       52  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS22</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS22</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>      67        LS2 Switchboard ACB Relays (LS2)        ABB        RS485, 2 wire        FS22       68  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS32</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS32</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    78        LS2 Switchboard Starter Relays (MCC22)        HIMAP        RS485, 2 wire        FS22        79        LS2 Switchboard Starter Relays (MCC22)        HIMAP        RS485, 2 wire        FS22        80        LS3 Switchboard ACB Relays (LS3, 31 &amp; MCC31)        ABB        RS485, 2 wire        FS32 FS32        81        LS3 Switchboard Starter Relays (MCC31)        HIMAP        RS485, 2 wire      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS42</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS42</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>IAS Interface A        AKMH        Fibre Optic        FS32        96        LS4 Switchboard ACB Relays (LS4, 41 &amp; MCC41)        ABB        RS485, 2 wire        FS42 FS42        97        LS4 Switchboard Starter Relays (MCC41)        HIMAP        RS485, 2 wire      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS4</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>IAS Interface B        AKMH        Fibre Optic        FS4</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS50</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS50</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>2        111        LS1 Switchboard ACB Relays (VMCC12)        ABB        RS485, 2 wire        FS50 FS50        112        LS1 Switchboard Starter Relays (VMCC12)        HIMAP        RS485, 2 wire    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Two (2) VHF AM portable radio, Walter Dittel FSG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FS21</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FS21</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>   The Hydril FS21 x 60 Diverter Assembly serves as a means to</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WFSD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WFSD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Flowserve WFSD 350-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

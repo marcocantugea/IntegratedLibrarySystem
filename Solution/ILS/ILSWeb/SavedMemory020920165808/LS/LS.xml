@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PROPULSION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROPULSION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>PROPULSION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRILLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRILLS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EMERGENCY DRILLS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LSL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LSL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>start signal until LSL gives signal back to input that necessary level of water has been reached </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LS1-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LS1-</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Close circuit breaker LS1-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LS1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LS1</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>eaker LS1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LS11</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LS11</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>On port forward 230V switchboard LS11 (912</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LS2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LS2</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>      67        LS2 Switchboard ACB Relays (LS2)        ABB        RS485, 2 wire        FS22       68  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LS3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LS3</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    78        LS2 Switchboard Starter Relays (MCC22)        HIMAP        RS485, 2 wire        FS22        79        LS2 Switchboard Starter Relays (MCC22)        HIMAP        RS485, 2 wire        FS22        80        LS3 LS3 Switchboard ACB Relays (LS3, 31 &amp; MCC31)        ABB        RS485, 2 wire        FS32        81  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LS4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LS4</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>IAS Interface A        AKMH        Fibre Optic        FS32        96        LS4 LS4 Switchboard ACB Relays (LS4, 41 &amp; MCC41)        ABB        RS485, 2 wire        FS42        97  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

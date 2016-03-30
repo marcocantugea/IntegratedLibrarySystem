@@ -1,0 +1,958 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>14S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  BRINE 14S   BRINE   433.5   1.8    780.3   BRINE 4S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BRINE 14S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  BOTK 14P 14P   BASE OIL   433.5   0.9    390.2   BOTK 4P   BASE OIL   312.1   0.9    280.9   BASE OIL       7</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BOTK 14P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VX0014A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VX0014A</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  753 - VX0014A   55.0   49.0   753 - VX0014B   55.0   49.0    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VX0014B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VX0014B</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  753 - VX0014A   55.0   49.0   753 - VX0014B   55.0   49.0    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>143-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>143-</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>143-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M144</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M144</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  LQ  CORRIDOR  M144   24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DV143F001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DV143F001</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DV143F001</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DA143F201</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DA143F201</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DA143F201</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DA143F301</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DA143F301</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DA143F301</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DA143F401</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DA143F401</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DA143F401</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DA143F901</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DA143F901</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DA143F901</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>145-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>145-</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>145-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>314</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>314</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>314</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>314</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>.............................. 314 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M141</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M141</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  LOWER  DECK   VENT PIPE  ROOM M141   PIPE  TRUNK 59P   32</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3027DA145F211</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3027DA145F211</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>3027DA145F211</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3027DA145F311</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3027DA145F311</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>3027DA145F311</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3027DA145F411</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3027DA145F411</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>3027DA145F411</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1400</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1400</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  1400 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>145222</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>145222</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>make) 145222 travel up to derrick knuckle point, bridge crane  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>145</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>145</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  40 m/hr @ 50 m head   4   Sump transfer   Vertical  Centrifugal   20 m/hr @ 10 m head   4   Main Fire    Vertical  Centrifugal   260 m/hr @ 145 145 m head   4   Fire Jockey   Vertical  Centrifugal   40 m/hr @ 145  m head   2   Potable water ser</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>145</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>............................. 145 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>86RCN0014</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>86RCN0014</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  86RCN0008   Drill Floor(Drawwork Drum View)   86RCN0007   Located on LGA   86RCN0010   Shell Shaker R oom   86RCN0011   Shell Shaker Room   86RCN0013   Moon Pool(Trip Saver View)   86RCN0014   Moon Pool(Trip Saver View)   86RCN0015   Moon Pool(Trip Saver View)   Marine CCTV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>014</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>014</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Tag Number   Area   957 - JC - 023   Upperd Deck Port Side View   957 - JC - 024   Upperd Deck Starboard Side View   957 - JC - 013   Upperd Deck AFT View   957 - JC - 014   Upperd Deck FWD View   957-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DG14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DG14</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Magellan* DG14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>514</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>514</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Rope, MBL 514 ton</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>145m</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>145m</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>260m3/hr at 145m head each with 50% capacity of maximum demand. Two pumps are located </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>140</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>140</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>capacity of the monitors is approx. 140 m3/h at a minimum of 7 bar in transit draught and with a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>140</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 140  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>147</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>147</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>147</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>147</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>............................. 147 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M146</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M146</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    M146</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M142</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M142</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M144   Lobby   C     M142 M142   MCC   C   M220   Passage Way   C     M141   LIR/Vent Pipe RM   C   T5   Truster Room 5   C   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>142</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>142</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>142  in system</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>142</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 142  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M114</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M114</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M1 23   Low Voltage Room   LC   M 115   Corridor   C   M114</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M145</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M145</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M145   Utility Room   V   M143   Hydraulic Room   V   M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M143</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M143</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M145   Utility Room   V   M143   Hydraulic Room   V   M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>149</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>149</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>149</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>149</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>............................. 149 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M140</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M140</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  M140</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>141A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141A</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>141A is installed which prevents any</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>141C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141C</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>/ 141C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>141B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141B</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>141B of System 1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M148</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M148</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ROOM M148 (SYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>148</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>148</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>148</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>148</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 148  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>214</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>214</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>214</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>214</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>.............................. 214 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M314</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M314</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Oxygen Store M314 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A314</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A314</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A301   Hop./Treat. OFF.   C     A303   Sick Bay   C   A304   Bath   C     A314   Medic   C   A306~A311 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A614</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A614</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  A606A   Chief ENG. OFF   C     A606B   Bedroom   C   A607   Adimin Safety OFF.   C     A609   Metting RM   C   A613   Office[A]   C     A614   Office[B]   C   A615   Office[C]   C     A616   Office[D]   C   A617 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A214</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A214</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>A214 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SC14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SC14</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    SC3   Thruster Room 2   1 - comp adjacent to sea   833.6   SC6   Pipe Trunk 58S   1 - comp adjacent to sea   705.3   SC7   Thruster Room 4   1 - comp adjacent to sea   610.8   SC10   FO 11S   1 - comp adjacent to sea   749.1   SC14 SC14   FO  16S   1 - comp adjacent to sea   749.2   SC16   Thruster Room 6   1 - comp adjacent to se</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>age14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>age14</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>age14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>8148</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8148</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>   185.4   5.00  22873    0.00 -0.00  2.63   8148  0.00 37.38 318.67   154.2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>8148</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>   185.4   5.00  22873    0.00 -0.00  2.63   8148  0.00 37.38 318.67   154.2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14032</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14032</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    28.8  16.50    49291    0.01 -0.00  6.10  14032  0.00 10.75 106.42    29.6</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14032</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    28.8  16.50    49291    0.01 -0.00  6.10  14032  0.00 10.75 106.42    29.6</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14106</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14106</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    28.6  17.00    49827    0.01 -0.00  6.21  14106  0.00 10.72 106.18    29.4</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14106</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    28.6  17.00    49827    0.01 -0.00  6.21  14106  0.00 10.72 106.18    29.4</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14180</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14180</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    28.4  17.50    50361    0.01 -0.00  6.33  14180  0.00 10.70 105.92    29.2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14180</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    28.4  17.50    50361    0.01 -0.00  6.33  14180  0.00 10.70 105.92    29.2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14254</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14254</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    28.2  18.00    50894    0.01 -0.00  6.45  14254  0.00 10.67 105.65    29.0</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14254</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    28.2  18.00    50894    0.01 -0.00  6.45  14254  0.00 10.67 105.65    29.0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>51426</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>51426</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    28.1  18.50    51426    0.01 -0.00  6.57  14328 -0.00 10.64 105.35    28.9</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>51426</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    28.1  18.50    51426    0.01 -0.00  6.57  14328 -0.00 10.64 105.35    28.9</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14328</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14328</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    28.1  18.50    51426    0.01 -0.00  6.57  14328 -0.00 10.64 105.35    28.9</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14328</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    28.1  18.50    51426    0.01 -0.00  6.57  14328 -0.00 10.64 105.35    28.9</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14402</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14402</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.9  19.00    51956    0.01 -0.00  6.69  14402  0.00 10.61 105.04    28.7</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14402</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.9  19.00    51956    0.01 -0.00  6.69  14402  0.00 10.61 105.04    28.7</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14475</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14475</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.7  19.50    52485    0.01 -0.00  6.82  14475  0.00 10.58 104.71    28.5</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14475</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.7  19.50    52485    0.01 -0.00  6.82  14475  0.00 10.58 104.71    28.5</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14549</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14549</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.6  20.00    53011    0.01  0.00  6.95  14549  0.00 10.52 104.11    28.3</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14549</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.6  20.00    53011    0.01  0.00  6.95  14549  0.00 10.52 104.11    28.3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14623</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14623</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.4  20.50    53538    0.01  0.00  7.08  14623 -0.00 10.55 104.35    28.3</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14623</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.4  20.50    53538    0.01  0.00  7.08  14623 -0.00 10.55 104.35    28.3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14697</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14697</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.4  21.00    54064    0.01  0.00  7.21  14697 -0.00 10.55 104.35    28.2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14697</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.4  21.00    54064    0.01  0.00  7.21  14697 -0.00 10.55 104.35    28.2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14770</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14770</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.3  21.50    54590    0.01  0.00  7.35  14770 -0.00 10.55 104.35    28.1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14770</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.3  21.50    54590    0.01  0.00  7.35  14770 -0.00 10.55 104.35    28.1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14844</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14844</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.3  22.00    55116    0.01  0.00  7.49  14844 -0.00 10.55 104.35    28.1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14844</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.3  22.00    55116    0.01  0.00  7.49  14844 -0.00 10.55 104.35    28.1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14917</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14917</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.2  22.50    55642    0.01  0.00  7.63  14917 -0.00 10.55 104.35    28.0</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14917</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.2  22.50    55642    0.01  0.00  7.63  14917 -0.00 10.55 104.35    28.0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14991</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14991</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    27.2  23.00    56168    0.01  0.00  7.77  14991 -0.00 10.55 104.35    28.0</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>14991</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>    27.2  23.00    56168    0.01  0.00  7.77  14991 -0.00 10.55 104.35    28.0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>61430</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>61430</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>(m) (m)  28.00    61430    0.01  0.00  9.29  15727 -0.00 10.55 104.35    27.8</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>61430</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>(m) (m)  28.00    61430    0.01  0.00  9.29  15727 -0.00 10.55 104.35    27.8</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>414</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>414</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 1  of  414   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>414</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 1  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOTK14P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOTK14P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BOTK14P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BOTK14P</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BOTK14P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRINE14S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRINE14S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BRINE14S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRINE14S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BRINE14S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>114</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>114</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>............................ 114 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>114</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>............................ 114 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOTK214</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOTK214</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>LOTK214 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOTK214</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>LOTK214 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>141</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>............................. 141 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>141</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>............................. 141 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>143</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>143</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>............................. 143 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>143</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>............................. 143 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MLTF314</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MLTF314</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MLTF314 .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MLTF314</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MLTF314 .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>753-VX-0014A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>753-VX-0014A</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>753-VX-0014A ..................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>753-VX-0014A</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>753-VX-0014A ..................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>753-VX-0014B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>753-VX-0014B</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>753-VX-0014B ..................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>753-VX-0014B</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>753-VX-0014B ..................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>144</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>144</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 144  of  414   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>144</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 144  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>146</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>146</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 146  of  414   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>146</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>Project No.3027  DSME Doc.3027DR041Z006  Revision Z1  Ref. Doc.   Page 146  of  414   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DOCUMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOCUMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for High pressure manifold package BS101).pdf</filepath>
+        <Paragraphs> TechDrill High Pressure Pipeline &amp; API Drilling Equipment  PROJECT DOCUMENT DOCUMENT  Client:  B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DOCUMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for PDPH Crane BB451).pdf</filepath>
+        <Paragraphs>PROJECT DOCUMENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DOCUMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Subsea Camera Package IZ212).pdf</filepath>
+        <Paragraphs>Aker MH AS    PROJECT DOCUMENT DOCUMENT  Client:   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROJECTDOCUMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROJECTDOCUMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mud gas separator VX011).pdf</filepath>
+        <Paragraphs>AkerMH AS J: \ NOR_SWA \ 210 - PROSJEKTER \ 004 - Prosjekter2009 \ BIP - 003AkerMH - GrupoR - SMGS \ Doc \ 170079 - R - VX011 - VB03 - 010001 Lifting.docx PROJECTDOCUMENT PROJECTDOCUMENT Clie</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUSHION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUSHION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>CUSHION ELEMENT, BX HOUSING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACCUMULATORBOTTLEFORPILOTMANIFOLDBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACCUMULATORBOTTLEFORPILOTMANIFOLDBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>ACCUMULATORBOTTLEFORPILOTMANIFOLDBOX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACCUMULATORBOTTLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACCUMULATORBOTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>ACCUMULATORBOTTLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10LITERACCUMULATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10LITERACCUMULATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>10LITERACCUMULATOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OPTIONALACCUMULATORBOTTLEFORPILOTMANIFOLDBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OPTIONALACCUMULATORBOTTLEFORPILOTMANIFOLDBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+        <Paragraphs>OPTIONALACCUMULATORBOTTLEFORPILOTMANIFOLDBOX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

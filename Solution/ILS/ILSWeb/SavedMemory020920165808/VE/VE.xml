@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VESSEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VESSEL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VESSEL OWNER, DESIGNER, BUILDER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECOVERY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECOVERY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MANUAL (NON VMS) BLACKOUT RECOVERY PROCEDURE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRAVELING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRAVELING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>TRAVELING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEVERE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEVERE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SEVERE WEATHER PROCEDURES .................................................................................12</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EFFECTIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EFFECTIVE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    PAY MAXIMUM ATTENTION TO LOWERING EFFECTIVE VERTICAL CENTER  OF GRAVITY OF VARIABLE LOADS.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VERTICAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VERTICAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    PAY MAXIMUM ATTENTION TO LOWERING EFFECTIVE VERTICAL CENTER  OF GRAVITY OF VARIABLE LOADS.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VERTICAL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FREE SURFACE MOMENT AT ACTU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VENT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  LOWER  DECK   VENT PIPE  ROOM M104   PIPE  TRUNK 58P   30</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-CURVES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-CURVES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>-CURVES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.3.3   BALLAST VALVES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVES224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVES224</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.3.5   223CLOSE ALL VALVES224 FUNCTION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECEIVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECEIVER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  GNSS RECEIVER   The </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VESSEL222S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VESSEL222S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>THAN PRESENTLY ASSESSED, OR (2) THE VESSEL222S </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEVER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ENSURE THAT THE VESSEL NEVER EXCEEDS THE MINIMUM OF THE CAPSIZE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GIVEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GIVEN</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Important   THE VALUES GIVEN IN THE HYDROSTATIC TABLES IN VOLUME II FOR THE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRANSVERSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRANSVERSE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TRANSVERSE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEVEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEVEL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM_4828539:WP_0000037WP_0000037APCPCWM_4828539:WP_0000037WP_000003 7   GRUPO R </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEVEL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m2  FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM_4828539:WP_0000037WP_0000037APCPCWM_4828539:WP_0000037WP_000003 7   GRUPO R </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OBJECTIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OBJECTIVE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\12 Submarino-Subsea\Procedures\PDF\077.PB031 - Calibration &amp; Set Up Riser Angle Monitoring Sensors (12-Apr-12).pdf</filepath>
+        <Paragraphs>1 OBJECTIVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VEHICLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>Printed initials in the approval columns above confirm that the document has been signed and approved. The original signed co py is held  within the Document Controller.         DOCUMENT TITLE:      REMOTE OPERATED VEHICLE VEHICLE (ROV) OPERATIONS MANUAL       DOCUMENT NO:      Company Code   Department   Code   Document </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>APPROVED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIVE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>LIVE TESTING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>4000L60-3026-100-21WATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>4000L60-3026-100-21WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_05-VD FOR  FIRE PROTECTION SYSTEM WATER MIST SYSTEM.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>L648</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>L648</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

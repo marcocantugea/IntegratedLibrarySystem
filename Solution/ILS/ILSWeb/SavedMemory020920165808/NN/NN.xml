@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PERSONNEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PERSONNEL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ONBOARD PERSONNEL MANAGEMENT, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TUNNEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TUNNEL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>TUNNEL 6P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANTENNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANTENNA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  ANTENNA   The GPS antenna is a right</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CALCULATIONNOTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CALCULATIONNOTE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  BALLAST PATTERN CALCULATIONNOTE CALCULATIONNOTE : 1) R.WT: THE CONDITION OF FULL WATER. 4)  :VCG IS OBTAINED FROM "TANK CAPACITY TAB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CALCULATIONNOTE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  BALLAST PATTERN CALCULATIONNOTE CALCULATIONNOTE : 1) R.WT: THE CONDITION OF FULL WATER. 4)  :VCG IS OBTAINED FROM "TANK CAPACITY TAB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANNEXES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANNEXES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\12 Submarino-Subsea\Procedures\PDF\077.PB031 - Calibration &amp; Set Up Riser Angle Monitoring Sensors (12-Apr-12).pdf</filepath>
+        <Paragraphs>6 ANNEXES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONNECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONNECTION</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>CONNECTION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

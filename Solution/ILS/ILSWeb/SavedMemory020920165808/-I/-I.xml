@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FORM-I</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FORM-I</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>=m(from FORM-I line(12) or (19),  to select minimum value.)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FORM-I</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>=m(from FORM-I line(12) or (19),  to select minimum value.)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

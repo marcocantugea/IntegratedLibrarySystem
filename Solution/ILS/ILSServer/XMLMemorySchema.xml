@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dictionary>
+  <item>
+    <key>dictionarykey</key>
+    <value>
+      <collection>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+      </collection>
+      <collection>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+        <itemcol>
+          <word>wordinfile</word>
+          <filepath>C:\file.txt</filepath>
+        </itemcol>
+      </collection>
+    </value>
+  </item>
+</dictionary>

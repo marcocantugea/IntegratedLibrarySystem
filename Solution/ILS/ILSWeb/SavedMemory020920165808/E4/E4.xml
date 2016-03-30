@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>E401</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>E401</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>E401 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRINE4S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRINE4S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BRINE4S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRINE4S</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BRINE4S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

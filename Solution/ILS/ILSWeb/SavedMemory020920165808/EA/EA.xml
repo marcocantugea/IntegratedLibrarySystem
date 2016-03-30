@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SEA BED, SITE CONDITIONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DEAD </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AREAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AREAS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>HAZARDOUS AREAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEATHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SEVERE WEATHER WEATHER PROCEDURES .................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RELEASE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RELEASE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BLOWOUTS &amp; GAS RELEASE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLEAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLEAR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CLEAR SIZE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREATHING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.14   BREATHING AIR SYSTEM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MEASURING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MEASURING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.6.1 MEASURING PRINCIPLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AREA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AREA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>AREA PTZ </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AREA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA AREA m2  FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM_4828539:WP_0000037WP_0000037APCP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NMEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NMEA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  NMEA - 0183   $MWV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEADING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEADING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs> JOYSTICK MANUAL HEADING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLEANING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLEANING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CUTTING CLEANING SHAKER HOUSE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUBSEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUBSEA</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SUBSEA OFF., MUD LAB, POD SERVICE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEAVY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEAVY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS TOILET IN DRILL FLOOR, HEAVY DRILL TOOL STORE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEAMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEAMS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>10.3 EMERGENCY RESPONSE TEAMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GEAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEAR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>TEST GEAR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEAUFORT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEAUFORT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\12 Submarino-Subsea\Instructive\077.IR001 - ROV Operational Instructions (01-Nov-13).pdf</filepath>
+        <Paragraphs> BEAUFORT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLANEADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLANEADO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\61. Coordinador de Sistema de Mantenimiento Planeado.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 6 1 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   C OORDINADOR DE SISTEMA DE  MANTENIMIENTO PLANEADO PLANEADO   REPORTA A   Jefe de Mantenimiento   (Jefe de Ing enier ía)       UNIDAD  OPERACIONAL   LA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

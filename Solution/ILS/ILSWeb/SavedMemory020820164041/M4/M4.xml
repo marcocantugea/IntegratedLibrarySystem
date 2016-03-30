@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>M433</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M433</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M402</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M402</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DA961E002_Z_Stamped.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IM4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IM4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SM4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SM4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LM4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LM4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M415</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M415</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AM420</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AM420</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>20T-M48</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>20T-M48</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

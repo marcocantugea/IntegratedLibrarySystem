@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COORDINATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COORDINATE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>COORDINATE SYSTEM &amp; UNI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOORING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOORING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MOORING SYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAEWOO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  DAEWOO SHIPBUILDING &amp; MARINE  ENGINEERING CO., LTD.      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PONTOON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PONTOON</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>PONTOON</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PONTOON</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  PONTOON LEVEL LOADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>PUMP ROOM 1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.1   SEA WATER COOLING SYSTEM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOOSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOOSE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>9 LOOSE FIREFIGHTING EQUIPMENT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS FWD/PORT ELECTRICAL ROOMS LOW/HIGH VOLT., </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOM224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOM224</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MUD PIT ROOM224</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOOL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOOL</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS WELDING SHOP, FAN ROOM, DRILL TOOL STORE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLOODING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLOODING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DOWN FLOODING ANGLES. THE OIM MUST TAKE APPROPRIATE ACTION(S) TO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLOOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLOOR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  DERRICK/DRILL FLOOR LEVEL LOADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FLOOR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  DERRICK/DRILL FLOOR LEVEL LOADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OORDINADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OORDINADOR</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\61. Coordinador de Sistema de Mantenimiento Planeado.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 6 1 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   C OORDINADOR OORDINADOR DE SISTEMA DE  MANTENIMIENTO PLANEADO   REPORTA A   Jefe de Mantenimiento   (Jefe de Ing </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

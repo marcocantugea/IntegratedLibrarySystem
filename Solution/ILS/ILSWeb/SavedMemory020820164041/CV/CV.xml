@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CVT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CVT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT031 - Movimiento de plataforma en modo PD (11-Abr-12) OK\542.PT031 - Movimiento de plataforma en modo PD (11-Abr-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CVN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CVN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OCV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OCV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CVLAB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CVLAB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cot. VIKING\300314..pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

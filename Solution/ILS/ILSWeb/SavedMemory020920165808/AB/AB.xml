@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  2   TABLE OF CONTENTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>3.1 TANK SUMMARY TABLE TABLE ..............................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALLOWABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALLOWABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MAXIMUM ALLOWABLE KG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STABILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STABILITY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>STABILITY &amp; LOADING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STABILITY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VCGo*=VCGp=VCGo*=VCGp=VCGo*=VCGp=  A PCPCWM_4828539:WP_0000045WP_0000045 APCPCWM_4828539:WP_0000045WP_0000045 APPENDIX D. La Muralla IV -DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STABBING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STABBING</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>INSPECTION / CASING STABBING BASKET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VARIABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VARIABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CHANGING VARIABLE LOADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VARIABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  VARIABLE LOAD EXCEPT BALLAST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONMENT</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EVACUATION, ABANDONMENT PROCEDURES ..............................................................18</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>221STABILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>221STABILITY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Column load above has its own 221STABILITY REPORT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Electro, ABB EH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POTABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POTABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.5   POTABLE WATER SYSTEM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPABILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPABILITY</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>(ON LINE CAPABILITY CALCULATIONS) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PORTABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PORTABLE</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>8.3.8   PORTABLE EQUIPMENT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>501AB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>501AB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>501AB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>510AB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>510AB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>510AB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>520AB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>520AB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>520AB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>551AB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>551AB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>551AB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>561AB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>561AB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>561AB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PABX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PABX</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>side to the use of the outdoor PABX stations which are interfaced to the PAGA thru the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TABLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TABLES</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Important   THE VALUES GIVEN IN THE HYDROSTATIC TABLES IN VOLUME II FOR THE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABBREVI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABBREVI</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>2.2 ABBREVI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVI</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>2.2 ABBREVI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABBREVIATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs> 2.2 ABBREVIATIONS ABBREVIATIONS  Symbol  Description  Unit  S.G(Rho) SPECIFIC GRAVITY t/ m3  RED STEEL REDUCTION %  VN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs> 2.2 ABBREVIATIONS ABBREVIATIONS  Symbol  Description  Unit  S.G(Rho) SPECIFIC GRAVITY t/ m3  RED STEEL REDUCTION %  VN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>Printed initials in the approval columns above confirm that the document has been signed and approved. The original signed co py is held  within the Document Controller.         DOCUMENT TITLE:      REMOTE OPERATED VEHICLE (ROV) OPERATIONS MANUAL       DOCUMENT NO:      Company Code   Department   Code   Document Code   Sequence No   KS   R   MA   001                                                             Robert Black         Dr Jean. Yves         Kurush Cont r actor   3   31 - Mar - 1 2   Issue for Use   ROV Manager   QHSE Director   CEO   Rev   Date   Issue Type   Prepared By:   Reviewed By:   Approved By:        MANUAL     Page  2   of  46   Revision No: 3         This document  is a property of  Kreuz Subsea. Its reproduction and / or distribution to third  parties are not permitted without prior approval  from the Kreuz Subsea Management     REVISION   SHEET   Revision   Date   Description of Cha n ge   1   0 8 - Mar - 1 0   First issue   2   03 - Mar - 12   Revise page 5,8 - 9,11,14 - 16,19,22,31 - 38   3   31 - Mar - 12   Add Section 18                                                                                                                                                                  MANUAL     Page  3   of  46   Revision No: 3         This document  is a property of  Kreuz Subsea. Its reproduction and / or distribution to third  parties are not permitted without prior approval  from the Kreuz Subsea Management     Table of Contents   1.   PURPOSE   ................................ ................................ ................................ ................................ ....................   7   2.   SCOPE   ................................ ................................ ................................ ................................ .........................   7   2.1   Objectives   ................................ ................................ ................................ ................................ ...........   7   2.2   Quality, Health, Safety and Environment Commitment   ................................ ................................ .   7   3.   REFERENCE   ................................ ................................ ................................ ................................ ...............   8   4.   RESPONSIBILITIES   ................................ ................................ ................................ ................................ ....   9   4.1   Office Based Personnel   ................................ ................................ ................................ ....................   9   4. 1.1.   VP Operations   ................................ ................................ ................................ ............................   9   4.1.2.   QHSE Director   ................................ ................................ ................................ ............................   9   4.1.3.   Contract Managers   ................................ ................................ ................................ ....................   9   4.1.4.   ROV Operations Manager   ................................ ................................ ................................ .........   9   4.2   Offshore Based Personnel   ................................ ................................ ................................ .............   10   4.2.1.   Senior Supervisors   ................................ ................................ ................................ ..................   10   4.2.2.   Supervisors   ................................ ................................ ................................ ..............................   10   4.2.3.   ROV   Sub Engineer   ................................ ................................ ................................ ...................   10   4.2.4.   Pilot / Technician ................................ ................................ ................................ ......................   10   5.   ABBREVIATIONS ABBREVIATIONS   ................................ ................................ ..................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESPONSABILIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\062.FH13 Descripcion Puesto.pdf</filepath>
+        <Paragraphs>      RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD          AUTORIDAD REQUIRENTE       DESCRIPCI323N GENERAL DE ACTIVIDADES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\2. Segundo Ingeniero.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              (2)   CATEGORIA   REV.   FECHA   MANTENIMIENTO   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   SEGUNDO INGENIERO   REPORTA A   Primer   Ingeniero   (Supervisor Mec ánico)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o  práctico   EXPERIENCIA   2   año s   IDIOMA   Español /  Inglés   EDAD   35 a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      Asistir al  Primer ingeniero (Supervisor Mec ánico)   en la realiza</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\22. Electrico.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 22 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   ELECTRIC O   REPORTA A   Supervisor Eléctrico       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o  práctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   3 5 a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El Electricista   es responsable de asegurar el mantenimiento, servici</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\35. Mecanico.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 35 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   MECÁNICO   REPORTA A   Jefe de Ma ntenimiento   (Jefe de Ingenier ía)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o  práctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   3 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      Los  Mecánicos son responsables del aseguramiento de la integridad </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\38. Motorista.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 3 8 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   M OTORISTA   REPORTA A   Tercer Ingeniero       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o  práctico   EXPERIENCIA   2   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0  años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El Motorista es responsable de la ejecución segura y correcta de la</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\49. Soldador Especialista.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 49 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   SOLDADOR ESPECIALISTA   REPORTA A   Jefe de Mantenimiento   (Jefe de Ingenier ía)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   P ráctico   EXPERIENCIA   3   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El  Soldador Especialista es   responsable del mantenimiento preven</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\51. Primer Ingeniero (Supervisor Mecanico).pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 51 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   PRIMER INGENIERO   ( SUPERVISOR MEC ÁNICO )   REPORTA A   Jefe de Mantenimiento   ( Jefe de Ingenier ía)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero, Técnico o  P ráctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El Supervisor Mecánico  asistirá al Jefe de mantenimiento   en la real</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\55. Supervisor Electrico.pdf</filepath>
+        <Paragraphs>  Espa361ol /  Ingl351s   EDAD   2 5   a 6 0 a361os   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El Supervisor El351ctrico es responsable de asegurar el mantenimien</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\60. Tecnico Informatico.pdf</filepath>
+        <Paragraphs>  2 5   a 6 0 a361os   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD     Los de inform341tica funcionan de manera correcta son responsables d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\61. Coordinador de Sistema de Mantenimiento Planeado.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 6 1 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   C OORDINADOR DE SISTEMA DE  MANTENIMIENTO PLANEADO   REPORTA A   Jefe de Mantenimiento   (Jefe de Ing enier ía)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero, Técnico o  P ráctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   La tarea principal del  coordinador de mantenimiento planeado   es adm</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\63. Tecnico Hidraulico.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 6 3 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   T É C N IC O   HIDRÁULICO   REPORTA A   Jefe de Mantenimiento   ( Jefe de Ingenier ía)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero, Técnico o  P ráctico   EXPERIENCIA   2   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El  Hidráulico   es responsable de la ejecución segura de las activ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\64. Tecnico Electronico Instrumentista.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 6 4 )   CATEGORIA   REV.   FECHA   MANTENIMIENTO   01   05 - Apr - 12         062.FH13                                                                                                                  1   /  4                                                                                                                       REV.01   CARGO   T ÉCNICO  ELECTRÓNICO  INSTRUMENTISTA   REPORTA A   J efe de Mantenimiento   (Jefe de Ingenier ía)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero, Técnico o  P ráctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   3 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUT ORIDAD   El  Electrónico Instrumentista   asesora al Supervisor Eléctrico en l</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\1. Jefe de Oficiales ( Auxiliar de Estabilidad).pdf</filepath>
+        <Paragraphs>  3 5   a 6 0 a361os   OTRA       RESPONSABILIDAD Y AUTORIDAD  El </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\14. Ayudante de Especialista Gruero.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 1 4 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                   1   /  3                                                                                                                       REV.01   CARGO   A YUDANTE  DE ESPECIALISTA  GRUERO   REPORTA A   Operario Especialista Gruero       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o práctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y A UTORIDAD   El  Ayudante  de Especialista  Gruero   es responsable de la ejecució</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\16. Bombero.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 1 6 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   BOMBERO   REPORTA A   T écnico para la Recepci ón y Despacho de  Combustible       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o práctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   3 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      Los  Bomberos son responsables del manejo de los equipos de contrai</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\19. Contramaestre.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 1 9 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   CONTRAMAESTRE   REPORTA A   Capitán /  OIM         UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o  práctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El Contramaestre se asegurará de que las actividades se lleven a cabo </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\21. Tecnico para la Recepción y Despacho de Combustible.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 21 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   TÉCNICO  PARA LA RECEPCI ÓN Y  DESPACH O   DE COMBUSTIBLE   REPORTA A   O ficial de Operaciones del Helipuerto       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El  Téc nico   para la Recepci ón y Despacho   de Combustible  es  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\29. Capitan.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 2 9 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                   1   /  3                                                                                                                       REV.01   CARGO   CAPITÁN / OIM /    REPORTA A   Gerente de Proyecto   Representante del Proveedor en Tierra       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   30   a 6 0 años   O TRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El Capitán/ OIM   tiene la más alta autoridad mientras la unidad se en</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\32. Supervisor Especialista en Seguridad y Salud en el Trabajo.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 32 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  3                                                                                                                        REV.01   CARGO   SUPERVISOR ESPECIALISTA EN  SEGURIDAD Y SALUD EN EL  TRABAJO   REPORTA A   Capitán/ OIM       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   25   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   La seguridad es una responsabilidad en línea;   esto significa que cua</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\34. Marinero.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 3 4 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   MARINERO   REPORTA A   Cont ramaestre       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o práctico   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   3 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      Los marineros son responsables de la limpieza mantenimiento e inspe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\37. Medico.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 3 7 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   M EDICO   REPORTA A   C apitán / OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Licenciatura   EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El Médico es responsable de prestar servicios médicos de acuerdo co</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\39. Oficial de Proteccion de Buque.pdf</filepath>
+        <Paragraphs>               DESCRIPCION DE PUESTO              ( 3 9 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  2                                                                                                                        REV.01   CARGO   OFICIAL DE PROTECCION DE  BUQUE   REPORTA A   Capitán / OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero, Té cnico o Practico     EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUT ORIDAD      Los O ficia les de Protección de B uque (OPB)  son responsables de</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\40. Oficial de Operaciones del Helipuerto.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 40 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                   1   /  2                                                                                                                       REV.01   CARGO   OFICIAL DE  OPERACIONES DEL  HELIPUERTO   (HLO)   REPORTA A   Capitán / OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Té cnico o Practico     EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   3 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El  O ficial   de Operaciones del Helipuerto (   HLO ),   son respo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\41. Operador de Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 41 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   O PERADOR DE POSICIONAMIENTO  DINAMICO    REPORTA A   Especialista en Posicionamiento Dinámico       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Té cnico o Practico     EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El  Operador de Posicionamiento Din ámico   es responsable de mantener</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\46. Radio Operador.pdf</filepath>
+        <Paragraphs>              DESCRIPCION  DE PUESTO              ( 4 6 )   CATEGORIA   REV.   FECHA   MARINA   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   RADIO OPERADOR   REPORTA A   Capitán /OIM / Jefe de Estabilidad       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Té cnico o Practico     EXPERIENCIA   1   año   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El  Radio Operador   es responsable de operar el equipo de comunicacio</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\27. Interprete.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              (27)   CATEGORIA   REV.   FECHA   PERFORACION   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   INTERPRETE   REPORTA A   Superintendente de la Plataforma   Representante del Proveedor       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Técnico o práctico   EXPERIENCIA   1  año   IDIOMA   Español /  Inglés   EDAD   35 a  6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      Los  intérpretes   son responsables de la comunicación entre la lín</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\42. Operador de ROV.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 42 )   CATEGORIA   REV.   FECHA   PERFORACION   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   OPERADOR DE ROV   REPORTA A   Supervisor de ROV       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   2   año s   IDIOMA   Español /  Inglés   EDAD   2 5 a  6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      Los operadores del ROV puede ser capaz de llevar a cabo las tareas </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\54. Supervisor de ROV.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 5 4 )   CATEGORIA   REV.   FECHA   PERFORACION   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  4                                                                                                                       REV.01   CARGO   SUPER VISOR DE ROV   REPORTA A   Superintendente de  Plataforma   Representante del Proveedor       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   2   año s   IDIOMA   Español /  Inglés   EDAD   25   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El Supervisor de ROV Costa Fuera tiene la responsabilidad de la sal</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\57. Tecnico de ROV.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 5 7 )   CATEGORIA   REV.   FECHA   PERFORACION   0 1   0 6 - Mar - 1 3         062.FH13                                                                                                                  1   /  2                                                                                                                       REV.01   CARGO   TÉCNICO   DE ROV   REPORTA A   O perador de ROV       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   2   año s   IDIOMA   Español /  Inglés   EDAD   25   a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD      El Técnico de ROV tiene la responsabilidad primaria de pilotear el </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESPONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\6. Ayudante de Perforador (Segundo).pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              (6 )   CATEGORIA   REV.   FECHA   PERFORACION   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  3                                                                                                                       REV.01   CARGO   AYUDANTE DE PERFORADOR  ( SEGUNDO )   REPORTA A   Perforador       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   35 a 6 0 años   OTRA       RESPONSABILIDAD RESPONSABILIDAD Y AUTORIDAD   El Ayudante del Perforador / Segundo es responsable de la operación se</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESPONSABILI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESPONSABILI</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\23. Especialista en Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 2 3 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                   1   /  3                                                                                                                       REV.01   CARGO   ESPECIALISTA EN  POSICIONAMIENTO DINAMICO   REPORTA A   Capitán / OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero,  Técnico o práctico   EXPERIENCIA   5   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESPONSABILI RESPONSABILI DAD Y AUTORIDAD   El Especialista en Posicionamiento Dinamico es responsable de mantene</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRABAJO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRABAJO</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\32. Supervisor Especialista en Seguridad y Salud en el Trabajo.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 32 )   CATEGORIA   REV.   FECHA   MARINA   01   06 - Mar - 13         062.FH13                                                                                                                  1   /  3                                                                                                                        REV.01   CARGO   SUPERVISOR ESPECIALISTA EN  SEGURIDAD Y SALUD EN EL  TRABAJO TRABAJO   REPORTA A   Capitán/ OIM       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ONSABILIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ONSABILIDAD</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\43. Operario Especialista Gruero.pdf</filepath>
+        <Paragraphs>              DESCRIPCION DE PUESTO              ( 4 3 )   CATEGORIA   REV.   FECHA   MARINA   0 1   06 - Mar - 13         062.FH13                                                                                                                   1   /  3                                                                                                                       REV.01   CARGO   OPERA RIO ESPECIALISTA  GRUERO   REPORTA A   Jefe de Oficiales (Auxiliar de Estabilidad)       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Té cnico o Practico     EXPERIENCIA   3   año s   IDIOMA   Español /  Inglés   EDAD   2 5   a 6 0 años   OTRA       RESP ONSABILIDAD ONSABILIDAD Y AUTORIDAD   Durante su turno, el  Operario   Especialista Gruero   está a cargo de la </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

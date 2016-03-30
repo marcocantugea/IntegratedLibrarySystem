@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>S9DOUBLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>S9DOUBLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>S972</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>S972</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>S973</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>S973</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

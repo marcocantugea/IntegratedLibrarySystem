@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LIQUID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIQUID</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>TRANSFER AND HANDLING OF LIQUID MUD...............................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIQUID</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>LIQUID MUD SUBTOTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIQ</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  LIQ MUD  TANK  ROOM 34P   8</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

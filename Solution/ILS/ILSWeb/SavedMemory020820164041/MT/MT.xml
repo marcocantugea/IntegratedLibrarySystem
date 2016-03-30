@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MTC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT042 - Encendido y paro de propulsores. (11-Abr-12) OK\542.PT042 - Encendido y paro de propulsores (thrusters) (20-Ago-14)Editable CORREGIDO.docx</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT042 - Encendido y paro de propulsores. (11-Abr-12) OK\542.PT042 - Encendido y paro de propulsores.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT065 - Implementación sistema de transceptores acústicos (11-Abr-12).docx</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MT6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MT6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MT6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MT6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MT3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MT3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3026DV815M326_W2-VD FOR FIRE PROTECTION SYSTEM  INERGEN SYSTEM.pdf</filepath>
+      </itemcol>
+      <itemcol>
+        <word>MT3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\H3026 INERGEN SYSTEM for AS BUILT_REV Z (2 OF 2).pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MT8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MT8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\dpo\inergen\3027DV815M326(INERGEN SYSTEM)_Z.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DISCHARGELINECOULDFREEZEANDPREVENTDISCHARGEFROMTHE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DISCHARGELINECOULDFREEZEANDPREVENTDISCHARGEFROMTHE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XMTR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XMTR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\enviromental.officer\00- Pre arranque\Manual and manufacturing certificates Mud pump pop off valves\1599561-01, 1599562-01, 1599564-01, 1619411-01.pdf</filepath>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

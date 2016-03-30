@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  is the longitudinal moment of the load taken about a vertical plane through  midship (fore moment is +, aft moment is  - ).   TCG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ENT (with STEEL REDUCTION) m3  VOLM MOULDED VOLUME OF COMPARTMENT m3  LCG LONGITUDINAL CENTER OF GRAVITY FROM ORIGIN POINT m  TCG TCG TRANSVERSE CENTER OF GRAVITY FROM CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TCB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  TCB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCB</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  3   C.3 Hydrostatic Table Draft   Displ LCB TCB VCB WPA LCF   TPcm MTcm KML KMT  (m) (ton) (m) (m) (m) (m2) (m) (ton/cm)   (ton-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KMLTCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KMLTCG</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>KMLTCG 226 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TCF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCF</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>N.B. TCF is generally zero due to port/stbd. symmetry.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MTC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MTC</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>4 off WSnn MTC 001 XXX -</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWITCHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWITCHER</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SWITCHER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RTCM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RTCM</word>
+        <filepath>F:\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>RTCM and NMEA. The LD2 is exceptionally flexible and in </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>
