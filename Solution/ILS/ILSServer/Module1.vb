@@ -254,43 +254,14 @@ Module Module1
                 doprogram = False
             End If
 
+            If command.Contains("resizephotos") Then
+                Console.WriteLine("Resizing Photos .........")
+                Console.Write("Total Of Photos resized.......:")
+                o_commands.reziseJPG(l_filesfound)
+                Console.WriteLine("")
+                Console.WriteLine("Resizing Process Finished")
+            End If
 
-            'If command.Contains("testTextFile") Then
-            '    Dim o_t As New ILSCore.ilscore.lib.file.OpenerTextFile
-            '    Dim o_c As New ILSCore.ilscore.lib.entities.DictionaryWords
-
-            '    o_t.OpenerTextFile(o_c, "C:\WINDOWS\setuplog.txt")
-
-            '    For Each item As KeyValuePair(Of String, WordFileCollection) In o_c.WordsCollected
-            '        Console.WriteLine("Word -- " & item.Key)
-            '        Dim v_item As WordFileCollection = item.Value
-            '        If v_item.Count > 0 Then
-            '            'For Each sitem As WordFile In v_item.Items
-            '            'Console.WriteLine("       word= " & sitem.Word)
-            '            'Next
-            '        End If
-            '    Next
-
-            'End If
-
-            'If command.Contains("testDocFile") Then
-            '    Dim o_t As New ILSCore.ilscore.lib.file.OpenerWordFile
-            '    Dim o_c As New ILSCore.ilscore.lib.entities.DictionaryWords
-
-            '    o_t.OpenerWordFile(o_c, "C:\Documents and Settings\Administrator\Desktop\anexo S.doc")
-
-
-            '    For Each item As KeyValuePair(Of String, WordFileCollection) In o_c.WordsCollected
-            '        Console.WriteLine("Word -- " & item.Key)
-            '        Dim v_item As WordFileCollection = item.Value
-            '        If v_item.Count > 0 Then
-            '            'For Each sitem As WordFile In v_item.Items
-            '            'Console.WriteLine("       word= " & sitem.Word)
-            '            'Next
-            '        End If
-            '    Next
-            '    Console.WriteLine(o_c.WordsCollected.Count)
-            'End If
 
         End While
     End Sub

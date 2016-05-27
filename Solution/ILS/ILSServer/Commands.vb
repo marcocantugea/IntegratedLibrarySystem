@@ -151,5 +151,64 @@ Namespace ilsserver.server
             End Try
         End Sub
 
+
+        Public Sub reziseJPG(ByVal FilesCollected As FileShowedCollection)
+            Dim _itemsaved As Integer = 0
+            Console.Write(TotalofPhotos(FilesCollected) & " / ")
+            For Each item As FileShowed In FilesCollected.Items
+                If item.GetExtention.ToString.ToLower = ".jpg" And (item.SizeFile / 1024) > 999 Then
+                    Try
+                        Dim new_filename As String = item.GetFullActualPath.Replace(item.GetExtention.ToString, "-r" & item.GetExtention)
+                        Dim ImageResizer As New ILSCore.ilscore.lib.file.ImageResizer
+                        ImageResizer.ResizeImage(item.GetFullActualPath, new_filename, 0.5)
+                        _itemsaved += 1
+                        Dim backup_path As String = ConfigurationManager.AppSettings("BackupPathPhotos") & item.GetFullActualPath.Remove(0, 2)
+                        If Not System.IO.Directory.Exists(Path.GetDirectoryName(backup_path)) Then
+                            System.IO.Directory.CreateDirectory(Path.GetDirectoryName(backup_path))
+                        End If
+                        File.Move(item.GetFullActualPath, backup_path)
+
+                        Console.Write("")
+                        Console.SetCursorPosition(Console.CursorLeft, Console.CursorTop)
+                        Console.Write(_itemsaved)
+
+                        If _itemsaved > 0 And _itemsaved <= 9 Then
+                            Console.SetCursorPosition(Console.CursorLeft - 1, Console.CursorTop)
+                        End If
+
+                        If _itemsaved > 9 And _itemsaved <= 99 Then
+                            Console.SetCursorPosition(Console.CursorLeft - 2, Console.CursorTop)
+                        End If
+                        If _itemsaved > 99 And _itemsaved <= 999 Then
+                            Console.SetCursorPosition(Console.CursorLeft - 3, Console.CursorTop)
+                        End If
+                        If _itemsaved > 999 And _itemsaved <= 9999 Then
+                            Console.SetCursorPosition(Console.CursorLeft - 4, Console.CursorTop)
+                        End If
+                        If _itemsaved > 9999 And _itemsaved <= 99999 Then
+                            Console.SetCursorPosition(Console.CursorLeft - 5, Console.CursorTop)
+                        End If
+                        If _itemsaved > 99999 And _itemsaved <= 999999 Then
+                            Console.SetCursorPosition(Console.CursorLeft - 6, Console.CursorTop)
+                        End If
+                    Catch ex As Exception
+                        Console.WriteLine("Error on file " & item.GetFullActualPath & " Error: " & ex.Message.ToString)
+                    End Try
+
+
+                End If
+            Next
+        End Sub
+
+        Public Function TotalofPhotos(ByVal FilesCollected As FileShowedCollection) As Integer
+            Dim total As Integer = 0
+            For Each item As FileShowed In FilesCollected.Items
+                If item.GetExtention.ToString.ToLower = ".jpg" And (item.SizeFile / 1024) > 999 Then
+                    total += 1
+                End If
+            Next
+            Return total
+        End Function
+
     End Class
 End Namespace
