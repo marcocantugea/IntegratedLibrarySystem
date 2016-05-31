@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SPEEDLOGPlants</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDLOGPlants</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>SPEEDLOGPlants</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\11 ABRIL 2014 POPA BABOR L-D.pdf</filepath>
+        <Paragraphs>DUCTO DE AIRE ABANDONADO (SALIDA EDL CUARTO DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEDLINERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEDLINERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs> Antiderrapante. LOS BEDLINERS DURALINER, EST301N DISE321ADOS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDLOPLFJLNLINHPCGPGJPFBDLEODDELJILNIBMFENMDEKHJMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDLOPLFJLNLINHPCGPGJPFBDLEODDELJILNIBMFENMDEKHJMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>EDLOPLFJLNLINHPCGPGJPFBDLEODDELJILNIBMFENMDEKHJMA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLOUREDLIQUID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLOUREDLIQUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5.pdf</filepath>
+        <Paragraphs>HT BROWN TO TAN COLOUREDLIQUID Solubility  water  INSOLUBLE Odour MILD HYDROCARBON ODOUR Specific Gravity      to      pH NOT AVAILABLE   Volatiles NO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COLOUREDLIQUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5_001.pdf</filepath>
+        <Paragraphs>HT BROWN TO TAN COLOUREDLIQUID Solubility  water  INSOLUBLE Odour MILD HYDROCARBON ODOUR Specific Gravity      to      pH NOT AVAILABLE   Volatiles NO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEEDLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEEDLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>NEEDLE VALVES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

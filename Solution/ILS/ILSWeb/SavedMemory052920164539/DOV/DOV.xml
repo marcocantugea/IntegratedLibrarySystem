@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HANDOVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDOVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L09 Reporte de Cambio de Turno - Shift Handover Report (11-Abr-12).doc</filepath>
+        <Paragraphs>E TURNO   SHIFT HANDOVER REPORT       MGT   L                                                                                    PAGE     of   NUMPAGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HANDOVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08.L09 Reporte de Cambio de Turno - Shift Handover Report (14-Ago-13).doc</filepath>
+        <Paragraphs>E TURNO   SHIFT HANDOVER REPORT     MGT   L                                                                                    PAGE     of   NUMPAGES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HANDOVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L09 SHIFT HANDOVER REPORT.doc</filepath>
+        <Paragraphs>          SHIFT HANDOVER REPORT   REPORTE DE CAMBIO DE TURNO     MGT   L                                                                              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

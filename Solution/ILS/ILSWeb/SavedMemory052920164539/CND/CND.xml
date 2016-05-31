@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CNDCT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CNDCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>CNDCT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CNDTR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CNDTR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>CNDTR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

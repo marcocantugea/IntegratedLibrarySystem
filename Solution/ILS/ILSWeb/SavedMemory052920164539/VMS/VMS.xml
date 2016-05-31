@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>e duty Watch Engineer or VMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>agement system  VMS               RADIO  NAVIGATION    POSITIONING SYSTEMS                Radio  navigation    positioning equipment              CLOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT014 - Panel de control de lastre -sentina de emergencia (11-Abr-12).docx</filepath>
+        <Paragraphs>rol del sistema VMS y mantenimiento rutinario          Alcance         Este procedimiento aplica para las operaciones de lastrado de emergencia al mis</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT021 - Descarga a granel de los silos de columna (11-Abr-12).docx</filepath>
+        <Paragraphs>earse usando el VMS de la MODU  El venteo del tanque debe monitorearse de cerca para asegurar tasas de transferencia de producto eficientes  Un venteo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>711AVMSB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>711AVMSB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>permiten sujetar el tapete al piso. 711AVMSB FLOOR MAT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>711AVMST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>711AVMST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>711AVMST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>711AVMSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>711AVMSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>711AVMSG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

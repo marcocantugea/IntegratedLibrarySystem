@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FNTX-S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FNTX-S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>2 FNTX-S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FNTX-B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FNTX-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>4FNMTXS4FNMTXSS4 FNTX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FNTX-S14FNMTXSS14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FNTX-S14FNMTXSS14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>14 FNTX-S14FNMTXSS14 FNTX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

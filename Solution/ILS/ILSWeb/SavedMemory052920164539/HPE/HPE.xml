@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>6HSWHPEHU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>6HSWHPEHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\Manuals\AMOS2 Suite vrs. 6.4.00 Getting Started Guide.pdf</filepath>
+        <Paragraphs> $026 (QWHUSULVH 0DQDJHPHQW 6XLWH 9HUVLRQ  *HWWLQJ 6WDUWHG *XLGH 5HYLVLRQ  6HSWHPEHU      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>6HSWHPEHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\Manuals\AMOS2 Suite vrs. 6.4.00 Installation Guide.pdf</filepath>
+        <Paragraphs> $026 (QWHUSULVH 0DQDJHPHQW 6XLWH 9HUVLRQ  ,QVWDOODWLRQ *XLGH 5HYLVLRQ  6HSWHPEHU      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>6HSWHPEHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\Manuals\AMOS2 Suite Vrs. 6.4.00 MMP User Guide.pdf</filepath>
+        <Paragraphs> $026 (QWHUSULVH 0DQDJHPHQW 6XLWH 9HUVLRQ  00t38VHU *XLGH 5HYLVLRQ  6HSWHPEHU         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\0602-30-sp_tabcascosacces.pdf</filepath>
+        <Paragraphs> Sound Control  HPE para casco tipo cachucha ranurada          Orejeras Sound Control EXC para casco tipo cachucha ranurada          Orejeras Sound Co</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>HPE Cap Models..............................................................138</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs> HPE Tipo Diadema (NRR-26dB), Peso 266gr.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HPE HELMET </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>addition the HPE and EXC Lines are equipped with the pat-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CascoHPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CascoHPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>   P/N 10087421  Alto Blanco       Left/Right BandaP/N 10087424  Alto Blanco      (NRR 28)Left/Right Montado al CascoHPE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPEHearing</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPEHearing</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>HPEHearing Protection [Passive Ear Muffs] 86 I Product Name Product Range  PageIndividual RequirementsService &amp; Workshop Solutions [MSA Service] 131</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPEThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPEThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>Gard helmetsEXC HPEThe HPE ear muffs have been designed to offer protection against very</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOR22010HPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOR22010HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>f    pcs pairs  SOR     HPE headband SOR     HPE helmet mounted  SOR     Hygiene kit HPE Leaflet         Fits V Gard helmetsHPE    Hearing Protection </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOR12012HPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOR12012HPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>   HPE headband SOR     HPE helmet mounted  SOR     Hygiene kit HPE Leaflet         Fits V Gard helmetsHPE    Hearing Protection  Electronic Ear Muffs</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>helmetsHPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>helmetsHPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>    Fits V Gard helmetsHPE    Hearing Protection  Electronic Ear Muffs   Electronic Ear Muffs  Improved Communication  Reduced Isolation  Increased Sa</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

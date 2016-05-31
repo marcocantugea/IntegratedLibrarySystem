@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ADJACENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADJACENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ADJACENT VESSEL PROCEDURES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ADJACENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ES              ADJACENT VESSEL PROCEDURES                General                Transfer Hose Handling                Loading Stations               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ADJACENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>LINE ADJACENT TO ANNULAR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

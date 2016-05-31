@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FGHPOWERCONSUMPTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FGHPOWERCONSUMPTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FGHPOWERCONSUMPTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WASHPOT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WASHPOT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A206POT WASHPOT WASH A206TWEEN DECK3026DA961E014F457TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

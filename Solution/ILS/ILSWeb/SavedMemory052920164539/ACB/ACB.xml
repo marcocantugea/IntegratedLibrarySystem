@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ACB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>The ACB breakers for the incomers and ties, the MCC feeder breakers, and the feeder </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ly open     The ACB breakers for the incomers and ties  the MCC feeder breakers  and the feeder breakers for the    V and    V switchboards are provid</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACBs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACBs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Normally, all ACBs will already be open (by undervoltage) but MCCB will still be closed </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACBs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>  Normally  all ACBs will already be open  by undervoltage  but MCCB will still be closed which could lead to dead ship generator overload if they are</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>216ABACBBBBCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>216ABACBBBBCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>216ABACBBBBCC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>216ABACBBBBCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>216ABACBBBBCC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>508ABACBABBBCCCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>508ABACBABBBCCCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>508ABACBABBBCCCA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>508ABACBABBBCCCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>508ABACBABBBCCCA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRHE-ACBurnerHigh</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRHE-ACBurnerHigh</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>BRHE-ACBurnerHigh</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

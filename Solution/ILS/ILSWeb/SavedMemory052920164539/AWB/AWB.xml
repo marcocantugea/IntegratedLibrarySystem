@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AWB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI - BALANCE.pdf</filepath>
+        <Paragraphs>       EXPORT AWB OR SUB-CERT IS NEEDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI.pdf</filepath>
+        <Paragraphs>       EXPORT AWB OR SUB-CERT IS NEEDED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

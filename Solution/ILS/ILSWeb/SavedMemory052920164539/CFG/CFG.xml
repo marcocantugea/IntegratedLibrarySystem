@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CFGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CFGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\House-and-Siding-Pressure-Wash-Concentrate-Spanish-MSDS-ZUVWS.pdf</filepath>
+        <Paragraphs>   E rbb        CFGE     t    b   n b b b     nb bbnb n  b fG n  nnnb b   b    nfrb bHb   bnbb  f t b  b bI   bf  b   t bb b b  b fJ   n n b bf nb n n</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeG06ZLLCFG06ZLCFG06ZSCF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeG06ZLLCFG06ZLCFG06ZSCF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>LLLS Example of order codeG06ZLLCFG06ZLCFG06ZSCF Designvery LightLightHeavy</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFGZ16SCFNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFGZ16SCFNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGZ16SCFNBR Steel, zinc yellow platedA3CGZ16SA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFGEO16SMOMDCFNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFGEO16SMOMDCFNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGEO16SMOMDCFNBR Steel, zinc yellow platedA3CGEO16SMOMDA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFGE16SMEDOMDCFNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFGE16SMEDOMDCFNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGE16SMEDOMDCFNBR Steel, zinc yellow platedA3CGE16SMEDOMDA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFGE18LREDOMDCFNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFGE18LREDOMDCFNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGE18LREDOMDCFNBR Stahl, zinc yellow platedA3CGE18LREDOMDA3CNBR Stainless Steel71GE18LREDOMD71VIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFGE16SREDOMDCFNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFGE16SREDOMDCFNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGE16SREDOMDCFNBR Stahl, zinc yellow platedA3CGE16SREDOMDA3CNBR Stainless Steel71GE16SREDOMD71VIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

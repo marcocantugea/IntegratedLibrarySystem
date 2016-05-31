@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GFDU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFDU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>    - GFDU  running working properlyl</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FDUULDJH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FDUULDJH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ WKH WH W  I WKH WH W FRQWDLQV QR EODQN OLQHV </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FDUULDJH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ WKH WH W  I WKH WH W FRQWDLQV QR EODQN OLQHV </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SFJGROUPSYSTEMMAY9115</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFJGROUPSYSTEMMAY9115</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>trimming142 SFJGROUPSYSTEMMAY9115</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>278 SFIGROUPSYSTEMMAY 91 2.14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>etc.)761 SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KLEMME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KLEMME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>KLEMME   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMMENCEMMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMMENCEMMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\02 Reporte viaje MIRUS-1 to EXPLORATUS-1DL\19-07-15\(01) Start Voyage Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>       hours LT COMMENCEMMENT OF PASSAGE       Latitud Latitud                     N    Longitud Longitud                      W      Run     hours NM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

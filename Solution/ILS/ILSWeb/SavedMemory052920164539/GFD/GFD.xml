@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GFD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>- GFD running properly.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GFD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>3. Test Megacon GFD trips. Confirm readings. Using the test button in the GFD Unit, the system shall audible alarm when the</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFDU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFDU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>    - GFDU  running working properlyl</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

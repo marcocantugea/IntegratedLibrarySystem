@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HTC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Schaeffer Oil #112 HTC @ 158260F max</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEIGHTCIRCULATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEIGHTCIRCULATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>PRESSUREWAIT &amp; WEIGHTCIRCULATING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

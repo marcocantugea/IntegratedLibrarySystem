@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BOATSWAINS-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOATSWAINS-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BOATSWAINS-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOATSWAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOATSWAIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BOATSWAIN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA100MM5KG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA100MM5KG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-017.pdf</filepath>
+        <Paragraphs> cover weight   SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs    SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA100MM13KG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA100MM13KG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-017.pdf</filepath>
+        <Paragraphs>         kgs    SWA   MM  KG      mm      kgs    SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs    SWA   MM KG      mm         kgs  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA200MM5KG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA200MM5KG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-017.pdf</filepath>
+        <Paragraphs> mm      kgs    SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs    SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA200MM13KG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA200MM13KG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-017.pdf</filepath>
+        <Paragraphs>         kgs    SWA   MM  KG      mm      kgs    SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs    SWA   MM    KG           mm      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA300MM5KG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA300MM5KG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-017.pdf</filepath>
+        <Paragraphs> mm      kgs    SWA   MM KG      mm         kgs    SWA   MM  KG      mm      kgs    SWA   MM    KG           mm        kgs      G G G  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA300MM13KG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA300MM13KG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-017.pdf</filepath>
+        <Paragraphs>         kgs    SWA   MM  KG      mm      kgs    SWA   MM    KG           mm        kgs      G G G  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLKSWAGEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLKSWAGEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>VOLKSWAGEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs> PITCH   ROLL   SWAY   STERN   Vessel Axis Definition   YAW   BOW   STARBOARD   PORT   STERN          Grupo   R   La Muralla Exploratus    DL Drilling</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWACO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWACO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>r Type       Mi SWACO     Gas discharge line ID              Gas discharge location  primary         Foot Above the Crown    Mud seal height          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>orthylon C SWA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-dry-lube-drip-oil-ghs-sds.pdf</filepath>
+        <Paragraphs>el unwell    IF SWA LLOWED  Immediately call a POISON CENTER  or doctor      Do NOT induce vomiting    In case of fire   Use  water fog  dry chemical </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-18.pdf</filepath>
+        <Paragraphs>dium Persulfate SWA  AUS                mg m   No biological limit allocated  Biological Limits EngineeringControls Avoid inhalation  Use in well vent</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-18_001.pdf</filepath>
+        <Paragraphs>dium Persulfate SWA  AUS                mg m   No biological limit allocated  Biological Limits EngineeringControls Avoid inhalation  Use in well vent</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-10.pdf</filepath>
+        <Paragraphs>Oxybis ethanol  SWA  AUS     ppm           mg m   Ethylene glycol  vapour  SWA  AUS     ppm       ppm       mg m mg m   Sodium hydroxide  peak limitat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-10_001.pdf</filepath>
+        <Paragraphs>Oxybis ethanol  SWA  AUS     ppm           mg m   Ethylene glycol  vapour  SWA  AUS     ppm       ppm       mg m mg m   Sodium hydroxide  peak limitat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-32.pdf</filepath>
+        <Paragraphs>nce Boron oxide SWA  AUS              mg m   Methanol SWA  AUS      ppm         ppm       mg m mg m   Ingredient Reference SamplingTime Determinant BE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-32_001.pdf</filepath>
+        <Paragraphs>nce Boron oxide SWA  AUS              mg m   Methanol SWA  AUS      ppm         ppm       mg m mg m   Ingredient Reference SamplingTime Determinant BE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-MSDS - Soda Ash - Rheochem.pdf</filepath>
+        <Paragraphs>te  total dust  SWA  AUS        mg m        No biological limit allocated  Biological Limits EngineeringControls Avoid inhalation  Use in well ventila</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-MSDS - Sodium Bicarbonate - Rheochem.pdf</filepath>
+        <Paragraphs>TE  total dust  SWA  AUS        mg m        No biological limit allocated  Biological Limits EngineeringControls Avoid inhalation  Use in well ventila</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWALLOWED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>T AID MEASURES  SWALLOWED   Immediately give a glass of water    First aid is not generally required  If in doubt  contact a Poisons Information Centr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLO-35310.pdf</filepath>
+        <Paragraphs>IF SWALLOWED : Call a poison control center</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Clean-Up_wBleach_35416_msds.pdf</filepath>
+        <Paragraphs>IF SWALLOWED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DRK-90652.pdf</filepath>
+        <Paragraphs>Y BE HARMFUL IF SWALLOWED    Contains enzymes  which may produce respiratory allergy if inhaled in spray or dust   DO NOT MIX WITH BLEACH OR ANY OTHER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DRK-90653.pdf</filepath>
+        <Paragraphs>Phone: 1-800-668-3131    EMERGENCY OVERVIEW CAUSES EYE IRRITATION. MAY BE HARMFUL IF SWALLOWED . </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze Set_Refresh Greek Seaside_Vanilla and Moonlight FP MSDS April 2014.pdf</filepath>
+        <Paragraphs>  IF SWALLOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_&amp;_Refresh_White_Orchid_&amp;_Bloom.pdf</filepath>
+        <Paragraphs>IF SWALLOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_&amp;_Refresh_Wild_Berries_&amp;_Honey.pdf</filepath>
+        <Paragraphs>  IF SWALLOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_and_Refresh_Moonlit_Lavender_09_27_12.pdf</filepath>
+        <Paragraphs>  IF SWALLOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_Refresh_Rain_-_FP_MSDS.pdf</filepath>
+        <Paragraphs>  IF SWALLOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_Refresh_Winter_Frost.pdf</filepath>
+        <Paragraphs>  IF SWALLOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hexane CH3CH24CH3 or C6H14 Safety Data Sheet SDS P6228.pdf</filepath>
+        <Paragraphs>MAY BE FATAL IF SWALLOWED AND ENTERS AIRWAYS   H         CAUSES SKIN IRRITATION   H         MAY CAUSE DROWSINESS   OR DIZZINESS   H         MAY CAUSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hexene CH2 CHCH23CH3 or C6H12 Safety Data Sheet SDS P6237.pdf</filepath>
+        <Paragraphs>MAY BE FATAL IF SWALLOWED AND ENTERS AIRWAYS   Precautionary statements  GHS   US        P         Keep away from Heat Open flames Sparks Hot surfaces</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Beer_Clean_Bar_Glass_Cleaner_90221_msds.pdf</filepath>
+        <Paragraphs>Y BE HARMFUL IF SWALLOWED    HMIS  NFPA  Personal protective equipment      of         Preparation date                   Fire Hazard     Health     V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Tilex_Soap_Scum_Remover_01126_msds.pdf</filepath>
+        <Paragraphs>IF SWALLOWED :  Drink a glassful of water and immediately call a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Octane CH3CH2 6CH3 or C8H18 Safety Data Sheet SDS P6239.pdf</filepath>
+        <Paragraphs>MAY BE FATAL IF SWALLOWED AND ENTERS AIRWAYS   H         CAUSES SKIN IRRITATION   H         MAY CAUSE DROWSINESS OR DIZZINESS   H         VERY TOXIC T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Chlorosilane A19 SiHCl3 Safety Data Sheet SDS P4823.pdf</filepath>
+        <Paragraphs>MAY BE FATAL IF SWALLOWED     WARNING   May  be harmful if inhaled or absorbed      Do not swallow liquid      Do not breathe vapors      May irritate</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs>T AID MEASURES  SWALLOWED   If swallowed do NOT induce vomiting    If vomiting occurs  lean patient forward or place on left side  head down position </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>T AID MEASURES  SWALLOWED   For advice  contact a Poisons Information Centre or a doctor at once    Urgent hospital treatment is likely to be needed  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWALLOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWALLOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-ptfe-lubricant-drip-oil.pdf</filepath>
+        <Paragraphs>el unwell    IF SWALLOW ED  Immediately call a POISON CENTER  or doctor   Do NOT induce vomiting    In case of fire   Use  water fog  dry chemical  ca</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWALLOWED-Drink</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWALLOWED-Drink</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLO-01593.pdf</filepath>
+        <Paragraphs>ionpersists  IF SWALLOWED Drink a glassful of water Call a physician orpoison control center  SKIN  Wash thoroughly with soap and water afterhandling </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWALLOWED-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWALLOWED-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Disinfecting_Wipes_15949_msds.pdf</filepath>
+        <Paragraphs>persists.  IF SWALLOWED- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Disinfecting_Wipes_Fresh_Scent_01571_msds.pdf</filepath>
+        <Paragraphs>persists.  IF SWALLOWED- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SWALLOWED-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Disinfecting_Wipe_Lemon_15948_msds.pdf</filepath>
+        <Paragraphs>persists.  IF SWALLOWED- </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>O-ringASWAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>O-ringASWAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>end weld nipple O ringASWAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SWASHBLOCK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SWASHBLOCK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SWASHBLOCK GROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SURGESSWABBING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SURGESSWABBING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>015 015015015&amp;015! PRESSURE SURGESSWABBING ACTION 012015015012</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MISWACO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MISWACO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\10.- MWD AREA.pdf</filepath>
+        <Paragraphs>LA COMPANIA MISWACO NO TIENEN INSTALADO  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

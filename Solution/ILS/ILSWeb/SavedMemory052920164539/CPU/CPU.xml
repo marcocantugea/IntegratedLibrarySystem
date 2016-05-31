@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>The Centralized system control is fully automatic with redundant CPU cards capable of </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs> with redundant CPU cards capable of switching control in the case of CPU failure      The Systems MDF is installed on a dedicated rack and is sharing</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>Each cabinet include a dual redundant CPU pair (controllers) and shared RIO cards. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>uring operation CPU ProcessorOn initialization and during operation</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>uring operation CPU Embedded softwareDuring operation</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>CPU BOARD Device structure: identification of boardsS5 | Status of Out 1 relay</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>ELECTRONIC CARD CPU MODULE EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>ELECTRONIC CARD CPU MODULE EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>ELECTRONIC CARD CPU MODULE EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>MICRO MEMORY CARD, 512KB S7 CPU 3.3V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>MICRO MEMORY CARD, 512KB S7 CPU 3.3V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0093 NOV HPU &amp; AHC ET\Commercial Invoice 48982 ~08192011031736.pdf</filepath>
+        <Paragraphs>MICRO MEMORY CARD, 512KB S7 CPU 3.3V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0097 NOV XT Gantry Crane ET\Sales Order Acknowledgement 711705KRS ~07252011022112.pdf</filepath>
+        <Paragraphs>ELECTRONIC CARD CPU MODULE EX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FORCACPUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FORCACPUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FORCACPUMP CENTRIFUGAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CPU-CPM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPU-CPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0009 NOV Spare Parts\Commercial Invoice 49348 ~08262011054614.pdf</filepath>
+        <Paragraphs>CPU-CPM REMOTE I/O F/ ZONE 2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

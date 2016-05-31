@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VEGETABLECUTTER551VENETIANBLINDS544</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VEGETABLECUTTER551VENETIANBLINDS544</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>s.gp . VEGETABLECUTTER551VENETIANBLINDS544</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CANBUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CANBUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>       Yellow   CANBUS Protection Fuse  F          Yellow   CANBUS Protection Fuse  F       Tabl e      Aux PSU   PTFZ Carrier LED Status Table    Fau</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

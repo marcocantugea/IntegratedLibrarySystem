@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MAYAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAYAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\21.- SHALE SHAKER .pdf</filepath>
+        <Paragraphs>V  Safety Tour       CUARTO DE MAYAS DE TEMBLORINAS / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLAYA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLAYA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acumula_puntos_y_gana_con_INFRA.pdf</filepath>
+        <Paragraphs>PLAYA DEL CARMEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAYAP301N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAYAP301N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acumula_puntos_y_gana_con_INFRA.pdf</filepath>
+        <Paragraphs>M311RIDA MAYAP301N </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

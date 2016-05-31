@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ACME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\SRV806.pdf</filepath>
+        <Paragraphs>Approved Notes Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\SRV807.pdf</filepath>
+        <Paragraphs>Grease ACME screw. Keep grease coating grit free</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.1 Work orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction 1. Inspect ACME nut for wear (replace as required).</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction 1. Inspect ACME nut for wear (replace as required).</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction 1. Inspect ACME nut for wear (replace as required).</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.1 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.5 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.6 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.7 Work Order.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.9 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\3. Sistema de ROV (ROV System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\rov\57 rov.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction Inspect ACME nut for wear (as reqd)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A314MEDICMEDIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A314MEDICMEDIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A314MEDICMEDIC A314UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

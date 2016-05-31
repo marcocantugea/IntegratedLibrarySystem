@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HIERARCHY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIERARCHY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs> NZS            HIERARCHY OF CONTROLS  these are     en USIDENTIFYen US all potential fall hazards     en USELIMINATEen US the need to access the pote</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1JCHY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1JCHY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>1JCHY              B-136</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1JCHYFemale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1JCHYFemale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>1J0HY-12-81-3/16x121/22.91741-1/41.5640 1JCHYFemale Seal-Lok256 - Swivel - ShortISO 12151-1 - SWSA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

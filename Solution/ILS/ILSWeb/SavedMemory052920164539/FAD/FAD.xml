@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FADED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\13 Navigation deck.pdf</filepath>
+        <Paragraphs>NUMBERS  IN HAZARD DIAMONDS ARE FADED   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\23 STBD-AFT pontoon column.pdf</filepath>
+        <Paragraphs>NUMBERS IN HAZAR DIAMOND FADED  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>F0EEE0F056BD05E5B1FAD4268DFAF93CE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>F0EEE0F056BD05E5B1FAD4268DFAF93CE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+        <Paragraphs>F0EEE0F056BD05E5B1FAD4268DFAF93CE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APBBBPAPBNDJHPGLNBLGOCHBGBBLAPHOMCFICFNEDFADDAHJA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APBBBPAPBNDJHPGLNBLGOCHBGBBLAPHOMCFICFNEDFADDAHJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>APBBBPAPBNDJHPGLNBLGOCHBGBBLAPHOMCFICFNEDFADDAHJA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

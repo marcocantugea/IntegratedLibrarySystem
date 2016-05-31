@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BPD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\2013 Bourbon Opale Español.pdf</filepath>
+        <Paragraphs>                BPD               S                 Presi n de re         Almacenamiento de aguas a       Capacidad de tanque de s lidos              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BPDUs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPDUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Max transmit countMaximum BPDUs that can be transmitted </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>51-SUBPD0122</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>51-SUBPD0122</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>51-SUBPD0122  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>51-SUBPD0122</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>51-SUBPD0122  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>51-SUBPD0123</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>51-SUBPD0123</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>51-SUBPD0123  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>51-SUBPD0123</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>51-SUBPD0123  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>51-SUBPD0124</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>51-SUBPD0124</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>51-SUBPD0124  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>51-SUBPD0124</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>51-SUBPD0124  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

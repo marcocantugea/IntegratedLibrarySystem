@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TILSTOPPETLUFTI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TILSTOPPETLUFTI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TILSTOPPETLUFTI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QUIETLIBRARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QUIETLIBRARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A221LIBRARY / QUIETLIBRARY / QUIET A221TWEEN DECK3026DA961E014F447TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOUNTING-TOILETTOILETLOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOUNTING-TOILETTOILETLOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>644961-TSH-05-001ADDR. HEAT DET. WITH CEILING MOUNTING-TOILETTOILETLOWER DECK3026DA961E013F326TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHEETLens</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHEETLens</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-14551-MSDS-BABA_Lens Cleaning Towelette.pdf</filepath>
+        <Paragraphs>    SAFETY DATA SHEETLens Cleaning Towelettes    IDENTIFICATION OF THE SUBSTANCE PREPARATION AND THE  COMPANY UNDERTAKING  Product Name   Lens Cleanin</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHEETLiveWell</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHEETLiveWell</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33977-MSDS-BABA_LiveWell Clean_Refill.pdf</filepath>
+        <Paragraphs>    SAFETY DATA SHEETLiveWell Clean   Refill    IDENTIFICATION OF THE SUBSTANCE PREPARATION AND THE  COMPANY UNDERTAKING  Product Name   LiveWell Clea</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETL00789</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETL00789</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs> 11. SPARE PARTS LIST     ETL00788, ETL00789 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETL00394</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETL00394</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>12. SPARE PARTS LIST     ETL00393, ETL00394 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IAV53ETL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IAV53ETL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>IAV53ETL 00788Spare parts listMotor type</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

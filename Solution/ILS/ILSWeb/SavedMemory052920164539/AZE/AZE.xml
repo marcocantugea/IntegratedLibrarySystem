@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GLAZERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLAZERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs> SHEET METAL    GLAZERS PLUMBERS MASONRY   TILE PG  PowerFlex                 Multi Purpose    Heavy       Hycron               Multi Purpose    Heavy</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DC231B2904_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>lesBAR RUST     HAZE GREY PART APedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja deDatos de Segurida</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HE2904_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>lesBAR RUST     HAZE GREY PART APedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja deDatos de Segurida</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NDA002_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>lesBAR RUST     HAZE GREY PART APedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja deDatos de Segurida</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRAZED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRAZED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>bare copper.DISCONNECTING BRAZED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAZER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Lista de Modificações e Dúvidas a Serem Tiradas Modificada.docx</filepath>
+        <Paragraphs> aberto         FAZER PROJETO PARA RACK DAS CHAVES DE CORRENTE SEMELHANTE AO USADO NA NORBE VIII         Enviado para Gil no dia          para cota  o</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EHBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Test_AD.docx</filepath>
+        <Paragraphs>      What does EHBS stand for and when is it disarmed                                 What is the procedure for circulating gas out of the riser     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EHB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EHB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

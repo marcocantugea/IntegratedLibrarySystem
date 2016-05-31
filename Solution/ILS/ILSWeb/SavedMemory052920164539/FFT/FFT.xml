@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TTFFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TTFFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>TTFFT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SizemminchNmFFFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SizemminchNmFFFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SizemminchNmFFFT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FFFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>for larger sizes and stainless steel fittings. Use recom- mended torque or FFFT method Damaged fittingCheck for damage Handle all components carefully</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

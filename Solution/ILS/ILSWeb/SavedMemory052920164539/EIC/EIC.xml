@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OLEIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Silk_&amp;_Silver_Shades.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>OLEIC ACID </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DILINOLEIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Long_Lasting_Semi-Permanent.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DILINOLEIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>DILINOLEIC ACID </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EICTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EICTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\VISITA MURALLA IV LAKAMAY-1.pdf</filepath>
+        <Paragraphs>G lvez Flores   EICTS   rflores  slb com                                  Comentarios      La informaci n contenida en este reporte fue proporcionada </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ALZADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALZADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\14 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>         WHIPCHECK CABLE RIGGED UP WRONG           HERRAMIENTAS DE MANO ALZADAS LIMPIA-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BALZO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BALZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA DE ALTURA NEW.docx</filepath>
+        <Paragraphs>LLA  DA O EN EL BALZO  DA O EN LOS CABOS Y EN LOS RETRACTILES Y POLEAS  VERIFICACION DE ANDAMIO    UNSAFE AREA  DAMAGE BASKET  DAMAGE IN BOSUN CHAIR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BALZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA FUERA DE BORDA NEW.docx</filepath>
+        <Paragraphs>LLA  DA O EN EL BALZO  DA O EN LOS CABOS Y EN LOS RETRACTILES Y POLEAS  VERIFICACION DE ANDAMIO    UNSAFE AREA  BASKET DAMAGE  DAMAGE IN BOSUN CHAIR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BALZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA TRABAJO CON BALZO Y CANASTILLA.docx</filepath>
+        <Paragraphs>LLA  DA O EN EL BALZO  DA O EN LOS CABOS Y EN LOS RETRACTILES Y POLEAS  VERIFICACION DE ANDAMIO    M    L    L    VERIFICAR EL AREA LIMPIA Y LIBRE DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BALZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA TRABAJO LIMPIEZA EN ALTURAS.docx</filepath>
+        <Paragraphs>LLA  DA O EN EL BALZO  DA O EN LOS CABOS Y EN LOS RETRACTILES Y POLEAS  VERIFICACION DE ANDAMIO    M    L    L    VERIFICAR EL AREA LIMPIA Y LIBRE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HORIZONTALZonas</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HORIZONTALZonas</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CAPITULO2.pdf</filepath>
+        <Paragraphs>miento. 32  CAPÍTULO 2.ESPACIOS DE CIRCULACIÓN HORIZONTALZonas de espera</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

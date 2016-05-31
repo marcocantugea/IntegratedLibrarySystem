@@ -1,0 +1,238 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>REFRIGERATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFRIGERATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\19 Compresores de refrigerante M202.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     REFRIGERATION COMP. ROOM M202(Fwd-Port) 22:00 HRS JUN 19thCLEAR AND FREE AISLES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>0 220.0 FILTER ACCESS REFRIGERATION PIPEWORK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>0 220.0 FILTER ACCESS REFRIGERATION PIPEWORK </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>flREFRIGERATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>flREFRIGERATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>flREFRIGERATOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFRIGERATED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Argon Ar Safety Data Sheet SDS P4564.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautiona</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Helium He Safety Data Sheet SDS P4600.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautiona</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Hydrogen Gas H2 Safety Data Sheet SDS P4603.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H         MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Nitrogen Medipure Gas N2 Safety Data Sheet SDS P4630.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H        MAY DISPLACE OXYGEN AN D CAUSE RAPID SUFFOCATION    Precaution</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Oxygen Medipure Gas O2 Safety Data Sheet SDS P4637.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC B URNS OR INJURY   CGA   HG        COMBUSTIBLES IN CONTACT WITH LIQUID OXYGEN MAY EXPLODE ON  IG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM75REFRIGERATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM75REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEM75REFRIGERATED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERATORS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERATORS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFRIGERATORS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRESCOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRESCOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\18 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>REFRESCOS ENLATADOS EN AREA DE TRABAJO. AREA DE TRABAJO SIN BARRICADA PERIMETRAL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRESCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRESCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\27 DAT cylinders deck.pdf</filepath>
+        <Paragraphs>LATA DE REFRESCO Y TRAPOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRESCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\06 Welding Shop .pdf</filepath>
+        <Paragraphs>BOTELLAS DE AGUA Y REFRESCO EN MESA DE TRABAJO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRESCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\07 Trampas de Arena Area.pdf</filepath>
+        <Paragraphs>LATAS DE REFRESCO SIN DESTAPAR, LAS DEJAN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERANTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERANTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\02 Junio Electric Motors Store.pdf</filepath>
+        <Paragraphs>CILINDROS DE REFRIGERANTE BIEN  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPACEA214DEFROST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPACEA214DEFROST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>638961-TSH-04-007ADDR. HEAT DETECTOR COLD SPACEA214DEFROST COLD ST.DEFROST COLD ST. A214TWEEN DECK3026DA961E014F450TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPACEA212FREEZEFREEZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPACEA212FREEZEFREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>639961-TSH-04-008ADDR. HEAT DETECTOR COLD SPACEA212FREEZEFREEZE A121TWEEN DECK3026DA961E014F450TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEFROST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEFROST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP835.pdf</filepath>
+        <Paragraphs>961-TSH-04-007 DEFROST COLD ST. A214 TWEEN DECK F450</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEFROST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.2 Work Orders.pdf</filepath>
+        <Paragraphs>961-TSH-04-007 DEFROST COLD ST. A214 TWEEN DECK F450</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGEFREE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGEFREE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>7 FREE PAGEFREE PAGE FIRMA F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GEFRAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEFRAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>FE  ITALY00F17F12079.000F17F12079.0 GEFRAN 1 2 3 4 5 6 10 11</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRESHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRESHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Fabric_Refresher_-_Antimicrobial.pdf</filepath>
+        <Paragraphs>FEBREZE FABRIC REFRESHER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVESEATREFRACINGDEVICE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVESEATREFRACINGDEVICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>2158 VALVESEATREFRACINGDEVICE 1EABN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRACING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRACING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>0182FORCE-OFF DEVICE 1 EA BN  11 . 49000  2158 VALVE   SEAT   REFRACING   DEVICE 1EABN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\2.- CAFERERIA UP DECK D.pdf</filepath>
+        <Paragraphs>FALTA DE MANTENIMIENTO A REFRIGERADOR  FUGA DE AGUA EN CAFETERA. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SLOPEFRONT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SLOPEFRONT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>WITH 2 DOWNWARD SLOPEFRONT VIEWSCALE0.060FILL LINES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

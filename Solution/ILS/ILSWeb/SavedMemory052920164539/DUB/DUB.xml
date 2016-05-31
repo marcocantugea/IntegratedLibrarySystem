@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>KUPLINGSDUBB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KUPLINGSDUBB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>KUPLINGSDUBB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DUBAI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUBAI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> - DUBAI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

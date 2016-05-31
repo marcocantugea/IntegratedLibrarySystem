@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AFIEMEX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFIEMEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>Causas  Ra   z  AFIEMEX    Plan  de Acci   n  EXPLORACION Y PRODUCOON      No   RECOMENDACIONES ACCIONES  RESPONSABLE FECHA  COMPROMISO      DIFUSION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRAFILAMENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRAFILAMENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>  95 ANELLO ANTI TRAFILAMENTO / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>38528513ULTRAFILTRANTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>38528513ULTRAFILTRANTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>Norma de Referencia: NTC 38528513ULTRAFILTRANTE CONTRA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P1AFInflamabilidad</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P1AFInflamabilidad</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sigunit P1 AF.pdf</filepath>
+        <Paragraphs>  Sigunit P1AFInflamabilidad del producto  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOTOGRAFIAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOTOGRAFIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\145 PS014 TRA Camara fotografica.docx</filepath>
+        <Paragraphs>dad     TOMA DE FOTOGRAFIAS C FLASH    Page   P gina           OF  De           TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

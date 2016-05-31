@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DANGEREUX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DANGEREUX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Behold_Furniture_Polish_96406_msds.pdf</filepath>
+        <Paragraphs>NTS DANGEREUX </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

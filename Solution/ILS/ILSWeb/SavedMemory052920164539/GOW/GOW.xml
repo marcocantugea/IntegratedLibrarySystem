@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LESMAHAGOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LESMAHAGOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>LESMAHAGOW  ML11 OJR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LESMAHAGOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>LESMAHAGOW  ML11 OJR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

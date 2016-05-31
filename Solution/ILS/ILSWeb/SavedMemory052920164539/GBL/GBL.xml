@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GBLow</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBLow</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\INSTRUCTION MANUAL FOR CENTRIFUGAL PUMPS.pdf</filepath>
+        <Paragraphs> Manual         GBLow Voltage MotorsInstallation  operation and maintenance manual Contents   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLOCKINGBLOCAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLOCKINGBLOCAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Locked rotor/ROTOR BLOCKINGBLOCAGE ROTOR6</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLOCKINGBLOCAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Locked rotor in normal operationROTOR BLOCKINGBLOCAGE ROTOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1632721-BD-010ADRILLINGBLUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1632721-BD-010ADRILLINGBLUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1632721-BD-010ADRILLINGBLUE COMM/POWER JUNCTION BOX1CELLAR DECK  / SafetyR STAHLGermany8125/1083-2DP-10014PTB 00 ATEX 3116&lt;EX&gt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Description938425GBL01</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Description938425GBL01</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Description938425GBL01 - Lock boxes - cards.938420GLB03 - Lock boxes - cards.638400Cards - 25 pc VS series GB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>en-GBLIFTINGen-GB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>en-GBLIFTINGen-GB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\10000932772 -PDC-000 Manual Riser telescopic Joint.pdf</filepath>
+        <Paragraphs> en-GBLIFTINGen-GB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

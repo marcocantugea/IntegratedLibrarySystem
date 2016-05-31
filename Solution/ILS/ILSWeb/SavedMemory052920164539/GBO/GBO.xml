@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>402RUDDERSTUFFINGBOX402</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>402RUDDERSTUFFINGBOX402</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>402RUDDERSTUFFINGBOX402 ',_ RUDDERTRUNK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>HOLDER BALL BEARING GBOX CENTRIFUGE CD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>HOLDER BALL BEARING GBOX CENTRIFUGE CD </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COUPLINGBOLT16</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COUPLINGBOLT16</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COUPLINGBOLT16</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>144412-IB0601DRILLINGBOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>144412-IB0601DRILLINGBOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>144412-IB0601DRILLINGBOP TRANSPORTER INTERFACE Eexi (10-MX0211)1CELLAR DECK  / SafetyTECHNORNorwayTNCN 383815DNV-2001-OSL-ATEX-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>144512-IB0602DRILLINGBOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>144512-IB0602DRILLINGBOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>144512-IB0602DRILLINGBOP TRANSPORTER  JUNCTION BOX Eexe (10-MX0211)1CELLAR DECK  / SafetyTECHNORNorwayTNCN 383815DNV-2001-OSL-A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>144612-IB0603DRILLINGBOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>144612-IB0603DRILLINGBOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>144612-IB0603DRILLINGBOP TRANSPORTER INTERFACE Eexe (10-MX0211)1CELLAR DECK  / SafetyTECHNORNorwayTNCN 383815DNV-2001-OSL-ATEX-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>144712-IB0604DRILLINGBOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>144712-IB0604DRILLINGBOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>144712-IB0604DRILLINGBOP TRANSPORTER  JUNCTION BOX Eexe (10-MX0211)1CELLAR DECK  / SafetyTECHNORNorwayTNCN 383815DNV-2001-OSL-A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>163312-IB0608DRILLINGBOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>163312-IB0608DRILLINGBOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>163312-IB0608DRILLINGBOP TRANSPORTER  JUNCTION BOX Eexe (10-MX0211)1CELLAR DECK  / SafetyTECHNORNorwayTNCN 383815DNV-2001-OSL-A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>163412-IB0609DRILLINGBOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>163412-IB0609DRILLINGBOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>163412-IB0609DRILLINGBOP TRANSPORTER  JUNCTION BOX Eexe (10-MX0211)1CELLAR DECK  / SafetyTECHNORNorwayTNCN 383815DNV-2001-OSL-A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

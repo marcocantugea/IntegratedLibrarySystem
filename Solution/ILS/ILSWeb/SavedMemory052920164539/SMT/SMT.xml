@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>er clock        SMT        RS       wire        FS                     Watchcall        Converteam     RS           FS                     Wat</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SKITSMT001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SKITSMT001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>      SHW       SKITSMT        SLLNL      LS     SLLNL      LS     SMI           SNL       LS      SNL       LS     SNYL   DH        SNYR   DH        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMTXCMTXCCTXCCCTXVMTXRMTXSMTX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMTXCMTXCCTXCCCTXVMTXRMTXSMTX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>FMTXCMTXCCTXCCCTXVMTXRMTXSMTX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMTXMale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMTXMale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs> Flare ends / Male metric thread Ð O-ring + retaining ring  K Triple-Lok¨ K65Catalogue 4100-7/UK SMTXMale stud branch teeTriple-Lok¨ 37</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>6SMTXS6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>6SMTXS6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>6SMTXS6 STX-SS6 STX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

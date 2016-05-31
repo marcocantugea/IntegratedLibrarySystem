@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DRL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>  DRL Code: 04 3027  Document Title:  Document list      Grupo R GVA 7500 DP Semi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>PRESS CONTAINING,DNV DRL &amp; (N) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-DRLOOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-DRLOOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-DRLOOP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-DRLOOP-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-DRLOOP-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-DRLOOP-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SDRL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SDRL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\10000932772 -PDC-000 Manual Riser telescopic Joint.pdf</filepath>
+        <Paragraphs>SDRL ref: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SDRL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\TOP DRIVE MAINTENANCE.pdf</filepath>
+        <Paragraphs>SDRL CODE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SDRL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>Seller Data compliance as per SDRL (Yes or No)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

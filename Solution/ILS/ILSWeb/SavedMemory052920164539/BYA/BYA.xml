@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BYAPRUEBA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BYAPRUEBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>SOLICITADO POR / REQUESTED BYAPRUEBA / APPROVAL Jose Juan Leza Mendoza Van Bussel, Stephanus Maria 02/01/2014 03/01/2014  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BYAPRUEBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>BYAPRUEBA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BYAPRUEBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>BYAPRUEBA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

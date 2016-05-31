@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HVX11X113</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HVX11X113</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Castrol  Biotec HVX  X   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HVX-A15</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HVX-A15</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs> HVX-A15 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ASAEJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASAEJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Male stud standardDIN 3852 T2, type ASAEJ 476aISO 7; DIN 2999-1DIN 3852 T2, type C DIN 7603 (Sealing washer)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>YSAEJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>YSAEJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>    T   type X  YSAEJ    aISO     Rp Rc  DIN      RcDIN      T   type Z  parallel  ISO       ANSI B      BS    Rp Rc  Japan PT Port</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

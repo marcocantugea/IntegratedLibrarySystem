@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ModifiedAkerMHASPower</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ModifiedAkerMHASPower</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-022.pdf</filepath>
+        <Paragraphs>ModifiedAkerMHASPower</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPECTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPECTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>PageGENERAL ASPECTS OF THE ATEX DIRECTIVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASPECTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>PageGENERAL ASPECTS OF THE ATEX DIRECTIVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BICICLETASPORTABICICLETAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BICICLETASPORTABICICLETAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>Resistente al clima  106 ACCESORIOSDE VIAJE Y BICICLETAS ACC. VIAJE Y BICICLETASPORTABICICLETAS DE TOLDO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RASPONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RASPONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA DE ALTURA NEW.docx</filepath>
+        <Paragraphs>UERPO A CAIDAS  RASPONES CORTADURAS  CAIDA DE OBJETOS     CAGE IN POOR CONDITION  UNSAFETY BOSUN CHAIR  POORLY ARMED  SCAFFOLDING  DAMAGE EXTREMITIES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RASPONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA FUERA DE BORDA NEW.docx</filepath>
+        <Paragraphs>UERA DE BORDA   RASPONES CORTADURAS  CAIDA DE OBJETOS AL MAR     BASKET IN BAD CONDITION  AND DAMAGES BOSUN CHAIR UNSAFE  IMPROPER ASSEMBLY OF SCAFFOL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RASPONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA LIMPIEZA EN ALTURA NEW.docx</filepath>
+        <Paragraphs>UERPO A CAIDAS  RASPONES CORTADURAS  CAIDA DE OBJETOS     M    L    L    EPP APROPIADO  PERSONAL CAPACITADO PARA REALIZAR LAS LABORES  USO DE ARNES  R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RASPONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA TRABAJO CON BALZO Y CANASTILLA.docx</filepath>
+        <Paragraphs>UERPO A CAIDAS  RASPONES CORTADURAS  CAIDA DE OBJETOS     M    L    L    EPP APROPIADO  PERSONAL CAPACITADO PARA REALIZAR LAS LABORES  USO DE ARNES  R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RASPONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA TRABAJO LIMPIEZA EN ALTURAS.docx</filepath>
+        <Paragraphs>UERPO A CAIDAS  RASPONES CORTADURAS  CAIDA DE OBJETOS     M    L    L    EPP APROPIADO  PERSONAL CAPACITADO PARA REALIZAR LAS LABORES  USO DE ARNES  R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPECTOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPECTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>                ASPECTOS OPERACIONALES                                                                                                                </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAASP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Driller__toolpusher_Exam.docx</filepath>
+        <Paragraphs>ften should the MAASP be recalculated     a  After every bit change    b  After a change in mud weight    c  After every     ft  drilled       The cor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Driller__toolpusher_exam_with_Answers.docx</filepath>
+        <Paragraphs>ften should the MAASP be recalculated     a  After every bit change    b  After a change in mud weight    c  After every     ft  drilled       The cor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig personnel questionaire Blank.docx</filepath>
+        <Paragraphs>you recalculate MAASP when drilling ahead                How often would a crown saver be checked and how would this be recorded             How many </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig personnel questionaire.docx</filepath>
+        <Paragraphs>you recalculate MAASP when drilling ahead  When you change mud weight      How often would a crown saver be checked and how would this be recorded   I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig_personnel_Compency.docx</filepath>
+        <Paragraphs>you recalculate MAASP when drilling ahead               How often would a crown saver be checked and how would this be recorded            How many BO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>Pressure - MAASP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRASPORTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRASPORTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>TRASPORTO E POSIZIONAMENTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPDT-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPDT-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>tionDescription ASPDT  Single Pole  Double Throw load contacts  DDPDT  Double Pole  Double Throw load switches   EExd Manual Atex    GPage Table </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SECURASPAN231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SECURASPAN231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>nter to center  SECURASPAN    HORIZONTAL LIFELINE SYSTEMS Extremely lightweight and portable  these systems incorporate a modular    multi base design</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SECURASPAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SECURASPAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>nter to center  SECURASPAN    HORIZONTAL LIFELINE SYSTEMS Extremely lightweight and portable  these systems incorporate a modular    multi base design</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WASP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000010777_Raid_Wasp_%26_Hornet_Killer_33.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  RAID® WASP &amp; HORNET KILLER 33 Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPIRATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPIRATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AMR-A806-20.pdf</filepath>
+        <Paragraphs> ASPIRATION HAZARD. Possible chemical pneumonitis if aspirated into lungs. Nausea, diarrhea. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPIRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPIRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Aspire MSDS English.pdf</filepath>
+        <Paragraphs>ASPIRE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPHYXIATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPHYXIATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Carbon Monoxide CO Safety Data Sheet SDS P4576.pdf</filepath>
+        <Paragraphs>CGA   HG        ASPHYXIATING EVEN WITH ADEQUATE OXYGEN    Precautionary statements  GHS   US        P         Do not ha ndle until all safety precauti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASPHYXIATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs>CGA   HG        ASPHYXIATING EVEN WITH ADEQUATE OXYGEN    CGA   HG        SYMPTOMS MAY BE DELAYED   H         MAY CAUSE DAMAGE TO ORGANS KIDNEYS  LIVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASPHYXIANT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASPHYXIANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>      OSHA PEL: 1000 ppm, ACGIH TLV: ASPHYXIANT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASPHYXIANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CrystalFoam.pdf</filepath>
+        <Paragraphs>      OSHA PEL: 1000 ppm, ACGIH TLV: ASPHYXIANT  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RASPBERRY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RASPBERRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Black Raspberry and Vanilla LHS.pdf</filepath>
+        <Paragraphs> 06-Jul-2008  SOFTSOAP BLACK RASPBERRY &amp; VANILLA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RASPBERRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Hand Soap Radiant Raspberry.pdf</filepath>
+        <Paragraphs>AP RADIANT RASPBERRY This industrial Material Safety Data Sheet provides </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CASPorcentaje</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ADAPTA.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ATC.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\COLDTROL.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\Encore Base.pdf</filepath>
+        <Paragraphs>IÓN SOBRE LOS INGREDIENTESSustanciaNúmero del CASPorcentaje (%)Valor umbral límite</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\EZ SPOT.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\FACTANT.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\LE SUPERMUL.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\STEEL SEAL 1000.pdf</filepath>
+        <Paragraphs>IÓN SOBRE LOS INGREDIENTESSustanciaNúmero del CASPorcentaje (%)Valor umbral límite</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CASPorcentaje</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\TEMPERUS.pdf</filepath>
+        <Paragraphs> SOBRE LOS COMPONENTESSustanciaEINECSNúmero del CASPorcentaje</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>dippedSPAFS080MASPAFS080MASMPAFS080MASUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>dippedSPAFS080MASPAFS080MASMPAFS080MASUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>and materialincl. metr. screwsincl. UNC screws(no additional and O-ringand O-ringsuffix needed) Steel, oil dippedSPAFS080MASPAFS080MASMPAFS080MASUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>dippedSPAFS080UASPAFS080UASMPAFS080UASUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>dippedSPAFS080UASPAFS080UASMPAFS080UASUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>and materialincl. metr. screwsincl. UNC screws(no additional and O-ringand O-ringsuffix needed) Steel, oil dippedSPAFS080UASPAFS080UASMPAFS080UASUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MASP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>MASP = FPmax - HPgas Example: Proposed </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>MASP = 9984   -  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>  Maximum Kick Height Possible   not to Exceed MASP  Kick HeightVDft =</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FORMULASPressure</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FORMULASPressure</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>INDEX  CHAPTER ONEBASIC FORMULASPressure Gradient</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MASPpsi</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MASPpsi</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>asing Pressure  MASPpsi    MASPpsi         x  MAMWppg     MWppg  x TVDshoe  Kick Tolerance  KTppg  with Influx  KTppg    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

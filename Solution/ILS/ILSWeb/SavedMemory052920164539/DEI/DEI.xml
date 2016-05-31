@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DEI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>INGOMBRO DEI GIUNTI </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>INGOMBRO DEI GIUNTI </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>DEI GIUNTI ROTOMEC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

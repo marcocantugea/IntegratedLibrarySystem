@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>15HS-752PA0002BPOWERLCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15HS-752PA0002BPOWERLCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15HS-752PA0002BPOWERLCS (LESS)1SHALE SHAKER ROOM-1ST / ZONE 1Cooper Crouse-HindsGermanyGHG 434 0002 R9245PTB 00 ATEX 3117&lt;Ex&gt; I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>39HS-191GE251BPOWERLCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>39HS-191GE251BPOWERLCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>39HS-191GE251BPOWERLCS (LESS)1PAINT STORE OUTSIDE / ZONE 2Cooper Crouse-HindsGermanyGHG 434 0002 R9245PTB 00 ATEX 3117&lt;Ex&gt; II 2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>41HS-710GE001BPOWERLCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>41HS-710GE001BPOWERLCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>41HS-710GE001BPOWERLCS (SS)1DRILL FLOOR / ZONE 2Cooper Crouse-HindsGermanyGHG 411 8201 R1455PTB 00 ATEX 3117&lt;Ex&gt; II 2G EEx de I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1621HS-167PG004BPOWERLCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1621HS-167PG004BPOWERLCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1621HS-167PG004BPOWERLCS (LSS)1CELLAR DECK / SafetyCooper Crouse-HindsGermanyGHG 4118301 R1981PTB 00 ATEX 3117&lt;Ex&gt; II 2G EEx de</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BPO100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPO100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>  BPO100 ENV50 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>  BPO100 ENV50 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>  BPO100 ENV50 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>  BPO100 ENV50 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BPO500</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPO500</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>SPC500 SXT15P  BPO500 ENV500 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO500</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>SPC500 SXT15P  BPO500 ENV500 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO500</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>SPC500 SXT15P  BPO500 ENV500 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO500</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>SPC500 SXT15P  BPO500 ENV500 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BPO200</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPO200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>SPC510 SXT30DP  BPO200 ENV510 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>SPC510 SXT30DP  BPO200 ENV510 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>SPC510 SXT30DP  BPO200 ENV510 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BPO200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>SPC510 SXT30DP  BPO200 ENV510 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ABCDMF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABCDMF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ABCDMF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>CDM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDMMale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDMMale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>logue        UK CDMMale female thread elbowMale NPTF  thread  SAE J       Female NPTF  thread  SAE J    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>CDMD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

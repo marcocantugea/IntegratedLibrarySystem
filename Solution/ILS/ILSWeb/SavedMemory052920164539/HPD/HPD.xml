@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HPDegreaser</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPDegreaser</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_HP_Industrial_Cleaner_193D55_msds.pdf</filepath>
+        <Paragraphs>Factory Formula HPDegreaser</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPDegreaser</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_HP_Industrial_Cleaner_193P5_msds.pdf</filepath>
+        <Paragraphs>Factory Formula HPDegreaser</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPDegreaser</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_HP_Industrial_Cleaner_193_msds.pdf</filepath>
+        <Paragraphs>Factory Formula HPDegreaser</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPDs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPDs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>where the wearing of HPDs is required.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>036t your speci036c hose assembly needs. Contact Parker HPD or your Parker Hose </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TD7177-09-HPD-001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TD7177-09-HPD-001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\P&amp;ID HP Manifolds and Manifold Valves\HP Manifold Valve Data 170227-R-BS101-SA02-0100_01.pdf</filepath>
+        <Paragraphs> Code 4: Received for information  Supplier doc. no.: TD7177-09-HPD-001   Code 5: Interface information as clouded </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TD7177-09-HPD-0100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TD7177-09-HPD-0100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\P&amp;ID HP Manifolds and Manifold Valves\HP Manifold Valve Data 170227-R-BS101-SA02-0100_01.pdf</filepath>
+        <Paragraphs>+44 (0) 1670 512 895 TD7177-09-HPD-0100 2 of 2 01     Capacities and Operational Data  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

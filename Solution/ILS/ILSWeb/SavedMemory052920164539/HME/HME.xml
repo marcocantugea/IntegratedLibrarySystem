@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ATTACHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>&lt; ATTACHMENT &gt; </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0014ENCODER ATTACHMENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>DRILL LINE ATTACHMENT TO DRUM ................................................................................. 30</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>RETRACTED POSITION REQUIRES CONTINUED ATTACHMENT TO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0008ATTACHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0008ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0008ATTACHMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0024ATTACHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0024ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0024ATTACHMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0025ATTACHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0025ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0025ATTACHMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0037ATTACHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0037ATTACHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0037ATTACHMENT SINGLE FILTER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENRICHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENRICHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>ENRICHMENT Electrochemical Oxygen monitoring for con ned space COMBUSTIBLE GAS Catalytic bead Wide range detection for hydrocarbons HAZMATCAD Plus Det</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CASHMERE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CASHMERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra Downy Liquid - All Varieties MSDS Sept 2014.pdf</filepath>
+        <Paragraphs> CASHMERE GLOW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFURBISHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFURBISHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>MAJOR REFURBISHMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PREVPREVENTIVEMECHMECHANICPhilip</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PREVPREVENTIVEMECHMECHANICPhilip</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\LUBE117.pdf</filepath>
+        <Paragraphs>PREVPREVENTIVEMECHMECHANICPhilip   d  By Requested Date Requested By Planned Date Planned By Issued Date Issued By Planned Start Date    Oct      Oct </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PREVPREVENTIVEMECHMECHANICGoran</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PREVPREVENTIVEMECHMECHANICGoran</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\TEST808.pdf</filepath>
+        <Paragraphs>PREVPREVENTIVEMECHMECHANICGoran  d  By Requested Date Requested By Planned Date Planned By Issued Date Issued By Planned Start Date    Mar      Mar   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

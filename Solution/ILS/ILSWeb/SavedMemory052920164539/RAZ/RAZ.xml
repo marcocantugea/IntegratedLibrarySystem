@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RAZON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RAZON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142. PS001 Formatos Residuos Peligrosos\SEMARNAT-07-009 Manifiesto de Entrega, Transporte y Recepción de Residuos Peligrosos (25-Jun-13).docx</filepath>
+        <Paragraphs>                RAZON SOCIAL  DE LA EMPRESA GENERADORA             DOMICILIO         C P             MUNICIPIO O DELEGACION         EDO             TE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRAZO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014  CUARTO DE CEMENTACION.pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR                        CEMENTATION ROOM             30 Enero del 2014 BRAZO NEUMATICO DESPRENDIDO  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABRAZADERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABRAZADERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\19 Jun Upper Deck Port Aft.pdf</filepath>
+        <Paragraphs>ABRAZADERA SIN FIN MUESTRA CORROSION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABRAZADERAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABRAZADERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\23 Upper deck.pdf</filepath>
+        <Paragraphs>ABRAZADERAS INADECUADAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PERAZA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PERAZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>JANDRO BAUTISTA PERAZA Rig   La Muralla IV En la direcci n de entrega Payment    days after invoice CERTIFICADO CALIDAD CERTIFICADO ORIGEN INSPECCION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PYRAZOLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PYRAZOLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Long_Lasting_Semi-Permanent.pdf</filepath>
+        <Paragraphs>1-HYDROXYETHYL 4,5 -DIAMINO PYRAZOLE SULFATE 155601302 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRAZED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRAZED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>bare copper.DISCONNECTING BRAZED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRAZING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRAZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>metal to be separated. Horizontal Drill Motor, Model 5GEB22, GEK26191696C  15 FIG. 12.  BRAZING TONGS.  E-29740. CLAMPING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

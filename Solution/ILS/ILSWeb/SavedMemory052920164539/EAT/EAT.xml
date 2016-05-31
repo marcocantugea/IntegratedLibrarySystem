@@ -1,0 +1,1853 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HEATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>HEATING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>HEATING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>HEATING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>HEATING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>794648CENTRALHEATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>794648CENTRALHEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>794648CENTRALHEATING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>motor813704HEATINGCOILSINFUELOIL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>motor813704HEATINGCOILSINFUELOIL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>motor813704HEATINGCOILSINFUELOIL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>system851802HEATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>system851802HEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>system851802HEATING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PREHEATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PREHEATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PREHEATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUMPflHOTWATERHEATERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMPflHOTWATERHEATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PUMPflHOTWATERHEATERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PREHEATERINPRIMARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PREHEATERINPRIMARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PREHEATERINPRIMARY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PREHEATERINSECONDARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PREHEATERINSECONDARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PREHEATERINSECONDARY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEATERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>HEATERS - ref.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>ANTICONDENSATION HEATERS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>ANTICONDENSATION HEATERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEATHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>WEATHER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SEVERE WEATHER PROCEDURES .................................................................................12</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>         SEVERE WEATHER PROCEDURES                 General                Preparations for Heavy Weather   Moored Operations Mode                Prepa</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\15 MAIN DECK PORT AFT.pdf</filepath>
+        <Paragraphs>WEATHER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>ALL WEATHER MATS PROTECCI323N INTERIOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>WEATHER RADIO  XMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>uruno  VR       WEATHER FACSIMILE  Furuno FAX     SAT COMMUNICATIONS  VSAT  COMMUNICATIONS     SATELLITTE COMMUNICATIONS    X INMARSAT C   GMDSS AREA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>uruno  VR       WEATHER FACSIMILE  Furuno FAX     SAT COMMUNICATIONS  VSAT  COMMUNICATIONS     SATELLITTE COMMUNICATIONS    X INMARSAT C   GMDSS AREA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>uruno  VR       WEATHER FACSIMILE  Furuno FAX      COMMUNICATIONS     SATELLITTE COMMUNICATIONS    X INMARSAT C   GMDSS AREA    Furuno Felcom      VHF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>uruno  VR       WEATHER FACSIMILE  Furuno FAX      COMMUNICATIONS     SATELLITTE COMMUNICATIONS    X INMARSAT C   GMDSS AREA    Furuno Felcom      VHF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs> Globe Offshore WEATHER RADIO  XM SPECIAL EQUIPMENT CRANE  None   LT     ft        MT     M SURVIVAL CRAFT         Man          Man In   atable Life R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB034 - Removing DATs Load Ring from Telescopic Joint R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>  SEA STATE AND WEATHER MUST BE TAKEN INTO CONSIDERATION BEFORE COMMENCING WITH THE JOB   IT WILL NOT BE SAFE TO LOWER A MAN ON A RIDING BELT IF THE L</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>HEAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>841-HB-003-ATHRUSTER COOLING HEAT EXCHANGER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\27 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>FAULTY -CAUSING HEAT LEVEL VARIATION FREEZERS TEMPERATURE  KEPT WITHIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\17a02ph.pdf</filepath>
+        <Paragraphs>OPTICAL SMOKE   HEAT DETECTOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>166961-TSH-04-013ADDR. HEAT DET. WITH CEILING MOUNTINGA327COFFEE SHOP (SMOKING)COFFEE SHOP (SMOKING) A327UPPER DECK3026DA961E01</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>ADDR. HEAT DET. WITH DECK HEAD MOUNTING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>    RESISTAN T  HEAT   COLD RESISTANT  CUT PROTECTION   For additional details  please see page      CATEGORY OVERVIEW P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>SCRATCHES AND HEAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_HEAT_PROTECTOR_Fine_Hair-_Heat_Protection_and_Shine_(98781633).pdf</filepath>
+        <Paragraphs>antene Pro   V  HEAT PROTECTOR  Fine Hair      Heat Prot ection and Shine   Page      of        MATERIAL SAFETY DATA SHEET Finished Product      SECTI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_NORMAL-Thick_Hair_Style_HEAT_PROTECTOR_Heat_Protection_and_Shine_(98781626).pdf</filepath>
+        <Paragraphs>ck Hair Style   HEAT PROTECTOR Heat Protection and Shine   Page      of        MATERIAL SAFETY DATA SHEET Finished Product      SECTION       CHEMICAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      RECORD ROOM TEMPERATURE AT END OF 40 MINUTE HEAT RUN                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>095030075RG550663TT554200                DOUBLE HEAT TREAT,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>LIFT SUB, CUSTOMER SPECIFICATION;OUTSIDE DOUBLE HEAT TREAT,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>3.2 HEAT EXCHANGERS............................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DETECTORS811HEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DETECTORS811HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>DETECTORS811HEAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TANKS711HEATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TANKS711HEATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>TANKS711HEATING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INSULATIONOFPREHEATERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INSULATIONOFPREHEATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>INSULATIONOFPREHEATERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OTHER-551REHEATER641REMAINING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OTHER-551REHEATER641REMAINING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>OTHER-551REHEATER641REMAINING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREATMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>TREATMENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\04 Jun Fresh Water Treatment Room .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   FRESH WATER TREATMENT ROOM         22:00 HRS JUN 04th 2014SYNTHETIC OIL BUCKET LEFT OPEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M130FRESH WATER TREATMENT ROOMFRESH WATER TREATMENT ROOM M130LOWER DECK3026DA961E013F327TYCO811PHZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP815.pdf</filepath>
+        <Paragraphs>961-YSH-11-025C FRESH WATER TREATMENT ROOM M130 LOWER DECK F327</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP810.pdf</filepath>
+        <Paragraphs>961-YSH-13-004 SEWAGE TREATMENT ROOM 52P COLUMN F217</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_iThrive_Color_Vibrancy_Treatment_96965325_27-JUN-2014.pdf</filepath>
+        <Paragraphs> COLOR VIBRANCY TREATMENT  Product Type  Finished Product   Consumer  Retail  and Professional Use  Recommended Use  Personal Beauty Care Product  Syn</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-DER 410_Pink_Lotion_Soap_Gallon_DER 410_msds.pdf</filepath>
+        <Paragraphs>TREATMENT PLANTS. POTENTIAL:  Biodegradation:  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>          BASIC TREATMENT                                                                  Establish a patent airway with suction where necessary    W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Idcide-20_Rheochem.pdf</filepath>
+        <Paragraphs>DDITIVE   WATER TREATMENT Use s  Synonym s  IDCIDE    MSDS Date    April      NOT CLASSIFIED AS HAZARDOUS ACCORDING TO NOHSC CRITERIA    HAZARDS IDENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder.pdf</filepath>
+        <Paragraphs>ICATION   WATER TREATMENT ALUM   ALUMINIUM SULPHATE HYDRATE   ALUMINIUM TRISULPHATE   MINTECH CHEMICAL ALUMINIUMSULPHATE POWDER   Fax Stock Number Sup</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder_001.pdf</filepath>
+        <Paragraphs>ICATION   WATER TREATMENT ALUM   ALUMINIUM SULPHATE HYDRATE   ALUMINIUM TRISULPHATE   MINTECH CHEMICAL ALUMINIUMSULPHATE POWDER   Fax Stock Number Sup</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>6.1 SEA WATER TREATMENT .......................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\28 SEWAGE TREATMENT ROOM .pdf</filepath>
+        <Paragraphs>TREATMENT ROOM 52 P </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>SURFACE TREATMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>HEATER MEGGER 1000 M OHMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0031FLANGE TYPE HEATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>  SPACE HEATER PORT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\4. Maquinas Principales (Main Diesel Engines)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>SEAL-SHAFT ENGINE OIL HEATER PUMP197-2034</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREATHING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.14   BREATHING AIR SYSTEM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\10 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>BREATHING MANIFOLD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>BREATHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+        <Paragraphs>BREATHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+        <Paragraphs>BREATHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>AIR CYLINDERS SCBA (SELF CONTAINED BREATHING A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927 APROBADA.pdf</filepath>
+        <Paragraphs>BREATHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927.pdf</filepath>
+        <Paragraphs>BREATHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.3 Work Orders.pdf</filepath>
+        <Paragraphs>961-YSH-07-012 CASCADE BREATHING COMPRESSOR ROOM M333 UPPER DECK F551</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>CASCADE BREATHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP840.pdf</filepath>
+        <Paragraphs>961-YSH-07-012 CASCADE BREATHING COMPRESSOR ROOM M333 UPPER DECK F551</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP855.pdf</filepath>
+        <Paragraphs>COMBUSTIBLE GAS DETECTOR 961-ASH-011 HC GAS DETECTOR,ABOVE CASCADE BREATHING COMPRESSOR ROOM M333</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>PTIMAL BREATHING COMFORT FOR LONG-TERM W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.6 Work Orders.pdf</filepath>
+        <Paragraphs>961-YSH-07-012 CASCADE BREATHING COMPRESSOR ROOM M333 UPPER DECK F551</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Clean-Up_wBleach_35416_msds.pdf</filepath>
+        <Paragraphs>IF BREATHING IS AFFECTED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>COMBUSTIBLE GAS DETECTOR 961-ASH-011 HC GAS DETECTOR,ABOVE CASCADE BREATHING COMPRESSOR ROOM M333</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\1 Almacen-Warehouse\755.PW08 Formatos Almacen\755.PW08.F05 - Formato Vale de salida.docx</filepath>
+        <Paragraphs>          VALVE SEAT                    EA                                              SHAFT SEAL                        EA                          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>SEAT FOR CRASH AND RESCUE TOOL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>SEAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>SEAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>BODY *SPACER WASHERS DISC GUIDE SEAT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>SEAT SLINGS A removable seat sling provides job versatility   and added comfort during long hours of use.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>built-in to avoid slipping or may be removable.  þSEAT SEAT   þSLINGS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>or binding. BELT, LEG &amp; SEAT STRAP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Pumps+Valves4_MudGateValves_081129(2).pdf</filepath>
+        <Paragraphs>WORKING PRESSURE END CONNECTION SEAT MATERIAL t</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>BODY HAS A MACHINED SEAT TO HOLD SCREEN SECURELY. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>FULL BORE OPENING SAFETY VALVE NON RETURN SAFETY VALVE (GREY VALVE) RELEASE TOOL VALVE SEAT VALVE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>SEAT NBR F/B'FLY VALVE 6" F14</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0051 WOM Gate Valve\Order Confirmation L43575_ODN2-11-0051.pdf</filepath>
+        <Paragraphs>EA  9/30/2011         891.52  SEAT ASSEMBLY 1-13/16" &amp; 2-1/8"-7500 PSI  $1.00    445.76  Page 1  of  2  Sales Order / Acknowledgement </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0052 WOM Vlalve Mud\Order Confirmation L43556  ODN2-11-0052.pdf</filepath>
+        <Paragraphs>EA  9/20/2011        1,305.92  SEAT ASSEMBLY  $1.00    652.96  J </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0053 WOM Valve Mud\order Confirmation L43580  ODN2-11-0053.pdf</filepath>
+        <Paragraphs>EA  9/30/2011        2,215.36  SEAT ASSEMBLY  $1.00    1,107.68  J </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>0182FORCE-OFF DEVICE 1 EA BN  11 . 49000  2158 VALVE   SEAT   REFRACING   DEVICE 1EABN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>921SEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>921SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>OT C COMMODATI O 921SEAT FOR STRETCHER BOX1EA0.0210.0210.02138.2984.46343.362921TF-FASE-054</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>944SEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>944SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>OT C COMMODATI O 944SEAT FOR TRANSFER BASKET BOX1EA0.0110.0110.01129.92325.21156.712944TF-FASE-050</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEATLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEATLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\01 JUNIO 2014  Subsea Workshop.pdf</filepath>
+        <Paragraphs>PARTS NEATLY STORED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERHEATS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERHEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs> OVERHEATS OR THE FUSIBLE PLUG OR THE TRIP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs> OVERHEATS OR THE FUSIBLE PLUG OR THE TRIP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>THE HYDROMECHANIC COUPLING OVERHEATS OR THE FUSIBLE PLUG OR THE TRIP </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREATMENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREATMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>PROTECTIVE TREATMENTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>PROTECTIVE TREATMENTS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREATMENTSEXTERNAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREATMENTSEXTERNAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>1700  PROTECTIVE TREATMENTSEXTERNAL SURFACES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREATMENTSEXTERNAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>1700  PROTECTIVE TREATMENTSEXTERNAL SURFACES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEATERSMotors</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATERSMotors</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>NTICONDENSATION HEATERSMotors subject to atmospheric condensation  either through standing idle in damp environments or because of wide ambient temper</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATERSMotors</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>NTICONDENSATION HEATERSMotors subject to atmospheric condensation  either through standing idle in damp environments or because of wide ambient temper</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALL-WEATHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALL-WEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>ALL-WEATHER MAT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEAT-TREATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEAT-TREATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mousehole 45FT BX201).pdf</filepath>
+        <Paragraphs>DLES NOT  TO BE HEAT TREATED Testet ihht  Tested acc  to    The lifting equipment is approved tested by  manufacturer   SAMSVARSERKL   RING DECLARATIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEATEX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEATEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>       MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEATEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>       MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEATEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>       MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEATEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>       MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1412961-HS-004COLD ROOM ALARM SWITCHA212Meat FreezeA212 MEAT FREEZETWEEN DECK3026DA961E014-TYCO-Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\SRV323.pdf</filepath>
+        <Paragraphs>5. REPEAT section 4, in CCW rotation</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\8. Mesa Rotaria (Rotary Table)\8.4 Work Orders.pdf</filepath>
+        <Paragraphs>5. REPEAT section 4, in CCW rotation</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0040HEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0040HEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0040HEAT SHRINK SLEEVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPACEHEATERRESET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPACEHEATERRESET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>SPACEHEATERRESET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPACEHEATERGND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPACEHEATERGND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>SPACEHEATERGND Figure      External Wiring for the Vibraswitch  Model       Switch shown in normal or reset position   reverses on actuation from incr</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEATERIn</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATERIn</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs> GPage    SPACE HEATERIn some outdoor installations  it may be necessary to install a space heater to prevent moisture condensa tion Asmallconventiona</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Heater Resistor ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KOREATMR-E-73A5S-GE-TDNV-2008-OSL-ATEX-2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KOREATMR-E-73A5S-GE-TDNV-2008-OSL-ATEX-2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>3167-LSHL-307IASDRAIN TRANSTER TANK CDTK207 LEVEL1CELLAR DECK / SafetyHANLA LEVELSOUTH KOREATMR-E-73A5S-GE-TDNV-2008-OSL-ATEX-2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEATURES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>&amp; ! ADDITIONAL FEATURES 3</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>tainless steel  FEATURES AND BENEFITS      ROOFSAFE    RAIL GREAT AESTHETICS  UNCOMPROMISING SAFETY    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ptimum comfort  FEATURES AND BENEFITS   SNR   Energized for personal comfort and performance  FEATURES AND BENEFITS   SNR    www honeywellsafety com</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>FEATURES AND BENEFITS A1 A B C A2 A3 C B                 Position Indicator Switches*Position Indicator Switches are available to</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>  FEATURES  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>HKB FEATURES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>HKB FEATURES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEATURES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>AND NOVEL FEATURES OF THE SUBJECT MATTER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WORKSEATS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WORKSEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>S        BELTS  WORKSEATS   ACCESSORIES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WORKSEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>TS, WORKSEATS &amp; ACCESSORIES þ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREATHABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREATHABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>BREATHABLE LININGS The ExoFit      series of harnesses feature breathable linings that wick moisture away from your body  so you stay dry and comforta</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>entanglement for enhanced safety. þBREATHABLE BREATHABLE   þLININGS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>SAFETY BREATHABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEAT-BELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEAT-BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>rk comfort    D SEAT BELT      Small D rings    designed for    Cynch Lok       fall restrict    device    S shaped large full       oating D rings  f</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GREAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GREAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>OOFSAFE    RAIL GREAT AESTHETICS  UNCOMPROMISING SAFETY    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GREAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>Y, AND WITH GREAT FORCE. USE  EXTREME CARE WHILE ADJUST</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GREAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>Y, AND WITH GREAT FORCE. USE  EXTREME CARE WHILE ADJUST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEATURED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEATURED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs> OVERVIEW       FEATURED PRODUCTS   Each job application and environment requires a different degree of mechanical protection  dexterity  and grip  Us</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REATA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REATA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>1,8 m. ESLINGAS CON ABSORBEDOR DE CHOQUE Y PUNTO DE ANCLAJE EN REATA  Eslinga en reata de 1, de doble terminal </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REATAESLINGAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REATAESLINGAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>9017933ESLINGAS CON ABSORBEDOR DE ENERGÍA Y PUNTO DE ANCLAJE EN REATAESLINGAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>movement along the rail provides hands-free protection. þKEYKEY  FEAT þuU RES 103 UNI 8231 / U þnilineNILINE 231  þ þA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEATHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>LEATHER HOLSTERen-US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ALUMINIZED LEATHER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CREATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CREATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>10 MAKE PPE ACCESSIBLE AND CREATE THE NEED TO BE PROTECTEDThe Honeywell Tradesmen PPE Offer: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEATURESClarityTM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEATURESClarityTM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> Snap-in ear cushions make replacement quick and easy. FEATURESClarityTM EARMUFFS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GREATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GREATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ACETATE SCREENS: GREATER RESISTANCE TO CHEMICALS AND SCRATCHES Application</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEATBAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEATBAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>WEATBAND FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEATH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEATH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> Recommendations OXYGEN DEFICIENCY: RISK OF DEATH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEATH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>IF NOT AVOIDED, WILL RESULT IN DEATH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>223PERMEATION224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>223PERMEATION224</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>y for guidance     PERMEATION    refers for the time necessary for a chemical product to penetrate </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEATHEREN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEATHEREN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>TION FROM THE WEATHEREN 13034:2009: Type 6 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREATMENTSC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREATMENTSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>TREATMENTSC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEATURESACCESSORIESConforms</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEATURESACCESSORIESConforms</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>URES BENEFITS   FEATURESACCESSORIESConforms to EN     and EN    www honeywellsafety com</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\1 3 Butadiene C4H6 Safety Data Sheet SDS P4571.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         MAY CAUSE GENETIC DEFECTS   H         MAY CAUSE C ANCER  Inhalation    CGA   HG        MAY FORM EXPLOSIVE MIXTURES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\1 Butene C4H8 Safety Data Sheet SDS P6214.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   C G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene Gas C2H2 Safety Data Sheet SDS P4559.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   Pre</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene Gas C2H2 Safety Data Sheet SDS P4559_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   Pre</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene in DMF Trailer Cylinder Gas C2H2 Safety Data Sheet SDS P6201.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   Pre</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Air Medipure Plasma N2O2 Safety Data Sheet SDS P4560.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   CGA   HG        MAY SUPPORT COMBUSTION    Precautionary   statements  GHS   US        P         Do not handle until all safet</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ammonia NH3 Safety Data Sheet SDS P4562.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         TOXIC IF INHALED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         VERY TOXIC TO AQUATIC LIFE   CGA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ammonia NH3 Safety Data Sheet SDS P4562_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         TOXIC IF INHALED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         VERY TOXIC TO AQUATIC LIFE   CGA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Argon Gas Ar Safety Data Sheet SDS P4563.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Banana Gas 32 Gas Mixture Mixture of C2H4 and CO2 Safety Data Sheet SDS P4818.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CG A   HG        MAY CAUSE FROSTBITE    CGA   HG        MA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Boron Trichloride BCl3 Safety Data Sheet SDS P4566.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         TOXIC IF INHALED   CGA   HG        CORROSIVE  TO THE RESPIRATOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Boron Trifluoride BF3 Safety Data Sheet SDS P4567.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         CAUSES S ERIOUS EYE DAMAGE   H         FATAL IF INHALED   H    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butane C4H10 Safety Data Sheet SDS P4572.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Carbon Monoxide CO Safety Data Sheet SDS P4576.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         TOXIC IF INHALED   H         MAY DAMAGE FERTILITY OR THE UNBO RN CHILD   H         CAUSES DAMAGE TO ORGANS  CENTRAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Chlorine Cl 2Safety Data Sheet SDS P4580.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H          CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         VERY TOXIC TO AQUATIC LIFE   CGA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cis 2 Butene C4H8 Safety Data Sheet SDS P4577.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Compressed gas nos Nitrogen Silane Mixture of N2 and SiH4 Safety Data Sheet SDS P196399.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Custom Blended Mixtures Hydrostar H5N Gas Mixtures of H2 and N2 Safety SDS P6291.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Deuterium D2 Safety Data Sheet SDS P4585.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH  AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dimethyl Ether C2H6O Safety Data Sheet SDS P4589.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         MAY CAUSE DROWSINESS OR DIZZINESS   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethane C2H6 Safety Data Sheet SDS P4592.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethylene C2H4 Safety Data Sheet SDS P4598.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         MAY CAUSE DROWSINESS OR DIZZINESS   OSH A   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethylene C2H4 Safety Data Sheet SDS P4598_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         MAY CAUSE DROWSINESS OR DIZZINESS   OSH A   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Extendapak Food Gases EX 30 38 Mixtures of CO2 and O2 Safety Data Sheet SDS P6303.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Extendapak Food Gases Mixtures of CO2 N2 and O2 Safety Data Sheet SDS P6232.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   CGA   H G        MAY CAUSE FROSTBITE    CGA   HG        MAY INCREASE RESPIRATION AND HEART RATE    Precautionary statements  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Extendapak Food Gases Mixtures of CO2 N2 O2 and Ar Safety Data Sheet SDS P6231.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID   SUFFOCATION    CGA   HG        MAY SUPPORT COMBUSTION    CGA   HG      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Germanium Tetrafluoride GeF4 Safety Data Sheet SDS P4822.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         CAUSES DAMAGE TO ORGANS THROUGH PR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 116 C2F6 Safety Data Sheet SDS P4670.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAU SE FROSTBITE    Precautionary stat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 134A C2F4H2 Safety Data Sheet SDS P6213.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG         MAY CAUSE FROSTBITE    Precautionary stat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 14 CF4 Safety Data Sheet SDS P4665.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCA TION    Precautionary statements  GHS   US        P         Do no</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 218 Perfluoropropane C3F8 Safety Data Sheet SDS P4640.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   H G        MAY CAUSE FROSTBITE    Precautionary stat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 218 Perfluoropropane C3F8 Safety Data Sheet SDS P4640_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   H G        MAY CAUSE FROSTBITE    Precautionary stat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 22 CHCIF2 Safety Data Sheet SDS P4667.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         HARMS PUBLIC HEALTH AND THE ENVIRONMENT BY DESTROYING OZONE IN  THE UPPER ATMOSPHERE   OSHA   H        MAY DISPLACE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 23 CHF3 Safety Data Sheet SDS P4668.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    Precautionary state</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon C318 C4F8 Safety Data Sheet SDS P4671.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    Precautionary state</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A1025 Helium Mixture of Ar He and CO2 Safety Data Sheet SDS P4713.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    Precautionary state</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A25 Shielding Gas Mixtures of Ar and He Safety Data Sheet SDS P4717.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A50 Shielding Gas Mixtures of Ar and He Safety Data Sheet SDS P6297.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A75 Shielding Gas Mixtures of Ar and He Safety Data Sheet SDS P4716.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar CS HeliStar SS Mixture of Ar He and CO2 Safety Data Sheet SDS P4710.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar GV Shielding Gas Stargon VS Shielding Gas Mixture of Ar CO2 and Hen SDS P6299.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar Shielding Gas Mixtures of He Ar and O2 Safety Data Sheet SDS P6300.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Helium LaserStar Medipure UltraLift Gas He Safety Data Sheet SDS P4602.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         D o no</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HFC 32 CH2F2 Safety Data Sheet SDS P6205.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIV E MIXTURES WITH AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HFC 32 CH2F2 Safety Data Sheet SDS P6205_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIV E MIXTURES WITH AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hydrogen Chloride HCl2 Safety Data Sheet SDS P4606.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H          TOXIC IF INHALED   CGA   HG        CORROSIVE TO THE RESPIRATOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hydrogen Gas H2 Safety Data Sheet SDS P4604.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hydrogen Sulfide H2S Safety Data Sheet SDS P4611.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         FATAL IF INHALED   H         MAY CAUSE RESPIRATORY IRRITATION   H         VERY TOXIC TO AQUATIC LIFE   CGA   HG    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar H2 Shielding Gas Mixture of H2 and Ar Safety Data Sheet SDS P4860.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar PBSS Mixture of Ar CO2 and H2 Safety Data Sheet SDS P6296.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ion Implantation Mixture of AsH3 and H2 Safety Data Sheet SDS P4871.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         FATAL IF INHALED   H         MAY CAUSE CANCER   H         MAY CAUSE DAMAGE TO ORGANS THROUGH PROLONGED OR REPEATED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Isobutane C4H10 Safety Data Sheet SDS P4613.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID S UFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Isobutane C4H10 Safety Data Sheet SDS P4613_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID S UFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Isobutylene C4H8 Safety Data Sheet SDS P4614.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIX TURES WITH AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Krypton Gas Kr Safety Data Sheet SDS P4616.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied gas n o s octafluorotetrahydrofuran C4F8O Safety Data Sheet SDS P6268.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    Precautionar y stat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied gas n o s octafluorotetrahydrofuran C4F8O Safety Data Sheet SDS P6268_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    Precautionar y stat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied Petroleum Gas C3H8 Safety Data Sheet SDS P4646.pdf</filepath>
+        <Paragraphs>MAY EXPL ODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methane CH4 Safety Data Sheet SDS P4618.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   Pre</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Chloride CH3Cl Safety Data Sheet SDS P4622.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   H         SUSPECTED OF CAUSING CANCER   H         MAY CAUSE DAMAGE TO ORGANS LUNG  KIDNEYS  LI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Fluoride CH3F Safety Data Sheet SDS P4623.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Fluoride CH3F Safety Data Sheet SDS P4623_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Natural Gas CH4 C2H6 C3H8 and C4H10 Safety Data Sheet SDS P4627.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFO CATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   Pr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Neon Gas Ne Safety Data Sheet SDS P4629.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitric Oxide NO Safety Data Sheet SDS P4632.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         MAY CAUSE DAMAGE TO ORGANS  lung  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Dioxide NO2 and N2O4 Safety Data Sheet SDS P4633.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         CAUSES SERIOUS EYE DAMAGE   H         FATAL IF INHALED   Precau</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   CGA   HG        ASPHYXIATING EVEN WITH ADEQUATE OXYGEN    CGA   HG        SYMPTOMS MAY BE DELA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Phosphine PH3 Safety Data Sheet SDS P4643.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         VERY TOXIC TO AQUATIC LIFE   CGA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Chlorosilane A199 Dichlorosilane Cl2H2Si Safety Data Sheet SDS P4587.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND E YE DAMAGE   H         FATAL IF INHALED   CGA   HG        CORROSIVE TO THE RESPIRATOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair FG 2 C3H6 Safety Data Sheet SDS P4617.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTUR ES WITH AIR   CG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Monochlorosilane ClH3Si Safety Data Sheet SDS P196401.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         TOXIC IF INHAL ED   CGA   HG        MAY FORM EXPLOSIVE MIXTURES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Propylene C3H6 Safety Data Sheet SDS P4648.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Robostar AL Mixtures of Ar and He Safety Data Sheet SDS P6306.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Silane SiH4 Safety Data Sheet SDS P4649.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   Precautionary statements  GHS   US        P         Do not handle until all safety precautions</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarFlame C Cutting Fuel Safety Data Sheet SDS P196378.pdf</filepath>
+        <Paragraphs>H280 - CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarGold C10 C15 C18 C20 C25 C40 C50 Shielding Gas Mixtures of Ar and CO2 SDS P4715.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarGold C5 C8 MIG Mix Gold Shielding Gas Mixtures of Ar and CO2 Safety Data Sheet SDS P4714.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarGold O1 O2 O5 M1 M2 M5 Sigma 1 2 5 Mixtures of Ar and O2 Safety Data Sheet SDS P4718.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stargon and Stargon SS Mixture of Ar CO2 and O2 or N2 Safety Data Sheet SDS P4788.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sulfur Dioxide SO2 Safety Data Sheet SDS P4655.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         TOXIC IF INHALED   CGA   HG        CORROSIVE TO THE RESPIRATORY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sulfur Hexafluoride SF6 Safety Data Sheet SDS P4657.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    Precautionary state</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\trans 2 Butene C4H8 Safety Data Sheet SDS P4578.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\trans 2 Butene C4H8 Safety Data Sheet SDS P4578_001.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE FROSTBITE    CGA   HG        MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Xenon Gas Xe Safety Data Sheet SDS P4677.pdf</filepath>
+        <Paragraphs> MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  GHS   US        P         Do not</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HYDROTREATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HYDROTREATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000009774_Raid_Ant_Killer_16_Unscented.pdf</filepath>
+        <Paragraphs> HYDROTREATED LIGHT  PROPANE                         ISOBUTANE                         Isopropanol                        PIPERONYL BUTOXIDE          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPEATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Boron Trifluoride BF3 Safety Data Sheet SDS P4567.pdf</filepath>
+        <Paragraphs>GH PROLONGED OR REPEATED  EXPOSURE        Aspiration hazard       Not c lassified   SECTION     Ecological information             Toxicity   Ecology </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butchers_Bathmate_Command_Center_Cleaner_4304150_msds.pdf</filepath>
+        <Paragraphs>   PROLONGED OR REPEATED SKIN CONTACT  MAY CAUSE ALLERGIC REACTIONS IN SOME INDIVIDUALS       FIRE FIGHTING MEASURES  Call a poison control center or </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Carbon Monoxide CO Safety Data Sheet SDS P4576.pdf</filepath>
+        <Paragraphs>H  PROLONGED OR REPEATED EXPOSURE   CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA   HG        ASPHYXIATING EVEN WITH ADEQUATE OXYGEN    P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Germanium Tetrafluoride GeF4 Safety Data Sheet SDS P4822.pdf</filepath>
+        <Paragraphs>GH PROLONGED OR REPEATED  EXPOSURE   Precautionary statements  GHS   US        P         Do not handle until all safety prec autions have been read an</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hexane CH3CH24CH3 or C6H14 Safety Data Sheet SDS P6228.pdf</filepath>
+        <Paragraphs>GH PROLONGED OR REPEATED  EXPOSURE   H         TOXIC TO AQUATIC LIFE WITH LONG LASTING EFFECTS   Precautionary statements  GHS   US        P         K</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ion Implantation Mixture of AsH3 and H2 Safety Data Sheet SDS P4871.pdf</filepath>
+        <Paragraphs>GH PROLONGED OR REPEATED  EXPOSURE   Precautionary statements  GHS   US        P         Obtain special instructions before use   P          Do not ha</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Chloride CH3Cl Safety Data Sheet SDS P4622.pdf</filepath>
+        <Paragraphs>GH PROLONGED OR REPEATED EXPOSURE   CGA   HG        MAY FORM EXPLOSIVE MIXTU RES WITH AIR   CGA   HG        MAY CAUSE FROSTBITE    Precautionary state</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs>GH PROLONGED OR REPEATED EXPOSURE   Precautionary statements  GHS   US        P         Do not handle until all safety precautions have been read and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarFlame C Cutting Fuel Safety Data Sheet SDS P196378.pdf</filepath>
+        <Paragraphs>OR REPEATED EXPOSURE  ------ </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WHEATGERMAMPHODIACETATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WHEATGERMAMPHODIACETATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs> DISODIUM WHEATGERMAMPHODIACETATE            977169304       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DILINOLEATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DILINOLEATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>LINOLEAMIDOPROPYL DIMETHYLAMINE DIMER DILINOLEATE    125804106 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CREATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CREATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>MSDS CREATION DATE:  04/28/00 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Hand Soap Tangerine Treat.pdf</filepath>
+        <Paragraphs>  SOFTSOAP FOAMING HAND SOAP TANGERINE TREAT This industrial Material Safety Data Sheet provides </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREATHE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREATHE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarFlame C Cutting Fuel Safety Data Sheet SDS P196378.pdf</filepath>
+        <Paragraphs>BREATHE FUMES AND GASES.  Use enough ventilati</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREATCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREATCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Treatco MSDS English.pdf</filepath>
+        <Paragraphs>TREATCO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REATMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REATMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>P RELIMINARY  T REATMENT                                                                                                                              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TREAT-3C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TREAT-3C</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYTREAT_3C_0.pdf</filepath>
+        <Paragraphs>RE PUMPING CLAY TREAT  C CLAY CONTROL          ITEM NUMBER            ITEM NUMBER            ITEM NUMBER   CLAYTREAT  C    May      Fax Supplier Name </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TREAT-3C</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYTREAT_3C_0_001.pdf</filepath>
+        <Paragraphs>RE PUMPING CLAY TREAT  C CLAY CONTROL          ITEM NUMBER            ITEM NUMBER            ITEM NUMBER   CLAYTREAT  C    May      Fax Supplier Name </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLAYTREAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLAYTREAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYTREAT_3C_0.pdf</filepath>
+        <Paragraphs>  ITEM NUMBER   CLAYTREAT  C    May      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  SDS Date Product Name CLASSIFIED AS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLAYTREAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYTREAT_3C_0_001.pdf</filepath>
+        <Paragraphs>  ITEM NUMBER   CLAYTREAT  C    May      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  SDS Date Product Name CLASSIFIED AS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREATHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>        REINSTALL BREATHER BEFORE PUTTING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>AIR BREATHER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>BREATHER FILTER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>BREATHER FILTER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>AIR BREATHER PLUG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Commercial Invoice 48753.pdf</filepath>
+        <Paragraphs>BREATHER FILTER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>BREATHER FILTER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREATHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0074 NOV Riser Granty Crane\ODN2-11-0074 714006KRS REV 1 PART NUNBER.pdf</filepath>
+        <Paragraphs>BREATHER FILTER ELEMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEATING-UP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEATING-UP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      BEARING &amp; HEATING-UP RUN.                                                 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CREATIVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CREATIVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>    INTELLIGENT CREATIVE SOLUTIONS     DRILLING MOTOR ACCESSORIES    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>or NEAT cement required:  Basic Calculations 55 yield, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Determine the number of sacks of TAIL or NEAT cement required:  52  Formuh  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEI-TTEFLON1SEAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEI-TTEFLON1SEAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>NEI-TTEFLON1SEAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEATELASTOMERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEATELASTOMERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>OTHER SEATELASTOMERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs> SEATED POSITION  VIEW   B    TIP  GRABBING THE BASE WITH BOTH HANDS HOLDING THE RAM    IN PLACE VIEW   B  WITH RAM     FACING DOWNWARD  THRUST BASE O</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>UNTIL FIRMLY SEATED  38Varco BJ slipsSDS,SDML,and SDXL Rotary Slips</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GREATEST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GREATEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>GREATEST AT THE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ISGREATLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ISGREATLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>ISGREATLY REDUCED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GREATLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GREATLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>GREATLY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRACEATO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRACEATO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>BRACEATO SHAKER HEADER TANK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEATTIE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEATTIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\Pbc10263 - ProForma Invoice 10263-1 091710.pdf</filepath>
+        <Paragraphs>ITECH BEATTIE CORP REMITTANCE INFO:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEATTIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\Pbc10263 - ProForma Invoice 10263-2 102010.pdf</filepath>
+        <Paragraphs>CONTITECH BEATTIE C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEATS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0049 WOM Valve Mud\Order Confirmation L43573_ODN2-11-0049.pdf</filepath>
+        <Paragraphs>EA  9/30/2011        3,439.80  SEAL ASSEMBLY 3"-10K CIW/MAGNUM W/ SKIRTED SEATS  $1.00    3,439.80  J </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEATS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0054 WOM Gate Valve\Order confirmation L43572_ODN2-11-0054.pdf</filepath>
+        <Paragraphs>EA  9/30/2011        5,140.80  SEAL ASSEMBLY 4"-15K CIW W/SKIRTED SEATS  $1.00    5,140.80  J </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPEATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPEATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0092 NOV Guide ARM ET\Sales Order Acknowledgement 712571KRS ~07252011031529.pdf</filepath>
+        <Paragraphs>POTMETER REPEATER EEXI.1CH.4-20MA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVESEATREFRACINGDEVICE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVESEATREFRACINGDEVICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>2158 VALVESEATREFRACINGDEVICE 1EABN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

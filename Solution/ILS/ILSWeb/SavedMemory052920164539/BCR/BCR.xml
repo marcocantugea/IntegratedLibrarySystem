@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Manual thruster control is provided at the CCR and BCR and each thruster control panel </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs> at the CCR and BCR and each thruster control panel connects bya dedicated  fibre  network to the thruster s field station providing independence in t</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>LECR, BCR and Toolpushers Office Matrix Panels ............................................ 21</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLBCREAU81</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLBCREAU81</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLBCREAU81.pdf</filepath>
+        <Paragraphs>CLBCREAU81</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>applicableCLBCREAU81</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>applicableCLBCREAU81</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLBCREAU81.pdf</filepath>
+        <Paragraphs>ACGIH TLV-TWAHemicellulase enzyme9012-54-81 - 5%Not applicableNot applicableNot applicableCLBCREAU81</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>CollarRecessRecessRecess DiameterDiameterDiameter Radius ABCR (in)(in)(in)(in) 41/8311/1633/4</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RADIUSABCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RADIUSABCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>RADIUSABCR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

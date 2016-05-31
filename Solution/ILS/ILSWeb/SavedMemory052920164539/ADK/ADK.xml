@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SEGURIDADKIMTECH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGURIDADKIMTECH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-06070-MSDS-E_SP_KIMTECH PURE CL-4 PreSat Wipes.pdf</filepath>
+        <Paragraphs>1/7 FICHA DE DATOS DE SEGURIDADKIMTECH PURE* CL4 Pre-Sat Wipers - 70% Isopropyl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGURIDADKIMTECH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33330-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>CHA DE DATOS DE SEGURIDADKIMTECH PURE  W  Wipers    IDENTIFICACION DE LA SUBSTANCIA PREPARADO Y DE LA  SOCIEDAD EMPRESA  Nombre del producto   KIMTECH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGURIDADKIMTECH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34622-MSDS-E_SP_KIMTECH SCIENCE KIMWIPES Lens Cleaning Station Solution.pdf</filepath>
+        <Paragraphs>1/6 FICHA DE DATOS DE SEGURIDADKIMTECH SCIENCE* KIMWIPES® Lens Cleaning Station</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGURIDADKIMTECH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58040-MSDS-E_SP  KIMTECH PREP Surface Sanitizer Wipe.pdf</filepath>
+        <Paragraphs>CHA DE DATOS DE SEGURIDADKIMTECH PREP  Surface Sanitizer Wipe    IDENTIFICACION DE LA SUBSTANCIA PREPARADO Y DE LA  SOCIEDAD EMPRESA  Nombre del produ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGURIDADKIMCARE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGURIDADKIMCARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91175-MSDS-E_SP.12.22.12.pdf</filepath>
+        <Paragraphs>CHA DE DATOS DE SEGURIDADKIMCARE GENERAL  Luxury Foam Soap    IDENTIFICACION DE LA SUBSTANCIA PREPARADO Y DE LA  SOCIEDAD EMPRESA  Nombre del producto</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

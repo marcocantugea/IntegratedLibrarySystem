@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DVS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DVS  -</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DVS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron TC-1001 U-UM- Parts Catalog.pdf</filepath>
+        <Paragraphs>        DSI and DVS Shear Rams        Variable Bore Rams                   Inserted Packers        CAMRAM     Packers and Top Seals        Optional Ra</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DVS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DVS Shear Ram%&amp;*,-; 012015015012</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THSWVEVSTI-EDVSTI-OR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THSWVEVSTI-EDVSTI-OR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>O-ringRHV/RHZWH / THSWVEVSTI-EDVSTI-OR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VSTI33X2EDVSTI1ED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VSTI33X2EDVSTI1ED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>VSTI33X2EDVSTI1ED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DVShut-off</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVShut-off</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>surface required. DVShut-off valve PN 10 Ð Casing DIN 3512EO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSIandDVSShearRams</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSIandDVSShearRams</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>DSIandDVSShearRams</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DVSShearRams</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVSShearRams</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>DVSShearRams</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DVSShearRamsAvailable</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVSShearRamsAvailable</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>DVSShearRamsAvailable</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DVSramsaresimilarindesigntothestandardshearingblindramsexceptthatbothbladesareV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVSramsaresimilarindesigntothestandardshearingblindramsexceptthatbothbladesareV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>DVSramsaresimilarindesigntothestandardshearingblindramsexceptthatbothbladesareV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LowerDVS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LowerDVS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>T&amp;TLBOP LowerDVS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UpperDVS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UpperDVS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>UpperDVS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

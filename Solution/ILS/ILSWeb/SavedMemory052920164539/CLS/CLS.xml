@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs>EPF  Mac Dermid CLS or Houghton Stack Guard   Ensure      preservation fluid is suitable for temperature and preservation environment       Pressur e </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>Clase CLS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>         AP     CLS Series  CP              CT                LS        LS  EP      GP          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MacDermid_Erifon_603  A4.pdf</filepath>
+        <Paragraphs>or better cleanliness   Compatible with Erifon HD856, Erifon CLS     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLSAU352</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLSAU352</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLSAU352.pdf</filepath>
+        <Paragraphs>CLSAU352</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>applicableCLSAU352</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>applicableCLSAU352</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLSAU352.pdf</filepath>
+        <Paragraphs>ACGIH TLV-TWASodium lauryl sulfate151-21-310 - 30%Not applicableNot applicableNot applicableCLSAU352</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DeterminedCLSAU352</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DeterminedCLSAU352</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLSAU352.pdf</filepath>
+        <Paragraphs>Not DeterminedCLSAU352</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>determinedCLSAU352</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>determinedCLSAU352</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLSAU352.pdf</filepath>
+        <Paragraphs>Not determinedCLSAU352</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SCLSDEasy</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCLSDEasy</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>LevelController SCLSDEasy handling  high functionality and longterm stability service</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

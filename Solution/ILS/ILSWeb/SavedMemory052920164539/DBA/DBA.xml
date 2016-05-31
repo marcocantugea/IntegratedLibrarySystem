@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HauserGermanyPMC71-5CA1SBRDBAAKEMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HauserGermanyPMC71-5CA1SBRDBAAKEMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1604174-PT-003DP/IASCENTER DISCHARGE LINE1M223 Mud Pit Room / ZONE 2Endress HauserGermanyPMC71-5CA1SBRDBAAKEMA 04ATEX2018&lt;Ex&gt; I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HauserGermanyPMC71-5CA1PBRDBAAKEMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HauserGermanyPMC71-5CA1PBRDBAAKEMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1605842-PT-001DP/IASSERVICE SW COOLING LINE PRESSURE1M223 Mud Pit Room / ZONE 2Endress HauserGermanyPMC71-5CA1PBRDBAAKEMA 04ATE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEADBAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEADBAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>mpact256 EAR CUP HEADBAND </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDBALL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDBALL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butchers_Speedball_2000_Cleaner_4223320_msds.pdf</filepath>
+        <Paragraphs>TA SHEET  HMIS  SPEEDBALL      Power Cleaner  NFPA  Personal protective equipment     Version Number      Health     Preparation date              Rea</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARDBANDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARDBANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>OF HARDBANDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARDBAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARDBAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>HARDBAND LOCATION  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARDBAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>HARDBAND LOCATION  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARDBAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>DC HARDBAND TYPE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

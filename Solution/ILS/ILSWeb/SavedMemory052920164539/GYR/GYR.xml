@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SYSTEM41NAVIGATIONANDSEARCHINGEQUIPMENT413GYRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM41NAVIGATIONANDSEARCHINGEQUIPMENT413GYRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>SYSTEM41NAVIGATIONANDSEARCHINGEQUIPMENT413GYRO PLANTS, AUTOPILOTS,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE34-INDEXGYM-GYRSFIGROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE34-INDEXGYM-GYRSFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>804GEN-GUT 267 PAGE34-INDEXGYM-GYRSFIGROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>GYRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>   Furuno GP    GYRO  Robertson RGC    SSB  Sperry RE     Sperry T     N     VHF  Four Sea     RADAR S   Decca BT       Decca BT     RADIO SYSTEM  Spe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYROCOMPASS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYROCOMPASS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>d Observer II   GYROCOMPASS      xC Plath MKI    x Simrad GC      DGPS    x C NAV        MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYROCOMPASS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>d Observer II   GYROCOMPASS      xC Plath MKI    x Simrad GC      DGPS    x C NAV        MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYROCOMPASS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>d Observer II   GYROCOMPASS      xC Plath MKI    x Simrad GC      DGPS    x C NAV        MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYROCOMPASS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>d Observer II   GYROCOMPASS      xC Plath MKI    x Simrad GC      DGPS    x C NAV        MRU    x SEATEX MRU D   RADARS    x Furuno  S Band   X Band  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

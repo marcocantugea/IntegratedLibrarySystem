@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PROTMARCHWAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTMARCHWAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>RM PROTMRACEWAY PROTMARCHWAY XTTMGATEWAY XTTMPASSAGE XTTM       PRO  Raceway </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ACHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>CHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>READYDescargue</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>READYDescargue</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>PythonSafety.com/AWARENESS GU315A DE TETHER READYDescargue nuestra Gu355a de referencia 223Tether </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DYDLODEOH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DYDLODEOH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs> ODEHO W SH DUH DYDLODEOH   HOHFW WKH SULQWHU WKDW  RX ZDQW WR SULQW WR  KH VHOHFWHG SULQWHU LV GLVSOD HG LQ WKH  ULQW DUHD  ULQWLQJ WR D  DEHO ULWHU </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DYDLODEOH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs> ODEHO W SH DUH DYDLODEOH   HOHFW WKH SULQWHU WKDW  RX ZDQW WR SULQW WR  KH VHOHFWHG SULQWHU LV GLVSOD HG LQ WKH  ULQW DUHD  ULQWLQJ WR D  DEHO ULWHU </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

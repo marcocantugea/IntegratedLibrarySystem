@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PEGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PEGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PEGS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0005Inner ring  IR 40 x 50 x 20 EGS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>for ease-of-use and longevity.    TELESCOPING LEGS        Provide fast adjustment and     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>LOCKING LEGS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>LEGS  Provide fast adjustment and  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert.pdf</filepath>
+        <Paragraphs>MIN DEG OF HAZ  REGS         HAZARDS IDENTIFICATION HAZARD CLASSIFICATION   ASubstances that are respiratory sensitisers    COMPOSITION   INFORMATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert_001.pdf</filepath>
+        <Paragraphs>MIN DEG OF HAZ  REGS         HAZARDS IDENTIFICATION HAZARD CLASSIFICATION   ASubstances that are respiratory sensitisers    COMPOSITION   INFORMATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

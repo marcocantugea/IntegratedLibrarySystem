@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENRUTADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENRUTADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\02 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>MANGUERA MAL ENRUTADA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENROLLAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENROLLAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\25 MAR 2014 pasillo babor Tween D 22 00.pdf</filepath>
+        <Paragraphs>SE RECOMIENDA ENROLLAR LAS MAN- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENROLLAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\18 Area del Ancla de linea de perf..pdf</filepath>
+        <Paragraphs>ACCIDENTE  CABLES SIN ENROLLAR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENROLLADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENROLLADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\07 Jun Column Starboard Forward.pdf</filepath>
+        <Paragraphs>MANGUERA C.I. ENROLLADA INCORRECTAMENTE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENRICHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENRICHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>ENRICHMENT Electrochemical Oxygen monitoring for con ned space COMBUSTIBLE GAS Catalytic bead Wide range detection for hydrocarbons HAZMATCAD Plus Det</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENROLLMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENROLLMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>           OPEN ENROLLMENT COURSES   are designed to a standard that ensures  you are trained competently      INDUSTRY SPECIFIC AND CUSTOM COURSES   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENRICHED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENRICHED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dermapro_Enriched_Lotion_Soap_9102_msds.pdf</filepath>
+        <Paragraphs> Name   GOJO    ENRICHED LOTION SOAP  Company Name   Address     GOJO Industries  Inc   One GOJO Plaza  Suite      Akron  OH          Emergency Phone </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENRICHED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Provon_Enriched_Shampoo_for_Body_&amp;_Hair_1000ml_4035-10_msds.pdf</filepath>
+        <Paragraphs>AND COMPANY IDENTIFICATION:    Product Name:  PROVON256 ENRICHED SHAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENRICHED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Provon_Enriched_Shampoo_for_Body_&amp;_Hair_12oz_4012-12_msds.pdf</filepath>
+        <Paragraphs>AND COMPANY IDENTIFICATION:    Product Name:  PROVON256 ENRICHED SHAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENRICHED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Provon_Enriched_Shampoo_for_Body_&amp;_Hair_2000ml_4033-04_msds.pdf</filepath>
+        <Paragraphs>AND COMPANY IDENTIFICATION:    Product Name:  PROVON256 ENRICHED SHAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENRICHED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Provon_Enriched_Shampoo_for_Body_&amp;_Hair_Gallon_4016-04_msds.pdf</filepath>
+        <Paragraphs>AND COMPANY IDENTIFICATION:    Product Name:  PROVON256 ENRICHED SHAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENRICHED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Liquid_Skin_Cleanser_1900-2_msds.pdf</filepath>
+        <Paragraphs>Name    PROVON  ENRICHED LOTION CLEANSER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergen</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

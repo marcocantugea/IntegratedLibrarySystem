@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FRU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs> Recovery Unit  FRU                                                                                                             Accumulator Racks     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\21 Compressor room (tween deck).pdf</filepath>
+        <Paragraphs>FRUM W/OUT ID </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRUIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRUIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004892_Glade_PlugIns_Scented_Oil_Lasting_Impressions_Hawaiian_Breeze_and_Vanilla_Passionfruit_05-10-10.pdf</filepath>
+        <Paragraphs>OIL LASTING IMPRESSIONS  -  HAWAIIAN BREEZE® and VANILLA PASSION FRUIT Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FRUIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Gain_with_Febreze_Freshness_-_Regular_Thai_Dragonfruit_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>DRAGON FRUIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRUITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRUITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Bleach_Rain_Clean_04602_msds.pdf</filepath>
+        <Paragraphs>UID WITH GREEN  FRUITY FLORAL ODOROther DesignationsLaundry BleachtDistributorClorox Sales Company     BroadwayOakland CA      Emergency TelephoneNos </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

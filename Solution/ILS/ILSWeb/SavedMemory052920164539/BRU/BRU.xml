@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BRUSH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRUSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\02 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>PAINT AND BRUSH SCAT-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KRAFTFORBRUK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KRAFTFORBRUK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>KRAFTFORBRUK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRAFTFORBRUK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>KRAFTFORBRUK   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRUNO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRUNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BRUNO_BANANI_MADE_FOR_MEN_Eau_de_Toilette_96424197_10.21.13.pdf</filepath>
+        <Paragraphs>  Product Name  BRUNO BANANI MADE FOR MEN Eau de Toilette  Product Type  Finished Product   Consumer  Retail  Use Only  Recommended use  Personal Beau</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOOTHBRUSH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOOTHBRUSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WISP.pdf</filepath>
+        <Paragraphs>08-Oct-2008  WISP TOOTHBRUSH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

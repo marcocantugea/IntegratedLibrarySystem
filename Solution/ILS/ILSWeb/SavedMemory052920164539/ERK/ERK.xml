@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ZERK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZERK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>DO NOT LEAVE ZERK FITTINGS INSTALLED ON THIS HIGH </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPINNERKS6800Item</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPINNERKS6800Item</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>12  POWER TOOLS 1.39 POWER TOOLS - KELLY SPINNERKS6800Item</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPINNERKS6800Item</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>12  POWER TOOLS 1.39 POWER TOOLS - KELLY SPINNERKS6800Item</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FILTERKERZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FILTERKERZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\AUTO FUEL FILTER_3609DV703M002.pdf</filepath>
+        <Paragraphs>                FILTERKERZE rl          f      I FILTER  ELEMENT            JM                                  JM                               ERSAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

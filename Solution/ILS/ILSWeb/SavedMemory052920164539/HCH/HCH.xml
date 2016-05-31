@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HCHO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCHO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Armatec 110 EpoCem, componente A, B y C.pdf</filepath>
+        <Paragraphs>HCHO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>CYLINDER TOP 50/32 CM 250 CHCH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

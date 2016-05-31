@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ETCFORHULL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETCFORHULL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>ETCFORHULL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMSETC572</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMSETC572</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ROOMSETC572</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC118FILM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC118FILM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC118FILM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC816FOG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC816FOG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC816FOG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC715LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC715LUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC715LUBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC714LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC714LUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC714LUBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC261SIGNS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC261SIGNS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC261SIGNS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETCofunconventional</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETCofunconventional</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETCofunconventional</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STOREROOMSETC576</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STOREROOMSETC576</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>STOREROOMSETC576</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETC573</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC573</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>f/CONTROL R09MS, ETC573</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STRETCHER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STRETCHER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>OT C COMMODATI O 921SEAT FOR STRETCHER BOX1EA0.0210.0210.02138.2984.46343.362921TF-FASE-054</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SKETCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>POWER SOURCE SKETCH OR LOCATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>POWER SOURCE SKETCH OR LOCATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>POWER SOURCE SKETCH OR LOCATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SKETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\AUTO FUEL FILTER_3609DV703M002.pdf</filepath>
+        <Paragraphs>N  designation  SKETCH CODE NO   DRAWING  NO   I  POS  NO  OTS      O RiNG GASKET         Z       I         O   RING GASKET         Z                 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VETCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VETCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs>  wellhead is a VETCO          inch   M SMS       system  The bending capacities of the  conductor and wellhead connectors are given in  Table        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VETCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>RAMA DE CABEZAL VETCO GRAY SMS                                                                                                    ARREGLO DE   PREVENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6 ,".:';;.- CENTRIFUGAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESETCOIL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESETCOIL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>RESETCOIL F L E X U R E P I V O T MICROSWITCHFigure 4-1. Operating Principle for the Vibraswitch, Model 366G.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STRETCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STRETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>PRO STRETCH 100% TIE-OFF SHOCK ABSORBING LANYARDDouble-leg with snap hook and 036at steel rebar hooks at leg ends x 6 ft. (1.8 m)1340121 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>4.TURN the assembly out of the hole. Procedure CAUTION: DO NOT OVER STRETCH the PTFE seal. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>4.TURN the assembly out of the hole. Procedure CAUTION: DO NOT OVER STRETCH the seals. Just slip </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RATCHETCareta</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RATCHETCareta</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>CON AJUSTE TIPO RATCHETCareta para operaciones de esmerilado, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ETCH VEST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETCHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ETCHA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRETCHAB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRETCHAB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>TRETCHAB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FILLETCommon</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FILLETCommon</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>CENTERLOWER FILLETCommon Kelly Fatigue Locations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRGELTETCSSEENGOther</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRGELTETCSSEENGOther</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>BRGELTETCSSEENGOther</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

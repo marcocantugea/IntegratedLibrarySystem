@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>JUNCTIONBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>JUNCTIONBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-024.pdf</filepath>
+        <Paragraphs>B JUNCTIONBOX 9081835 A1/19124330-000 Pro/EERev</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ONBOARD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ONBOARD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ONBOARD PERSONNEL MANAGEMENT, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ONBOARD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>DATA            ONBOARD PERSONNEL MANAGEMENT  CONDUCT AND PROCESSING             SOCIAL COURTESIES        SECTION      VESSEL CHARACTERISTICS         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ONBACK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ONBACK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>12.4 11.4 On-D BACK DRIVE ONBACK DRIVE ON 11KM111.4 11</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROTECTIONBODY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONBODY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>  EYE   HEARING PROTECTIONBODY PROTECTIONBALLISTIC PROTECTIONTHERMAL IMAGINGPORTABLE GAS DETECTIONPERMANENT GAS DETECTIONSERVICE   WORKSHOP SOLUTIONSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROTECTIONBALLISTIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONBALLISTIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs> PROTECTIONBODY PROTECTIONBALLISTIC PROTECTIONTHERMAL IMAGINGPORTABLE GAS DETECTIONPERMANENT GAS DETECTIONSERVICE   WORKSHOP SOLUTIONSSOFTWARE SOLUTIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROTECTIONBallistic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONBallistic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>      BALLISTIC PROTECTIONBallistic Protection    THERMAL IMAGINGCameras   Accessories    PORTABLE GAS DETECTIONSelection Guide   Multi Gas Detectors </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FNLBAPNLOBAHPBAP5ONBA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FNLBAPNLOBAHPBAP5ONBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>FNLBAPNLOBAHPBAP5ONBA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P5ONBABleed</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P5ONBABleed</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10 P5ONBABleed adaptorBleed hose connection/Male UN/UNF thread Ð O-ring (ISO 11926) Thread</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P5ONBA-S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P5ONBA-S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>414 P5ONBA-S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTRODUCTIONBaker</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTRODUCTIONBaker</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Pumps+Valves4_MudGateValves_081129(2).pdf</filepath>
+        <Paragraphs>MUD LINE GATE VALVESDRILLING PRODUCTS  Baker SPD7MUD LINE GATE VALVES INTRODUCTIONBaker SPD Mud Line Gate Valves conform to API Flan</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTRODUCTIONB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTRODUCTIONB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>SPD7MUD LINE GATE VALVES INTRODUCTIONB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONBATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONBATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\20 LOWER SHAKER ROOM.pdf</filepath>
+        <Paragraphs>  PUERTA DE CONBATE ABIERTA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

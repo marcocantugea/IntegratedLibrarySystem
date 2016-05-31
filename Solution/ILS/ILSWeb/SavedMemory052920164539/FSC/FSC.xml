@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>papel procedente de maderas acreditadas por el FSC (Consejo de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>assembled with Parker FSC or properly sized wormgear </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IndexFSC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IndexFSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Adapters  Visual IndexFSC Clamp      D-23 CL Clamp           D-25</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2012-10-15IAFSC26</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2012-10-15IAFSC26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>2012-10-15IAFSC26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

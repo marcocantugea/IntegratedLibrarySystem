@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CVO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CVO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>CVO Presión Parcial Compuesta:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CVO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_RTU-MultiSurfaceWipes.pdf</filepath>
+        <Paragraphs>limpiadores de vidrios del Reporte de CVO para el</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

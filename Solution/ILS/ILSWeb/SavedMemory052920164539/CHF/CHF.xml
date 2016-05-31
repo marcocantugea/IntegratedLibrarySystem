@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MICROSWITCHFigure</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MICROSWITCHFigure</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>RESETCOIL F L E X U R E P I V O T MICROSWITCHFigure 4-1. Operating Principle for the Vibraswitch, Model 366G.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHF5</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHF5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>EN 14126 19DuPont222 Tyvek256 - products Product detailColour/Reference:Model CHF5, White: TYV CHF5 S WH 00</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHF7</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHF7</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>EN 14126 20DuPont222 Tyvek256 - productsProduct detailColour/Reference:Model CHF7, White: TYV CHF7 S WH 00 SIZE: S to XXXL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHF5A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHF5A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>HF   White  TYV CHF A S WH    SIZE  S to XXXL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHF3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHF3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 23 CHF3 Safety Data Sheet SDS P4668.pdf</filepath>
+        <Paragraphs>  Formula       CHF             Relevant identified uses of the substance or mixture and uses advised against   Use of th e substance mixture       In</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

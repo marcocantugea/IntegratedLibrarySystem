@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TFKMNBRDLStainless</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TFKMNBRDLStainless</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>ThreadO-ringO-ringRetaining ring TFKMNBRDLStainless Steel</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>Using lower DLS and AKO settings, the motor can be rotated and used as a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>DLS = (COS-~[(COS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>DLS =   1  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ITEMWEIGHTFOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ITEMWEIGHTFOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ITEMWEIGHTFOR REMOVALVCG-5.12VM GAINVM CUM. (m)m/M  APPENDIX D. La Muralla IV -DAILY STABILITY REPORT E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMWEIGHTFOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>ITEMWEIGHTFOR REMOVALVCG-5.12VM GAINVM CUM. (m)m/M  APPENDIX D. La Muralla IV -DAILY STABILITY REPORT E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\During_a_killing_operation_the_choke_operator_notices_that_both_the_DP_and_Casing_pressure_are_falling_slowly.docx</filepath>
+        <Paragraphs>eak off gave an EMW of      ppg  What is the ECD     Well kill procedures require all rig personnel to be speaking the same language  What does the ab</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>EMW = 12.Oppg Stuck Pipe Calculations Determine </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs> ft)  EMW  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ff  Efficiency  EMW  Equivalent mud weight  EOB  End of build  FCP  Final circulating pressure  FMDPP  Final maximum drillpipe pressure  FP  Formation</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHEMWATCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHEMWATCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>te     Jan      CHEMWATCH       C    EC Version No   CD         Page   of    Section     CHEMICAL PRODUCT AND COMPANY IDENTIFICATION  PRODUCT NAME Roc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHEMWATCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs>te     Nov      CHEMWATCH         XC    SC Version No     CD         Page   of    Section     CHEMICAL PRODUCT AND COMPANY IDENTIFICATION  PRODUCT NAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHEMWATCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>te     May      CHEMWATCH       XC    SC Version No   CD         Page   of    Section     CHEMICAL PRODUCT AND COMPANY IDENTIFICATION  PRODUCT NAME so</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMWppg</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMWppg</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ent Mud Weight  EMWppg  at Bottom Hole  while Circulating out a Kick  EMWppg    ft</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMWLOT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMWLOT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ent Mud Weight  EMWLOT  at Shoe   LOTpsi         x Test MWppg x TVDshoe     Applied Pressure to Leak Offpsi  EMWLOT ppg    shoe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMWFIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMWFIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ent Mud Weight  EMWFIT  at Shoe  FITpsi         x Test MWppg x TVDshoe     Applied Integrity Pressurepsi  EMWFIT ppg    shoe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LAWRENCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAWRENCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>LAWRENCE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AWRod</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AWRod</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>AWRod</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

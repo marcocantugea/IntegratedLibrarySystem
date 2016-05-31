@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DNOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-13-0820 APROBADA.pdf</filepath>
+        <Paragraphs>51 FAX COTIZACION TELEFONO EMAIL PROVEEDOR DNOW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOLIDNOKUNBALANCED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOLIDNOKUNBALANCED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>SOLIDNOKUNBALANCED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

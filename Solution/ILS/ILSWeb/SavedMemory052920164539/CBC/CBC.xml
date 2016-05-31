@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CBCA-LAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CBCA-LAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-005.pdf</filepath>
+        <Paragraphs>lve CBCA-LAN BA0053579  2 Test point </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAA2AAB0CCBC7EFB59B4435FF8A8FD398</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAA2AAB0CCBC7EFB59B4435FF8A8FD398</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>BAA2AAB0CCBC7EFB59B4435FF8A8FD398</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

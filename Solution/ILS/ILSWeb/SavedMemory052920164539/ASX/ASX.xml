@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DEFENSASXTREME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEFENSASXTREME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>520014 APLICACIONES P301GINA 11 - 13 9 DEFENSASXTREME GUARD 58283 HILUX 12-15</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>ASX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

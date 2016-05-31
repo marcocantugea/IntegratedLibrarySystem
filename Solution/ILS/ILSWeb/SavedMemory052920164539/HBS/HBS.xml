@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EHBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Test_AD.docx</filepath>
+        <Paragraphs>      What does EHBS stand for and when is it disarmed                                 What is the procedure for circulating gas out of the riser     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>                HBS Machinery   PNG                QCV Fairview Pty Ltd   Fairview  Qld                Saxon Energy Services Australia Pty Ltd   Qld  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

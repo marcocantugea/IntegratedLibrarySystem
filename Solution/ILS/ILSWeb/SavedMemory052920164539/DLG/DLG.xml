@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DLG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DLG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Back up any existing files before changing the DLG </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDLG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDLG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>1183124105 PLUG MANDREL FS21-500 HDLG TL  1.00EA A3 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

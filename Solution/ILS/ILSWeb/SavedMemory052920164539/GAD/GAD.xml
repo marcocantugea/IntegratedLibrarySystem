@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DESPEGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DESPEGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08.L03 Lista de Verificación de Embarcación de Suministro - Supply Boat Checklist Form  (14-Ago-13).docx</filepath>
+        <Paragraphs>   m ZONE  BOTE DESPEGADO DE LA ZONA DE    M    hrs    DW   AGUA DE PERFORACION        MUD Base Oil       LODO BASE ACEITE            RMKS     RADIO E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DESPEGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L03 Lista de Verificación de Embarcación de Suministro - Supply Boat Checklist Form (11-Apr-12).docx</filepath>
+        <Paragraphs>   m ZONE  BOTE DESPEGADO DE LA ZONA DE    M    Hrs    DW   AGUA DE PERFORACION         BASE OIL       ACEITE BASE             REMARKS  NOTAS        E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DESPEGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08 L03 Lista de Verificación - Supply Boat Checklist R.01 (23-Jun-14).doc</filepath>
+        <Paragraphs>   m ZONE  BOTE DESPEGADO DE LA ZONA DE    M hrs DW   AGUA DE PERFORACION  MUD Base Oil   LODO BASE ACEITE    RMKS    RADIO IN SHIFT RADIO EN TURNO  R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DESPEGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\Anteriores\MGT08.L03 SUPPLY BOAT CHECKLIST.doc</filepath>
+        <Paragraphs>   m ZONE  BOTE DESPEGADO DE LA ZONA DE    M hrs PW    RMX      DW     BRINE  SALMUERA     CEMENT CEMENTO     BAY BENT     MUD Base Oil  LODO BASE ACE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LLEGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LLEGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L08 Preparacion para Llegada a Puerto - Preparation for Arrival in Port (11-Abr-12).docx</filepath>
+        <Paragraphs>REPARACI N PARA LLEGADA A PUERTO            In preparing the passage for arrival in port  has a pre pilotage info  exchange taken place        Al prep</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LLEGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L08 Preparation for arrival in Port TRADUCIDO.docx</filepath>
+        <Paragraphs>REPARACI N PARA LLEGADA A PUERTO             In preparing the passage for arrival in port  has a pre pilotage info  exchange taken place        Al pre</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LLEGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT036 - Llegada a la ubicación de perforación (11-Abr-12).docx</filepath>
+        <Paragraphs>I N PREVIA A LA LLEGADA para la UBICACI N DE PERFORACI N                Fecha                Hora                Pozo                Cliente          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGREGADOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGREGADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\08 PONTON DE LADO STB CTO.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour                  PONTON LADO ESTRIBOR 10:00 HRS AUGUST 08th , 2014 RESIDUOS NO SEGREGADOS   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\09 Jun Bulk Tanks Top Deck.pdf</filepath>
+        <Paragraphs>RESTOS METALICOS EN PISO/NO SEGREGADOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\05 Cuarto de Maquinas 1.pdf</filepath>
+        <Paragraphs>RESIDUOS SEGREGADOS ADECUADAMENTE  A </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGREGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\23 STBD-AFT pontoon column.pdf</filepath>
+        <Paragraphs>AISLE CLEAN AND CLEAR   BASURA SEGREGADA APROPIADAMENTE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\01 JUNIO 2014  Subsea Workshop.pdf</filepath>
+        <Paragraphs>BASURA MAL SEGREGADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\14 Shaker room.pdf</filepath>
+        <Paragraphs>S  22:00 HRS  OCT. 14th, 2014   BOTES DE BASURA BIEN IDENTIFICADOS Y BASURA BIEN SEGREGADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\11.-Machine shop.pdf</filepath>
+        <Paragraphs>DEC 11TH 10:00 HRS  , 2014  BASURA BIEN SEGREGADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\12.-Engine room #2.pdf</filepath>
+        <Paragraphs>DEC 12TH 10:00 HRS  , 2014  BASURA MAL SEGREGADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Mud pump room.pdf</filepath>
+        <Paragraphs>BASURA MAL SEGREGADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\16.-OBSERVATIONS OF THE WEEK.pdf</filepath>
+        <Paragraphs>  CONTENEDOR CON BASURA MAL SEGREGADA EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\12.DECEMBER\06.-Mud pump room.pdf</filepath>
+        <Paragraphs>EPP AND AIR MANIFOLD FREE AND ACCESIBLE  BASURA MAL SEGREGADA (CORREGIDO) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\15 area de Residuos.pdf</filepath>
+        <Paragraphs>BASURA MAL SEGREGADA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGREGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\24 Paint locker.pdf</filepath>
+        <Paragraphs>MATERIAL STOWED AND IDENTIFIED PROPERLY  BASURA MAL SEGREGADA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROLONGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROLONGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\03 FEB 2014 COLUM. POPA ESTR .pdf</filepath>
+        <Paragraphs>PROLONGADO (COLUMNA PROA)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APAGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APAGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\03 FEB 2014 COLUM. POPA ESTR .pdf</filepath>
+        <Paragraphs>VALVULA HDRAULICA.(COLUMNA PROA) LAMPARA APAGADA LT-L22-01-18</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APAGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\29 Todas las Areas.pdf</filepath>
+        <Paragraphs>ERIALES LAMPARA APAGADA EN CUARTO DE MAQUINAS      LAMPARA APAGADA EN CUARTO DE MAQUINAS     LATAS  COFIAS Y GUANTES DE LIMPIEZA MESCLADOS EN     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECARGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECARGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 2200 hrs.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   EMERGENCY GENERATOR ROOM 22:00 HRS 09 DE FEBRERO DE 2014          ESCALERA RECARGADA SOBRE CHAROLA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGREGADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGREGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\21 Waste Area.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   WASTE AREA 10:00 HRS APRIL 21st 2014LATAS DEBIDAMENTE SEGREGADAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGREGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGREGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\13 Engine room #1  .pdf</filepath>
+        <Paragraphs>ALMACENAJE DE CABLE INADECUADO Y RESIDUO DE PLASTICO MAL SEGREGADO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\16 Derrcik (finger board level).pdf</filepath>
+        <Paragraphs>CUERDAS DE DIFERENTES TAMA361OS REGADAS POR TODO EL NIVEL (CORREGIDO)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGADOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\26.- Riser bay.pdf</filepath>
+        <Paragraphs>22:00 HRS NOVEMBER 26th , 2014 PEDAZOS DE MADERA REGADOS (CORREGIDO) /  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REGADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\30 oil station stbr.pdf</filepath>
+        <Paragraphs>DAZOS DE MADERA REGADOS SOBRE Y ENTRE LOS TOTER DE ACEITE PEDAZOS DE MADERA REGADOS SOBRE Y ENTRE LOS TOTER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REGADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\8.-TEMBLORINAS.pdf</filepath>
+        <Paragraphs>22: 00 HRS NOVEMBER 8th , 2014 ARTICULOS DE LIMPIEZA REGADOS ALREDEDOR DEL CUARTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\28.- Mud cleaner room.pdf</filepath>
+        <Paragraphs>MATERIAL REGADO GRILLETE &amp; TRAPO) (CORRECTED)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\27 Under rotary table(Moonpool).pdf</filepath>
+        <Paragraphs> MATERIAL REGADO , TUBO Y ALAMBRES  (CORREGIDO) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GADOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\31.- sack room.pdf</filepath>
+        <Paragraphs>GADOS EN LUGAR CORRECTO.   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEFGADAEAFAGC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEFGADAEAFAGC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>DEFGADAEAFAGC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEFGADAEAFAGC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>DEFGADAEAFAGC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GADAEAFAGC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GADAEAFAGC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>GADAEAFAGC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GADAEAFAGC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>GADAEAFAGC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CARGADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CARGADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>7130112 CARGADOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGREGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGREGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+        <Paragraphs>PUESTO AL VALOR AGREGADO  I V A        SE REQUIERE ORDEN DE COMPRA A NOMBRE DE PRAXAIR MEXICO  S  de R L  de C V    Y FIRMA DE CONTRATO DE  SEUMINISTR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APAGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APAGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT042 - Encendido y paro de propulsores. (11-Abr-12) OK\542.PT042 - Encendido y paro de propulsores.pdf</filepath>
+        <Paragraphs>APAGADO DE PROPULSOR (THRUSTER)  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRE-LLEGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRE-LLEGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT036 - Llegada a la ubicación de perforación (11-Abr-12).docx</filepath>
+        <Paragraphs>VERIFICACION DE PRE LLEGADA A LOCALIZACION DE PERFORACION          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRIGADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\01&amp; 02 Fuego y Abandono\02.- evaluacion  04-10-2015.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  PABLO MARTINEZ GARCIA PRESENTE  COORDINADOR DE BRIGADA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\2.- evaluacion.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  MANUEL SEGURA RIVERA  PRESENTE  COORDINADOR DE BRIGADA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\2.- Eval Control de Pozo y Hombre Caido.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  COORDINADOR DE BRIGADAS  ADRIAN BADILLO ECHEAGARAY  JO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\2.- Evaluacion .doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  ADRIAN BADILLO ECHEAGARAY PRESENTE  COORDINADOR DE BRI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\2.- Eval h.agua y les.doc</filepath>
+        <Paragraphs>ESPUESTA DE LAS BRIGADAS DE EMERGENCIA Y DEL PERSONAL EN GENERAL       DIFUSI N DEL EVENTO   SI   X   NO       AL PERSONAL INTERNO   X   OTRAS DEPENDE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\02.- evaluacion  18-10-2015.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  ADRIAN BADILLO ECHEAGARAY PRESENTE  COORDINADOR DE BRI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>    HLO     LAS BRIGADAS ACUDEN A SUS PUNTOS DE REUNI N PARA RECIBIR INSTRUCCIONES       BRIGADISTAS     SE REPORTARA MEDICO EN ESPERA DE INSTRUCCIONE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRIGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\01&amp; 02 Fuego y Abandono\02.- evaluacion  04-10-2015.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  PABLO MARTINEZ GARCIA PRESENTE  COORDINADOR DE BRIGADA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\1.- Planeacion.doc</filepath>
+        <Paragraphs>   CAPIT N OPB  BRIGADAS QUE PARTICIPAN  CONTROL DE POZO      BUSQUEDA Y RESCATE       PRIMEROS AUXILIOS   X    CONTRAINCENDIO     APOYO A LA EMERGENC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\2.- evaluacion.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  MANUEL SEGURA RIVERA  PRESENTE  COORDINADOR DE BRIGADA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\1.- Plan Control de Brote y H. caido 8.10.2015.doc</filepath>
+        <Paragraphs>L ERA           BRIGADA DE CONTROL DE BROTE     EL PERFORADOR DETIENE LA SARTA EN EL PUNTO DE QUIEBRE MAS CERCANO          PERFORADOR     LA CUADRILLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\2.- Eval Control de Pozo y Hombre Caido.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  COORDINADOR DE BRIGADAS  ADRIAN BADILLO ECHEAGARAY  JO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\1.- PLANEACION.doc</filepath>
+        <Paragraphs> PERSONAL DE LA BRIGADA DE RESCATE DE HOMBRE AL AGUA SE PRESENTAR  EN EL  REA DE BOTE DE RESCATE         CHIEF MATE     LA BRIGADA DE EMERGENCIA MEDIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\2.- Evaluacion .doc</filepath>
+        <Paragraphs>ZA PRACTICA CON BRIGADA DE RESCATE  OBSERVANDOSE BUENA PARTICIPACION  CONOCIMIENTO Y LA EXPERIENCIA PARA ATENDER UNA EMERGENCIA DE HOMBRE AL AGUA     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\1.- Plan H2S 11.10.2015.doc</filepath>
+        <Paragraphs>  CAPITAN       BRIGADAS QUE PARTICIPAN  CONTROL DE POZO   X    BUSQUEDA Y RESCATE      PRIMEROS AUXILIOS       CONTRAINCENDIO      APOYO A LA EMERGEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\2.- Eval h.agua y les.doc</filepath>
+        <Paragraphs>ESPUESTA DE LAS BRIGADAS DE EMERGENCIA Y DEL PERSONAL EN GENERAL       DIFUSI N DEL EVENTO   SI   X   NO       AL PERSONAL INTERNO   X   OTRAS DEPENDE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\02.- evaluacion  18-10-2015.doc</filepath>
+        <Paragraphs>RTE DE JEFES DE BRIGADAS AL COE     FUNCI N NOMBRE PRESENTE   AUSENTE  COORDINADOR DE BRIGADAS  ADRIAN BADILLO ECHEAGARAY PRESENTE  COORDINADOR DE BRI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRIGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>QUE CONFORMA LA BRIGADA DE PRIMEROS AUXILIOS  BUSQUEDA Y RESCATE EN UN ESCENARIO NO RUTINARIO     TIPO DE APLICACI N   INTEGRAL        POR AREA DE TRA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENCARGADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENCARGADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\1.- Plan H2S 11.10.2015.doc</filepath>
+        <Paragraphs> Y SMCO      EL ENCARGADO DEL COMEDOR REPORTAR  LA HABITACIONAL VAC A        MAYORDOMO     SE REPORTAR  CONTEO COMPLETO DE PERSONAL       CAPITAN     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRIGADISTAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRIGADISTAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\02.- evaluacion  18-10-2015.doc</filepath>
+        <Paragraphs>ABILIDAD DE LOS BRIGADISTAS DURANTE EL DESARROLLO DE UNA EMERGENCIA      DIFUSI N DEL EVENTO   SI   X   NO       AL PERSONAL INTERNO   X   OTRAS DEPEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLGADORES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLGADORES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>                COLGADORES                                                                                                                            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COLGADORES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>       ANEXO F  COLGADORES                                                                                                                            </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>CORREA DESPLEGABLES DELGADA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLGADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLGADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>       ANEXO F  COLGADORES                                                                                                                            </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGADERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGADERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\10 SACS ROOM 22 00.pdf</filepath>
+        <Paragraphs>SEGREGACION ADECUADA REGADERA GOLPEADA Y ROTA POR MONTACART-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REGADERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\19 MUD PIT ROOM.pdf</filepath>
+        <Paragraphs>ESTACION LAVA OJOS Y REGADERA OK  /  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APAGADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APAGADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\11 Areas de galgas proa y popa.pdf</filepath>
+        <Paragraphs>V  Safety Tour                                 AREA DE GALGAS DE REMOLQUE     22:00 HRS SEPTIEMBRE 11, DEL LADO PROA LUMINARIAS APAGADAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\09 new workshop.pdf</filepath>
+        <Paragraphs>CONECCION COLGADA SIN ASEGURAR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GADERAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GADERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\29 Todas las Areas.pdf</filepath>
+        <Paragraphs>GADERAS Y LAVA OJOS.    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRIGADISTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRIGADISTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\30 JULY 2014 FIRE STATION 1,2.pdf</filepath>
+        <Paragraphs>      EQUIPO DE BRIGADISTA CONTRA INCENDIO MAL ACOMODADO  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

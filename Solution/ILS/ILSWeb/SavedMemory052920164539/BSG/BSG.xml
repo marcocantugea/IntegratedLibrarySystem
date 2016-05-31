@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BSGrease</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BSGrease</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Fettleitscheibe BSGrease guide disk, NDE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BSGr</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BSGr</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Fettleitscheibe BSGr</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

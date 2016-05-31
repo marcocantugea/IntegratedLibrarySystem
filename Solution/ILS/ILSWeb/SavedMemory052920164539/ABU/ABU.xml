@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FABULOSO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FABULOSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs> FABULOSO MULTI SPRAY ALL PURPOSE CLEANER LIQUID LAVENDER   This industrial Material Safety Data Sheet is not intended for consumers and does not addr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FABULOSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53042.pdf</filepath>
+        <Paragraphs> FABULOSO ALL PURPOSE CLEANER LIQUID OCEAN PARADISE   This industrial Material Safety Data Sheet is not intended for consumers and does not address co</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FABULOSOALLPURPOSECLEANERLIQUID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FABULOSOALLPURPOSECLEANERLIQUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>N Productname   FABULOSOALLPURPOSECLEANERLIQUID   LAVENDER MSDSNumber              CAS   No    Notapplicable   productisamixture GeneralUse   Aformula</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FABULOSOALLPURPOSECLEANERLIQUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>N Productname   FABULOSOALLPURPOSECLEANERLIQUID   LAVENDER MSDSNumber              CAS   No    Notapplicable   productisamixture GeneralUse   Aformula</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FABULOSO-LAVENDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FABULOSO-LAVENDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>FABULOSO-LAVENDER This industrial Material Safety Data </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

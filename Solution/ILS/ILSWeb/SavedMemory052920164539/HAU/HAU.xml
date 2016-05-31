@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVEINEXHAUST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVEINEXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VALVEINEXHAUST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXHAUST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-025.pdf</filepath>
+        <Paragraphs>    EXHAUST CLOSED OPEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>LOCAL EXHAUST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sebreeze_Citrus_Breeze_5139_msds.pdf</filepath>
+        <Paragraphs>TILATION  LOCAL EXHAUST  Specify Rate      General room  ventilation is normally sufficient   SPECIAL     None   MECHANICAL  General   Specify Rate   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs>LOCAL EXHAUST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs>  None required with normal use.  VENTILATION LOCAL EXHAUST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\expansion joints.pdf</filepath>
+        <Paragraphs>PLY EXHAUST EXPANSION JOINTS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERHAUL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>OVERHAUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>MOTOR OVERHAUL requires lifting tackles corresponding </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\OVER501.pdf</filepath>
+        <Paragraphs>OVERHAUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\OVER404.pdf</filepath>
+        <Paragraphs>OVERHAUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\OVER502.pdf</filepath>
+        <Paragraphs>OVERHAUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\OVER504.pdf</filepath>
+        <Paragraphs>OVERHAUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\OVER618.pdf</filepath>
+        <Paragraphs>OVERHAUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>MAIN OVERHAUL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERHAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>  OVERHAUL AND REPAIR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAUL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>EMATE     MICRO HAUL KIT Part   Mechanical Advantage Working  Length Rope Size Working Load Limit                ft      m            mm      lbs     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>6:113 ft. (4 m)5/16" (8 mm)660 lbs. (300 kg)RESCUEMATE MICRO HAUL KIT Part # þMM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXHAU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXHAU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sulfur Dioxide SO2 Safety Data Sheet SDS P4655.pdf</filepath>
+        <Paragraphs>eferred  LOCAL  EXHAU ST  A corrosion   resistant system is acceptable     In semiconductor process gas and other suitable applications  Praxair recom</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIR-EXHAUST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIR-EXHAUST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0037 NOV Spare Parts\Sales Order 716187a.pdf</filepath>
+        <Paragraphs>AIR-EXHAUST FLOW REGULATOR, NORGREN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FCP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>done through the choke, the pressure used to establish the ICP and FCP is </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>psi - FCP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs> FCP  II  PPE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>FCP @ 4 bbl/min = 400 psi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>  End of build  FCP  Final circulating pressure  FMDPP  Final maximum drillpipe pressure  FP  Formation pressure  ft  Foot  gal  Gallon  gpm  Gallons </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FCPpsi</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCPpsi</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>  Initial Circulating Pressure (ICPpsi)  ICPpsi = SIDPPpsi + SPPpsi  Final Circulating Pressure (FCPpsi)  FCPpsi =  ppg</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

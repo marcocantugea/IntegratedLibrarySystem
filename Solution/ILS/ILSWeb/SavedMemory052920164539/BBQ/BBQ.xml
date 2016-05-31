@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BBQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBbqGrillCleanerAerosol.pdf</filepath>
+        <Paragraphs>BBQ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BBQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBbqGrillCleanerNonAerosol.pdf</filepath>
+        <Paragraphs>eavy Duty BBQ &amp; Grill Cleaner </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

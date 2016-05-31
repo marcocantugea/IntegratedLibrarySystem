@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CRL-60</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRL-60</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_6.pdf</filepath>
+        <Paragraphs>Remove cap from CRL    then loosen adjusting screw coun  terclockwise  This will allow the valve to open at low pressure relieving the full flow of th</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CRL-60</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>2. Remove cap from CRL-60 then loosen adjusting screw coun-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRL-60DIAPHRAGM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRL-60DIAPHRAGM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>Strainer1.    HYTROL MAIN VALVE 3X 1/2-14 NPT OR3X 3/4 -14 NPT PIPE PLUGO-RINGGUIDE STEM, CRL-60DIAPHRAGM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRLO-RINGO-RINGSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRLO-RINGO-RINGSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>SCREW, ADJUSTINGCAPGUIDE, SPRING CRLO-RINGO-RINGSTEM ASSEMBLY, CRL-60</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>BODY, CRL-60  GUIDE, SPRING CRLCOVER, CRL SPRING,  CRL  3.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRL-60adjustment</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRL-60adjustment</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>  Check Valve   CRL   adjustment</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

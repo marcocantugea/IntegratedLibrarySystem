@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BMW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BMW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

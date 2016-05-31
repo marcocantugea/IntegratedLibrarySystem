@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>1099961-HSH-001H2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1099961-HSH-001H2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>L NO Rev REMARK         HSH    H  GAS DETECTOR  ABOVE BATTERY ROOM M   ABOVE BATTERY ROOM M   NAVI  DECK    DA   E   F   HONEYWELL S ENSEPOINT PR O Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>961-HSH-001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>961-HSH-001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP849.pdf</filepath>
+        <Paragraphs>H2 GAS DETECTOR 961-HSH-001 H2 GAS DETECTOR,ABOVE BATTERY ROOM M704</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>961-HSH-001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.4 Work Orders.pdf</filepath>
+        <Paragraphs>H2 GAS DETECTOR 961-HSH-001 H2 GAS DETECTOR,ABOVE BATTERY ROOM M704</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>StandardsHSHS01Hand</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>StandardsHSHS01Hand</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>38HAZARD STANDARDS EHSMSStandards Health and Safety Hazard StandardsHSHS01Hand Safety</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS02Land</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS02Land</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS02Land Transportation</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS03Air</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS03Air</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS03Air Transportation</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS04Health</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS04Health</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS04Health and Wellbeing</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS05Working</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS05Working</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS05Working in Hot Environments</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS06Electrical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS06Electrical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS06Electrical Safety</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS07Working</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS07Working</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS07Working at Heights</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS08Chemical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS08Chemical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS08Chemical Management and</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS09Radiation</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS09Radiation</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS09Radiation</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS10Food</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS10Food</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS10Food Safety</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS11Manual</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS11Manual</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS11Manual Handling and Ergonomics</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS12Occupational</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS12Occupational</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS12Occupational Noise</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS13Working</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS13Working</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS13Working Alone in Remote Locations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS14Legionella</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS14Legionella</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS14Legionella</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS15Personnel</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS15Personnel</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS15Personnel Security</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS16Lifting</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS16Lifting</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS16Lifting Equipment</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS17Personal</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS17Personal</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS17Personal Protective Equipment</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS18Entry</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS18Entry</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS18Entry to Confined Spaces</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS19Excavations</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS19Excavations</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS19Excavations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS01</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS01</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS01 | HSHS02</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS02</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS02</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS01 | HSHS02</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STANDARDSHSHS01Hand</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANDARDSHSHS01Hand</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>39EHSMSStandards HEALTH AND SAFETY HAZARD STANDARDSHSHS01Hand SafetyPurpose</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS03</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS03</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS02 | HSHS03 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS04</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS04</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS03 | HSHS04 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS05</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS05</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS04 | HSHS05 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS06</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS06</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS06 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS07</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS07</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS07 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS08</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS08</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS08 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STANDARDSHSHS08Chemical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANDARDSHSHS08Chemical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>45EHSMSStandards HEALTH AND SAFETY HAZARD STANDARDSHSHS08Chemical Management and Dangerous Goods Purpose</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS11</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS11</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS10| HSHS11</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS12 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS13</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS13</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS13 | HSHS14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS13 | HSHS14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS15</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS15</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS15 | HSHS16</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS16</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS16</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS15 | HSHS16</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSH17</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSH17</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS16 | HSH17</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS17</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS17</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS17</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>56HSHS17</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>56HSHS17</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>56HSHS17 Personal Protective Equipment Purpose</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS018</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS018</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS018 | HSHS19 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSHS19</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSHS19</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>HSHS018 | HSHS19 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>57EHSMSStandardsHSHS18</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>57EHSMSStandardsHSHS18</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>57EHSMSStandardsHSHS18 Entry to Confined Spaces Purpose</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

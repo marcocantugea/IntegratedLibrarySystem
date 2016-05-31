@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BKW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs> power          BKW AT     RPM     HZ    At rotation speed of          rpm    Equipped with spark arrestors     yes    Mufflers installed       yes   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BKW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs> power          BKW AT     RPM     HZ    At rotation speed of          rpm    Equipped with spark arrestors     yes    Mufflers installed       yes   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

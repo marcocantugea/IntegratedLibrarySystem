@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AIRIVACUUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIRIVACUUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>AIRIVACUUM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VACUUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VACUUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VACUUM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VACUUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> SELF CONTAINED VACUUM ANCHOR SYSTEMS Provides a tie off point on virtually any smooth  non porous surface simply    by    ipping a switch and waiting</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VACUUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0036 NOV Spare parts\Commercial Invoice 48903 ~08182011052557.pdf</filepath>
+        <Paragraphs>OIL ISO 150 VACUUM PUMP &amp; AIR COMPRESSOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VACUUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0036 NOV Spare parts\Sales Order Acknowledgement 713393 ~06292011035334.pdf</filepath>
+        <Paragraphs>OIL ISO 150 VACUUM PUMP &amp; AIR COMPRESSOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

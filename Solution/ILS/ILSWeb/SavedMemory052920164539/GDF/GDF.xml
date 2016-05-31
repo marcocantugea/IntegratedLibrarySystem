@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>5210-GS-0232DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5210-GS-0232DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>5210-GS-0232DRILLINGDFMA PARKED PROX1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHGermanyNCB10-30GM40-N0-15M-PUR (208595)PTB 00 ATEX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5910-GSH-0232DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5910-GSH-0232DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>5910-GSH-0232DRILLINGDFMA SLEWING PROX CCW1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHGermanyNCB10-30GM40-N0-15M-PUR (208595)PTB 0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>6410-GSL-0232DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>6410-GSL-0232DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>6410-GSL-0232DRILLINGDFMA SLEWING PROX CW1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHGermanyNCB10-30GM40-N0-15M-PUR (208595)PTB 00</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>11210-HS-0231DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>11210-HS-0231DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11210-HS-0231DRILLINGDFMA EMERGENCY SHUT OFF1DF DRILL FLOOR / ZONE2CEAGGermanyP 411PTB 00 ATEX 3117&lt;Ex&gt; II 2 G EEx de IIC T6COM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>12910-HY-0231DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>12910-HY-0231DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>12910-HY-0231DRILLINGDFMA SHUT OFF VALVE1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d IIC </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13010-HY-0232DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13010-HY-0232DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>13010-HY-0232DRILLINGDFMA SLEWING HIGH SPEED VALVE1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13110-HY-0237DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13110-HY-0237DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>13110-HY-0237DRILLINGDFMA CLAMP1DF DRILL FLOOR / ZONE2DANFOSSNorwayEXPIRED--157B4218EX PVEONEMKO 02ATEX459X&lt;Ex&gt; II 2 G EEx m II</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>18510-XX-0209DRILLINGDFMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>18510-XX-0209DRILLINGDFMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18510-XX-0209DRILLINGDFMA ANTENNE1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GDF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GDF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>isolation reach 500k ohm, and the GDF circuit breaker shall trip ats 300k ohm. Tested, working properly.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZUGDF19</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZUGDF19</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Foaming-Garbage-Disposal-Cleaner-English-MSDS-ZUGDF.pdf</filepath>
+        <Paragraphs>Product nameFoaming Garbage Disposal CleanerProduct codeZUGDF19 Supersedes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>productoZUGDF19</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>productoZUGDF19</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Foaming-Garbage-Disposal-Cleaner-Spanish-MSDS-ZUGDF.pdf</filepath>
+        <Paragraphs>Nombre del productoFoaming Garbage Disposal CleanerC363digo del productoZUGDF19 Sustituya</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

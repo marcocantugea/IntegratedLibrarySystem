@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BULKHEADSINPONTOONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEADSINPONTOONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BULKHEADSINPONTOONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>613DSIRA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>613DSIRA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>274961-IB-003F&amp;GFIRE &amp; GAS DETECTION JUNCTION BOX1M320 Cutting Cleaning/Shale Shaker Room / ZONE 1WALSALLUKXLS 613DSIRA 99 ATEX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>913DSIRA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>913DSIRA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>275961-IB-007F&amp;GFIRE &amp; GAS DETECTION JUNCTION BOX1DRILL FLOOR / ZONE 2WALSALLUKXLS 913DSIRA 99 ATEX 3199&lt;Ex&gt; II 2GD EEx e IIC T</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>513DSIRA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>513DSIRA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>276961-IB-010F&amp;GFIRE &amp; GAS DETECTION JUNCTION BOX1CELLAR DECK / SafetyWALSALLUKXLS 513DSIRA 99 ATEX 3199EEx e IIC T5COMPLETE AS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2WALSALLUKXLS413DSIRA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2WALSALLUKXLS413DSIRA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>525JB-NL1-01LIGHTINGJUNCTION BOX1Drill Floor / ZONE 2WALSALLUKXLS413DSIRA 99 ATEX 3199EExe IIC T6COMPLETE ASSY.N/A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SECTION3--HAZARDSIDENTIFICATIONEMERGENCYOVERVIEW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SECTION3--HAZARDSIDENTIFICATIONEMERGENCYOVERVIEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\02-10 Critical Care.pdf</filepath>
+        <Paragraphs>   NoneNoneNone SECTION   HAZARDSIDENTIFICATIONEMERGENCYOVERVIEW CAUTION Directcontactmaycauseslighteyeirritation Avoidcontactwitheyes Ifirritationocc</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAZARDSIDENTIFICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAZARDSIDENTIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>     SECTION    HAZARDSIDENTIFICATION EmergencyOverview Form   Liquid Appearance   Purple PotentialHealthEffects Eyecontact   Causeseyeirritationondir</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAZARDSIDENTIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>     SECTION    HAZARDSIDENTIFICATION EmergencyOverview Form   Liquid Appearance   Purple PotentialHealthEffects Eyecontact   Causeseyeirritationondir</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSIandDVSShearRams</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSIandDVSShearRams</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>DSIandDVSShearRams</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron TC-1001 U-UM- Parts Catalog.pdf</filepath>
+        <Paragraphs>ind Rams        DSI and DVS Shear Rams        Variable Bore Rams                   Inserted Packers        CAMRAM     Packers and Top Seals        Opt</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THREADSIZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THREADSIZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>   THREADSIZE  Q.D. SIZE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSIDPPSICPCASING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSIDPPSICPCASING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DSIDPPSICPCASING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSICPCASING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSICPCASING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DSICPCASING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

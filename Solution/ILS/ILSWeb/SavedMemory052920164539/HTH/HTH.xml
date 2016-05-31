@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>531-MA-001-B-HTHydraulic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>531-MA-001-B-HTHydraulic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>Hydraulic Tank  531-MA-001-B-HTHydraulic Tank ManualCallendar</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RIGHTHearing</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RIGHTHearing</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>RIGHTHearing Protection [Ear Plugs] 93 S Product Name Product Range  PageS 15Supplied Air Respirators [Chemical Oxygen Technology] 34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1-ACETOXY-2-METHYLNAPHTHALENE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1-ACETOXY-2-METHYLNAPHTHALENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Long_Lasting_Semi-Permanent.pdf</filepath>
+        <Paragraphs>1-ACETOXY-2-METHYLNAPHTHALENE 5697029 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1-NAPHTHOL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1-NAPHTHOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>1-NAPHTHOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>1-NAPHTHOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>1-NAPHTHOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>1-NAPHTHOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>1-NAPHTHOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>1-NAPHTHOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>1-NAPHTHOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>1-NAPHTHOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>1-NAPHTHOL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NAPHTHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NAPHTHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_DEFOAM-A_Rheochem.pdf</filepath>
+        <Paragraphs>Content SOLVENT NAPHTHA  PETROLEUM   LIGHTAROMATIC Not Available                   SOLVENT NAPHTHA  PETROLEUM   MEDIUMALIPHATIC Not Available         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

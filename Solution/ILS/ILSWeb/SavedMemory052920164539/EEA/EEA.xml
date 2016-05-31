@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LEEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEEA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>IO INCLUYE    x LEEA Qualified Inspector RA NII   ASNT Level    NDT Supervisor               Per Man      Hr  Day          x Rope Access SPRAT   ASNT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEEA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Quotation\VER-389-15.Rev.0-SIS-LGI-NDT-MURALLA IV.pdf</filepath>
+        <Paragraphs>  Reference     LEEA and  NDT   Senior Purchase Officer   Office Tel                            Mobile                          Location    Mexico   J</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

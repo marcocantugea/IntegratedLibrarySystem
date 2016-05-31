@@ -1,0 +1,1913 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SPEEDLOGPlants</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDLOGPlants</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>SPEEDLOGPlants</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOTORflFEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOTORflFEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>MOTORflFEEDWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\21 Waste Area.pdf</filepath>
+        <Paragraphs>CONTAINER FEED LID IS NOT ON </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>DISC FEED END EJECTOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>DISC FEED END EJECTOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>CONE  4" INVOLUTE FEED &amp; CER.INSERT ASSY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>4.2.2 SEA WATER FEED SYSTEM....................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM756FEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM756FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEM756FEED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRIMARY756FEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRIMARY756FEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PRIMARY756FEED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEED-TANK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEED-TANK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FEED-TANK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FOR FEEDWATER PUMPS,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRIMARYFEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRIMARYFEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PRIMARYFEEDWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>NO BLEED AIR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC663.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.1 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.2 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.4 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.7 Work Order.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.8 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>6. Close the 223EMERGENCY BLEED OFF224 valve (item N). </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0002 NOV Spare Parts\Commercial Invoice 49490 ~08302011065913.pdf</filepath>
+        <Paragraphs>BLOCK AND BLEED VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0074 NOV Riser Granty Crane\ODN2-11-0074 714006KRS REV 1 PART NUNBER.pdf</filepath>
+        <Paragraphs>BLOCK AND BLEED VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\6. Sistema de Propulsores (Thrusters System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\thruster\43 WO.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>verter).   Operator222s Manual Diverter System  PAGE4- 10 WARNING: BLEED PRESSURE FROM THE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>1.- HEATER NEED TO BE REPLACED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\09 Heavy tool store @ drill floor.pdf</filepath>
+        <Paragraphs>EQUIP. NEED TO BE STOWED PROPERLY   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\11 MOON POOL.pdf</filepath>
+        <Paragraphs>LADDER AND  SLING NEED RIGHT PLACE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\14 MAIN DECK.pdf</filepath>
+        <Paragraphs>DECREASED LIGHT, NEED CLEANING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\16 Wire line unit deck.pdf</filepath>
+        <Paragraphs>EQUIPMENT, TOOLS AND CLEANING SUPPLIES NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\18 Derrick Finger board level.pdf</filepath>
+        <Paragraphs>ROPES NOT IN USE EXPOSED TO WEATHER, NEED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\21 DAT's cylinders deck.pdf</filepath>
+        <Paragraphs>EPP AND EQ. NEED PROPER STOWING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\22 Fwd stbd tween tunnel.pdf</filepath>
+        <Paragraphs>EQ. NEED  TO BE RELOCATED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>MATERIALS NEED TO BE PUT AWAY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\16 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>NEED A CYLINDER BETWEEN MOUSE AND THE FLOOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>. CREWS NEED A PROPER  STORAGE FOR SNACKS VALVULA DE AIRE DE APERTURA DE PUERTA ESTA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\23 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>CHEMICALS NEED TO BE REARRANGED  FOR WALK-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\25 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>PAINTED RAGS BAGS NEED TO BE ORGANIZED WALKWAY CLEAR AND CLEAN         DESIGNATED AREA FOR LOADING         ONE CARGO ELEVATOR CAR GATE  IS MISSING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\27 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>MIT COPY NOT FILED ACCORDINGLY SAUCE  BOTTLE CAPS NEED TO BE REPLACED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\27 DAT cylinders deck.pdf</filepath>
+        <Paragraphs>CLEANING SUPPLIES NEED TO BE RELOCATED  TARIMAS  NECESITAN REUBICAR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\30 Machine shop .pdf</filepath>
+        <Paragraphs>NEED EVACUATION RUTE ARROW</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\03 cement room .pdf</filepath>
+        <Paragraphs>CLEANING SUPPLIES NEED ORGANIZATION  MATERIAL DE LIMPIEZA NECESITA  REUBICAR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\05 RO UNIT .pdf</filepath>
+        <Paragraphs>CLEANING SUPPLIES NEED  ORGANIZED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\10 Cement room .pdf</filepath>
+        <Paragraphs>BUCKETS OF LUBE NEED ORGANIZATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\20 Jun Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>SOME RUSTY SPOTS NEED CLEANING AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\24 Knucle boorm crane.pdf</filepath>
+        <Paragraphs>PASILLOS Y CABINA DE OPERADOR LIBRES Y  LIMPIOS LADDERS NEED TO BE STOWED PROPERLY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\28 Jun Almacen de Oxigeno y Acetileno .pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\28 Sewage plant.pdf</filepath>
+        <Paragraphs>V  Safety Tour                      SEWAGE PLANT 10:00 HRS JUN 28th, 2014MATERIAL AND CLEANING SUPPLIES NEED TO BE STOWED PROPERLY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\01BOP's skids deck.pdf</filepath>
+        <Paragraphs>EMPTY PALLETS NEED RELOCATION (CORRECTED)    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\05 Cutting boxes area.pdf</filepath>
+        <Paragraphs>MATERIAL AND EQUIPMENTE NEED AORGANIZATION  PASILLOS DESPEJADOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\06 Dead man anchor deck.pdf</filepath>
+        <Paragraphs>MATERIAL AND EQUIPMENT NEED  ORGANIZATION (CORRECTED) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\08 Fresh water gen. room.pdf</filepath>
+        <Paragraphs>CLEANING  EQUIPMENT NEED ORGANIZATION (CORRECTED)  SE321ALAMIENTIOS ADECUADOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\09 Sack room.pdf</filepath>
+        <Paragraphs>MATERIAL NEED ORDER AND CLEANING OF AREA   EQUIPO CONTRA INCENDIO Y DE SEGURIDAD  DISPONIBLE PARA SU USO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\11 UTILITY ROOM M 106.pdf</filepath>
+        <Paragraphs>NEED TO  ESTABLISH GUARD AT ENTRANCE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\12 ALL AREAS.pdf</filepath>
+        <Paragraphs>MATERIAL NEED ORDER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\14 Shaker room.pdf</filepath>
+        <Paragraphs>USED SCREEN NEED TO BE STOCKED OR DISCARDED   PASILLOS LIBRES (NECESITAN LIMPIAR) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\01 SHAKER .pdf</filepath>
+        <Paragraphs>NEED TO BE REFILLED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\07.- WEEKLY SOC TOUR.pdf</filepath>
+        <Paragraphs>CYLINDER NEED TO BE SEPARATED OF DECK  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08 MUD PITS ROOM.pdf</filepath>
+        <Paragraphs>PIECE OF PIPE NEED TO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\09.-Heavy weight drill tools (upper deck).pdf</filepath>
+        <Paragraphs>EQUIPMENT AND TOLLS NEED  TO BE SECURED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\10 MAIN DECK STARBOARD SIDE   .pdf</filepath>
+        <Paragraphs>NEED HOUSE KEEPING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\11.- MWD AREA.pdf</filepath>
+        <Paragraphs>NEED CLEANING   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\17 Moon Pool.pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\18 EngineWorkShop M-120.pdf</filepath>
+        <Paragraphs>NEED ORGANIZATION AND HOUSEKEEPING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\20.-Machine shop .pdf</filepath>
+        <Paragraphs>NEED CLEANING   MISSING LEVEL OF HAZZARD ON SAFETY DIAMOND  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\22.-DRILL FLOR .pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Hidraulic and Hp Compressor room .pdf</filepath>
+        <Paragraphs>NEED REMARKING OF HAZARD LEVEL ON  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Mud pump room.pdf</filepath>
+        <Paragraphs>SCBA222s NEED TO BE RELOCA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\26.-Cement Room.pdf</filepath>
+        <Paragraphs>WORK OFFICE NEED HOUSEKEEPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\29 Derrick .pdf</filepath>
+        <Paragraphs>LAMP NEED TO GET CLEAN   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+        <Paragraphs>NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+        <Paragraphs>NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+        <Paragraphs>       PLEASE I NEED TO KNOW IF YOU HAVE AN AVAILABLE TECHNICIAN FOR THIS URGENT SERVICE IN ORDER TO REALIZE  THE PAYMENT                 THANK YOU VE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS.pdf</filepath>
+        <Paragraphs>         WE     NEED THE SAME SERVICE THAT YOU CAN SEE IN THE ATTACHED FILE           COULD YOU PLEASE SEND ME THE ACTUAL QUOTE FOR THAT SERVICE      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>PPARATUS)  NEED HYDROSTATIC TEST.AIR CYLIND NOTAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927 APROBADA.pdf</filepath>
+        <Paragraphs>NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927.pdf</filepath>
+        <Paragraphs>NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>formato - MPEG 4 NEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SITIVE ORGAN WE NEED TO PROTECTen US   At a glance    our eyes capture very quickly all kinds of information  Our eyes provide en US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>10 MAKE PPE ACCESSIBLE AND CREATE THE NEED TO BE PROTECTEDThe Honeywell Tradesmen PPE Offer: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_Basin_Newsletter_4_Dec2010.pdf</filepath>
+        <Paragraphs>ASIN NEWSLETTER NEED MORE  INFORMATION  A series of factsheets relating  to the Gunnedah project is  available on our website at  www santos com gunne</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs> WILL NEED TO BE ISSUED AGAINST COMPLIMENTARY INVOICE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs> WILL NEED TO BE ISSUED AGAINST COMPLIMENTARY INVOICE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs> WILL NEED TO BE ISSUED AGAINST COMPLIMENTARY INVOICE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\02 Cement room .pdf</filepath>
+        <Paragraphs>NEED TO CHANGE FAULTY LAMPS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\06 Rig floor.pdf</filepath>
+        <Paragraphs>NEED STRINGENT D GRATING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\11 Mud pump room.pdf</filepath>
+        <Paragraphs>NEED CLEAN UP AREA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\12 Engine room .pdf</filepath>
+        <Paragraphs>NEED MARKING ON TANK  CAJA DE HERRAMEINTAS SIN LETRERO DE IDEN- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\15.- ALMACEN DE SACOS.pdf</filepath>
+        <Paragraphs>NEED CLEAN UP AREA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\16.- ALMACEN DE SACOS.pdf</filepath>
+        <Paragraphs>NEED TO MOVE OUT FULL SACK FALTA LIMPIEZA EN AREA DE MEZCLADO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\26 MUD PITS ROOM.pdf</filepath>
+        <Paragraphs>DETECTORES DE GAS NECESITAN CALIBRACION / GAS DETECTORS NEED CALIBRATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\15 CUBIERTA PRINCIPAL LADO ESTRIBOR.pdf</filepath>
+        <Paragraphs>/ NEED HOUSE KEEPING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\17 Shaker room.pdf</filepath>
+        <Paragraphs>USED SCREEN NEED TO BE STOCKED OR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\19 Refrigerator Plant Room M202 .pdf</filepath>
+        <Paragraphs>NEED SIGN FOR HOT SURFACES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\22 Navigation deck .pdf</filepath>
+        <Paragraphs>MATERIAL AND CLEANING SUPPLIES  NEED ORGANIZATION (CORRECTED)   CUBIERTA Y PASILLOS LIMPIOS Y LIBRES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\23 Helideck Fire station .pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\24 Starboard Aft Vent Room.pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\25 Mud pumps room.pdf</filepath>
+        <Paragraphs>EQUIPMENT NEED ORDER (CORRECTED)  MATERIAL Y EQUIPO DE LIMPIEZA DESORDENADO (CORREGIDO) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\28 Battery Room M704.pdf</filepath>
+        <Paragraphs>NEED RACK TO STORE BATTERIES PROPERLY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\31.- Drilling Utility Room..pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING   LAMPARAS FUNDIDAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\31.- taller de soldadura.pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\11.- INCIENRADOR ROOM.pdf</filepath>
+        <Paragraphs>INCINERATOR OPERATING INSTRUCTIONS NEED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\13.-CUARTO DE BOMBAS.pdf</filepath>
+        <Paragraphs>BUCKETS WITH OIL ( NEED HOUSE KEEPING ) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\22.TOP SIDE  OF FAN ROOM ON FW-STBD  SIDE.pdf</filepath>
+        <Paragraphs>22:00 HRS NOV. 22 th, 2014  DETECTORES DE GAS NECESITAN CALIBRACION / GAS DETECTORS NEED CALIBRATION  SALVAGUARDA NECESITA SER COLOCADA / </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\02 Lower shaker room.pdf</filepath>
+        <Paragraphs>LUMBER AND ROPE NEED PROPER DISPOSAL AND CLEANING SUPPLIES  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\05 Machine shop.pdf</filepath>
+        <Paragraphs>V  Safety Tour         MACHINE SHOP 10:00 HRS JULY 5TH 2014CLEANING EQUIPMENT NEED TO BE ORGANIZED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\07 Utility drilling room M159.pdf</filepath>
+        <Paragraphs>EL PISO NECESITA LIMPIEZA (AGUA Y MUGRE) TRASH NEED TO BE DISPOSED OF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\08 Moonpool.pdf</filepath>
+        <Paragraphs>V  Safety Tour         MOONPOOL 10:00 HRS JULY 8TH 2014LAMPS SHIELDS NEED CLEANING (BREZZED WITH DIRT)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\01 OXY-ACET ROOM.pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEING  FALTA CAMBIAR ROMBO DE SEGURIDAD /  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\14 MAIN DECK AND SACK ROOM .pdf</filepath>
+        <Paragraphs>DECREASED LIGHT, NEED CLEANING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\22 Main Deck Cutting Box.pdf</filepath>
+        <Paragraphs>EQ. NEED  TO BE RELOCATED   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\28 Heavy tool store @ drill floor.pdf</filepath>
+        <Paragraphs>NEED COLOR CODE IDENTIFICATION IN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\29 AUG. Sewage plant.pdf</filepath>
+        <Paragraphs>V  Safety Tour                      SEWAGE PLANT       10:00 HRS AUGUST   29th, 2014MATERIAL AND CLEANING SUPPLIES NEED TO BE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs> RATE OF TURN SPEED OPTIMIZING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>   RATE OF TURN SPEED OPTIMIZING              DP Station Keeping Limits    See Section       for the Dynamic Positioning station keeping limits       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>TECHNICAL DATA 320 MAINS OPERATION 320 GROUP IIB 320 SINGLE SPEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>ANCEMAXIMUM SPEED  13 knots</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>MANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   FUEL CONSUMPTION       MT day </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>MANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   FUEL CONSUMPTION       MT day </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>MANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   FUEL CONSUMPTION       MT day </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>MANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   FUEL CONSUMPTION       MT day </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\5-crewboat-181-fsiv-procyon.pdf</filepath>
+        <Paragraphs>1 fuel oil purifier.  SPEED / CONSUMPTION   Maximum speed (100%):......................................18.2 m3/day 23 knots </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>ORMANCE MAXIMUM SPEED     knots CRUISING SPEED     knots MAXIMUM FUEL CONSUMPTION      USG Hr </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\fsiv-181-bourbon-deneb.pdf</filepath>
+        <Paragraphs>1 fuel oil purifier.  SPEED / CONSUMPTION   Maximum speed (100%):......................................18.2 m3/day 23 knots </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>SPEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>SPEED NOT AS SPECIFIED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0002GEARBOX 3 SPEED WITH AUTODRILLER3.00PC102980700003COMPOUND GEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>TECHNICAL DATA 320 MAINS OPERATION 320 GROUP IIB 320 SINGLE SPEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>rrr  ELECTRIC SPEED / MANUAL HANDLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>LLINGHRN TRAVEL SPEED AND POSITION DF DRILL FLOOR   ZONE SCANDINAVIAN CONSTRUCTION COMP  A S DenmarkID         PROFIBUS DPDEMKO    ATEX        Ex  II </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>N LOW OR HIGH   SPEED     ft      m      ft      m  VERTICAL GALV Auto Low         Manual Low         SS Auto Low         Manual Low         SLOPED GA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      ADJUST FREQUENCY TO OBTAIN DESIRED SPEED                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEED REDUCER 4:1 SPARES (7020B086)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>INITIATOR - SPEED 5 METRE CABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXCEEDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXCEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    Important   IF THE ACTUAL HEEL ANGLE EXCEEDS THOSE PREDICTED BY THE DAMAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXCEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>TUAL HEEL ANGLE EXCEEDS THOSE PREDICTED BY THE DAMAGE ASSESSMENT  IT IS LIKELY THAT      MORE TANKS AND OR COMPARTMENTS ARE DAMAGED THAN PRESENTLY ASS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXCEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>PRESSURE EXCEEDS 3,000 PSI THERE MAY BE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEEDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEEDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>        TUBULAR FEEDING MACHINE              KNUCKLE BOOM CRANE FOR CASING PIPE HANDLING              RISER HANDLING SYSTEM                Riser gantr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEEDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs> IP-ratingRemark 164710-XX-0055DRILLINGRISER FEEDING MACHINE ANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEEDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\10 ALL AREAS.pdf</filepath>
+        <Paragraphs>SCBBA NEEDS MAINTENANCE /SHAKER ROOM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\12 Mud cleaner room.pdf</filepath>
+        <Paragraphs>EQUIP. NEEDS RELOCATION AND TRASH TO BE DISPOSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\14 Funnel house port side.pdf</filepath>
+        <Paragraphs>ALL MATERIAL NEEDS TO BE STOWED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>ELECTRICAL CABLE WORN NEEDS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>CUTTINGS CATCHER NEEDS TO BE EMPTIED CLEAN MALA PRACTICA DE LIMPIEZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\13 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>TOP OF CONTAINER NEEDS SOME CLEANING FALTA PROCEDIMIENTO EN ESPA321OL DE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>         PPE NEEDS A DESIGNATED STORAGE PLACE         HACE FALTA LIMPIEZA DE PISO. . </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>STARBOARD SIDE FLOOR NEEDS CLEANING L301MPARAS SUJETADAS CON CABLE DE SEGURIDAD. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\03 MAR 2014 1600.pdf</filepath>
+        <Paragraphs> CLEAR DRIP PAN NEEDS CLEANING MORE BAD HOUSEKEEPING  E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\11 ABRIL 2014 MOONPOOL 2200.pdf</filepath>
+        <Paragraphs>AREA NEXT TO SEWAGE STRAINER NEEDS CLEANING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaker room 2200 hrs .pdf</filepath>
+        <Paragraphs>INFO ON BOARD NEEDS TO BE UPDATED EVERY DAY  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaleshakers 1000 hrs .pdf</filepath>
+        <Paragraphs>INFO ON BOARD NEEDS TO BE UPDATED EVERY DAY  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\18 Upper Deck Ventilation Room.pdf</filepath>
+        <Paragraphs>FLOOR NEEDS CLEANING AND PAINTING  MADERA BLOQUEANDO EQUIPO DE EMERGENCIA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\19 Moonpool.pdf</filepath>
+        <Paragraphs>DRIP PAN NEEDS TO BE DRAINED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\22 Mud Pump Room.pdf</filepath>
+        <Paragraphs>MP#1 CATCH PAN NEEDS DRAINING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\25 Ventilation Room Fwd Stbd.pdf</filepath>
+        <Paragraphs>EMERGENCY MATERIAL NEEDS ORGANIZ- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\07 Jun Column Starboard Forward.pdf</filepath>
+        <Paragraphs>SEWAGE STRAINER NEEDS SOME CLEANING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\02 MUD PUMP ROOM.pdf</filepath>
+        <Paragraphs>NEEDS ANTI-CORROSION MAINTENANCE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\28 WELDING SHOP.pdf</filepath>
+        <Paragraphs>CYLINDER NEEDS SAFETY DIAMONDS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\01 SHAKER .pdf</filepath>
+        <Paragraphs>NEEDS HOUSEKEEPING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\07.- WEEKLY SOC TOUR.pdf</filepath>
+        <Paragraphs> NEEDS HOUSEKEEPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\19.- SHAKER ROOM.pdf</filepath>
+        <Paragraphs>NEEDS HOUSEKEEPING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\21.- SHALE SHAKER .pdf</filepath>
+        <Paragraphs>NEEDS HOUSEKEEPING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\27.- SHAKER ROOM.pdf</filepath>
+        <Paragraphs>SCBA NEEDS MANTENIMIENTO  SENALAMIENTOS EN MAL ESTADO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC663.pdf</filepath>
+        <Paragraphs>Approved Notes DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>    MEETING THE NEEDS OF   TODAY   S CHANGING WORK   ENVIRONMENT We offer a comprehensive range of fall arrest and  fall protection systems which are </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs> BEST MEET YOUR NEEDS    to help guide you to the glove that meets the safety  comfort and budget demands of your application  Use these charts to eas</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>TO MEET YOUR NEEDS Proshield256 30 Limited particulate </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>VISIT ONE SINGLE SITE FOR ALL OF YOUR PERSONAL PROTECTION EQUIPMENT NEEDS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.1 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.4 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.7 Work Order.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.8 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>BRAKE PAD CLEARANCE NEEDS ADJUSTING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>BRAKE PAD CLEARANCE NEEDS ADJUSTING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>. RELIEF VALVE #10 NEEDS TO BE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\6. Sistema de Propulsores (Thrusters System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\thruster\43 WO.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction DRAFT SENSOR PIPE NEEDS TO BE CLEANED BY MEANS OF COMPRESSED AIR IN ORDER TO PREVENT MARINE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\21 Chimney room Aft-Stbd .pdf</filepath>
+        <Paragraphs>MATERIAL NEEDS PROPER STOW(CORRECTED) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\18.- Stbd Fwd column.pdf</filepath>
+        <Paragraphs>VALVE OF THE PUMP NEEDS CLEANING IN MUD TANK 34P EQUIPOS Y SISTEMAS DE SEGURIDAD ADECUADOS / </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\22.TOP SIDE  OF FAN ROOM ON FW-STBD  SIDE.pdf</filepath>
+        <Paragraphs>SAFEGUARD NEEDS TO BE PLACED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\24. PONTOON STBD.pdf</filepath>
+        <Paragraphs>SCBA NEEDS SUPPORT STRUCTURE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\07 Utility drilling room M159.pdf</filepath>
+        <Paragraphs>V  Safety Tour         DRILL UTILITY ROOM M159 10:00 HRS JULY 7TH 2014FLOOR NEEDS CLEANING (WATER AND DIRT)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\02 SACK ROOM.pdf</filepath>
+        <Paragraphs>OUTSIDE SACK ROOM, LIGHT NEEDS FIX   EVIDENCIA FOTOGR301FICA                          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\March 2014\02 MAR 2014 1000.pdf</filepath>
+        <Paragraphs> CLEAR DRIP PAN NEEDS CLEANING MORE BAD HOUSEKEEPING  E </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXCEEDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXCEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\19 WASTE AREA.pdf</filepath>
+        <Paragraphs>HAZARDOUS WASTE CONTAINERS EXCEEDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXCEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs>TOR IF EXPOSURE LEVEL IS EXCEEDED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEEDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>MUDDY FLOOR, CLEANING NEEDED PROTECTOR DE GU315A DE GR332A NECESITA SER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>NEEDED   SE REQUIERE ORDEN Y LIMPIEZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\16 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>         SOME CLEANING NEEDED E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>         HOUSEKEEPING IS NEEDED         EPP MAL ALMACENADO . </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\19 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>ING NEEDED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>HOUSEKEEPING AND CLEANING NEEDED HERRAMIENTA TIRADA EN SUELO. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\26 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>LINES IS NEEDED FOR EASY ACCESS TO VALVE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaleshakers 1000 hrs .pdf</filepath>
+        <Paragraphs>A DESIGNATED  STORAGE PLACE FOR CLEANING STUFF IS NEEDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\09 ET shop .pdf</filepath>
+        <Paragraphs>EQUIPMENT NEEDED ORGANIZATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\05 Jun Starboard Aft Vent Room.pdf</filepath>
+        <Paragraphs>               MUY MALA PRACTICA DE ALAMACENAJEHOUSEKEEPING NEEDED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\22 Jun Drawworks.pdf</filepath>
+        <Paragraphs>V  Safety Tour           Drawworks  JUNE 22nd, 2014SOME HOUSEKEEPING NEEDED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\14 Drawworks.pdf</filepath>
+        <Paragraphs>DEC. 14 Th, 2014 NEEDED HOUSEKEEPING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI - BALANCE.pdf</filepath>
+        <Paragraphs>       EXPORT AWB OR SUB-CERT IS NEEDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI.pdf</filepath>
+        <Paragraphs>       EXPORT AWB OR SUB-CERT IS NEEDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\21 Chimney room Aft-Stbd .pdf</filepath>
+        <Paragraphs>USE OF EAR PROTECTION SIGN NEEDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\17 Jul Drawworks.pdf</filepath>
+        <Paragraphs>V  Safety Tour                        Drawworks                            JULY   17 Th, 2014 SOME HOUSEKEEPING NEEDED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\27 MACHINE SHOP .pdf</filepath>
+        <Paragraphs>NEEDED CLEANING   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INDEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INDEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\11 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>AVAILABLE INDEED PROCEDIMIENTO DE USO DE ESMERIL INSTALADO EN TALLER. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEEEDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\22 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>LIGHT FIXTURE NEEEDS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUSTY227NEEDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUSTY227NEEDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\01 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>AVIT STARTER IS RUSTY   NEEDS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDnEFFICIENCY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDnEFFICIENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>Ts / Tn SPEEDnEFFICIENCY  %RATED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEEDnEFFICIENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>Ts / Tn SPEEDnEFFICIENCY  %RATED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDnDATA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDnDATA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>kW SPEEDnDATA AT RATED VOLTAGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEEDnDATA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>kW SPEEDnDATA AT RATED VOLTAGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDmin-1nDATA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDmin-1nDATA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>TYPE kW SPEEDmin-1nDATA AT RATED VOLTAGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPEEDmin-1nDATA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>TYPE kW SPEEDmin-1nDATA AT RATED VOLTAGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROVEEDOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\3027-14-0007.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0009A\Procurement Document\OC 3027-14-0009A.pdf</filepath>
+        <Paragraphs>Ex t FAX COTIZACION TELEFONO EMAIL PROVEEDOR Viking</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\PO 3027-14-0105.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Tormag S A  de C V  ITEM DESCRIPCION NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\PO 3027-14-0107.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Tormag S A  de C V  ITEM DESCRIPCION NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0153\Procurement Document\PO 3027-14-0153.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Tecno Fire S A  de C V  ITEM DESCRIPCION NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158A\Procurement Document\OC 3027-14-0158A APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158B\Procurement Document\OC 3027-14-0158B.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158C\Procurement Document\OC 3027-14-0158C.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cuadro 3027-14-0171.pdf</filepath>
+        <Paragraphs> C V            PROVEEDOR  SELECCIONADO  TOTAL USD                                      Light Smoke Signal        Each                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\PO 3027-14-0365.pdf</filepath>
+        <Paragraphs>4416 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tormag</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\OC 3027-14-0739.pdf</filepath>
+        <Paragraphs>00 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Mari</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-13-0820 APROBADA.pdf</filepath>
+        <Paragraphs>51 FAX COTIZACION TELEFONO EMAIL PROVEEDOR DNOW</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+        <Paragraphs>00 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Mari</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+        <Paragraphs>00 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Mari</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927 APROBADA.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\OC 3027-14-0940 APROBADA.pdf</filepath>
+        <Paragraphs>4416 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tormag</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\PO 3027-14-0940.pdf</filepath>
+        <Paragraphs>4416 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tormag</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A APROBADA.pdf</filepath>
+        <Paragraphs>4416 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tormag</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A.pdf</filepath>
+        <Paragraphs>4416 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tormag</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\OC 3027-14-1012 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\OC 3027-14-1012.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017 APROBADA.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A APROBADA.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A.pdf</filepath>
+        <Paragraphs>7567 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Servicios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017 AUT..pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B APROBADA.pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B.pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 APROBADA.pdf</filepath>
+        <Paragraphs>Ex t FAX COTIZACION TELEFONO EMAIL PROVEEDOR Viking</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA Rev2.pdf</filepath>
+        <Paragraphs>Ex t FAX COTIZACION TELEFONO EMAIL PROVEEDOR Viking</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA.pdf</filepath>
+        <Paragraphs>Ex t FAX COTIZACION TELEFONO EMAIL PROVEEDOR Viking</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018.pdf</filepath>
+        <Paragraphs>Ex t FAX COTIZACION TELEFONO EMAIL PROVEEDOR Viking</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A APROBADA.pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A.pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C APROBADA.pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C.pdf</filepath>
+        <Paragraphs>30 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Othon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031 APROBADA.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031.pdf</filepath>
+        <Paragraphs>900 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Tecno</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019 APROBADA.pdf</filepath>
+        <Paragraphs>4119 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Ángel</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019.pdf</filepath>
+        <Paragraphs>4119 FAX COTIZACION TELEFONO EMAIL PROVEEDOR Ángel</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\PO 3027-15-0479.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Navico Inc  e mail  grpm factura grupor perforacion com mx DEPARTAMENTO    Sep      Marine PAGINA   DE   ITEM NO  DE PARTE C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\OC 3027-15-0651.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR C V  e mail  grpm factura grupor perforacion com mx DEPARTAMENTO    Aug      MARINE PAGINA   DE   ITEM NO  DE PARTE CANTIDAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733 APROBADA.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Tormag S A  de C V  e mail  grpm factura grupor perforacion com mx DEPARTAMENTO    Sep      MARINE PAGINA   DE   ITEM NO  DE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Tormag S A  de C V  e mail  grpm factura grupor perforacion com mx DEPARTAMENTO    Sep      MARINE PAGINA   DE   ITEM NO  DE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR S de R L de C V e mail  grpm factura grupor perforacion com mx DEPARTAMENTO    Sep      Marine PAGINA   DE   ITEM NO  DE PAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROVEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PO 3027-15-0116.pdf</filepath>
+        <Paragraphs> TELEFONO EMAIL PROVEEDOR Endress Hauser Mexico  S A de C V e mail  grpm factura grupor perforacion com mx DEPARTAMENTO    Sep      ELECTRICAL PAGINA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROCEEDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROCEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PROCEEDED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROCEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>INSTALLATION SHOULD BE PROCEEDED QUICKLY ONCE STARTED. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROCEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROCEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PROCEED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROCEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>DO NOT PROCEED WITH INSTALLATI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Overspeed12OVERSPEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Overspeed12OVERSPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>(e.g. French) Protection ANSI code Overspeed12OVERSPEED  VITESSE &gt;&gt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Underspeed14UNDERSPEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Underspeed14UNDERSPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Underspeed14UNDERSPEED VITESSE &lt;&lt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>EED END</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>9871NewBLEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>9871NewBLEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>9871NewBLEED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXCEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXCEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs> PUM P DOES NOT EXCEED  THAT OF THE PRESSURE   RELIEF VALVE     Entrained air should be purged   from the compensation system     During initial deplo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXCEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>FELY  DRIVEN TO EXCEED OUR CUSTOMER     S EXPECTATIONS  trust      trust      noun reliance on or    rm belief    in the ability  truth  strength    o</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXCEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>DO NOT EXCEED 3,000 PSI WITH HYDRAULIC PUMP . </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXCEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National Oilwell 14P-220 Manual 80-600-209.pdf</filepath>
+        <Paragraphs>DO NOT EXCEED 3,000 PSI WITH HYDRAULIC PUMP  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREEDOM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREEDOM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>  WITH MAXIMUM  FREEDOM       The Uni        overhead Traveler passes freely over intermediate brackets    ensuring complete freedom of travel and mov</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEDOM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>FREEDOM THE GAS OR PARTICLE REUSABLE PROTECTION HALF-MASK IS MAINTENANCE FREE, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>PEED 50 ft.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\18. Grúas Principales (Main Cranes)\18.2 Work Orders.pdf</filepath>
+        <Paragraphs>PRESSURE FILTER, DFBN660, FOR FEEDER   510661314</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\18. Grúas Principales (Main Cranes)\18.5 Work Orders.pdf</filepath>
+        <Paragraphs>PRESSURE FILTER, DFBN660, FOR FEEDER   510661314</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\18. Grúas Principales (Main Cranes)\18.8 Work Orders.pdf</filepath>
+        <Paragraphs>Maker's Ref./TypeQuantity Pressure Filter, DFBN660, FOR FEEDER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>BUSHING LOWER F/CELL FEEDER MP9554</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROVEEDORES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROVEEDORES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>E DEL PADR N DE PROVEEDORES DEL PROGRAMA DE HIPOTECAS VERDES   DEL  INFONAVIT   RESULTA IMPROCEDENTE LO QUE A CONTINUACI N SE EXPONE   FUERON DESECHAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011919_Fragrance_Collection_by_Glade_Reed_Diffuser_Lotus_Bamboo.pdf</filepath>
+        <Paragraphs> GLADE® - SCENTED REED  DIFFUSER - LOTUS BAMBOO Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDBALL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDBALL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butchers_Speedball_2000_Cleaner_4223320_msds.pdf</filepath>
+        <Paragraphs>TA SHEET  HMIS  SPEEDBALL      Power Cleaner  NFPA  Personal protective equipment     Version Number      Health     Preparation date              Rea</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GUARANTEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GUARANTEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Urinal_Screen_wNon-Para_Block_HOS01901_msds.pdf</filepath>
+        <Paragraphs>IEF  BUT IS NOT GUARANTEED TO BE SO   THIS  MSDS COMPLIES WITH    CFR            HAZARDOUS COMMUNICATION STANDARD    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GUARANTEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Urinal_Screen_wNon-Para_Citrus_01905_msds.pdf</filepath>
+        <Paragraphs>IEF  BUT IS NOT GUARANTEED TO BE SO   THIS  MSDS COMPLIES WITH    CFR            HAZARDOUS COMMUNICATION STANDARD    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>rails1040-FEEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>rails1040-FEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>and installation/operating manual without sleeve feeding rails1040-FEEDER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERSPEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERSPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>OVERSPEED NOTES:      Loads at zero block speed (STATIC) in the first row of the chart are based on no efficiency losses</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROCEEDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROCEEDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>) BEFORE PROCEEDING TO NEXT STEP. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLEED-OFF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLEED-OFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>BLEED-OFF LINE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEEDLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEEDLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>NEEDLE VALVES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDCLEAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDCLEAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\29 - SpeedClean Pump\Speed Clean Pump.doc</filepath>
+        <Paragraphs>SPEEDCLEAN   Xa Intrinsically Safe Spark Free Pressure Washer          Contents     IMPORTANT INFORMATION            Safety               Lubrication </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLEEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0048 WOM Valve Mud\Order  Confirmation L43571  ODN2-11-0048.pdf</filepath>
+        <Paragraphs>EA  9/30/2011          43.10  PLUG, BLEEDER 2-1/16"5K MODEL 200M MUD VALVE  $1.00    43.10  WC-2010-3 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0049 WOM Valve Mud\Order Confirmation L43573_ODN2-11-0049.pdf</filepath>
+        <Paragraphs>EA  9/30/2011          43.10  PLUG, BLEEDER 3/8" AUTOCLAVE PLUG  $1.00    1.00  WC-3010-3 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0050 WOM Valve Mud\Order confirmation L43581  ODN2-11-0050.pdf</filepath>
+        <Paragraphs>EA  9/30/2011          43.10  PLUG, BLEEDER 2-1/16"5K MODEL 200M MUD VALVE  $1.00    43.10  WC-4010-3 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0054 WOM Gate Valve\L43572  ODN2-11-0054  Order Confirmation REV2.pdf</filepath>
+        <Paragraphs>EA  9/30/2011          43.10  PLUG, BLEEDER 3/8" AUTOCLAVE PLUG  $1.00    43.10  PT-2479 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLEEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0054 WOM Gate Valve\Order confirmation L43572_ODN2-11-0054.pdf</filepath>
+        <Paragraphs>EA  9/30/2011          43.10  PLUG, BLEEDER 3/8" AUTOCLAVE PLUG  $1.00    43.10  PT-2479 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONTENEEDOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONTENEEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\08 PORT SIDE PONTOON 22 00.pdf</filepath>
+        <Paragraphs>BROCHES DE CONTENEEDOR DE ERA PRESENTA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MATERIALNEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MATERIALNEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\28 Top of vent. room strbd..pdf</filepath>
+        <Paragraphs>MATERIALNEED PROPER STOWING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014NEEDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014NEEDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\25 Drawworks.pdf</filepath>
+        <Paragraphs>AUGUST  25 Th, 2014NEEDED HOUSEKEEPING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

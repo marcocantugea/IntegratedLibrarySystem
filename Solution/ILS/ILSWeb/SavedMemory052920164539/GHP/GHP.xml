@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FGHPOWERCONSUMPTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FGHPOWERCONSUMPTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FGHPOWERCONSUMPTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GHP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Special assembly cones MOSI and plates HLStandard assembly cones MOK and plates GHP Operation drive</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIGHProgramming</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIGHProgramming</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>WRONG FIXTURE! INSUFFICIENT OIL LEVEL OIL TEMPERATURE TOO HIGHProgramming memory locations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>asGHP06XLL38MOK08LLXMOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>asGHP06XLL38MOK08LLXMOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>6MOK06LLXsame asGHP06XLL38MOK08LLXMOK for PSR/DPRGHP08XKONU06+08LLX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10MOK10LLXGHP10X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10MOK10LLXGHP10X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10MOK10LLXGHP10X 12MOK12LLXGHP12XKONU10+12LLX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>asGHP12X115MOK15LXMOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>asGHP12X115MOK15LXMOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>X   MOK  LXsame asGHP  X   MOK  LXMOK for PSR DPRGHP  XKONU     LXL  MOK  LXGHP  X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>28MOK28LXMOKEO228LXGHP28X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>28MOK28LXMOKEO228LXGHP28X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>28MOK28LXMOKEO228LXGHP28X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>25MOK25SXMOKEO225SXGHP25X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>25MOK25SXMOKEO225SXGHP25X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>25MOK25SXMOKEO225SXGHP25X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>38MOK38SXMOKEO238SXGHP38XAssembly</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>38MOK38SXMOKEO238SXGHP38XAssembly</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>38MOK38SXMOKEO238SXGHP38XAssembly cone MOKTube locating plate GHPCone gauge KONU for MOKAssembly fixture must be installed</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GHPCone</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GHPCone</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>38MOK38SXMOKEO238SXGHP38XAssembly cone MOKTube locating plate GHPCone gauge KONU for MOKAssembly fixture must be installed</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

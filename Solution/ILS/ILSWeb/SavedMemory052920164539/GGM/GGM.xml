@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GGM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GGM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>GGM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GGMFemale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GGMFemale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>logue        UK GGMFemale thread couplingFemale NPTF  thread  SAE J       Female NPTF  thread  SAE J    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

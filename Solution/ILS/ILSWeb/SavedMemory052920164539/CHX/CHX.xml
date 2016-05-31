@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SCHXXH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCHXXH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Pumps+Valves4_MudGateValves_081129(2).pdf</filepath>
+        <Paragraphs>7,500 WP is available in SCHXXH only..BASE MATERIAL NUMBER SIZE GATE/STEM MATERIAL  BODY MATERIAL t</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHXXH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHXXH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>CHXXH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AZC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AZC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>AZC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>AZC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AZCBeige</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AZCBeige</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>AZCBeige</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAZCHEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAZCHEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>ion may result  HAZCHEM None PERSONAL PROTECTION Glasses  Gloves  Respirator  Chemical goggles  PVC chemical resistant type  Type A Filter of sufficie</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAZCHEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs>TY  None known  HAZCHEM None PERSONAL PROTECTION Glasses  Gloves  Respirator  Chemical goggles    NEOPRENE   VITON   BUTYL Particulate continued      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAZCHEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>TY  None known  HAZCHEM  X Personal Protective Equipment Breathing apparatus  Gas tight chemical resistant suit  Limit exposure duration to   BA set  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAZCHEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_CSR_Raw_Sugar_or_Brown_Sugars_Australian_Mud.pdf</filepath>
+        <Paragraphs> HAZCHEM None </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

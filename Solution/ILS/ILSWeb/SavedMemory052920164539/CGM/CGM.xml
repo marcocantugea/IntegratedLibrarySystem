@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>NOWEIGHTLCGTCGMOMCHANGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NOWEIGHTLCGTCGMOMCHANGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>NOWEIGHTLCGTCGMOMCHANGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NOWEIGHTTCGMOMTOTALCHANGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NOWEIGHTTCGMOMTOTALCHANGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>NOWEIGHTTCGMOMTOTALCHANGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CGM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>     Form No    CGM  c Issue  January      Page   of       DET NORSKE VERITASTM   ORDER CONFIRMATION  Job Id       P         DET NORSKE VERITAS MEXICO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>USCGMarine</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>USCGMarine</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>Conforms to USCGMarine requirements as outlined in 46 C.F.R., part 56.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

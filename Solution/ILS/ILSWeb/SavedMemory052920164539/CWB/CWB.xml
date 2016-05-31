@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ACWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ACWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>CWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

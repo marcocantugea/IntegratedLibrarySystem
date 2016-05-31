@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BAHIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAHIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\26.- Riser bay.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour           BAHIA DE RISER / RISER BAY   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAHIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\05 UPPER DECK.pdf</filepath>
+        <Paragraphs>UPPER DECK    10:00 HRS JANUARY 5 th , 2014 BAHIA  DE RISER LIMPIA Y ORDENADA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAHIAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAHIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\27.- Upper pipe deck.pdf</filepath>
+        <Paragraphs> DE LAS BAHIAS (CORREGIDO) /  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FNLBAPNLOBAHPBAP5ONBA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FNLBAPNLOBAHPBAP5ONBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>FNLBAPNLOBAHPBAP5ONBA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

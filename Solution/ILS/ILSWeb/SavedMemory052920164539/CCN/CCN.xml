@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CCN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>e bolt break    CCN no     NA   MH technical contact person    Thomas Gjertsen   HSE Alert Bulletin ref     NA   SAP Notification no     NA   SAP Serv</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-040.pdf</filepath>
+        <Paragraphs>CCN no:     0101 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ResponseKCCNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ResponseKCCNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>ResponseKCCNA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ECCN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0088 NOV Hydratong ET\Sales Order Acknowledgement 712022KRS1 ~07252011033920.pdf</filepath>
+        <Paragraphs>Total Sales Order:  712022KRS1$14.059,25"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>Total Sales Order:  714990$1.040,57"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>Total Sales Order:  715004$26.605,53"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>Total Sales Order:  714848$20.547,22"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

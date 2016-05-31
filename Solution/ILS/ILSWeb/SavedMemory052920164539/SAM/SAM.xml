@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SAMPLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAMPLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>NOT APLICABLE AT THE STAGE/DOES NOT HAVE BOTTLES SAMPLES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAMPLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>TAKEN OIL SAMPLE , SEND TO TOWN FOR ANALYSIS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>SAMPLE LOADING CONDITIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>port            SAMPLE LOADING CONDITIONS        SECTION     VESSEL SYSTEMS            PIPING SYSTEMS GENERAL              General              Color </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>Page 64 of 67  Maintenance Work OrderROVT001M04 Test LPA2 OIL SAMPLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST390.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVTest LPA2 OIL SAMPLE FOR WINCH AND DECK PACK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST604.pdf</filepath>
+        <Paragraphs>Approved Notes OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>rsal pump probe SAMPLE LINE            foot polyurethane             foot polyurethane             foot polyurethane             foot polyurethane DAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs> smaller parts  SAMPLE APPLICATIONS   Electrical component assembly and installation  General material handling  Final assembly areas  Shipping and re</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SAMPLE LINE 1M PU COIL A5en-US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.1 Work Orders.pdf</filepath>
+        <Paragraphs>Page 55 of 58  Maintenance Work OrderTEST390 Test LPA2 OIL SAMPLE FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>Page 57 of 60  Maintenance Work OrderTEST390 Test LPA2 OIL SAMPLE FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>Page 57 of 60  Maintenance Work OrderTEST390 Test LPA2 OIL SAMPLE FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.5 Work Orders.pdf</filepath>
+        <Paragraphs>Page 62 of 65  Maintenance Work OrderTEST390 Test LPA2 OIL SAMPLE FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.6 Work Orders.pdf</filepath>
+        <Paragraphs>Page 64 of 67  Maintenance Work OrderROVT001M04 Test LPA2 OIL SAMPLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.7 Work Order.pdf</filepath>
+        <Paragraphs>Page 59 of 62  Maintenance Work OrderROVT001M02 Test LPA2 OIL SAMPLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\4. Maquinas Principales (Main Diesel Engines)\4.8 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OBTAIN ENGINE OIL SAMPLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\4. Maquinas Principales (Main Diesel Engines)\4.9 Work Order.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OBTAIN ENGINE OIL SAMPLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.1 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.4 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.7 Work Order.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction TAKE OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit).</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\3. Sistema de ROV (ROV System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>Page 52 of 55  Maintenance Work OrderTEST390 Test LPA2 OIL SAMPLE FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\rov\57 rov.pdf</filepath>
+        <Paragraphs>Page 55 of 58  Maintenance Work OrderTEST390 Test LPA2 OIL SAMPLE FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\thruster\43 WO.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\FEBRERO\WO TEST604.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OIL SAMPLE FROM TRANSMISSION/GEAR DRIVE (lower Leg of drive unit)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PASAMANOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PASAMANOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\10 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>FALTA PASADOR EN PASAMANOS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APLICACIONESPASAMANOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APLICACIONESPASAMANOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>GU315A DE APLICACIONESPASAMANOS POR APLICACI323N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+        <Paragraphs>WE     NEED THE SAME SERVICE THAT YOU CAN SEE IN THE AT TACHED FILE           COULD YOU PLEASE SEND ME THE ACTUAL QUOTE FOR THAT SERVICE            BE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS.pdf</filepath>
+        <Paragraphs>WE     NEED THE SAME SERVICE THAT YOU CAN SEE IN THE ATTACHED FILE           COULD YOU PLEASE SEND ME THE ACTUAL QUOTE FOR THAT SERVICE            BEC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>ION PROCEDURE   SAME AS FOR INGESTION                    TOXICITY    ACUTE ORAL TOXICITY IN MICE IN    HOURS                                         L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>FIREARM OR IN THE SAME BOX WITH THE FIREARM. THIS IS A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      EACH RTD HAS 3 LEADS 2 OF SAME COLOR (USUALLY WHITE ) AND THE 3Rd OF      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Black Jak Torque Master.pdf</filepath>
+        <Paragraphs>UTILIZE SAME PROCEDURES AS IN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>). THE SAME FORCE USED TO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>-SHIPPING INFORMATION TO BE SENT TO THE SAME AS LISTED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>-SHIPPING INFORMATION TO BE SENT TO THE SAME AS LISTED  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>				SAMKUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>				SAMKUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>     Make Type      SAMKUM CENTURY CO LTD    Capacity   total system        X    KW        Air Conditioning HVAC System        Quantity          AHU  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>				SAMKUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>     Make Type      SAMKUM CENTURY CO LTD    Capacity   total system        X    KW        Air Conditioning HVAC System        Quantity          AHU  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>					SAMKUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>					SAMKUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>     Make Type       SAMKUM CENTURY CO LTD    Electric pneumatic diesel      Electric   Stationary    Max delivered pressure          bar             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>					SAMKUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>     Make Type       SAMKUM CENTURY CO LTD    Electric pneumatic diesel      Electric   Stationary    Max delivered pressure          bar             </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Costruttore/MarkeCodice SAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SAM - System</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>400 NORTH SAM HOUSTON PARKWAY EAST SUITE 900 HOUSTON, TEXAS  77060 (P) 281-878-8000  (F) 281-878-5735  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BASAMENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BASAMENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>[COD.6591201F] 70 BASAMENTO  / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENSAMBLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENSAMBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>Fas Trac    III ENSAMBLES Comfo Cap Blanco              Azul           Amarillo           Naranja           Rojo           Verde           Negro      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10SAMPLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10SAMPLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>2 10SAMPLING LINE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAMPLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAMPLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>attachment clip SAMPLING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENSAMBLAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENSAMBLAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>TIPO COPA PARA ENSAMBLAR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>en-USAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>en-USAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>Part Number en-USOV en-USCL en-USSD en-USCD en-USHC en-USHS* en-USAM en-USMA en-USFM en-USHF en-USMV en-USP100 en-USSee en-US en-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAM-System</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAM-System</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>SAM-System</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MSAMalaysia</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MSAMalaysia</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>ypt Libya Cairo MSAMalaysia Kuala  Lumpur MSA Zimbabwe Harare MSA Africa Johannesburg MSA S E  Asia Singapore MSA Indonesia Jakarta MSA Australia Sydn</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXPRESAMENTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXPRESAMENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\648346001-s.pdf</filepath>
+        <Paragraphs>EXPRESAMENTE LA RESPONSABILIDAD POR P311RDIDAS, DA321OS, O GASTOS QUE SURGIERAN O QUE ESTEN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GESAMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GESAMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>lable Available GESAMP EHS COMPOSITE LIST   GESAMP Hazard Profiles Name   EHS TRN A a A b A  A  B  B  C  C  C  D  D  D  E  E  E  Cas No   RTECS No    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SSAMS5648</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SSAMS5648</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>14-2430 &amp;3642 &amp;48Sanitary See page 6 for Assembly Part Number 416 SSQQ-S-764-B 316 SSAMS5648 B 17-4 PHSSAMS5643MonelB164 (Class A) Stems</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>CGD, CGE :            Max, misalignment 0.5mm </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1BARTECGERMA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1BARTECGERMA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>230176-HS-009AF&amp;GLOCAL MANUAL RELEASE BOX /INERGEN EX PROOF1OUTSIDE M320 Cutting Cleaning/Shale Shaker Room / ZONE 1BARTECGERMA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CGEO16SMOMDA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CGEO16SMOMDA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGEO16SMOMDCFNBR Steel, zinc yellow platedA3CGEO16SMOMDA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CGE16SMEDOMDA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CGE16SMEDOMDA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGE16SMEDOMDCFNBR Steel, zinc yellow platedA3CGE16SMEDOMDA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CGE18LREDOMDA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CGE18LREDOMDA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGE18LREDOMDCFNBR Stahl, zinc yellow platedA3CGE18LREDOMDA3CNBR Stainless Steel71GE18LREDOMD71VIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CGE16SREDOMDA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CGE16SREDOMDA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFGE16SREDOMDCFNBR Stahl, zinc yellow platedA3CGE16SREDOMDA3CNBR Stainless Steel71GE16SREDOMD71VIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

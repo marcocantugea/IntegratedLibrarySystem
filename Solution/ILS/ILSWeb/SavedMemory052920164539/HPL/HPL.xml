@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>445GARBAGEDISPOSALPLANTS445GARBAGEDISPOSALUNIT551GARBAGEINCINERATOR445GASANDFIREALARMDEVICES811GASANDOXYGENDELIVEREDWITHPLATFORM441GASANDOXYGENduring</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>445GARBAGEDISPOSALPLANTS445GARBAGEDISPOSALUNIT551GARBAGEINCINERATOR445GASANDFIREALARMDEVICES811GASANDOXYGENDELIVEREDWITHPLATFORM441GASANDOXYGENduring</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>TRUCTION PLANT     GARBAGEDISPOSALPLANTS   GARBAGEDISPOSALUNIT   GARBAGEINCINERATOR   GASANDFIREALARMDEVICES   GASANDOXYGENDELIVEREDWITHPLATFORM   GAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LaboratoriesHPLC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LaboratoriesHPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>during 036lling or pouring.12765 121617 for LaboratoriesHPLC Safety Disposal CansQuick-disconnect 036ttings and coalescing carbon 036lters  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPLC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>environmentally-friendly solution to waste collectionIdeal for HPLC waste applications:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLAIROL PROFESSIONAL FLARE PERMANENT CREAM (CREME PERMANENTE) MEDIUM INTENSE VIOLET RED 96636462_NA PGNA EN 11-29-13.pdf</filepath>
+        <Paragraphs> sewage sludge  HPLC estimation  method  at pH      Other adverse effects  No information available      Disposal Considerations  Waste from Residues </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_4GN_99732088_PROF_NA_EN_29-AUG-2014.pdf</filepath>
+        <Paragraphs>EU Method C     HPLC estimation  method  adsorption  soil sewage sludge   Other adverse effects  No information available                             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_8N,88N_99314334_PROF_NA_EN_2-SEP-2014.pdf</filepath>
+        <Paragraphs>EU Method C     HPLC estimation  method  adsorption  soil sewage sludge   Other adverse effects  No information available                             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_9NN_Light_Ultra_Riche_Neutral_Blonde_99732087_PROF_NA_EN_29-AUG-2014.pdf</filepath>
+        <Paragraphs>EU Method C     HPLC estimation  method  adsorption  soil sewage sludge   Other adverse effects  No information available                             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NIOXIN Scalp Optimizing Conditioner 92231187_NA EN 27-MAY-2014.pdf</filepath>
+        <Paragraphs>e  ASTM E       HPLC method   Zinc  bis    hydroxy kappaO     H  pyridinethionato kappaS       T           VOC Content      Products comply with US st</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHPLSRPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHPLSRPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>PHPLSRPS OILG0117 7-1 7-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>psiHPL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>psiHPL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>psiHPL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

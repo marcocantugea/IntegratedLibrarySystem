@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENJOY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENJOY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>  THE MORE YOU  ENJOY THE VIEW  ANCHORAGE CONNECTORS      Most Anchors    Equipped with DBI SALA                          anchorage connector has been</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENJUAGARSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENJUAGARSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Antibacterial-Hand-Soap-Spanish-MSDS-ZUAHP.pdf</filepath>
+        <Paragraphs>RECOMIENDA ALTAMENTE ENJUAGARSE  INMEDI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENJUAGARSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Orange-Heavy-Duty-Hand-Cleaner-Spanish-MSDS-ZU0991.pdf</filepath>
+        <Paragraphs>RECOMIENDA ALTAMENTE ENJUAGARSE  INMEDIATAMENTE CON BASTANTE AGUA. N o es de esperar que se produzca ninguna irritaci363n sign</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

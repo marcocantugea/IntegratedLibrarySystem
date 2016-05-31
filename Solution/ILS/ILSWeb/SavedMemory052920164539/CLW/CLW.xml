@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLWGAU421</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLWGAU421</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLWGAU421.pdf</filepath>
+        <Paragraphs>CLWGAU421</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>applicableCLWGAU421</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>applicableCLWGAU421</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLWGAU421.pdf</filepath>
+        <Paragraphs>ACGIH TLV-TWAPolysaccharide60 - 100%Not applicableNot applicableNot applicableCLWGAU421</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DeterminedCLWGAU421</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DeterminedCLWGAU421</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLWGAU421.pdf</filepath>
+        <Paragraphs>Not DeterminedCLWGAU421</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>determinedCLWGAU421</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>determinedCLWGAU421</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLWGAU421.pdf</filepath>
+        <Paragraphs>Not determinedCLWGAU421</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

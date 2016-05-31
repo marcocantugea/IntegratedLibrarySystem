@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>426SPECIALCOMMONHYDRAULICOILSYSTEMS83SPECIALEQUIPMENT48SPECIALSERVICEEQUIPMENTANDSUPPLIES375SPECIALTOOLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>426SPECIALCOMMONHYDRAULICOILSYSTEMS83SPECIALEQUIPMENT48SPECIALSERVICEEQUIPMENTANDSUPPLIES375SPECIALTOOLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>426SPECIALCOMMONHYDRAULICOILSYSTEMS83SPECIALEQUIPMENT48SPECIALSERVICEEQUIPMENTANDSUPPLIES375SPECIALTOOLS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EEQUIPOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EEQUIPOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\23 Starboard Pipe rack.pdf</filepath>
+        <Paragraphs>PARTES SUELTAS SOBRE CAJAS DE EEQUIPOS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESCATEEQUIPOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESCATEEQUIPOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\20 MAYO 2014 presas.pdf</filepath>
+        <Paragraphs> DEL TRIPODE DE RESCATEEQUIPOS Y MATERIALES DE LIMPIEZA MAL ALMACENADOS EN TODA EL AREA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

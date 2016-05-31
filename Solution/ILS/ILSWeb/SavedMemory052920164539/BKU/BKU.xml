@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BKU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest Pro Health For Me Minty Breeze and Rockin Mint 99315052  10-JUL-2014.pdf</filepath>
+        <Paragraphs>roduct          BKU  Page               Bulk Density  No information available                                                                        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BKU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest_Pro_Health_Minty_Breeze_and_Rockin_Mint_99315052_10-JUL-2014.pdf</filepath>
+        <Paragraphs>roduct          BKU  Page               Bulk Density  No information available                                                                        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

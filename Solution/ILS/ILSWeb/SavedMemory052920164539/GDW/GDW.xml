@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>8SGDWLQJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8SGDWLQJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\Manuals\AMOS2 Suite Vrs. 6.4.00 MMP User Guide.pdf</filepath>
+        <Paragraphs> Z  v  vP    X   SGDWLQJ  KH  UDQVIHU  DE  QG  UDQVIHUULQJ dZ  v  vP           Z   v      uv     u  Z     X dZ  v  vP      Zv       Z d v         Z  Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>8SGDWH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8SGDWH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\Manuals\AMOS2 Suite Vrs. 6.4.00 MMP User Guide.pdf</filepath>
+        <Paragraphs>   HDVXUH  RLQW  SGDWH Kv   v vP  Z   v    Z    v  so     o      Z u       v    o       Z  o      Z o      X dZ     v   v  v   vP D    W  v    Z Z    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GDWD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GDWD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>DW FRQWDLQV WKH GDWD DQG FOLFN  SHQ    GLDORJ ER  DSSHDUV VKRZLQJ KRZ PDQ  ODEHOV ZLOO SULQW   OLFN      KH LQGLFDWHG QXPEHU RI ODEHOV DUH SULQWHG  UL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GDWD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>DW FRQWDLQV WKH GDWD DQG FOLFN  SHQ    GLDORJ ER  DSSHDUV VKRZLQJ KRZ PDQ  ODEHOV ZLOO SULQW   OLFN      KH LQGLFDWHG QXPEHU RI ODEHOV DUH SULQWHG  UL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

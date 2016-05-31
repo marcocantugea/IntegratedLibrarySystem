@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LOBBYCOFFEE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOBBYCOFFEE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A326COFFEE SHOP LOBBYCOFFEE SHOP LOBBY A326UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BYCHK3881012</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BYCHK3881012</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>BYCHK3881012</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BYCHK3881012</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>BYCHK3881012</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABYC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABYC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ABYC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

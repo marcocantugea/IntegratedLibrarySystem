@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>141110-IB0413DRILLINGPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141110-IB0413DRILLINGPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>141110-IB0413DRILLINGPOWER SLIPS VALVE UNIT Eexi (10-BX1111)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 202010DNV-2001-OSL-ATEX-0176</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>141210-IB0414DRILLINGPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141210-IB0414DRILLINGPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>141210-IB0414DRILLINGPOWER SLIPS VALVE UNIT Eexe (10-BX1111)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 151510DNV-2001-OSL-ATEX-0176</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>143412-IB0079DRILLINGPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>143412-IB0079DRILLINGPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>143412-IB0079DRILLINGPOWER &amp; INTERFACE CAB. FOR RISER TENSION CYLINDE1DRILL FLOOR BELOW / Zone 2TECHNORNorwayTNCC 573830DNV-200</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMAGINGPORTABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMAGINGPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>OTECTIONTHERMAL IMAGINGPORTABLE GAS DETECTIONPERMANENT GAS DETECTIONSERVICE   WORKSHOP SOLUTIONSSOFTWARE SOLUTIONSsafetySCOPE European Product Portfol</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

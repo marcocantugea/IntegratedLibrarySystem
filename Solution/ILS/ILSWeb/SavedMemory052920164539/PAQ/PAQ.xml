@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EMPAQUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMPAQUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\31 ENE 2014 CTO. BOMBAS.pdf</filepath>
+        <Paragraphs>TO A LA VISTA EMPAQUE EN SITIO INADECUADO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMPAQUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>S DE EMPAQUE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMPAQUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\22 JULY 2014 UPPER DECK.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   UPPER DECK        10:00 HRS JULY 22th  2014MATERIAL DE EMPAQUE ABANDONADO EN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAQUETES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>SIONES  ENVIOS  PAQUETES  Y  DOCUMENTACI   N RELACIONADA  REMARKS  OBSERVACIONES  SOLICITADO POR  REQUESTED  BY   CERTIFICADO  DE  CALIDAD REQUERIDO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+        <Paragraphs>SIONES  ENVIOS  PAQUETES Y DOCUMENTACI N RELACIONADA REMARKS OBSERVACIONES SOLICITADO POR  REQUESTED BY  Francisco Javier Montes Panayeta FECHA DATE A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+        <Paragraphs>SIONES  ENVIOS  PAQUETES Y DOCUMENTACI N RELACIONADA REMARKS OBSERVACIONES SOLICITADO POR  REQUESTED BY  Francisco Javier Montes Panayeta FECHA DATE A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\MR 3027-14-0365.pdf</filepath>
+        <Paragraphs>, ENVIOS, PAQUETES Y DOCUMENTACIÓN RELACION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>PAQUETES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\MR 3027-14-0739.pdf</filepath>
+        <Paragraphs>PAQUETES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+        <Paragraphs>PAQUETES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAQUETE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAQUETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs> f  SOLICITE UN PAQUETE  DE CONCIENTIZACI   N ACERCA DE LA PREVENCI   N DE CA   DAS GRATIS OBTENGA EL PAQUETE PYTHONSAFETY COM AWARENESS              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAQUETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>LENTE TRANSPARENTE PROTECTORA, M301SCARA ADVANTAGE 3000 PAQUETE 25 UNDS.  PN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OPAQUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OPAQUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Rheolube_Rheochem.pdf</filepath>
+        <Paragraphs>TIES Appearance OPAQUE WHITE LIQUID Solubility  Water  SOLUBLE Odour SLIGHT ODOUR Specific Gravity    Approximately  pH   to      Volatiles NOT AVAILA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

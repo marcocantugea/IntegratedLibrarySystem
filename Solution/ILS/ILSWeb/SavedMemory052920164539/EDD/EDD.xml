@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>NEDD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEDD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\15.- Welding Shop.pdf</filepath>
+        <Paragraphs>NEDD  HOUSEKEEPING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0006EDDY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0006EDDY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0006EDDY CURRENT BRAKE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDDY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDDY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>Rev.24 Page 2 of 2B0048724_Parts_List.xls   EDDY CURRENT BRAKE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KILLEDDrill</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KILLEDDrill</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>WEIGHTWELL KILLEDDrill pipe Pressure</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLOSEDCLOSEDOPENCLOSEDCLOSEDDIVERTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLOSEDCLOSEDOPENCLOSEDCLOSEDDIVERTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>CLOSEDCLOSEDOPENCLOSEDCLOSEDDIVERTER LATCHINGPRESSUREVENTDIVERTER LATCH CYLINDERSDIVERTER HYDRAULIC STABS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

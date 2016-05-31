@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LCB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LCB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    transverse free suirfaces.   LCB </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LCB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  3   C.3 Hydrostatic Table Draft   Displ LCB TCB VCB WPA LCF   TPcm MTcm KML KMT  (m) (ton) (m) (m) (m) (m2) (m) (ton/cm)   (ton-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LCB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>suirfaces       LCB      m      Is the longitudinal distance to the center of buoyancy of the rig  measured from midship  fore is    aft is         TC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LCB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>  LCG = LCB + TRIM / LBP * (VCG - VCB)( from MID. )</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

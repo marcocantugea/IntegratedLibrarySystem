@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AGITATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGITATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>NOTE: THE CORRECT DESCRIPTION IS ELECTRIC MOTOR FOR TRIP TANK AGITATOR BAmos 2 Enterprise Management</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGIP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>      Product   AGIP LAMIX    Product code        Page       Date              Supersedes SDS dated              ENI S p A    Refining   Marketing Div</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AGIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>      Product   AGIP LAMIX    Product code        Page       Date              Supersedes SDS dated              ENI S p A    Refining   Marketing Div</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AGIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>      Product   AGIP LAMIX    Product code        Page       Date              Supersedes SDS dated              ENI S p A    Refining   Marketing Div</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGINA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>2014 Marine PAGINA 1 DE 1  _j C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\3027-14-0007.pdf</filepath>
+        <Paragraphs>MARINE PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>PAGINA / PAGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0009A\Procurement Document\OC 3027-14-0009A.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\PO 3027-14-0105.pdf</filepath>
+        <Paragraphs>GA DEPARTAMENTO PAGINA   DE   RFC DIRECCION DE ENVIO DE FACTURA USD CONTACTO Benito Ju rez No      Col  Sta Mar a Aztahuacan Delegaci n Iztapalapa C P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\PO 3027-14-0107.pdf</filepath>
+        <Paragraphs>GA DEPARTAMENTO PAGINA   DE   RFC DIRECCION DE ENVIO DE FACTURA USD CONTACTO Benito Ju rez No      Col  Sta Mar a Aztahuacan Delegaci n Iztapalapa C P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0153\Procurement Document\PO 3027-14-0153.pdf</filepath>
+        <Paragraphs>GA DEPARTAMENTO PAGINA   DE   RFC DIRECCION DE ENVIO DE FACTURA MXN CONTACTO Av  Isla de Tris S N Fracc  Palmira Carmen C P        Cd  del Carmen  Cam</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158A\Procurement Document\OC 3027-14-0158A APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158B\Procurement Document\OC 3027-14-0158B.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158C\Procurement Document\OC 3027-14-0158C.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\PO 3027-14-0365.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\OC 3027-14-0739.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-13-0820 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\OC 3027-14-0940 APROBADA.pdf</filepath>
+        <Paragraphs>MARINE PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\PO 3027-14-0940.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\OC 3027-14-1012 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\OC 3027-14-1012.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017 AUT..pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA Rev2.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>BRICANTE MAKER  PAGINA   PAGE    MAR  YEARLY FLAG STATE INSPECTION WO                   Service DETALLE DE LA ORDEN DE TRABAJO   WORK ORDER DETAILS   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019 APROBADA.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO PAGINA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>  DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\PO 3027-15-0479.pdf</filepath>
+        <Paragraphs>Sep      Marine PAGINA   DE   ITEM NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC   DESCRIPCION DETAILLE DE LA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>  DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\OC 3027-15-0651.pdf</filepath>
+        <Paragraphs>Aug      MARINE PAGINA   DE   ITEM NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC   DESCRIPCION TEST     Test  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>  DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733 APROBADA.pdf</filepath>
+        <Paragraphs>Sep      MARINE PAGINA   DE   ITEM NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC   DESCRIPCION Air Bottle   Ca</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733.pdf</filepath>
+        <Paragraphs>Sep      MARINE PAGINA   DE   ITEM NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC   DESCRIPCION Air Bottle   Ca</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>  DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>Sep      Marine PAGINA   DE   ITEM NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC   DESCRIPCION MAR  Annual Ins</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PO 3027-15-0116.pdf</filepath>
+        <Paragraphs>     ELECTRICAL PAGINA   DE   ITEM NO  DE PARTE CANTIDAD UNIDAD MR CODIGO PRECIO PRECIO ITEM GRUPO R UNITARIO TOTAL DESC   DESCRIPCION Level Transmitt</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAGINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>8 PAGINA DISPONIBILEPAGE FREE FIRMA F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PACKAGING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PACKAGING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs> IN  PROTECTIVE PACKAGING   WHEN NOT IN USE       DO   NOT   DROP    BEND   OR   F ORCE   CAPACITOR   MODULES       General Subsea System Description </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PACKAGING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>PACKAGING LOGO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PACKAGING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>UFF STYLE SIZES PACKAGING        Coated  Gray Poly Cotton Blue Natural Rubber  Latex Textured Palm Coated Knitwrist         Pairs Per Bag      Bags Pe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PACKAGING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> AND ATTRACTIVE PACKAGING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMAGINGPORTABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMAGINGPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>OTECTIONTHERMAL IMAGINGPORTABLE GAS DETECTIONPERMANENT GAS DETECTIONSERVICE   WORKSHOP SOLUTIONSSOFTWARE SOLUTIONSsafetySCOPE European Product Portfol</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMAGINGCameras105Accessories107</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMAGINGCameras105Accessories107</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>tion    THERMAL IMAGINGCameras   Accessories    PORTABLE GAS DETECTIONSelection Guide   Multi Gas Detectors   Pumps   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Magic Breeze Herbal MSDS English.pdf</filepath>
+        <Paragraphs>MAGIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAGIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Magic Breeze Lavender MSDS English.pdf</filepath>
+        <Paragraphs>MAGIC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLAGIOCLASE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLAGIOCLASE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_TruGel_13A_Rheochem.pdf</filepath>
+        <Paragraphs>O               PLAGIOCLASE Na Ca Si   Al O    Not Available     Page   of </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAMAGING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAMAGING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>DAMAGING AS UNDER-TORQUE.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PACKAGINGCode</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PACKAGINGCode</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\17 - DRILL PIPE GREASE OIM\Graxa Para Drill Pipe.pdf</filepath>
+        <Paragraphs>300°F (150°C) PACKAGINGCode No.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGITATORS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGITATORS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708744 -  ~02252011101042.pdf</filepath>
+        <Paragraphs>RECOMMENDED SPARE PARTS FOR V4864 AGITATORS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MANAGINGRISK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANAGINGRISK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>LIST II MANAGINGRISK .. 225</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

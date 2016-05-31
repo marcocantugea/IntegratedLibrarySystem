@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-PH-018.pdf</filepath>
+        <Paragraphs>  Information   AAC   HMY   TL      Rev   Issue Date   Reason For Issue   Author   Checked   Approved      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TWAACGIH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TWAACGIH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\FRK-F137026.pdf</filepath>
+        <Paragraphs>Hazardous ComponentsCAS#OSHA TWAACGIH TWAPercent</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TWAACGIH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Compare_Floor_Cleaner_F216026_msds.pdf</filepath>
+        <Paragraphs>Hazardous ComponentsCAS#OSHA TWAACGIH TWAPercent</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TWAACGIH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-De-Fense_Floor_Finish_RTU_F135022_msds.pdf</filepath>
+        <Paragraphs>ponentsCAS OSHA TWAACGIH TWAPercent</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TWAACGIH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Floor_Stripper_Offense_F218022_msds.pdf</filepath>
+        <Paragraphs>Hazardous ComponentsCAS#OSHA TWAACGIH TWAPercent</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TWAACGIH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-TET_Glass_Cleaner_F378616_msds.pdf</filepath>
+        <Paragraphs>Hazardous ComponentsCAS#OSHA TWAACGIH TWAPercent</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LABMUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LABMUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M331MUD LABMUD LAB M331UPPER DECK3026DA961E015F590TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHAN117.pdf</filepath>
+        <Paragraphs>bank has decresed. The UPS units are provided with the automatic battery test and ABM management function to continuously</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

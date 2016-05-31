@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>REJILLA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REJILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\17 All AEREAS.pdf</filepath>
+        <Paragraphs>FALTA COLOCAR REJILLA IRVING (CORREGIDO) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REJILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\18 INCINERATOR ROOM.pdf</filepath>
+        <Paragraphs>th        FALTA REJILLA O  BARRERAS RESTRICTIVAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REJILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\04  JUN 2014  ACCESO A WINCHES.pdf</filepath>
+        <Paragraphs>TIRADO SOBRE REJILLA    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REJILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\08 June 2014  ACCIONES CORREGIDAS.pdf</filepath>
+        <Paragraphs>REJILLA SUELTA EN ACCESO A WINCHES DE REMOL-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REJILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\14 RIG FLOOR.pdf</filepath>
+        <Paragraphs>INBORNAL SIN REJILLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REJILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\27 JULY 2014 MOON POOL.pdf</filepath>
+        <Paragraphs>SECCION DE MATERIAL DE REJILLA CON RIESGO DE CAER Y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REJILLAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REJILLAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\03 CEMENT ROOM.pdf</filepath>
+        <Paragraphs>FALTA GRAPAS DE SUJECION EN REJILLAS TIPO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC1LB43Male</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC1LB43Male</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC1LB43Male JIC 37260 - Bulkhead without LocknutISO 12151-5 Part  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC13943Female</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC13943Female</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC13943Female JIC 37260 - Swivel - 90260 Elbow - Short Drop ISO 12151-5 Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC106HYFemale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC106HYFemale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC106HYFemale JIC 37037 - Swivel Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC137HYFemale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC137HYFemale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC137HYFemale JIC 37037 - Swivel - 45037 Elbow - Short Drop Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC20330Male</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC20330Male</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC20330Male JIC 37260 - Rigid  Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EJIC20342Male</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EJIC20342Male</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EJIC20342Male JIC 37037 - Rigid Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

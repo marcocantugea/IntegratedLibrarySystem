@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TABLEOFCONTENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TABLEOFCONTENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-CS-036.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEOFCONTENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-045.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEOFCONTENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-192.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEOFCONTENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-195.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEOFCONTENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-196.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEOFCONTENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-198.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOL-SCAFFCOMBO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOL-SCAFFCOMBO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>HOL-SCAFFCOMBO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>32TABLEOFCONTENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>32TABLEOFCONTENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>32TABLEOFCONTENTS     p5 Actuators</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TABLEOFCONTENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TABLEOFCONTENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>TABLEOFCONTENTS Section Page</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

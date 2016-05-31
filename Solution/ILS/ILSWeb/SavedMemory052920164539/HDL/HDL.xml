@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BHHAHDL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BHHAHDL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>BHHAHDL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHHAHDL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>BHHAHDL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Yellow HDL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDLG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDLG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>1183124105 PLUG MANDREL FS21-500 HDLG TL  1.00EA A3 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

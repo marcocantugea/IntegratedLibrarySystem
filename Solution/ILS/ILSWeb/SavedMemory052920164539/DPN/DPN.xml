@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DPN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>TER    x TT     DPN CP      HP     kW  RETRACTABLE BOW THRUSTER    x UL     CP      HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>TER    x TT     DPN CP      HP     kW  RETRACTABLE BOW THRUSTER    x UL     CP      HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>TER    x TT     DPN CP      HP     kW  RETRACTABLE BOW THRUSTER    x UL     CP      HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>TER    x TT     DPN CP      HP     kW  RETRACTABLE BOW THRUSTER    x UL     CP      HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

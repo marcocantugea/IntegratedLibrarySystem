@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BLOCKINGBLOCAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLOCKINGBLOCAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Locked rotor/ROTOR BLOCKINGBLOCAGE ROTOR6</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BLOCKINGBLOCAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Locked rotor in normal operationROTOR BLOCKINGBLOCAGE ROTOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_24oz_13012_msds.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_5 Gal_13006_msds.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_55 Gal_13008_msds.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_Gal_13005_msds.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Disinfect_Gal_30128_msds.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Disinf_6 Qts_30032_msds.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_HandGelCleaner.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ScrubbingPad.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>CAGE CODE 1Z575                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>20ROTOR CAGE STOP PIN REF.DESCRIPTION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0017 Gulf Coast Oilfield Hybrid Cement Head with Remote Control\ODR-NB11-POR-0017.docx</filepath>
+        <Paragraphs>L   DOUBLE DART CAGE          DNV CERTIFICATION        REMOTE SYSTEM   INCLUDES CONTROL PANEL  HYDRAULIC SWIVEL  PIN PULLERS  BALL DROPPERS  AND HOSES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFRICAGrant</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFRICAGrant</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>Fax: 011.65.6861.0117SOUTHERNEUROPE&amp; AFRICAGrant Prideco</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

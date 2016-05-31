@@ -1,0 +1,2623 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SYSTEM31DRILLFLOOREQUIPMENTANDSYSTEMS315</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM31DRILLFLOOREQUIPMENTANDSYSTEMS315</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>SYSTEM31DRILLFLOOREQUIPMENTANDSYSTEMS315</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIRED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>ILLS DISCIPLINE REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>CHANGES REQUIRED IN AMOS:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08.L02 Guias de Operaciones Especificas en Pozo - WSOG NEEDS REVISED.docx</filepath>
+        <Paragraphs>        ACTIONS REQUIRED   ACCIONES REQUERIDAS    Condition       Condiciones    Green    Advisory      Aconsejable    Yellow    Red    Action require</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L02 WSOG NEEDS REVISED.docx</filepath>
+        <Paragraphs>        ACTIONS REQUIRED   ACCIONES REQUERIDAS    Condition       Condiciones    Green    Advisory      Aconsejable    Yellow    Red    Action require</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>KEEPING REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>DESCRIPCIÓN PRINCIPAL / MAIN DESCRIPTIONFECHA REQUERIDO / DATE REQUIRED MAR - Cert Fire</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>REQUIRED MAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>REQUIRED MAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>REQUIRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>EQUERIDO   DATE REQUIRED PRIORIDAD   PRIORITY PROYECTO   PROJECT MAR   Annual Flag state inspection  DESCRIPCION PRINCIPAL   MAIN DESCRIPTION ENTREGAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>EQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA U</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>EQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA U</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>EQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA U</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>EQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA U</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs> MANUF ACTURERS REQUIRED TO PRESSURE TEST THEIR COMPONENTS TO BEFORE THEY CAN BE API CERTIFIED      MAX WORKING PRESSURE        OF WORKING PRESSURE   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>REQUIRED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>THE SUBMISSION OF THIS MSDS MAY BE REQUIRED BY LAW, BUT THIS IS NOT AN ASSERTION THAT THE SUBSTANCE IS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs>SYMBOL(S) REQUIRED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia_Shine_Aerosol_SS1_msds.pdf</filepath>
+        <Paragraphs>SYMBOL(S) REQUIRED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs>THE SUBMISSION OF THIS MSDS MAY BE REQUIRED BY LAW, BUT THIS IS NOT AN ASSERTION THAT THE SUBSTANCE IS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs> NOT KNOWN  THE SUBMISSION OF THIS MSDS MAY BE REQUIRED BY LAW, BUT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>ORTNIGHTLY   AS REQUIRED   Make beds  clean toilets  showers  sweep and mop  all bedrooms  x  on    hour rig     morning and  evening                 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB008 - DAT System Field Flushing Procedure  (16-Jul-2014).docx</filepath>
+        <Paragraphs>S MANY TIMES AS REQUIRED UNTIL YOU START GETTING SATISFACTORY SOLID FREE SAMPLES               Required Assemblies for Fluid Filtering            HYDR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>20260; safety margin 10%. AIR WEIGHT REQUIRED = </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>REQUIRED (PLC input) FUNCTIONS IN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>REQUIRED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>REQUIRED (PLC input) FU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>-PRE-PRODUCTION MEETING REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>-PRE-PRODUCTION MEETING REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>-PRE-PRODUCTION MEETING REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>-PRE-PRODUCTION MEETING REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>130 KSI MATERIAL REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>130 KSI MATERIAL REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>-PRE-PRODUCTION MEETING REQUIRED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>1. ATTACH LISTING OF UNIT PRICING FOR NOZZLES FOR ALL REQUIRED MATERIALS AND RATINGS, IF APPLICABLE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\22 Main Deck Cutting Box.pdf</filepath>
+        <Paragraphs>SAFETY SIGNALING  BROKEN REQUIRED CHANGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>APPROX 4.0" REQUIRED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>ATERIALS REQUI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.pdf</filepath>
+        <Paragraphs>          REQUI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUISITOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\062.FH13 Descripcion Puesto.pdf</filepath>
+        <Paragraphs>          REQUISITOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\2. Segundo Ingeniero.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o  pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD      a     a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\22. Electrico.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD       a     a os   OTRA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\35. Mecanico.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\38. Motorista.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a      a os   OTR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\49. Soldador Especialista.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   P r ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA       RES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\51. Primer Ingeniero (Supervisor Mecanico).pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T cnico o  P r ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\55. Supervisor Electrico.pdf</filepath>
+        <Paragraphs>        REQUISITOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\60. Tecnico Informatico.pdf</filepath>
+        <Paragraphs>        REQUISITOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\61. Coordinador de Sistema de Mantenimiento Planeado.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T cnico o  P r ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\63. Tecnico Hidraulico.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T cnico o  P r ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\64. Tecnico Electronico Instrumentista.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T cnico o  P r ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\1. Jefe de Oficiales ( Auxiliar de Estabilidad).pdf</filepath>
+        <Paragraphs>        REQUISITOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\14. Ayudante de Especialista Gruero.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o pr ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\16. Bombero.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o pr ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\19. Contramaestre.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\21. Tecnico para la Recepción y Despacho de Combustible.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\23. Especialista en Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\29. Capitan.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD        a     a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\32. Supervisor Especialista en Seguridad y Salud en el Trabajo.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD        a     a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\34. Marinero.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o pr ctico   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\37. Medico.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Licenciatura   EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA       RE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\39. Oficial de Proteccion de Buque.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T  cnico o Practico     EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\40. Oficial de Operaciones del Helipuerto.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T  cnico o Practico     EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OTRA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\41. Operador de Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T  cnico o Practico     EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\43. Operario Especialista Gruero.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T  cnico o Practico     EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD         a     a os   OT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\46. Radio Operador.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T  cnico o Practico     EXPERIENCIA       a o   IDIOMA   Espa ol    Ingl s   EDAD         a    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\27. Interprete.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o pr ctico   EXPERIENCIA      a o   IDIOMA   Espa ol    Ingl s   EDAD      a      a os   OTRA      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\42. Operador de ROV.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD       a      a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\54. Supervisor de ROV.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD        a     a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\57. Tecnico de ROV.pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD        a     a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\6. Ayudante de Perforador (Segundo).pdf</filepath>
+        <Paragraphs>ALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   EXPERIENCIA       a o s   IDIOMA   Espa ol    Ingl s   EDAD      a     a o</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs> 205 REQUISITOS GENERALES Este pictograma indica la obligaci363n por parte del usuario de consultar las instrucciones </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>REQUISITOS PARA CASCOS DE SEGURIDAD INDUSTRIAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>  CUMPLIDOS LOS REQUISITOS PARA FORMAR PARTE DEL PADR N DE PROVEEDORES DEL PROGRAMA DE HIPOTECAS VERDES   DEL  INFONAVIT   RESULTA IMPROCEDENTE LO QUE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIRENTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\062.FH13 Descripcion Puesto.pdf</filepath>
+        <Paragraphs>      RESPONSABILIDAD Y AUTORIDAD          AUTORIDAD REQUIRENTE       DESCRIPCI323N GENERAL DE ACTIVIDADES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\2. Segundo Ingeniero.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El  Segundo   Ingeniero tiene la facultad de autorizar la salida de Almac n de las partes y materiales requeridos para</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\22. Electrico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El   Electricista   tiene la facultad de autorizar la salida de Almac n de las partes y materiales requeridos para las</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\35. Mecanico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Motoristas     DESCRIPCION GENERAL DE  ACTIVIDADES   Las siguientes responsabilidades est n incluidas  pero no limitad</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\38. Motorista.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna     DESCRIPCION GENERAL DE  ACTIVIDADES      Llevar a cabo el mantenimiento y las inspecciones en los sistemas y </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\49. Soldador Especialista.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Fire watch  observador de fuego      DESCRIPCION GENERAL DE  ACTIVIDADES      Orden y limpieza en el  rea de trabajo dond</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\51. Primer Ingeniero (Supervisor Mecanico).pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El  Supervisor Mec nico   emite las requisiciones de las partes y componentes  mec nicos o   el ctricos    que se  uti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\55. Supervisor Electrico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El Supervisor El   ctrico emite  las requisiciones de las partes y componentes el   ctricos que se utilicen dentro de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\60. Tecnico Informatico.pdf</filepath>
+        <Paragraphs>AUTORIDAD REQUIRENTE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\61. Coordinador de Sistema de Mantenimiento Planeado.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna                                      DESCRIPCION DE PUESTO                        CATEGORIA   REV    FECHA   MANT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\63. Tecnico Hidraulico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El   Hidr ulico tiene la facultad de autorizar la salida de almac n de las partes y materiales requeridos para las  op</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\1. Jefe de Oficiales ( Auxiliar de Estabilidad).pdf</filepath>
+        <Paragraphs>    AUTORIDAD REQUIRENTE      Dirigir el Departamento Mar355timo seg372n se requiera y seg372n lo indique el  Capit341n/ OIM.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\14. Ayudante de Especialista Gruero.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna                         DESCRIPCION DE PUESTO                        CATEGORIA   REV    FECHA   MARINA           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\19. Contramaestre.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Cuando sea necesario  dirigir  las operaciones en cubierta  seg n instruyan  el  Jefe de Oficiales   Auxiliar de  Esta</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\21. Tecnico para la Recepción y Despacho de Combustible.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna     DESCRIPCION GENERAL DE ACTIVIDADES      Orden y limpieza en el  rea de trabajo donde desempe en sus labores d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\23. Especialista en Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Est  auto rizado para girar  rdenes para publicaciones de navegaci n y cuando el  Auxiliar de Estabilidad   lo solicit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\29. Capitan.pdf</filepath>
+        <Paragraphs>     AUTORI DAD REQUIRENTE      Dirigir el Departamento Mar timo seg n se requiera y seg n lo indique el  Gerente de Proyecto  Representante del  Prov</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\32. Supervisor Especialista en Seguridad y Salud en el Trabajo.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Solicitar el equipo requerido por el  Capit n  OIM      DESCRIPCION GENERAL DE ACTIVIDADES      El  Supervisor Especia</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\34. Marinero.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguno      DESCRIPCION GENERAL DE ACTIVIDADES   Las siguientes responsabilidades est n incluidas  pero no limitadas al </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\37. Medico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El M dico est  facultado para solicitar medicamentos y art culos de enfermer a a fin  de mantener un inventario m nimo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\39. Oficial de Proteccion de Buque.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Radio operador y Oficial de Operaciones A reas      DESCRIPCION G ENERAL DE ACTIVIDADES   Las siguientes responsabilid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\40. Oficial de Operaciones del Helipuerto.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      T  cnico para la Recepci  n y Despacho de Combustible  Bombero       DESCRIPCION GENERAL DE ACTIVIDADES      Orden y l</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\41. Operador de Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna                       DESCRIPCION DE PUESTO                       CATEGORIA   REV    FECHA   MARINA              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\43. Operario Especialista Gruero.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna                               DESCRIPCION DE PUESTO                        CATEGORIA   REV    FECHA   MARINA     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\46. Radio Operador.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna                                     DESCRIPCION  DE PUESTO                        CATEGORIA   REV    FECHA   MARI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\27. Interprete.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Ninguna     DESCRIPCION GENERAL DE  ACTIVIDADES      Son responsables de la comunicaci n entre el cliente y la l nea d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\42. Operador de ROV.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      Asegurarse que el ROV y todos sus sistemas se encuentren completamente operacionales y de acuerdo a todas las  especif</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\54. Supervisor de ROV.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE      El  S upervisor de ROV es el representante primario de i   Tech   en el sitio de trabajo costa fuera  Son los principa</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\57. Tecnico de ROV.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna     DESCRIPCION GENERAL DE ACTIVIDADES      Pilotear ROV en operaciones      Asistir en lanzamiento y recuperaci </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\6. Ayudante de Perforador (Segundo).pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIRENTE   Ninguna                              DESCRIPCION DE PUESTO                     CATEGORIA   REV    FECHA   PERFORACION    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUISITIONING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUISITIONING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\062.PH003.F13 Job Description R.01 (05-Apr-12).docx</filepath>
+        <Paragraphs>                REQUISITIONING AUTHORITY                  GENERAL DESCRIPTION OF ACTIVITIES                 QUALITY  SAFETY AND ENVIRONMENT           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITIONING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.pdf</filepath>
+        <Paragraphs>    REQUISITIONING AUTHORITY          GENERAL  DESCRIPTION OF ACTIVITIES          QUALITY, SAFETY AND ENVIRONMENT     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITIONING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.docx</filepath>
+        <Paragraphs>                REQUISITIONING AUTHORITY                  GENERAL DESCRIPTION OF ACTIVITIES                 QUALITY  SAFETY AND ENVIRONMENT           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\64. Tecnico Electronico Instrumentista.pdf</filepath>
+        <Paragraphs>      AUTORIDAD REQUIR ENTE      El  Electr nico Instrumentista   tiene la facultad de autorizar la salida de Almac n de las partes y materiales reque</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIERE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\07 FEB 2014 2200 .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   CUARTO HIDRAULICO DE BOP222S  NIVEL DE MOOPOOL 07-FEB-2014SE REQUIERE UN LUGAR ADECUADO PARA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>OUT METAL PIECE NOT DISPOSED OF PROPERLY  CABLE ELECTRICO DESGASTADO REQUIERE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>NEEDED   SE REQUIERE ORDEN Y LIMPIEZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>           SE REQUIERE LIMPIEZA Y ORDEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\22 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>GOOD  LIGHTING SE REQUIERE ORDEN Y LIMPIEZA. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\06 ABRIL 2014 ALL AREAS 10 00 HRS.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   ALL THE AREAS 10:00 HRS APRIL 06th 2014PROA ESTRIBOR SE REQUIERE ASEGURAR HULES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\08 ABRIL 2014 DRILLING EQUIP. STORE.pdf</filepath>
+        <Paragraphs>SE REQUIERE ORDEN Y LIMPIEZA DEBAJO DE BANCO DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\13 ABRIL 2014 MOON POOL.pdf</filepath>
+        <Paragraphs>REQUIERE SER REMOVIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaleshakers 1000 hrs .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   SHALESHAKERS 10:00 HRS APRIL 17th 2014SE REQUIERE UN 301REA DESIGNADA PARA EQUIPO DE LIMPIEZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\25 Ventilation Room Fwd Stbd.pdf</filepath>
+        <Paragraphs>SE REQUIERE ORDEN DE MATERIAL DE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\15 MAYO 2014 DRILL FLOOR.pdf</filepath>
+        <Paragraphs>CINTA ANTIDERRAPANTE PRESENTA DESGASTE, REQUIERE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\11.- MWD AREA.pdf</filepath>
+        <Paragraphs>BURNED LAMP  SE REQUIERE LIMPIEZA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\29 waste storage area .pdf</filepath>
+        <Paragraphs>REQUIERE MEJOR LOGISTICA. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>204 (Edge 959x)NO REQUIERE PIE 200754Cuadradas</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+        <Paragraphs>I V A        SE REQUIERE ORDEN DE COMPRA A NOMBRE DE PRAXAIR MEXICO  S  de R L  de C V    Y FIRMA DE CONTRATO DE  SEUMINISTRO       FORMA DE PAGO     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs>ra normal    SE REQUIERE UTILIZAR EQUIPO DE RESPIRACION AUTONOMO PARA EVITAR LA ASFIXIA DE LOS TRABAJADORES DE RESCATE   Si la v   ctima no esta respi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\REGLASGRALESGIZ-FIRCO.pdf</filepath>
+        <Paragraphs>to         SE   REQUIERE   PERMISO   DE   LA   COMISI N   AUN   CUANDO   LA   CAPACIDAD   DE   LA   CENTRAL   O   PLANTA   GENERADORA   SEA   MENOR   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\015 limpieza de tanques de lodos( esp. confin).docx</filepath>
+        <Paragraphs>EN EL AN LISIS  REQUIERE UN PERMISO DE TRABAJO      OVERALL RISK   Riesgo general        Delete as applicable       LOW  MEDIUM  HIGH     MANNING REQU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\14.- Proa Estribor.pdf</filepath>
+        <Paragraphs>LETE, REQUIERE UN PIN DE SEGURIDAD  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\25.- DERRICK.pdf</filepath>
+        <Paragraphs>CHAROLA ECOLOGICA REQUIERE LIMPIEZA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\07 Utility drilling room M159.pdf</filepath>
+        <Paragraphs>BASURA QUE REQUIERE SER RETIRADA EQUIPMENT NOT SECURED, MAY FALL AND HURT SOMEBODY OR DAMGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIERE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\22 Main Deck Cutting Box.pdf</filepath>
+        <Paragraphs>SE321ALAMIENTO DE SEGURIDAD ROTO REQUIERE CAMBIO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUESTERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUESTERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\25 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>REQUESTERS   DESIGNATED BUCKETS FOR DIFFERENT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIEREN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIEREN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\27.- SHAKER ROOM.pdf</filepath>
+        <Paragraphs>GOOD SEGREGATION   ERA  REQUIEREN  MANTENIMIENTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREQUENTEMENTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQUENTEMENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>TROPPO FREQUENTEMENTE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENTEMENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>TROPPO FREQUENTEMENTE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENTEMENTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>ESPANSIBILE INTERVIENE TROPPO FREQUENTEMENTE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREQUENTLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQUENTLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>PLUG INTERVEE TOO FREQUENTLY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENTLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>PLUG INTERVEE TOO FREQUENTLY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENTLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>PLUG INTERVEE TOO FREQUENTLY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREQUENCY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQUENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>VOLTAGE AND FREQUENCY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>VOLTAGE AND FREQUENCY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      ADJUST FREQUENCY TO OBTAIN DESIRED SPEED                                  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREQUENCYThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQUENCYThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs> L  VOLTAGE AND FREQUENCYThe motors described in this catalogue  if not otherwise specified  are designed to operate under feeding voltage of    V    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENCYThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs> L  VOLTAGE AND FREQUENCYThe motors described in this catalogue  if not otherwise specified  are designed to operate under feeding voltage of    V    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIREMENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>100 Hz  EMC REQUIREMENTS FOR THE INSTALLATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>REQUIREMENTS OF PERSONAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>            SNP REQUIREMENTS SPECIFIED IN SOLAS V  IMO A      AND THE PERFORMANCE STANDARD GIVEN BY IEC                     ANNUAL INSPECTION TO VOYAG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\PO 3027-15-0479.pdf</filepath>
+        <Paragraphs>            SNP REQUIREMENTS SPECIFIED IN SOLAS V  IMO A      AND THE PERFORMANCE STANDARD GIVEN BY IEC         MAR       ANNUAL INSPECTION TO VOYAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\Product Overview PDF.pdf</filepath>
+        <Paragraphs>SYSTEM REQUIREMENTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>100 Hz  EMC REQUIREMENTS FOR THE INSTALLATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ice  CLEARANCE  REQUIREMENTS   The distance between the work area and the next   level or obstruction is often called    fall clearance       and this</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>CLEARANCE REQUIREMENTS The distance between the work area and the next </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>uclear Protection PERSONALIZED SOLUTIONS TO MEET CUSTOMER REQUIREMENTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>agents  STORAGE REQUIREMENTS   Store in original containers    Keep containers securely sealed    No smoking  naked lights or ignition sources    Stor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs> known  STORAGE REQUIREMENTS   Store in original containers    Keep containers securely sealed    Store in a cool  dry  well ventilated area    Store </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SOCKET HEAD CAPSCREW TENSILE REQUIREMENTS ....................................................... 76</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs> LUBRICANT REQUIREMENTS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>TOOL JOINT REQUIREMENTS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\IPC - Garbage Management Manual - Rev 04-2011.12.pdf</filepath>
+        <Paragraphs>REGULATORY REQUIREMENTS .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>REQUIREMENTS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIERE203</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIERE203</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>VIERTE AGUAS201NO REQUIERE203 (Pie200751) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUISICION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>IV REQUISICION No./REQUISITION  No.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+        <Paragraphs>ed Rocker MK A  REQUISICION No  REQUISITION No   FECHA DATE  REQUERIDO REQUIRED  PRIORIDAD PRIORITY             III Normal Process   Priority         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Quotation\25-2014 PARACHUTES--ALFONSO LUNA DUPONT.pdf</filepath>
+        <Paragraphs>rero del        REQUISICION No           COTIZACI N COMERCIAL               Alfonso Luna Dupont   Purchasing Department   Office                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+        <Paragraphs> La Muralla IV  REQUISICION No  REQUISITION No   FECHA DATE  REQUERIDO REQUIRED  PRIORIDAD PRIORITY             III Normal Process   Priority         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\MR 3027-14-0365.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Quotation\81-2014 GRUPOP R  (2).pdf</filepath>
+        <Paragraphs>Mayo del        REQUISICION No  MR                      COTIZACI N COMERCIAL                   Aldo R S nchez Hern ndez  Purchasing Department   Offic</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\MR 3027-14-0739.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>REQUISICION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>REQUISICION   REQUISITION              FECHA   DATE            FECHA REQUERIDO   DATE REQUIRED PRIORIDAD   PRIORITY PROYECTO   PROJECT MAR   Annual Fl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>GRP        H    REQUISICION   REQUISITION                         Van Bussel  Stephanus Maria III Normal Process   Priority MIRUS   SOLICITANTE   REQU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>GRP        H    REQUISICION   REQUISITION                         Jose Juan Leza Mendoza III Normal Process   Priority LA MURALLA IV SOLICITANTE   REQ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>GRP        H    REQUISICION   REQUISITION                         Fco Javier Montes Panayeta II Required ASAP La Muralla IV SOLICITANTE   REQUESTED BY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>GRP        H    REQUISICION   REQUISITION                         Van Bussel  Stephanus Maria La Muralla IV  Exploratus  DL SOLICITANTE   REQUESTED BY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUISITION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>. e  THIS REQUISITION NUMBER MUST APPEAR I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>REQUISITION Fire Figh</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+        <Paragraphs>REQUISICION No  REQUISITION No   FECHA DATE  REQUERIDO REQUIRED  PRIORIDAD PRIORITY             III Normal Process   Priority            Marine Area L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+        <Paragraphs>REQUISICION No  REQUISITION No   FECHA DATE  REQUERIDO REQUIRED  PRIORIDAD PRIORITY             III Normal Process   Priority            Marine Area L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\MR 3027-14-0365.pdf</filepath>
+        <Paragraphs>PLACE: 23/04/2014 THIS REQUISITION NUMBER MUST APPEAR IN ALL YOUR QUOTATlONS, INVOICES, REMISSIONS, SHIPMENTS, PACKAGES AND RELATED DOCUMENTATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>REQUISITION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\MR 3027-14-0739.pdf</filepath>
+        <Paragraphs>REQUISITION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+        <Paragraphs>REQUISITION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>REQUISITION 26/11/2014 La</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>REQUISITION 26/11/2014 La</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>REQUISITION (none) PDA CODIGO CANT. UNIDAD DESCRIPCION No.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>REQUISITION (none) PDA CODIGO CANT. UNIDAD DESCRIPCION No.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>REQUISITION 3027</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs> REQUISITION              FECHA   DATE            FECHA REQUERIDO   DATE REQUIRED PRIORIDAD   PRIORITY PROYECTO   PROJECT MAR   Annual Flag state insp</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>  REQUISICION   REQUISITION                         Van Bussel  Stephanus Maria III Normal Process   Priority MIRUS   SOLICITANTE   REQUESTED BY Marin</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>  REQUISICION   REQUISITION                         Jose Juan Leza Mendoza III Normal Process   Priority LA MURALLA IV SOLICITANTE   REQUESTED BY MARI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>  REQUISICION   REQUISITION                         Fco Javier Montes Panayeta II Required ASAP La Muralla IV SOLICITANTE   REQUESTED BY MARINE       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>  REQUISICION   REQUISITION                         Van Bussel  Stephanus Maria La Muralla IV  Exploratus  DL SOLICITANTE   REQUESTED BY Marine       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0004 NOV Power Slip PS-30\ODR-NB11-POR-0004.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ              DATE  June             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0004 NOV Power Slip PS-30\ODR-NB11-POR-0004.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 9   PURCHASE ORDER NO: ODR-NB11-POR-0004  REF REQUISITION NO: OOG-NB11-REQ-2009-0018</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  See OOG Requisitions on PO text    DATE  June             FROM    TO     ODN I GmbH     Leonhardgasse     D           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 18   PURCHASE ORDER NO: ODR-NB11-POR-0005  REF REQUISITION NO: See OOG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ      various    DATE  June             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>  PURCHASE ORDER NO: ODR-NB11-POR-0008  REF REQUISITION NO: OOG-NB11-REQ-2010-various</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008rev-1.docx</filepath>
+        <Paragraphs>  REV       REF REQUISITION NO  OOG NB   REQ      various    DATE  June             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\ODR-NB11-POR-0009.docx</filepath>
+        <Paragraphs> POR        REF REQUISITION NO  OOG NB   REQ                        DATE  June             FROM    TO     ODN I GmbH     Leonhardgasse     D          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\ODR-NB11-POR-0009.pdf</filepath>
+        <Paragraphs>  PURCHASE ORDER NO: ODR-NB11-POR0009  REF REQUISITION NO: OOG-NB11-REQ-2009-0017/0035/0088 DATE: June 20, 2010  FROM  TO  ODN I GmbH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0010 FARR Canada Power Tongs\ODR-NB11-POR-0010 Rev 2.docx</filepath>
+        <Paragraphs>  Rev       REF REQUISITION NO  OOG NB   REQ              DATE   February             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0010 FARR Canada Power Tongs\ODR-NB11-POR-0010.docx</filepath>
+        <Paragraphs>   rev      REF REQUISITION NO  OOG NB   REQ              DATE   July             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0010 FARR Canada Power Tongs\ODR-NB11-POR-0010.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 8   PURCHASE ORDER NO: ODR-NB11-POR-0010  REF REQUISITION NO: OOG-NB11-REQ-2009-0006</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\ODR-NB11-POR-0011.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ              DATE   July             FROM    TO     ODN II GmbH      Leonhardgasse     D             Wien</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\ODR-NB11-POR-0011t.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 8   PURCHASE ORDER NO: ODR-NB11-POR-0011  REF REQUISITION NO: OOG-NB11-REQ-2009-0037</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0012 NOV Complementary Handling Tools\ODR-NB11-POR-0012.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ      va    DATE  November             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0013 The Oilfield Connection Inc X-mas Tree Unit\ODR-NB11-POR-0013.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ     DATE   December             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien      u</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0014 The Oilfield Connection Inc Skid Mounted Test Pump\ODR-NB11-POR-0014.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ     DATE   December             FROM    TO     ODN I GmbH     Leonhardgasse     D             Wien      u</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0015 Marinehouse Operational Manuals\ODR-NB11-POR-0015.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ     DATE   December             FROM    TO    ODN I GmbH     Leonhardgasse     D             Wien      us</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0015 Marinehouse Operational Manuals\OOSL-NB11-POR-0002.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ     DATE   December             FROM    TO    Odebrecht Oil Services Ltd    PO Box    GT  Ugland House   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\ODR-NB08-POR-0016.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  See OOG Requisitions on PO text    DATE  December             FROM    TO    ODN I GmbH     Leonhardgasse     D        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0017 Gulf Coast Oilfield Hybrid Cement Head with Remote Control\ODR-NB11-POR-0017.docx</filepath>
+        <Paragraphs>POR         REF REQUISITION NO  OOG NB   REQ              DATE   January             FROM    TO    ODN I GmbH     Leonhardgasse     D             Wien</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIREMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>PERSONAL REQUIREMENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>REQUIREMENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>   SU SKo PL     SPACE REQUIREMENT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>adapted to your request. LEGISLATION REQUIREMENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>CLEANING REQUIREMENT OF THE SYSTEM BEFORE CONNECTING SYSTEM 21 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>CLEANING REQUIREMENT OF THE SYST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUEREMENTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUEREMENTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>MINIMUN REQUEREMENTS OF PERSONAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUESTED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>SOLICITANTE / REQUESTED BY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>REQUESTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>  SOLICITANTE   REQUESTED BY Fco Javier Montes Panayeta III Normal Process   Priority HEM   MARINE               Rig General        FABRICANTE MAKER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>  SOLICITANTE   REQUESTED BY Marine            MAR       ANNUAL INSPECTION TO VOYAGE DATA RECORDER VDR BY THIRD PARTY       VDR PDA CODIGO CANT  UNIDA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>V SOLICITANTE   REQUESTED BY MARINE            MAR TEST FOAM TANK HELIDECK       Tank   Foam on Helideck PDA CODIGO CANT  UNIDAD DESCRIPCION No  PARTE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>V SOLICITANTE   REQUESTED BY MARINE       Equipment   Accesories for Lifeboats PDA CODIGO CANT  UNIDAD DESCRIPCION No  PARTE MAKER ITEM CODE QTY UNIT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>L SOLICITANTE   REQUESTED BY Marine       PDA CODIGO CANT  UNIDAD DESCRIPCION No  PARTE MAKER ITEM CODE QTY UNIT DESCRIPTION PART NUMBER ENTREGAR A   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>REQUIRED UNLESS REQUESTED BY CUSTOMER                mm        mm          mm          mm                  USING THE  ABOVE DRAWING       WHAT IS THE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>PIPE NOR DRILL STEM ACCESSORIES UNLESS EXPRESSLY REQUESTED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>PIPE NOR DRILL STEM ACCESSORIES UNLESS EXPRESSLY REQUESTED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>PIPE NOR DRILL STEM ACCESSORIES UNLESS EXPRESSLY REQUESTED  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUERIDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>DESCRIPCIÓN PRINCIPAL / MAIN DESCRIPTIONFECHA REQUERIDO / DATE REQUIRED MAR - Cert Fire</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>REQUERIDO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>          FECHA REQUERIDO   DATE REQUIRED PRIORIDAD   PRIORITY PROYECTO   PROJECT MAR   Annual Flag state inspection  DESCRIPCION PRINCIPAL   MAIN DES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs> PRIORITY FECHA REQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs> PRIORITY FECHA REQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs> PRIORITY FECHA REQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs> PRIORITY FECHA REQUERIDO   DATE REQUIRED PAGINA   PAGE DEPARTAMENTO SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\001 TRA trabajos de corte y soldadura.docx</filepath>
+        <Paragraphs>Y PORTAR EL EPP REQUERIDO PARA LA TAREA            SUPERFICIES CALIENTES  REBABAS CALIENTES  BORDES FILOSOS    QUEMADURAS  CORTES  LESIONES EN OJOS   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIRES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>DEPARTAMENTO SOLICITANTE / REQUIRES DEPARTMENT Jose Juan Leza Mendoza Rig - La Muralla IV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>REQUIRES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>O SOLICITANTE   REQUIRES DEPARTMENT PDA CODIGO CANT  UNIDAD DESCRIPCION No  PARTE   EQUIPO PRINCIPAL PARA USARSE EN   MAIN EQUIPMENT TO BE USED ITEM C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>O SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN   MAIN EQUIPMENT TO BE USED FABRICANTE WO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>O SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN   MAIN EQUIPMENT TO BE USED FABRICANTE WO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>O SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN   MAIN EQUIPMENT TO BE USED FABRICANTE Di</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>O SOLICITANTE   REQUIRES DEPARTMENT DESCRIPCI N PRINCIPAL   MAIN DESCRIPTION EQUIPO PRINCIPAL PARA USARSE EN   MAIN EQUIPMENT TO BE USED FABRICANTE WO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>1018013 with 2 aluminium scaff hook REQUIRES LESS FALL CLEARANCES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitric Oxide NO Safety Data Sheet SDS P4632.pdf</filepath>
+        <Paragraphs>TH THIS PRODUCT REQUIRES IMMEDIATE MEDICAL ATT ENTION   Symptoms may be delayed   Seek medical attention even if no  symptoms are present    SECTION  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Dioxide NO2 and N2O4 Safety Data Sheet SDS P4633.pdf</filepath>
+        <Paragraphs>TH THIS PRODUCT REQUIRES IMMEDIATE MEDICAL ATTENTION   Symptoms may be delayed   Seek medical attention even if no  symptoms are present    SECTION   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs>TH THIS PRODUCT REQUIRES IMMEDIATE MEDICAL ATTENTION   Symptoms may be delayed   Seek medical attention even if no  symptoms are present    SECTION   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Phosphine PH3 Safety Data Sheet SDS P4643.pdf</filepath>
+        <Paragraphs>TH THIS PRODUCT REQUIRES IMMEDIATE MEDICAL ATTENTION   Symptoms may be delayed   Seek medical atten tion even if no  symptoms are present    SECTION  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUIRES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>RETRACTED POSITION REQUIRES CONTINUED ATTACHMENT TO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUEST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+        <Paragraphs>NTE  DEPARTMENT REQUESTING  ENTREGAR A  DELIVER TO  Orden de Trabajo Work Order DESCRIPCI N PRINCIPAL  MAIN DESCRIPTION  Semi Submersible Drilling Uni</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\PO 3027-14-0105.pdf</filepath>
+        <Paragraphs>ETRA NOTES   WE REQUEST THE EQUIPMENT WITH MINIMUM   YEARS OF EXPIRATION DATE Marco Moreno Gonzalez Dir  de Operaciones    Mar      Gte  Ctrl  y Servi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Quotation\Copia de Proforma Invoice  MS0000014 (002).pdf</filepath>
+        <Paragraphs> Goods DUE DATE REQUEST  DATE Qty Unit Price Total Amt MISC VDR APT ATTENDANCE    PORT OF MEXICO                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>THIS DOCUMENT IS TO BE RETURNED TO NATIONAL OILWELL VARCO UPON REQUEST AND IN ANY EVENT UPON COMPLETION OF THE USE OF WHICH IT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>TO BE RETURNED TO NOV UPON REQUEST OR UPON COMPLETION OF THE USE FOR WHICH IT WAS LOA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUEST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>BY AND SPECIFIED IN THE DOCUMENTS INCLUDED IN THIS REQUEST FOR QUOTATION.NOTES:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUESTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUESTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+        <Paragraphs>NTE  DEPARTMENT REQUESTING  ENTREGAR A  DELIVER TO  Orden de Trabajo Work Order DESCRIPCI N PRINCIPAL  MAIN DESCRIPTION  Semi Submersible Drilling Uni</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUESTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\PO 3027-14-0107.pdf</filepath>
+        <Paragraphs> NOTES   WE ARE REQUESTING WITH MINIMUN      YEARS OF EXPIRATION DATE  Marco Moreno Gonzalez Dir  de Operaciones    Mar      Gte  Ctrl  y Servicios Ra</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUERIDOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUERIDOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>     MATERIALES REQUERIDOS PARA LA ETAPA                                                                                                      ASPECTOS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUERIMIENTOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUERIMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>     RESUMEN DE REQUERIMIENTOS DE TUBER A DE PERFORACI N                                                                     TUBER AS DE REVESTIMIENTO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-002 Service Air.pdf</filepath>
+        <Paragraphs>CUMPLEN CON LOS REQUERIMIENTOS DE LA NORMA EN FUNCIONAMIENTO Y CONDICIONES DE SEGURIDAD      ING  ROGELIO LOPEZ RENDON     Nombre y firma del Represen</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-003 Bulk Air.pdf</filepath>
+        <Paragraphs>CUMPLEN CON LOS REQUERIMIENTOS DE LA NORMA EN FUNCIONAMIENTO Y CONDICIONES DE SEGURIDAD      ING  ROGELIO LOPEZ RENDON     Nombre y firma del Represen</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-004 Control.pdf</filepath>
+        <Paragraphs>CUMPLEN CON LOS REQUERIMIENTOS DE LA NORMA EN FUNCIONAMIENTO Y CONDICIONES DE SEGURIDAD      ING  ROGELIO LOPEZ RENDON     Nombre y firma del Represen</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\REGLASGRALESGIZ-FIRCO.pdf</filepath>
+        <Paragraphs>S   CARGAS      REQUERIMIENTOS   PARA   BAJA   TENSI N    BT         Tensi n   menor   o   igual   a           kV    No   excedan   de   un   rango   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REQUERIMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>                REQUERIMIENTOS DE LA TR DE  EXPLOTACI N Y DEL APAREJO DE PRODUCCI N                                     CEMENTACIONES                 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREQUENCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQUENCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Overfrequency81HOVER FREQ. FREQUENCE &gt;&gt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Rate of change of frequency81RROCOF DERIV. FREQ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5703NewFREQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5703NewFREQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>5703NewFREQ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5704NewFREQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5704NewFREQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>5704NewFREQ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIREMENTSCOMMUNICATIONSIZENOISE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIREMENTSCOMMUNICATIONSIZENOISE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>11 SPECIFIC REQUIREMENTSCOMMUNICATIONSIZENOISE ATTENUATIONCOMFORTCOMPATIBILITY WITH OTHER PPEHYGIENE  As each job has different </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUIRING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUIRING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>NDABLE ITEMS REQUIRING PERIODIC </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2009-0018</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2009-0018</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0004 NOV Power Slip PS-30\ODR-NB11-POR-0004.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 9   PURCHASE ORDER NO: ODR-NB11-POR-0004  REF REQUISITION NO: OOG-NB11-REQ-2009-0018</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0012</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0012</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.docx</filepath>
+        <Paragraphs>   Our Request  OOG NB   REQ                   Bit Sub        OD     ID  Top Connection        Box API Regular Bore Back X Bottom Connection        Bo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0012</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0012   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0013</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0013</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0013  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0029</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0029</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0029  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0030</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0030</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0030  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0046</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0046</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0046  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0047</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0047</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0047  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0050</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0050</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0050  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-0051</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-0051</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB11-REQ-2010-0051  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB10-REQ-2010-0032</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB10-REQ-2010-0032</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\ODR-NB11-POR-0006.docx</filepath>
+        <Paragraphs>   Our Request  OOG NB   REQ                   Spiral Drill Collar        OD     ID      Long  Pin Connection        API Regular Standard Relief Groov</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OOG-NB10-REQ-2010-0032</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>Our Request: OOG-NB10-REQ-2010-0032   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2009-0032</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2009-0032</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 8   PURCHASE ORDER NO: ODR-NB11-POR-0006  Ref Requisition No: OOG-NB11-REQ-2009-0032</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2009-0014</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2009-0014</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0007 NOV Fishing Tools\ODR-NB11-POR-0007.pdf</filepath>
+        <Paragraphs>  PURCHASE ORDER NO: ODR-NB11-POR-0007  Ref Requisition No: OOG-NB11-REQ-2009-0014</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2010-various</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2010-various</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>  PURCHASE ORDER NO: ODR-NB11-POR-0008  REF REQUISITION NO: OOG-NB11-REQ-2010-various</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0075</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0075</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0075 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0074</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0074</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0074 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0067</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0067</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0067 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0024</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0024</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0024 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0020</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0020</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0020 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0023</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0023</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0023 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0041</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0041</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0041 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0090</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0090</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0090 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0054</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0054</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0054 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0053</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0053</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0053 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0052</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0052</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0052 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0026</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0026</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0026 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0025</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0025</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0025 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0031</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0031</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0031 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0019</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0019</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0019 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0028</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0028</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0028 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0022</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0022</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0022 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0094</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0094</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0094 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0112</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0112</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0112 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0115</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0115</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0115 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAFETYREQUIREMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAFETYREQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>  BREACH OF ANY SAFETYREQUIREMENT OR REGULATION  OR THE NEGLIGENCE OR OTHER LEGAL FAULT ORRESPONSIBILITY OF ANY PERSON  INCLUDING THE INDEMNIFIED OR R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAFETYREQUIREMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>  BREACH OF ANY SAFETYREQUIREMENT OR REGULATION  OR THE NEGLIGENCE OR OTHER LEGAL FAULT ORRESPONSIBILITY OF ANY PERSON  INCLUDING THE INDEMNIFIED OR R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NB08-REQ-2009-0035Please</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NB08-REQ-2009-0035Please</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\7261060368-ODEBRECHT revised.pdf</filepath>
+        <Paragraphs>NB08-REQ-2009-0035Please reference this Quote Number on all correspondence.Cust Contact</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NB08-REQ-2009-003529</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NB08-REQ-2009-003529</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\7261060368-ODEBRECHT revised.pdf</filepath>
+        <Paragraphs>NB08-REQ-2009-003529 TUAS BAY DRIVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0088</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0088</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\ODR-NB11-POR-0009.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0088 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0017</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0017</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\ODR-NB11-POR-0009.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0017 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0035</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0035</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\ODR-NB11-POR-0009.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0035 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB08-REQ-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB08-REQ-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0010 FARR Canada Power Tongs\C10501 Odebrecht Oil  Gas.pdf</filepath>
+        <Paragraphs>CUST  REF  NO   OOG NB   REQ            TO  Odebrecht Oil   Gas  CALL TAKEN BY   Jerry Szalacsi  QUOTED BY   Jerry Szalacsi ATTENTION  Jose Ribamar do</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OOG-NB08-REQ-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0010 FARR Canada Power Tongs\C10501-rev1 Odebrecht Oil &amp; Gas.pdf</filepath>
+        <Paragraphs>CUST  REF  NO   OOG NB   REQ            TO  Odebrecht Oil   Gas  CALL TAKEN BY   Jerry Szalacsi  QUOTED BY   Jerry Szalacsi ATTENTION  Jose Ribamar do</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2009-0006</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2009-0006</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0010 FARR Canada Power Tongs\ODR-NB11-POR-0010.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 8   PURCHASE ORDER NO: ODR-NB11-POR-0010  REF REQUISITION NO: OOG-NB11-REQ-2009-0006</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OOG-NB11-REQ-2009-0037</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OOG-NB11-REQ-2009-0037</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\ODR-NB11-POR-0011t.pdf</filepath>
+        <Paragraphs>PURCHASE ORDER                     PAGE 1 OF 8   PURCHASE ORDER NO: ODR-NB11-POR-0011  REF REQUISITION NO: OOG-NB11-REQ-2009-0037</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OGN-NB11-REQ-2009-0037</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OGN-NB11-REQ-2009-0037</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\ODR-NB11-POR-0011t.pdf</filepath>
+        <Paragraphs>Our Request: OGN-NB11-REQ-2009-0037 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>requirementsREQUISITION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>requirementsREQUISITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>A/F f f shelf item acceptable -  I Minimal (e.g. Letter or Certificate of Conformity (C.o.C/L.o.C)) or no quality requirementsREQUISITION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>REQ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQUERIRLO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQUERIRLO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\14.- Proa Estribor.pdf</filepath>
+        <Paragraphs>REQUERIRLO UNA EMERGENCIA  TORNILLO Y TUERCA NO ADECUADA EN  GRIL- </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQMTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQMTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>4HEMPS 11.700 MINIMUM WELD JOINT REQMTS  0.00EA A1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

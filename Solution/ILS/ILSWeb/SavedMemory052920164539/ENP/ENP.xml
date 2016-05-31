@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENPhenyl</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENPhenyl</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_Permeation_2015_02.pdf</filepath>
+        <Paragraphs>ENPhenyl mercaptan</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENPropenoic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENPropenoic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_Permeation_2015_02.pdf</filepath>
+        <Paragraphs>ENPropenoic acid butyl ester, 2-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

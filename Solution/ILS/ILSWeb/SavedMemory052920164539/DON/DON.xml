@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DONKEY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONKEY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>DONKEY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>DONE BY HLO AND FIRE MAN 2/23/2013</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV 2015.pdf</filepath>
+        <Paragraphs>D  MAINTENANCE  DONE MONTHS MAINTENANCE  PLANNED  MAINTENANCE  DONE MONTHS MAINTENANCE  PLANNED  MAINTENANCE  DONE MES PLANEADO EJECUTADO ENERO       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV hasta Octubre-2014.pdf</filepath>
+        <Paragraphs>D  MAINTENANCE  DONE MONTHS MAINTENANCE  PLANNED  MAINTENANCE  DONE MONTHS MAINTENANCE  PLANNED  MAINTENANCE  DONE MES PLANEADO EJECUTADO ENERO       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONEAmos</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONEAmos</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>BLEED AIR DONEAmos 2 Enterprise Management</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EVACUATION, ABANDONMENT PROCEDURES ..............................................................18</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>    EVACUATION  ABANDONMENT PROCEDURES               EMERGENCY SHUTDOWNS                 General                ESD Hierarchy                ESD Refer</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONADOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014 cubierta.pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR                               CUBIERTA                              30 Enero del 2014  GUANTES Y GRILLETES ABANDONADOS DE-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\09 JUN 2014  MUD TANK.pdf</filepath>
+        <Paragraphs>RECIPIENTES ABANDONADOS EN AREA DE TRABAJO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABNADONADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABNADONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014 cubierta.pdf</filepath>
+        <Paragraphs>LONA ABNADONADA POR PINTORES AL TER-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONA-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONA-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014 cubierta.pdf</filepath>
+        <Paragraphs>ABANDONADOS EN CUBIERTA MATERIALES HERRAMIENTAS Y EPP, ABANDONA-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONADOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\18 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>DONADOS EN AREA DE TRABAJO. DEPOSITO PARA RESIDUOS SIN IDENTIFICACION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACORDONAMINTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACORDONAMINTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\05 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>ACORDONAMINTO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\11 ABRIL 2014 POPA BABOR L-D.pdf</filepath>
+        <Paragraphs>DUCTO DE AIRE ABANDONADO (SALIDA EDL CUARTO DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\14 patio tuberias Upper Deck.pdf</filepath>
+        <Paragraphs>CLASIFICADOS  EXTINTOR ABANDONADO DESPUES DEL TRABAJO.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\15  temblorinas 22 00.pdf</filepath>
+        <Paragraphs>EPP ABANDONADO EN EL AREA SIN USO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\19h Helipuerto.pdf</filepath>
+        <Paragraphs>PERFECTO ORDEN Y L;IMPIEZA DESPERDICIO DE AGUA , SE DEJA ABANDONADO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\20 JULY 2014 UNIDAD DE ALTA.pdf</filepath>
+        <Paragraphs>EMERGENCIA EN PUERTA DE ACCESO. EQUIPO DE SEGURIDAD ABANDONADO EN EL AREA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\22 JULY 2014 UPPER DECK.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   UPPER DECK        10:00 HRS JULY 22th  2014MATERIAL DE EMPAQUE ABANDONADO EN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014BIDONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014BIDONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\07 Mud Mix Control Room.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   MUD MIX CONTROL ROOM                  22:00 HRS MAY 07th 2014BIDONES DE PRODUCTOS QUIMICOS SIN IDENTIFICAR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACORDONAMIENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACORDONAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\23 MAYO 2014 Helipuerto .pdf</filepath>
+        <Paragraphs>RESI9DUOS DE COMIDA TIRADA FALTA PONER CADENA DE  ACORDONAMIENTO Y </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\27.-FUEL TRANSFER AREA.pdf</filepath>
+        <Paragraphs>ACORDONAMIENTO ADECUADO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\06 main deck STBD.pdf</filepath>
+        <Paragraphs>22:00 HRS JANUARY 6 st , 2015 FALTA ACORDONAMIENTO EN TRABAJOS DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\22 Cto Htas de perf.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   CUARTO DE HTAS. PESADAS U/D   22:00 HRS JULY 23th  2014SE OBSERBA FALTA DE ACORDONAMIENTO Y FALTA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014ACORDONAMIENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014ACORDONAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\27 MAYO 2014  MCC ROOM M 105.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   L/D CUARTO MCC (M 105)          2200 HRS MAY 27th 2014ACORDONAMIENTO INADECUADO NO PERMITE LA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\09 JUN 2014  MUD TANK.pdf</filepath>
+        <Paragraphs>DONADO EN TANQUE DE LODO LIQUIDO  44 P </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\11.- INCIENRADOR ROOM.pdf</filepath>
+        <Paragraphs>DONADO  EN EL AREA .  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DON222T</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DON222T</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\02 MUD PUMP ROOM.pdf</filepath>
+        <Paragraphs>DON222T PUT GUARD CHAIN   (CORRECTED)   LAMPARAS SUCIAS   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACORDONADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACORDONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08.-Tanks 4S STBD pontoon.pdf</filepath>
+        <Paragraphs>  PASILLOS Y RUTAS DE ESCAPE LIBRES Y AREA ACORDONADA APROPIADAMENTE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\26.-drill floor.pdf</filepath>
+        <Paragraphs>AREA DE RIESGO ACORDONADA ADECUADA- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\09 CUBIERTA PPAL  22  00 .pdf</filepath>
+        <Paragraphs>AREA ACORDONADA ADECUADAMENTE  A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\19h Helipuerto.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   HELIPUERTO   22:00 HRS JULY 19 th  2014AREA ACORDONADA ADECUADAMENTE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\04 heavy tool room.pdf</filepath>
+        <Paragraphs>ABANDONED WATER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACABADONegro</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACABADONegro</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>prensado mec341nico ACABADONegro</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REDONDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REDONDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>REDONDO A 4 V315AS PLANO 650015P CONECTOR 7 V315AS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+        <Paragraphs>FILE BECAUSE WE DON       T KNOW HOW MANYN TIME DURING THE SERVICE           COULD YOU PLEASE       TOLD ME AN APPROXIMATE THE HOURS THAT YOU NEED FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>DON = Delayed activation</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Bug Remover(9-11-2012) FrenchCanada.pdf</filepath>
+        <Paragraphs>L E S DON N 311 E S FOURN IE S SON T  D E S T IN311 E S UN I QUE M EN T  300 312 T RE U T ILI S 311 E S   EN L I EN   A V EC   LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Carpet Upholstery Wipes (06-18-20102) FrenchCanada.pdf</filepath>
+        <Paragraphs>L E S DON N 311 E S FOURN IE S SON T  D E S T IN311 E S UN I QUE M EN T  300 312 T RE U T ILI S 311 E S   EN L I EN   A V EC   LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Clean-UP Wipes (06-18-20102) FrenchCanada.pdf</filepath>
+        <Paragraphs>L E S DON N 311 E S FOURN IE S SON T  D E S T IN311 E S UN I QUE M EN T  300 312 T RE U T ILI S 311 E S   EN L I EN   A V EC   LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Tech Screen Wipes (09-2012) FrenchCanada.pdf</filepath>
+        <Paragraphs>L E S DON N 311 E S FOURN IE S SON T  D E S T IN311 E S UN I QUE M EN T  300 312 T RE U T ILI S 311 E S   EN L I EN   A V EC   LA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\01&amp; 02 Fuego y Abandono\02.- evaluacion  04-10-2015.doc</filepath>
+        <Paragraphs>ODO Y POSTERIOR ABANDONO DE PLATAFORMA    SIMULACRO REALIZADO   CONTROL DE BROTES     ALERTA DE GAS     HOMBRE LESIONADO       COMBATE DE INCENDIO    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\2.- evaluacion.doc</filepath>
+        <Paragraphs>ROL Y POSTERIOR ABANDONO DE PLATAFORMA   SIMULACRO REALIZADO   CONTROL DE BROTES     ALERTA DE GAS     HOMBRE LESIONADO     COMBATE DE INCENDIO       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\02.- evaluacion  18-10-2015.doc</filepath>
+        <Paragraphs>ROL Y POSTERIOR ABANDONO DE PLATAFORMA    SIMULACRO REALIZADO   CONTROL DE BROTES     ALERTA DE GAS     HOMBRE LESIONADO X   COMBATE DE INCENDIO    X </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>ROL Y POSTERIOR ABANDONO DE PLATAFORMA    NIVEL DE EMERGENCIA   NIVEL  I   X       NIVEL  II        NIVEL  III        Niveles IV y V son emergencias q</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONOTUSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONOTUSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>DONOTUSE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RENDON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RENDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-002 Service Air.pdf</filepath>
+        <Paragraphs>  ROGELIO LOPEZ RENDON     Nombre y firma del Representante Legal de la unidad de   verificaci n   C P   VICTOR MANUEL MENDEZ GARCIA        Nombre y f</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RENDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-003 Bulk Air.pdf</filepath>
+        <Paragraphs>  ROGELIO LOPEZ RENDON     Nombre y firma del Representante Legal de la unidad de   verificaci n                    C P   VICTOR MANUEL MENDEZ GARCIA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RENDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-004 Control.pdf</filepath>
+        <Paragraphs>  ROGELIO LOPEZ RENDON     Nombre y firma del Representante Legal de la unidad de   verificaci n                   C P   VICTOR MANUEL MENDEZ GARCIA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MEJORADONitrilo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MEJORADONitrilo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>MATERIAL UTILIZADO RENDIMIENTO MEJORADONitrilo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDONEIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDONEIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Cat Spanish Cat Pgs 23-44.pdf</filepath>
+        <Paragraphs>seleccionado sea apropiado para el uso propuesto. JUSTRITE NO OFRECE GARANT315A, EXPRESA O IMPL315CITA, SOBRE SU COMERCIABILIDAD O IDONEIDAD PARA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDONEIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>DEL DICTAMEN DE IDONEIDAD T CNICA  DIT  ORIGINALES  POR   PARA USO CON TINACO  AUNQUE LA VERDAD ES DE QUE AL NO PASAR LAS PRUEBAS QUE LA CONUEE HA EST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>16-17BIDONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>16-17BIDONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>16-17BIDONES Y RECIPIENTES DE SEGURIDAD para materiales in037amablescontenidopara laboratorios</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONN311ES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Cool Mist _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Fresh Outdoors _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant New Car _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wild Berry _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Cool Mist _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Fresh Outdoors _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes New Car _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Wild Berry _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Care Protectant _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Wipes _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant Wipes _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Tire Foam _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Protectant Wipes _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Protectant _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Tire Foam _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  DES T IN311ES UNIQUEMEN T  300 312 T RE U T ILIS311ES EN LIEN AVEC LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONN311ES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Behold_Furniture_Polish_96406_msds.pdf</filepath>
+        <Paragraphs> DONN311ES PHYSIQUES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs>ENTRAR EN AREAS DONDE LA CONCENTRACION DE OXIGENO   SEA MENOR AL       SIN EQUIPO DE RESPIRACION  AUTONOMO O UNA MASCARILLA CON LINEA DE AIRE   La exp</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hdot_acetileno.pdf</filepath>
+        <Paragraphs> ENTRE EN AREAS DONDE LA CONCENTRACION DE ACETILENO SE ENCUENTRE DENTRO DELRANGO DE INFLAMABILIDAD DEBIDO AL PELIGRO DE EXPLOSION O INCENDIO   Utilice</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\27 TRA trabajos en Altura.docx</filepath>
+        <Paragraphs>RIFICAR EL AREA DONDE SE REALIZARA EL TRABAJO        AREA DE TRABAJO EN CONDICIONES INADECUADAS DE ORDEN Y LIMPIEZA    RIESGOS DE TROPEZONES AL PERSON</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\001 TRA trabajos de corte y soldadura.docx</filepath>
+        <Paragraphs>RIFICAR EL AREA DONDE SE REALIZARA EL TRABAJO        PRESENCIA DE MATERIALES COMBUSTIBLES O INFLAMABLES    EXPLOSION Y O INCENDIO    A    M    M    EL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONNEES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12369-MSDS-F_F_SCOTT Continuous Air Freshener_Natural Refill.pdf</filepath>
+        <Paragraphs> DONNEES DE SECURITESCOTT  Continuous Air Freshener Refill Natural     INFORMATIONS RELATIVES AU TRANSPORT  Description d exp dition du DOT des    U  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-F_F_ KLEENEX Alcohol Free Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>6/6 FICHE DE DONNEES DE SECURITEKLEENEX® Alcohol Free Foam Hand Sanitizer; KLEENEX®</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33939-MSDS-F_F_KLEENEX® Green Certified Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>7/8 FICHE DE DONNEES DE SECURITE   KLEENEX® Green Certified Foam Hand Sanitizer     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34622-MSDS-F_F_KIMTECH SCIENCE KIMWIPES Lens Cleaning Station Solution.pdf</filepath>
+        <Paragraphs>6/6 FICHE DE DONNEES DE SECURITEKIMTECH SCIENCE* KIMWIPES® Lens Cleaning Station</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34700-MSDS-F_F_Kleenex® Ultra Moisturizing Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>7/8 FICHE DE DONNEES DE SECURITEKleenex® Ultra* Moisturizing</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-36700-MSDS-F_F_  SCOTT 24 Hour Sanitizing Spray.pdf</filepath>
+        <Paragraphs>6/6 FICHE DE DONNEES DE SECURITESCOTT® 24 Hour Sanitizing Spray R35 - Provoque de graves brûlures. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58040-MSDS-F_F_ KIMTECH PREP Surface Sanitizer Wipe.pdf</filepath>
+        <Paragraphs>6/6 FICHE DE DONNEES DE SECURITEKIMTECH PREP* Surface Sanitizer Wipe L'information ci-incluse est juste et correcte </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91072-MSDS-F_F_SCOTT Continuous Air Freshener_Ocean.pdf</filepath>
+        <Paragraphs> DONNEES DE SECURITESCOTT  Continuous Air Freshener  Ocean existants ou d enfreindre des lois ou des r glements quelconques  La d cision finale quant </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91298-MSDS-F_F_SCOTT Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>6/6 FICHE DE DONNEES DE SECURITEScott* Antibacterial Skin Cleanser L'information ci-incluse est juste et correcte </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91547-MSDS-F_F_ KLEENEX Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>6/6 FICHE DE DONNEES DE SECURITEKLEENEX® Antibacterial Skin </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-F_F_KLEENEX Antibacterial Foam Skin Cleanser_0.5 Triclosan_KIMCARE.pdf</filepath>
+        <Paragraphs>2/7 FICHE DE DONNEES DE SECURITEKLEENEX® Antibacterial Foam Skin Cleanser (.5%</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DONNEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93040-MSDS-F_F_  KLEENEX Instant Hand Sanitizer_62 percent Alcohol_KIMCARE Instant.pdf</filepath>
+        <Paragraphs>7/7 FICHE DE DONNEES DE SECURITEKLEENEX® Instant Hand Sanitizer (62% Alcohol);</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GORDON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GORDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\PLEASE3.pdf</filepath>
+        <Paragraphs>GORDON Fecha de Impresión : 17-Feb-16 2:42:57 AM *</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GORDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\PLEASE4.pdf</filepath>
+        <Paragraphs>GORDON Fecha de Impresión : 17-Feb-16 2:42:02 AM *</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\07 Trampas de Arena Area.pdf</filepath>
+        <Paragraphs>ABANDONADAS  FALTA DE ORDEN Y LIMPIEZA EN DIVERSAS ZONAS DEL AREA E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\13 ALMACEN.pdf</filepath>
+        <Paragraphs>BOTELLAS  DE AGUA ABANDONADAS SIN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABANDONADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABANDONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\11 Areas de galgas proa y popa.pdf</filepath>
+        <Paragraphs>MANGUERA CONTRA INCENDIO ABANDONADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABANDONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\24.VOID SPACE 56P.pdf</filepath>
+        <Paragraphs>ABANDONADA EN AREA DE TRABAJO. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BIDON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BIDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\12 Engine room .pdf</filepath>
+        <Paragraphs>V  Safety Tour                                  ENGINE ROOM                     10:00 HRS   SEPTEMBER 12TH, 2014 FALTA ROMBO DE SEGURIDAD  EN BIDON </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BIDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\13 MOON POOL.pdf</filepath>
+        <Paragraphs>V  Safety Tour                                    MOON POOL                  10:00 HRS SEPTIEMBRE 13th , 2014FALTA ROMBO DE SEGURIDAD  EN BIDON </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BIDON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\16.- ALMACEN DE SACOS.pdf</filepath>
+        <Paragraphs>LACK OF HOUSEKEEPING IN OFFICE AREAFALTA ROMBO DE SEGURIDAD  EN BIDON </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DONADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\3.- moon pool.pdf</filepath>
+        <Paragraphs>DONADA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACORDONA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACORDONA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\9.- TALLER DE SOLDADURA.pdf</filepath>
+        <Paragraphs>ADECUADAMENTE PERSONAL NO ACORDONA EL AREA, AUN CUANDO SE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ACORDONA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\22 Cto Htas de perf.pdf</filepath>
+        <Paragraphs>CIA DE UN VIGILANTE SE ACORDONA EL AREA Y SE PONE EL PERMISO EN EL AREA DE TRABAJO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

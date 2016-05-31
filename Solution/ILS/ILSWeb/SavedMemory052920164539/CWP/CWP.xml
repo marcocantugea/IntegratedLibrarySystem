@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CWP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CWP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>FMC    FIG      CWP WC     ID          Section length        m        ft     Quantity                      Section length       m        ft    Quantit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CWP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>FMC    FIG      CWP WC     ID          Section length        m        ft     Quantity                      Section length       m        ft    Quantit</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

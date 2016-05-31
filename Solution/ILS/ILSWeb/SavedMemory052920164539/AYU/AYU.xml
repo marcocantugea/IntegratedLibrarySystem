@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AYUDANTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AYUDANTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\6. Ayudante de Perforador (Segundo).pdf</filepath>
+        <Paragraphs>EV      CARGO   AYUDANTE DE PERFORADOR    SEGUNDO     REPORTA A   Perforador       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AYUDANTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\018 limpieza de PRESAS de lodos( esp. confin).docx</filepath>
+        <Paragraphs>ENTE DE CHANGO  AYUDANTE DE PISO              ASSESSOR  please print    Asesores           DATE APPROVED  Fecha de aprobaci n       DATE OF JOB  Fecha</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AYUDANTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\011 TRA trabajos diversos en taller de soldadura.docx</filepath>
+        <Paragraphs>querida         AYUDANTE CONTRA INCEDIO              ASSESSOR  please print    Asesores      Jose J  Leza M      DATE APPROVED  Fecha de aprobacion   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STAIRWAYUPPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STAIRWAYUPPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>-M333 STAIRWAYM333 STAIRWAYUPPER DECK3026DA961E015F551TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNIT-STAIRWAYSTAIRWAYUPPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNIT-STAIRWAYSTAIRWAYUPPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1422961-AU-07-003ADDRESSANLE UNIT-STAIRWAYSTAIRWAYUPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

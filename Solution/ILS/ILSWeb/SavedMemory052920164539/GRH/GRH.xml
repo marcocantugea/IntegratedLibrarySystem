@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GRHV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GRHV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>OORZLQJ H DPSOH GRHV QRW FRQWDLQ DQ  EODQN OLQHV  R WKH WH W SULQWV DV WKUHH RQH OLQH ODEHOV   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GRHV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>OORZLQJ H DPSOH GRHV QRW FRQWDLQ DQ  EODQN OLQHV  R WKH WH W SULQWV DV WKUHH RQH OLQH ODEHOV   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

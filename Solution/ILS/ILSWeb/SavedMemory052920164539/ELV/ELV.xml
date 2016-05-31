@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SHELVES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHELVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SHELVES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHELVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\25 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>S IN GOOD SHAPE SHELVES WELL ORGANIZED MORE GOOD STORING EXAMPLES                 FIRE EXTINGUISHER IN PLACE   RINGING BELL INSTALLED FOR MATERIAL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHELVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\01.- Drill floor Heavy tool store.pdf</filepath>
+        <Paragraphs>ORGANIZED SHELVES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHELVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\07.-Starboard crane.pdf</filepath>
+        <Paragraphs>SHELVES ORGANIZED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHELV-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHELV-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\10 Jun Aft Port Funnel.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   Aft Port Funnel 22:00 HRS JUN 10thROOM IS USED AS A STORE FOR DIFFERENT MATERIALS, WE COULD COME UP WITH SOME SHELV-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELVIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELVIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ncluding        PELVIC SUPPORT A sub pelvic strap provides additional support    security and comfort for the user    Properly positioned  it better  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

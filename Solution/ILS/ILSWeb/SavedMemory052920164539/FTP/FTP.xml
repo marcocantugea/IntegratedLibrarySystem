@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FTP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FTP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>FTP session </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFTP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFTP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>  STP or FTP or SFTP     m      ft       PCRED      EN             Installation ACE            wire RS     network interface           Function PE    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

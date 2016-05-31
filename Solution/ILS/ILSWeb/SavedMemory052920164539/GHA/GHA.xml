@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>526LD-U01B-04-01LIGHTINGHALOGEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>526LD-U01B-04-01LIGHTINGHALOGEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>526LD-U01B-04-01LIGHTINGHALOGEN FLOOD LIGHTING FIXTURE, 500W, EXNR1Drill Floor / ZONE 2ChalmitScotlandEVOD/500TL/60/LTEECS BAS9</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>527LD-U01B-04-02LIGHTINGHALOGEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>527LD-U01B-04-02LIGHTINGHALOGEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>527LD-U01B-04-02LIGHTINGHALOGEN FLOOD LIGHTING FIXTURE, 500W, EXNR1Drill Floor / ZONE 2ChalmitScotlandEVOD/500TL/60/LTEECS BAS9</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>161010-HS0110DRILLINGHAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>161010-HS0110DRILLINGHAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>161010-HS0110DRILLINGHAND SWITCH1DRILL FLOOR / Zone 2CEAGGermanyGHG 411 8101 R0093PTB 00 ATEX 3117&lt;Ex&gt; II 2G EEx de IIC T6COMPL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHARGINGHANDLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHARGINGHANDLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>UPPERRECEIVER( ABOVEPIVOT/ TAKEDOWNPINS) CHARGINGHANDLE TAKEDOWNPIN PIVOTPIN EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  FOREEND MAGAZINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

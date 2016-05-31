@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VEHICLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE  ROV  OPERATIONS MANUAL       DOCUMENT NO       Company Code   Department   Code   Document Code   Sequence No   KS   R   MA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>VEHICLE CHARGER A5en-US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.5 Work Orders.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.6 Work Orders.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.7 Work Order.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VEHICLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.9 Work Orders.pdf</filepath>
+        <Paragraphs>REMOTE OPERATED VEHICLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEHIND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaker room 2200 hrs .pdf</filepath>
+        <Paragraphs>GOOD HOUSEKEEPING BEHIND SHAKER UNITS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\29 Cementing Unit.pdf</filepath>
+        <Paragraphs>NUTS AND WASHERS LEFT BEHIND   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\11 Jun Instrumentation Room Rig Floor.pdf</filepath>
+        <Paragraphs>LEFT BEHIND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\13 Jun Engine room #3 and #4.pdf</filepath>
+        <Paragraphs>V  Safety Tour               ENGINE ROOM #3 AND #4    13:00 HRS Jun 13th HOUSEKEEPING, PARTS  LEFT BEHIND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\14 Jun Energen Room.pdf</filepath>
+        <Paragraphs>PARTS LEFT BEHIND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\15 Jun Different Rig Areas.pdf</filepath>
+        <Paragraphs>V  Safety Tour               DIFFERENT RIG AREAS 14:00 HRS Jun 15thWATER BOTTLE LEFT BEHIND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BEHIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\28 JULY 2014 CUARTO DE BOMBAS.pdf</filepath>
+        <Paragraphs>ACCESS AND BEHIND BOX TOOLS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEHIND227POOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEHIND227POOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\18 Jun Thruster Rooms #4 &amp; #6.pdf</filepath>
+        <Paragraphs>PARTS LEFT BEHIND227POOR HOUSEKEEPING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REMOLQUEHITCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REMOLQUEHITCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs> ACCESORIOSPARA REMOLQUE APLICACIONES P301GINA 73 70 ACCESORIOSPARA REMOLQUE ACCESORIOS PARA REMOLQUEHITCH STEP GO RHINO CARACTER315STICAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

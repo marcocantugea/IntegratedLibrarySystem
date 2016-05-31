@@ -9,6 +9,20 @@ Namespace ilscore.lib.file
 
         Private _WordDoc As String
         Private _ResultText As String
+        Private _dictionary As DictionaryWords
+        Private _filepath As String
+
+        Public WriteOnly Property FilePath() As String
+            Set(ByVal value As String)
+                _filepath = value
+            End Set
+        End Property
+
+        Public WriteOnly Property Dictionary() As DictionaryWords
+            Set(ByVal value As DictionaryWords)
+                _dictionary = value
+            End Set
+        End Property
 
         Public ReadOnly Property ReturnText() As String
             Get
@@ -25,11 +39,24 @@ Namespace ilscore.lib.file
             End Set
         End Property
 
+        Sub OpenerWordXFile()
+            Try
+                OpenerWordXFile(_dictionary, _filepath)
+            Catch ex As Exception
+                Console.WriteLine("Error Reading file : " & _filepath)
+            End Try
+
+        End Sub
         Sub OpenerWordXFile(ByVal Dictionary As DictionaryWords, ByVal Filepath As String)
-            Dim dtt As New DocxToTextDemo.DocxToText(Filepath)
-            Dim o_wordsearchengine As New ilscore.lib.engine.WordSearchEngine
-            _ResultText = dtt.ExtractText()
-            o_wordsearchengine.FindWords(Dictionary, _ResultText, Filepath)
+            Try
+                Dim dtt As New DocxToTextDemo.DocxToText(Filepath)
+                Dim o_wordsearchengine As New ilscore.lib.engine.WordSearchEngine
+                _ResultText = dtt.ExtractText()
+                o_wordsearchengine.FindWords(Dictionary, _ResultText, Filepath)
+
+            Catch ex As Exception
+                Console.WriteLine("Error Reading file : " & Filepath)
+            End Try
 
         End Sub
 

@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>COG LOCATION (m)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECOGIDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECOGIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>LIMPIEZA  APLICACIONES RECOGIDA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECOGNIZED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECOGNIZED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>                RECOGNIZED WORLDWIDE AS THE LEADING  SAFETY AT HEIGHT  COMPANY  Workers At Height    Attend Our Global    Demonstrations Annually Time</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECOGNIZED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>MEDICAL CONDITIONS GENERALLY RECOGNIZED AS BEING AGGRAVATED BY EXPOSURE:   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TERMOENCOGIBLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TERMOENCOGIBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>CI323N  TUBOS TERMOENCOGIBLES N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COGENERACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COGENERACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\solicitud+para+la+conexion.pdf</filepath>
+        <Paragraphs> O  SISTEMA DE  COGENERACION EN PEQUE A  O MEDIANA ESCALA   Datos comerciales     Nombre del Cliente                                            Direcc</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECOGER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECOGER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\27 TRA trabajos en Altura.docx</filepath>
+        <Paragraphs>DEN Y LIMPIEZA  RECOGER EQUIPO Y HERRAMIENTAS AL TERMINO DE TRABAJO     B    B    B    OBLIGATORIO     PELIGRO    N A    EVALUADO    PELIGRO    N A   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECOGER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\001 TRA trabajos de corte y soldadura.docx</filepath>
+        <Paragraphs>DEN Y LIMPIEZA  RECOGER EQUIPO Y HERRAMIENTAS    B    B    B    OBLIGATORIO     PELIGRO    N A    EVALUADO    PELIGRO    N A    EVALUADO    SUBSTANCIA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

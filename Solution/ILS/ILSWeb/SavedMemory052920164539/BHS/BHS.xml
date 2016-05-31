@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>8434-1-BHS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8434-1-BHS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>1ZM77-35-16M45x1,513.8597,8501.9048,3 1D277Male Metric S - Rigid - (24260 Cone)End Connection per ISO 8434-1-BHS Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BHS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BHS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SAE 520601ISO 8434-3 BHS TubeThreadWeight</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UBHS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UBHS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>referred to as the UBHS 9-1/2224 and 11-1/4224. Motors are available </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SCBBA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCBBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\10 ALL AREAS.pdf</filepath>
+        <Paragraphs>SCBBA NEEDS MAINTENANCE /SHAKER ROOM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>216ABACBBBBCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>216ABACBBBBCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>216ABACBBBBCC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>216ABACBBBBCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>216ABACBBBBCC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>76AB53A6138BC869E4B5CBB4A8AB1B5E7</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>76AB53A6138BC869E4B5CBB4A8AB1B5E7</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+        <Paragraphs>76AB53A6138BC869E4B5CBB4A8AB1B5E7 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>02F329A0FD3BAB5E74B5CBB4A8AB1B5E7</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>02F329A0FD3BAB5E74B5CBB4A8AB1B5E7</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>02F329A0FD3BAB5E74B5CBB4A8AB1B5E7</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CBB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CBB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CBB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

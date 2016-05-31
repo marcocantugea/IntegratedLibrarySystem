@@ -81,5 +81,9 @@
         End Function
 
 
+        Public Sub SortItems()
+            _Items.Sort(New WordFileSorter)
+        End Sub
+
     End Class
 End Namespace

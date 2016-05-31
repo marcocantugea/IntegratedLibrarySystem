@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EQUIPMENTflLUGGAGE563LIFTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EQUIPMENTflLUGGAGE563LIFTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>EQUIPMENTflLUGGAGE563LIFTING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUGGAGE563LIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUGGAGE563LIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>LUGGAGE563LIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUGGAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUGGAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>LUGGAGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENGAGED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENGAGED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\19 Moonpool.pdf</filepath>
+        <Paragraphs>SAFETY CHAIN IS NOT ENGAGED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>28FGAGA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>28FGAGA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>28FGAGA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>28FGAGA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>28FGAGA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DISENGAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DISENGAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>NCE     ELEMENT DISENGAGE SEQUENCE    ELECTRICAL DISCHARGE SOLENOID        IN WHAT STATE SHOULD THE DIVERTER OVERBOARD VALVE PRE SELECT BE SET AT DURI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENGAGEMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENGAGEMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\FastenalTechnicalReferenceGuide (1).pdf</filepath>
+        <Paragraphs>SUGGESTED THREAD ENGAGEMENT GUIDELINES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENGAGEMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>ENGAGEMENT  Head Hex Nuts 24 2.000 226 8UN 3-1/8 Hex 2040 ft-lb (2766 N-m)  Bottom </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENGAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENGAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Black Jak Torque Master.pdf</filepath>
+        <Paragraphs>ING RING ASSEMBLY TO ENGAGE ALL OF </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

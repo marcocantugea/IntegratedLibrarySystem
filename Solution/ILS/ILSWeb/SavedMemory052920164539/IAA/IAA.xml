@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>IAA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IAA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Bleach_Rain_Clean_04602_msds.pdf</filepath>
+        <Paragraphs> restricted per IAA D G R  Special Provision A  EPA SARA TITLE III CERCLABottled product is not reportable underSections         and contains no chemc</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADVERTENCIAA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADVERTENCIAA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>may  be  fined  or  sent  to  prison. ADVERTENCIAA  los  ninos  los  atroen  las  armaside  de  fuego </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

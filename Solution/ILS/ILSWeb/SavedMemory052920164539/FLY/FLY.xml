@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BUTTERFLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUTTERFLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\VALVULAS DE MARIPOSA.pdf</filepath>
+        <Paragraphs>MANUAL BUTTERFLY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUTTERFLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>BUTTERFLY VALVE AF-NG 80, WITHOUT SWITCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUTTERFLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Commercial Invoice 48753.pdf</filepath>
+        <Paragraphs>BUTTERFLY VALVE AF-NG 80, WITHOUT SWITCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUTTERFLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>BUTTERFLY VALVE AF-NG 80, WITHOUT SWITCH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLYING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>IMPACT BY FLYING PARTICLES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUTTERFLYVALVESFeatures</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUTTERFLYVALVESFeatures</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs> DEMCO BUTTERFLYVALVESFeatures &amp; BenefitsDEMCO Butterfly Valves2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

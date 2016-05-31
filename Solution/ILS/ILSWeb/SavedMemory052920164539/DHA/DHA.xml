@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ZONE2ATOSItalyDHA-0711-M</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZONE2ATOSItalyDHA-0711-M</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15310-HYH-0472DRILLINGRT GEAR LOCK OFF1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0711-M 24DC NG6  EXDCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZONE2ATOSItalyDHA-0713-M</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZONE2ATOSItalyDHA-0713-M</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15610-HYH-0485DRILLINGPS30 OPEN/UP1DRILL FLOOR / ZONE2ATOSItalyDHA-0713-M 24DC NG6 EXDCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d IIC T3C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-HARDHAT-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-HARDHAT-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-HARDHAT-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-HARDHAT-100PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-HARDHAT-100PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-HARDHAT-100PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

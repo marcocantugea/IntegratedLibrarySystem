@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STBDUPPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STBDUPPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>797961-MAC-07-014ADDR. CALLPOINT. WATERPROOF-PEDESTAL CRANE STBDPEDESTAL CRANE STBDUPPER DECK3026DA961E015F668TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BDUs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BDUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>assembly. Methods of a033xing the PTT assembly to BDUs or protective vests will en-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

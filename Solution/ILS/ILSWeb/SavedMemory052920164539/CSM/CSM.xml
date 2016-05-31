@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PCSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PCSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>o  PCSM  No</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>CSM = chloro-sulphone-ethene </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>CSM APPLICATIONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>standardsCSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>standardsCSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Other standardsCSM / Neoprene8NY3032</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XXCSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XXCSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>XXCSM Neoprene  www.honeywellsafety.com</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZUCSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZUCSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ZUCSM-ENG.pdf</filepath>
+        <Paragraphs>Product nameZep Clear ShellProduct codeZUCSM Supersedes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUCSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUCSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ZUCSM-ENG.pdf</filepath>
+        <Paragraphs>ZUCSM N ot applicable.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

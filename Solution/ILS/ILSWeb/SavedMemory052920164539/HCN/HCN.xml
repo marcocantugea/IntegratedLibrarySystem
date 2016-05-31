@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HCN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>HCN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>NO2, SO2, HCN o PH3Tama361o ALTAIR256Detector port341til de un solo gas libre de mantenimientoCaracter355sticas y benef355cios</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>hlorine  H   S  HCN                 ml m         Vol               ml m         Vol             ml m         Vol     EN       E Sulfur dioxide and aci</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>[not CO] e.g. chlorine, H2S, HCN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>, HCN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HCNen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCNen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HCNen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HCN-2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCN-2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HCN-2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

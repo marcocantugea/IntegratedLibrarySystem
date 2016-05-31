@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLN142</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLN142</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CLN142.pdf</filepath>
+        <Paragraphs>CLN142</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLN202</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLN202</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CLN202.pdf</filepath>
+        <Paragraphs>CLN202</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLN202</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\11. Block Viajero (Travelling Block)\11.4 Work Orders.pdf</filepath>
+        <Paragraphs>CLN202</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

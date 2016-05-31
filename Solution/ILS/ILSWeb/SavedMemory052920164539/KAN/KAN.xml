@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>gp63219FOREPEAKANDSTEMForepeakandstemsections</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>gp63219FOREPEAKANDSTEMForepeakandstemsections</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>gp63219FOREPEAKANDSTEMForepeakandstemsections</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MEKANISK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MEKANISK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>MEKANISK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STYREKANT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STYREKANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STYREKANT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STYREKANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>MOTORSTATIV MED STYREKANT er opprettet og </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

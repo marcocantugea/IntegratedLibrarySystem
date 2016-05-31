@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SCBLSGSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCBLSGSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\7261060368-ODEBRECHT revised.pdf</filepath>
+        <Paragraphs>SCBLSGSG 6BatteryRoad#23-00( CASH INVOICES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SCBLSGSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI - BALANCE.pdf</filepath>
+        <Paragraphs>               SWIFT # SCBLSGSG    Currency : ($ ) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SCBLSGSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI.pdf</filepath>
+        <Paragraphs>               SWIFT # SCBLSGSG    Currency : ($ ) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

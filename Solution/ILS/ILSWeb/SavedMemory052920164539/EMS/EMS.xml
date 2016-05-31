@@ -1,0 +1,788 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SYSTEMSPreparation</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSPreparation</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>SYSTEMSPreparation</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM31DRILLFLOOREQUIPMENTANDSYSTEMS315</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM31DRILLFLOOREQUIPMENTANDSYSTEMS315</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>SYSTEM31DRILLFLOOREQUIPMENTANDSYSTEMS315</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EQUIPMENTANDSYSTEMSMiscellaneous</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EQUIPMENTANDSYSTEMSMiscellaneous</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>EQUIPMENTANDSYSTEMSMiscellaneous</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSTanks</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSTanks</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>SYSTEMSTanks</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSystem</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSystem</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>SYSTEMSystem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDMUDSYSTEMSMAY91326MUDSOLIDSCONTROLSystem</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDMUDSYSTEMSMAY91326MUDSOLIDSCONTROLSystem</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>ANDMUDSYSTEMSMAY91326MUDSOLIDSCONTROLSystem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSYSTEMS334</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSYSTEMS334</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>ANDSYSTEMS334</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HANDLINGEQUIPMENTANDSYSTEMSThis</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDLINGEQUIPMENTANDSYSTEMSThis</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>HANDLINGEQUIPMENTANDSYSTEMSThis</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSThis</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSThis</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>SYSTEMSThis</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\GE - Converteam\CTC-PC-2015-004.pdf</filepath>
+        <Paragraphs>SYSTEMS AFFECTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>BILGE &amp; BALLAST SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>SYSTEMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>BILGE   BALLAST SYSTEMS               MARINE GROWTH        SECTION      STABILITY   LOADING            DEFINITIONS   REFERENCES            STABILITY C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>SAFETY SYSTEMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Subsea Camera Package IZ212).pdf</filepath>
+        <Paragraphs>g no.:  GENERAL INDUSTRY SYSTEMS AS   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\VALVULAS DE MARIPOSA.pdf</filepath>
+        <Paragraphs>TEMENT OF PAINT SYSTEMS USED                               SHEETS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>SAFETY SYSTEMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>SAFETY SYSTEMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>nr.2 pcs for pump.     NOVA ROTORS Srl  Quality System Certificate UNI EN ISO 9001 / 00   6 23. SEALING SYSTEMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>PROPERTY OF SGL SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>PROPERTY OF SGL SYSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>SYSTEMS 10156464 ExtendAire II Kit </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>       VERTICAL SYSTEMS        HORIZONTAL SYSTEMS        ENGINEERED SYSTEMS           ANCHORAGE CONNECTORS          FLEXIGUARD      SYSTEM            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>420 LB. MODELS AVAILABLE (33' UNITS AND ABOVE)  VERTICAL &amp; HORIZONTAL SYSTEMS 25 PROTECTA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>TICAL SYSTEMS þ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>Consult your International Representative for details.  SYSTEMS AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>REV 1026102, GMD              e GE TRANSPORTATION SYSTEMS One Team Dedicated to Customer Success205Worldwide </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>8BClosing Units - Subsea Installations21SECTION 8 :SURFACE BOP CONTROL SYSTEMS 012015015012</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Lakach - Rig Assessment Rev 01 Comp  2.pdf</filepath>
+        <Paragraphs>SYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>58SANITARYSYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>58SANITARYSYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>58SANITARYSYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INSTRUMENTAIRSUPPLYSYSTEMSupply</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INSTRUMENTAIRSUPPLYSYSTEMSupply</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>INSTRUMENTAIRSUPPLYSYSTEMSupply</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>deck821761DISTILLEDANDMAKE-UPWATERSYSTEMSDistilled</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>deck821761DISTILLEDANDMAKE-UPWATERSYSTEMSDistilled</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>deck821761DISTILLEDANDMAKE-UPWATERSYSTEMSDistilled</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSFORMACHINERYThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSFORMACHINERYThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>SYSTEMSFORMACHINERYThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AUTOMATIONSYSTEMSFORMACHINERY797</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AUTOMATIONSYSTEMSFORMACHINERY797</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>AUTOMATIONSYSTEMSFORMACHINERY797</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ingp75803BILGESYSTEMSSystems</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ingp75803BILGESYSTEMSSystems</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ingp75803BILGESYSTEMSSystems</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSOUNDINGSYSTEMSFROMTANKS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSOUNDINGSYSTEMSFROMTANKS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ANDSOUNDINGSYSTEMSFROMTANKS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSOUNDINGSYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSOUNDINGSYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ANDSOUNDINGSYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>797831SPECIALCOMMONHYDRAULICOILSYSTEMSHydraulic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>797831SPECIALCOMMONHYDRAULICOILSYSTEMSHydraulic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>797831SPECIALCOMMONHYDRAULICOILSYSTEMSHydraulic</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>CENmALHEATTRANSFERSYSTEMSWITHCHEMICALUQUIDS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM85ELECTRICALSYSTEMSGENERALPARTThegroup</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM85ELECTRICALSYSTEMSGENERALPARTThegroup</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>SYSTEM85ELECTRICALSYSTEMSGENERALPARTThegroup</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS75INSULATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS75INSULATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS75INSULATION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMALLERITEMS547</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMALLERITEMS547</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SMALLERITEMS547</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS71LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS71LUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS71LUBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS711LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS711LUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS711LUBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS36MATERIAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS36MATERIAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS36MATERIAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS34PIPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS34PIPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS34PIPE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS721SEA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS721SEA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS721SEA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS37SERVING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS37SERVING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEMS37SERVING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>426SPECIALCOMMONHYDRAULICOILSYSTEMS83SPECIALEQUIPMENT48SPECIALSERVICEEQUIPMENTANDSUPPLIES375SPECIALTOOLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>426SPECIALCOMMONHYDRAULICOILSYSTEMS83SPECIALEQUIPMENT48SPECIALSERVICEEQUIPMENTANDSUPPLIES375SPECIALTOOLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>426SPECIALCOMMONHYDRAULICOILSYSTEMS83SPECIALEQUIPMENT48SPECIALSERVICEEQUIPMENTANDSUPPLIES375SPECIALTOOLS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>YSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>YSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>YSTEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>YSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>STER  S LAVE  S YSTEMS                                                                                                                          Introd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>YSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>YSTEMS  þ   þ   þ   þ  one of the mos</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\INSTRUCTION MANUAL FOR CENTRIFUGAL PUMPS.pdf</filepath>
+        <Paragraphs>205 Shell Albida EMS 2 (lithium complex base)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\LUBE122.pdf</filepath>
+        <Paragraphs>Lubricant type : Shell Albida EMS 2 (lithium complex base)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\VALVULAS DE MARIPOSA.pdf</filepath>
+        <Paragraphs>EMS USED ------- 86 SHEETS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>protection for  EMS  Military  Police   Fire and Safety   Security CHEMICAL   LIQUID PROTECTION GLOVE STYLE   POLYMER USAGE SEGMENT EMS MILITARY POLIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Glass_Plus_Cleaner_32oz_94378_msds.pdf</filepath>
+        <Paragraphs>Not applicable  EMS               Not applicable                                                                                          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Glass_Plus_Cleaner_94379_msds.pdf</filepath>
+        <Paragraphs>Not applicable  EMS               Not applicable                                                                                          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Lysol_Pine_Cleaner_02814_msds.pdf</filepath>
+        <Paragraphs>Not applicable  EMS               Not applicable                                                                                         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Mop_&amp;_Glo_Floor_Shine_74297_msds.pdf</filepath>
+        <Paragraphs>Not applicable  EMS               Not applicable                                                                                          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Resolve_Carpet_Pretrtmnt_97161_msds.pdf</filepath>
+        <Paragraphs>Not applicable  EMS               Not applicable                                                                                         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\EZ SPOT.pdf</filepath>
+        <Paragraphs>EMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>STEMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>STEMS Extremely lightweight and portable  these systems incorporate a modular  multi base design that accommodates a wide range of steel and concrete </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROBLEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542 PT012 F01 - Lista de Verificación Diaria Grua Articulada - Daily Checklist  (9-Jun-15).doc</filepath>
+        <Paragraphs>S  ALL DAMAGES  PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO CHIEF OFFICER  No Conformidades   Acciones Correctiva  CMMS Lugares  Non Confor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Main Cranes\Main Cranes 2013\18.2 Work Orders feb.pdf</filepath>
+        <Paragraphs>ALL DAMAGES, PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO CHIEF OFFICER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Main Cranes\Main Cranes 2013\18.3 Work Orders March.pdf</filepath>
+        <Paragraphs>ALL DAMAGES, PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO CHIEF OFFICER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\SP-01-05-01T Daily Knuckleboom crane Rev1.doc</filepath>
+        <Paragraphs> B ALL DAMAGES  PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO SSL Non conformances Corrective Actions  Place on Synergi   Date Action Require</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>REPORT ANY PROBLEMS FOUND TO YOUR SUPERVISOR.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>     REPORT ANY PROBLEMS FOUND TO YOUR SUPERVISOR Page    of     Maintenance Work OrderCLEA    Clean BOP HPU filters</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI description.pdf</filepath>
+        <Paragraphs>THE PROBLEMS SFI  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROBLEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI Spec Tec.pdf</filepath>
+        <Paragraphs>2  3.   THE PROBLEMS SFI CAN SOLVE  2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ITEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\23 Starboard Pipe rack.pdf</filepath>
+        <Paragraphs>LOOSE ITEMS ON TOP OF EQUIPMENTS CASES  BUEN ORDEN Y LIMPIEZA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>              ITEMS SUPPLIED WITH THE CENTRIFUGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>              ITEMS SUPPLIED WITH THE CENTRIFUGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>                ITEMS   DAILY   WEEKLY   FORTNIGHTLY   AS REQUIRED   Make beds  clean toilets  showers  sweep and mop  all bedrooms  x  on    hour rig</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>ALL ITEMS MAY NOT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>     ADDITIONAL ITEMS THAT MAY BE CHECKED   a  System thermometers should be regularly checked to make sure that they are operational  b  Thermometers</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>INSTALL LOK-CEL BODY ASSEMBLY, ITEMS (</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National Oilwell 14P-220 Manual 80-600-209.pdf</filepath>
+        <Paragraphs>, ASSEMBLY 14P-220 MUD PUMP  (INCLUDES ITEMS 1 - 7)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>SOME ITEMS MAY BE COMPLETED AND SHIPPED BEFORE OTHERS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>SOME ITEMS MAY BE COMPLETED AND SHIPPED BEFORE OTHERS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>SOME ITEMS MAY BE COMPLETED AND SHIPPED BEFORE OTHERS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>SOME ITEMS MAY BE COMPLETED AND SHIPPED BEFORE OTHERS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>SOME ITEMS MAY BE COMPLETED AND SHIPPED BEFORE OTHERS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>SOME ITEMS MAY BE COMPLETED AND SHIPPED BEFORE OTHERS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI - BALANCE.pdf</filepath>
+        <Paragraphs>                                                                                * ITEMS SUBTOTAL    US$ 36,045.04 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\Commercial Invoice7261070756-NORBE XI.pdf</filepath>
+        <Paragraphs>                                                                                * ITEMS SUBTOTAL    US$ 36,045.04 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig personnel questionaire.docx</filepath>
+        <Paragraphs>that pod  Align SEMS double check all functions are as per required for running bop then selection a pod again     What steps would you perform prior </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMS2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMS2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\LUBE800.pdf</filepath>
+        <Paragraphs>Lubrication type: Albida EMS2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\15. Sistema Contraincendio (Fire System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>Lubrication type: Albida EMS2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMS2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO LUBE800.pdf</filepath>
+        <Paragraphs>Lubrication type: Albida EMS2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMS78</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMS78</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>to stand up to harsh environments.  77 74 þVV ERTICAL SYSTEMS78 L þadAD -S þafAF   þable   þadder   þystem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMSA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>s   MSA CONTROL EMSA CONTROL EMSA CONTROL E allows the operations centre to closely monitor the position of the individual</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>Council and is recyclable and biodegradable. BLEACHING PROCESS ECO ENVIRONMENTALMANAGEMENT SYSTEMEMS WOOD FIBRE FROM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRILLINGSYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRILLINGSYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>©CooperCameronCorporation,CameronDivision,PrintedinUSA,07/02,TC1001 DRILLINGSYSTEMS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMSCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMSCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>YNAPLEX HOOKS   EMSCO AND OILWELL BLOCK COMBINATIONS                                               Table of Contents  ii SECTION    LINKS   WELDLESS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMSCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>YNAPLEX HOOKS   EMSCO AND OILWELL BLOCK COMBINATIONS                                               Table of Contents  ii SECTION    LINKS   WELDLESS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMSCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>EMSCO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMSCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>Spider Adapter Plate 37 1/2 RT EMSCO Api Pipe Size Spider </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>AND MARINE RISER SYSTEMSSECTION 9 :   012015015012</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

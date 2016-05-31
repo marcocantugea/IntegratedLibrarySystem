@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STORAGEKeep</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STORAGEKeep</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Scotchguard_Cleaner_1019_msds.pdf</filepath>
+        <Paragraphs>  Page of       STORAGEKeep container in well ventilated area   Store away from heat   Store out of direct sunlight   Do not store containers on their</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STORAGEKeep</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Scotchguard_Protector_4101W_msds.pdf</filepath>
+        <Paragraphs>ng agents       STORAGEKeep container in well ventilated area   Keep container tightly closed   Store away from heat   Store out of direct sunlight   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GEK-91696C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEK-91696C</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>tenance Package 14-P-220 Triplex Mud Pump Package  www.nov.com    Chapter 2.0 GE Drilling Motor  GEK-91696C </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GEK26191696C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEK26191696C</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>bearings from the rotor shaft. Horizontal Drill Motor, Model 5GEB22, GEK26191696C  9</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

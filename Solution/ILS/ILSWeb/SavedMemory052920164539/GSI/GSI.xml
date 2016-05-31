@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ALONGSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALONGSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08.L03 Lista de Verificación de Embarcación de Suministro - Supply Boat Checklist Form  (14-Ago-13).docx</filepath>
+        <Paragraphs>NTO        BOAT ALONGSIDE    PORT   STBD    BOTE A LADO DE  ESTRIBOR BABOR     hrs    FUEL  COMBUSTIBLE        BAR BENT        BOAT PULLS CLEAR  DESPE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALONGSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L03 Lista de Verificación de Embarcación de Suministro - Supply Boat Checklist Form (11-Apr-12).docx</filepath>
+        <Paragraphs>NTO        BOAT ALONGSIDE    PORT   STBD    BOTE A LADO DE  ESTRIBOR BABOR     Hrs    FUEL  COMBUSTIBLE        BAR BENT        BOAT PULLS CLEAR  DESPE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALONGSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08 L03 Lista de Verificación - Supply Boat Checklist R.01 (23-Jun-14).doc</filepath>
+        <Paragraphs> CEMENTO   BOAT ALONGSIDE    PORT   STBD    BOTE A LADO DE  ESTRIBOR BABOR  hrs FUEL  COMBUSTIBLE  BAR BENT   BOAT PULLS CLEAR  DESPEJAR EL BOTE hrs P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALONGSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\Anteriores\MGT08.L03 SUPPLY BOAT CHECKLIST.doc</filepath>
+        <Paragraphs>rta  RMX   BOAT ALONGSIDE    PORT   STBD    BOTE A LADO DE  ESTRIBOR BABOR  hrs BACKLOAD     BOAT PULLS CLEAR  DESPEJAR EL BOTE hrs FUEL  COMBUSTIBLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GSIPA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GSIPA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>PA y SEMAR a la GSIPA Regional  correspondiente       PAG                DE          Pozo  EXPLORATUS    DL                                           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MONTERINGSINSTRUKS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MONTERINGSINSTRUKS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>MONTERINGSINSTRUKS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

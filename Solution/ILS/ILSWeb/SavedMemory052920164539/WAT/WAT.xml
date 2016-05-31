@@ -1,0 +1,1723 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BREAKWATERSOutfittingondecks</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREAKWATERSOutfittingondecks</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>BREAKWATERSOutfittingondecks</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BALLASTANDSEAWATERTANKSMaterial</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BALLASTANDSEAWATERTANKSMaterial</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>BALLASTANDSEAWATERTANKSMaterial</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\00105 lincoln pump.pdf</filepath>
+        <Paragraphs>WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>WATER PRESSURE 1.7 BAR 2/26/2013</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>          DRILL WATER                              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BASELINE m  WPA WATER PLANE AREA m   FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM         WP        WP        APCPCWM         WP        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>FluidAllAllFluid, FIRE WATER SYSTEM1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\26 Cement room.pdf</filepath>
+        <Paragraphs>CONTAINER WITH OILY WATER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 2200 hrs.pdf</filepath>
+        <Paragraphs>WATER UNDER MAT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\11 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>WATER OUTLET </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\12 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>WATER LINE IS BEING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\15 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>         OILY WATER ON FLOOR PORTSIDE VALVULA INCORRECTAMENTE EMPACADA.. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\27 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   GALLEY 10:00 HRS 27 DE FEBRERO DE 2014 WATER FLEX HOSE BROKE -OLD WORK PER-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\17 MAR ENG ROOM 3 AND 4 2014 1000.pdf</filepath>
+        <Paragraphs>WATER FOUNTAIN STORED IN WRONG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\11 ABRIL 2014 POPA BABOR L-D.pdf</filepath>
+        <Paragraphs>(FRESH WATER GENERATOR  ROOM)  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\25 Galley dry store.pdf</filepath>
+        <Paragraphs>CONTAINERS WITH DIRTY WATER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\06 Welding Shop .pdf</filepath>
+        <Paragraphs>SODA CANS AND WATER BOTTLES ON WORKBENCH   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\04 Jun Fresh Water Treatment Room .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   FRESH WATER TREATMENT ROOM         22:00 HRS JUN 04th 2014SYNTHETIC OIL BUCKET LEFT OPEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\17 Fresh water gen. room M130.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     FRESH WATER GEN. ROOM M130 22:00 HRS JUN 17thCLEAR AND FREE AISLES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\09.-SEPTIEMBRE\02 Port-Fwd pontoon.pdf</filepath>
+        <Paragraphs>WATER TIGHT DOOR NOT OPENED ALL THE WAY, MUST</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\08 Fresh water gen. room.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV    Safety Tour FRESH WATER GEN. ROOM/CUARTO DE POTA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\01.- Drill floor Heavy tool store.pdf</filepath>
+        <Paragraphs>MATERIAL ON TOP OF WATER FOUNTAIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\04 heavy tool room.pdf</filepath>
+        <Paragraphs>ABANDONED WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\05 UPPER DECK.pdf</filepath>
+        <Paragraphs>ECBA PROPERLY SECURE  FOR BAD WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\3027-14-0007.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0153\Delivery\INSPECC LA MURALLA IV.pdf</filepath>
+        <Paragraphs>FUEGO A BASE DE WATER MIST   INSPECCION          MXN          MXN INSPECCION Y CERTIFICACION ANUAL A SISTEMA FIJO DE CO  QUE PROTEGE EL PA OL DE PINTU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\OC 3027-14-0940 APROBADA.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\PO 3027-14-0940.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016 APROBADA.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Invoicing\Factura de clientes 19018.pdf</filepath>
+        <Paragraphs>ANUAL Y CERTIFICACION A SISTEMA DE SUPRESION DE FUEGO  A BASE DE WATER MIST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>SDRILL WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>1,735 MT. CAPACITIES DRILL WATER  220,871.86 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>PRESSURE  OF SEAWATER           X WATER DEPTH         X WATER DEPTH         X WATER DEPTH        WHAT IS THE PROCEDURE FOR CLOSING A MANUAL GATE VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs> TO TANK        WATERCOOLED PIPING ASSEMBLY      HP           KW      Ref Number    Part Number    Qty    Description                                M</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M140FRESH WATER GENERATOR ROOMFRESH WATER GENERATOR ROOM M140LOWER DECK3026DA961E013F337TYCO811PHZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP814.pdf</filepath>
+        <Paragraphs>961-YSH-11-005A FRESH WATER GENERATOR ROOM M140 LOWER DECK F337</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP815.pdf</filepath>
+        <Paragraphs>961-YSH-11-025C FRESH WATER TREATMENT ROOM M130 LOWER DECK F327</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0013PIPEWORK WATER COOLING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>CONNECTOR WATER BOTTLE HOLDER* *Bottle not includedSNAP TOGETHER CLIP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>WATER INLET FILTER:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>WATER INLET FILTER:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01031.pdf</filepath>
+        <Paragraphs>now List        WATER        MURPHY OIL SOAP WOOD CLEANER SPRAY MULTIUSES   This industrial Material Safety Data Sheet is not intended for consumers a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01131.pdf</filepath>
+        <Paragraphs>now List        WATER           SODIUM HYDROXIDE             Sodium tallate     Pennsylvania Right   To   Know List        WATER           SODIUM HYDR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01163.pdf</filepath>
+        <Paragraphs>now List        WATER           SODIUM HYDROXIDE             Sodium tallate     Pennsylvania Right   To   Know List        WATER           SODIUM HYDR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01185.pdf</filepath>
+        <Paragraphs> (40 CFR 261, Subpart D): Not Applicable    CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01903.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN             CETRIMONIUM CHLORIDE           COCAMIDE MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Penn</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01904.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN             CETRIMONIUM CHLORIDE           COCAMIDE MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Penn</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01922_SoftsoapInstantHandGelSanitizer.pdf</filepath>
+        <Paragraphs>hazardous waste number D001.    CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04195_AjaxExpertGlassMultiSurfaceCleanerconcentrate.pdf</filepath>
+        <Paragraphs> (40 CFR 261, Subpart D): Not Applicable    CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04209MSDS.pdf</filepath>
+        <Paragraphs>able      CLEAN WATER ACT                     Not Applicable      CLEAN AIR ACT                            Not Applicable     SARA   Sections         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs>now List        WATER           DIPROPYLENE GLYCOL BUTYL ETHER           ETHANOL  ETHYL ALCOHOL              SODIUM DODECYL BENZENE SULFONATE  LINEAR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04368MSDS.pdf</filepath>
+        <Paragraphs>cable     CLEAN WATER ACT                       Contains Sodium Dodecylbenz</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04940_AjaxExpertHighPerformanceDegreaserConcentrate.pdf</filepath>
+        <Paragraphs> (40 CFR 261, Subpart D): Not Applicable    CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04944_AjaxNeutralMultiSurfaceFloorCleaner.pdf</filepath>
+        <Paragraphs> (40 CFR 261, Subpart D): Not Applicable      CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04949MSDS.pdf.pdf</filepath>
+        <Paragraphs>able      CLEAN WATER ACT                     Contains ammonium hydroxide                                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04963_AjaxExpertLiquidSanitizer.pdf</filepath>
+        <Paragraphs> (40 CFR 261, Subpart D): Not Applicable    CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\10 Percent Sterilizing Gas Mixture of CH2CH2O and CO2 SDS P4705.pdf</filepath>
+        <Paragraphs>approx. 1.52  SOLUBILITY IN WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\11009.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN             SODIUM SOAP     Pennsylvania Right   To   Know List        WATER           GLYCERIN             S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\11010.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\14178.pdf</filepath>
+        <Paragraphs> SOAP           WATER           GLYCERIN       Pennsylvania Right   To   Know List        GLYCERIN             SODIUM SOAP           WATER       Canad</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\14184.pdf</filepath>
+        <Paragraphs> SOAP           WATER           GLYCERIN       Pennsylvania Right   To   Know List        GLYCERIN             SODIUM SOAP           WATER       Canad</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\14185.pdf</filepath>
+        <Paragraphs>RIN             WATER           SODIUM SOAP     Pennsylvania Right   To   Know List        WATER           GLYCERIN             SODIUM SOAP       Cana</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\14188.pdf</filepath>
+        <Paragraphs> SOAP           WATER           GLYCERIN       Pennsylvania Right   To   Know List        GLYCERIN             SODIUM SOAP           WATER       Canad</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\14615MSDS.pdf</filepath>
+        <Paragraphs>corrosivity D002 (pH 12.5).    CLEAN WATER ACT:         Contains sodium hypochlorite and sodium hydroxide which are </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\20848.pdf</filepath>
+        <Paragraphs>now List        WATER           SODIUM CHLORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE        PALMOLIVE TRADITIONAL DISHWASHING HAND LIQUID ORIG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\25902.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\26254.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN             CETRIMONIUM CHLORIDE           COCAMIDE MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Penn</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46106.pdf</filepath>
+        <Paragraphs>PHATE           WATER     Pennsylvania Right   To   Know List        ETHANOL  ETHYL ALCOHOL                  Lauroylamidopropyl betaine           SODI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46112.pdf</filepath>
+        <Paragraphs>now List        WATER           ETHANOL  ETHYL ALCOHOL              SODIUM CHLORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           Oxirane    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46118.pdf</filepath>
+        <Paragraphs>now List        WATER           ETHANOL  ETHYL ALCOHOL              SODIUM CHLORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           Oxirane    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>To   KnowList   WATER SODIUMDODECYLBENZENESULFONATE LINEAR  Listed  PennsylvaniaRight   To   KnowList   SODIUMDODECYLBENZENESULFONATE LINEAR  Listed  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53042.pdf</filepath>
+        <Paragraphs>now List        WATER           SODIUM DODECYL BENZENE SULFONATE  LINEAR           FABULOSO ALL PURPOSE CLEANER LIQUID OCEAN PARADISE   This industria</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>To   KnowList   WATER SODIUMDODECYLBENZENESULFONATE LINEAR  Listed  PennsylvaniaRight   To   KnowList   SODIUMDODECYLBENZENESULFONATE LINEAR  Listed  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\74164MSDS.pdf</filepath>
+        <Paragraphs>cable     CLEAN WATER ACT                       Contains Sodium Dodecylbenzene Sulfonate which is a Section </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\74199MSDS.pdf</filepath>
+        <Paragraphs>cable     CLEAN WATER ACT                       Contains Ammonium Hydroxide which is a Section     material     CLEAN AIR ACT                         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax All Purpose Cleaner Liquid - Lemon -  04609 - 4 13 12.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AJAX ALL PURPOSE CLEANER LIQUID - LEMON.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AJAX DSH 30F CS SP LEMON_44624.pdf</filepath>
+        <Paragraphs>now List        WATER           SODIUM CHLORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           C     C      EO Ammonium Sulfate     Pennsylvan</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Expert Premium Degreaser.pdf</filepath>
+        <Paragraphs>(pH 13.5).    CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Scouring Creme- CCG Design for the Environment.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>Not applicable  SOLUBILITY  IN  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>SOLUBILITY IN WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CDC5703735061.pdf</filepath>
+        <Paragraphs>SOLUBILITY IN WATER % by WT:  100%  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLO-69150.pdf</filepath>
+        <Paragraphs>  SOLUBILITY IN WATER BOILING POINT   BOILING RANGE SPECIFIC GRAVITY   WATER      VAPOR PRESSURE APPEARANCE AND ODOR             C      mmHg at       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Colgate GRF.pdf</filepath>
+        <Paragraphs>CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Colgate Total Mouthwash Peppermint_67123.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN             PROPYLENE GLYCOL             D   SORBITOL     Pennsylvania Right   To   Know List        WATER   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Color Standards for Control Tests Mixtures of HCl CoCl2 CuSO45H2O FeCl3 H2O SDS P4899.pdf</filepath>
+        <Paragraphs>0.014 (estimated)  SOLUBILITY IN WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CPC-04944.pdf</filepath>
+        <Paragraphs>cable     CLEAN WATER ACT                    Not Applicable     CLEAN AIR ACT                           Contains glycol ethers which                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso All Purpose Cleaner (all variants) .pdf</filepath>
+        <Paragraphs>CLEAN WATER ACT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar H5 H10 H35 Shielding Gases Mixtures of H2 and Ar SDS P4861.pdf</filepath>
+        <Paragraphs>0.0695-1.34 (calculated)  SOLUBILITY IN WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\IRISH SPRING BODYWASH ORIGINAL - 27609.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Neon Gas Ne Safety Data Sheet SDS P4628.pdf</filepath>
+        <Paragraphs>0.697  SOLUBILITY IN WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methanol UCAR HTF Heat Treating Fluid CH3OH Safety Data Sheet SDS P4672.pdf</filepath>
+        <Paragraphs>  SOLUBILITY IN WATER      F     C      Complete   PARTITION COEFFICIENT  n   octanol water    Not available     AUTOIGNITIO N TEMPERATURE        F   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>  SOLUBILITY IN WATER  SOLUBLE               FLASH PT  PMCC         F                     VOLATILES  NON VOLATILE                       MELTING PT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Mildew_Remover_Ajax_14615_msds.pdf</filepath>
+        <Paragraphs>corrosivity D002 (pH 12.5).    CLEAN WATER ACT:         Contains sodium hypochlorite and sodium hydroxide which are </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs>EYE CONTACT:  FLUSH WITH COOL WATER FOR 15 MINUTES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs>SOLUBILITY IN WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia_Shine_Aerosol_SS1_msds.pdf</filepath>
+        <Paragraphs>SOLUBILITY IN WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs>SOLUBILITY IN WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MURPHY OIL SOAP LIQUID - ORGINAL.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MURPHY OIL SOAP LIQUID 1030.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Palmolive Regular Orange.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs>   SOLUBILITY IN WATER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\POL DSH 14F CS SP R D ORANGE - 04930.pdf</filepath>
+        <Paragraphs>now List        WATER        AJAX TRADITIONAL DISHWASHING HAND LIQUID ORANGE      PALMOLIVE TRADITIONAL DISHWASHING HAND LIQUID ORANGE   This industri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Chlorosilane A19 SiHCl3 Safety Data Sheet SDS P4823.pdf</filepath>
+        <Paragraphs>IN CONTACT WITH WATER RELEASES FLAMMABLE GASES WHICH MAY IGNITE  SPONTANEOUSLY   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         HARMFUL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Antibacterial liquid hand soap light moisturizers.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Cucumber Melon Liquid Hand Soap.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Coconut Lime - 29269.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN             C        ALCOHOL EO SODIUM SULFATE           COCAMIDOPROPYL BETAINE     Pennsylvania Right   To  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Hand Soap Radiant Raspberry.pdf</filepath>
+        <Paragraphs>  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Hand Soap Tangerine Treat.pdf</filepath>
+        <Paragraphs>  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Kitchen Fresh Hands Liquid Hand Soap.pdf</filepath>
+        <Paragraphs>CLEAN WATER ACT:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Liquid Hand Soap Lavender &amp; Chamomile.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SS BW Pom and Mango- 28914.pdf</filepath>
+        <Paragraphs>now List        WATER           SODIUM CHLORIDE           ACRYLATE POLYMER           COCAMIDOPROPYL BETAINE           Sodium C     EO sulfate     Penn</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stargon Gas Blends Mixture of Ar O2 and CO2 Safety Data Sheet SDS P6304.pdf</filepath>
+        <Paragraphs>SAFE DRINKING WATER AND TOXIC ENFORCEMENT ACT OF 1986 (Proposition 65). </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\TOTAL TP 0.75Z CS SP CLN MINT - 76311.pdf</filepath>
+        <Paragraphs>now List        WATER           GLYCERIN          COLGATE TOTAL    CLEAN MINT   This industrial Material Safety Data Sheet is not intended for consume</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ULTRA PALMOLIVE ORIGINAL.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Vel Traditional Rose.pdf</filepath>
+        <Paragraphs>:  WATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYMASTER_5C.pdf</filepath>
+        <Paragraphs>ion Rate AS FOR WATER Autoignition Temperature NOT AVAILABLE Decomposition Temperature NOT AVAILABLE Freezing Point     C Partition Coefficient NOT AV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYMASTER_5C_001.pdf</filepath>
+        <Paragraphs>ion Rate AS FOR WATER Autoignition Temperature NOT AVAILABLE Decomposition Temperature NOT AVAILABLE Freezing Point     C Partition Coefficient NOT AV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5.pdf</filepath>
+        <Paragraphs>LFC   GELLANT   WATER          ITEM NUMBER   BJ SERVICES GLFC      May      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5_001.pdf</filepath>
+        <Paragraphs>LFC   GELLANT   WATER          ITEM NUMBER   BJ SERVICES GLFC      May      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_Basin_Newsletter_4_Dec2010.pdf</filepath>
+        <Paragraphs>EDAH PILOT WELL WATER HANDLING  PRINCIPLES February   February    BENEFICIAL WATER REUSE April    April    On the ground Over the last few months  som</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Idcide-20_Rheochem.pdf</filepath>
+        <Paragraphs>LUID ADDITIVE   WATER TREATMENT Use s  Synonym s  IDCIDE    MSDS Date    April      NOT CLASSIFIED AS HAZARDOUS ACCORDING TO NOHSC CRITERIA    HAZARDS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Rheolube_Rheochem.pdf</filepath>
+        <Paragraphs> Available      WATER H O           remainder Eye If in eyes  hold eyelids apart and flush the eye continuously with running water  Continue flushing </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Salt_Rheochem.pdf</filepath>
+        <Paragraphs>Available       WATER H O                 Eye Flush gently with running water for    minutes  Skin Exposure is considered unlikely  Inhalation Exposur</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Salt_Rheochem_001.pdf</filepath>
+        <Paragraphs>Available       WATER H O                 Eye Flush gently with running water for    minutes  Skin Exposure is considered unlikely  Inhalation Exposur</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder.pdf</filepath>
+        <Paragraphs>FOOD ADDITIVE   WATER PURIFICATION   WATER TREATMENT ALUM   ALUMINIUM SULPHATE HYDRATE   ALUMINIUM TRISULPHATE   MINTECH CHEMICAL ALUMINIUMSULPHATE PO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder_001.pdf</filepath>
+        <Paragraphs>FOOD ADDITIVE   WATER PURIFICATION   WATER TREATMENT ALUM   ALUMINIUM SULPHATE HYDRATE   ALUMINIUM TRISULPHATE   MINTECH CHEMICAL ALUMINIUMSULPHATE PO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>3.5 OPERATING WATER CURTAIN  4.0. VENDOR RECOMMENDATIONS ALL OPERATOR     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB041 - Unlatch BOPs from Well Head R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>T BE SET ON THE WATER TABLE BEFORE THE ENTIRE WEIGHT OF THE BOPS CAN BE TRANSFERRED FROM THE DATS TO THE BLOCKS            Subsea checks and prepares </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>COOLING WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>used.WHEN USING WATER BASE DRILLING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>9 1000Õ WATER GAS DEPTH - 1000 ft Normal pressure at </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708207 -  ~04082011083338.pdf</filepath>
+        <Paragraphs>WATER SLINGER /DEFLECTOR ASSY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>3.3 SEA WATER COOLING PUMPS ...................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\16 Incinerator room.pdf</filepath>
+        <Paragraphs>WATER ON FLOOR  POSSIBLE LEAK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\13.-CUARTO DE BOMBAS.pdf</filepath>
+        <Paragraphs>OILY WATER IN WALKWAY ( NEED HOUSE KEEPING)   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\21 FRESH WATER GENERATOPR ROOM .pdf</filepath>
+        <Paragraphs>FRESH WATER GENERATOR ROOM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\25 CUBIERTA PRINCIPAL LADO ESTRIBOR.pdf</filepath>
+        <Paragraphs>WATER  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>327DRILLWATERSYSTEMComplete</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>327DRILLWATERSYSTEMComplete</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>327DRILLWATERSYSTEMComplete</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>navigation412414UNDERWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>navigation412414UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>navigation412414UNDERWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>deck821761DISTILLEDANDMAKE-UPWATERSYSTEMSDistilled</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>deck821761DISTILLEDANDMAKE-UPWATERSYSTEMSDistilled</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>deck821761DISTILLEDANDMAKE-UPWATERSYSTEMSDistilled</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUMPflHOTWATERHEATERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMPflHOTWATERHEATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PUMPflHOTWATERHEATERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATER-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATER-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>WATER-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOTORflFEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOTORflFEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>MOTORflFEEDWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FOR FEEDWATER PUMPS,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATER-581FILLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATER-581FILLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>WATER-581FILLING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREAKWATERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREAKWATERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BREAKWATERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRIMARYFEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRIMARYFEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PRIMARYFEEDWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14SEAWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>14SEAWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>721SEAWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>721SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>721SEAWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BILGEWATER-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BILGEWATER-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BILGEWATER-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OILlWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OILlWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>OILlWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\boom lacing 29-30.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1363 LA MURALLA IV.pdf</filepath>
+        <Paragraphs>UNDERWATER  SERVICES, TM (GAUGING) AND MPI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1433 MURALLA IV.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Port Crane Boom NDT.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TR 1345a LA MURALLA IV.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1427.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI2.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+        <Paragraphs>UNDERWATER DETACHABLE PROPULSION SYSTEM  Refer to Figure 6-1    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Tech Dive 2015\TR´-1499 LALA MURALLA lV TR-1499.pdf</filepath>
+        <Paragraphs>UNDERWATER  SERVICES, TM (GAUGING) AND MPI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VAC-VIS PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATCHKEEPING122WATERANALVZINGEQUIPMENT-see</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATCHKEEPING122WATERANALVZINGEQUIPMENT-see</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>.WASTEPAPERBASKETS547WATCHRECEIVER421 . WATCHKEEPING122WATERANALVZINGEQUIPMENT-see</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>73WAL-WAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>73WAL-WAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>73WAL-WAT   SFIGROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERTIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERTIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>WATERTIGHT BOUNDARIES, CLOSURES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERTIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ions            WATERTIGHT BOUNDARIES  CLOSURES              General              Critical downflooding points                Stability analysis      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATHMAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATHMAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>FIRE WATHMAN  AWAY FROM FIRE EXTINGUISHER FALTA PLACA PARA EVITAR CAIDAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>15thWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15thWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\15 Jun Different Rig Areas.pdf</filepath>
+        <Paragraphs>V  Safety Tour               DIFFERENT RIG AREAS 14:00 HRS Jun 15thWATER BOTTLE LEFT BEHIND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEAWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>IC PRESSURE  OF SEAWATER           X WATER DEPTH         X WATER DEPTH         X WATER DEPTH        WHAT IS THE PROCEDURE FOR CLOSING A MANUAL GATE VA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>: SEAWATER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC663.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.1 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.2 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.4 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.7 Work Order.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.8 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\6. Sistema de Propulsores (Thrusters System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEAWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\thruster\43 WO.pdf</filepath>
+        <Paragraphs>(429/263) AND BLEED IT UNTIL PURE SEAWATER IS DRAINING FROM IT.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUTWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUTWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CUTWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\17. Botes Salvavidas (Life Boats)\17.3 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>736961-MAC-02-001ADDR. CALLPOINT. WATERPROOF SAFETY OUTDOOR -OUTSIDE STAIR WAY M111OUTSIDE STAIR WAY M1112ND ACCOM3026DA961E016</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\SRV727.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.1 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.2 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.4 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.5 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.6 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.7 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.8 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.9 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\17. Botes Salvavidas (Life Boats)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATERPROOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\life boat\37 WO.pdf</filepath>
+        <Paragraphs>WATERPROOF TORCH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM702UPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM702UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>722961-MAC-01-006ADDR. CALLPOINT. WATERPROOFM702UPS ROOMUPS ROOM M702NAVI. DECK3026DA961E019F881TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM703FAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM703FAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>723961-MAC-01-008ADDR. CALLPOINT. WATERPROOFM703FAN ROOMFAN ROOM M703NAVI. DECK3026DA961E019F881TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM601FAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM601FAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>733961-MAC-01-016AADDR. CALLPOINT. WATERPROOFM601FAN ROOMFAN ROOM M6013RD ACCOM.3026DA961E017F777TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM501FAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM501FAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>739961-MAC-02-003AADDR. CALLPOINT. WATERPROOFM501FAN ROOMFAN ROOM M5012ND ACCOM3026DA961E016F759TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM401FAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM401FAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>747961-MAC-03-002AADDR. CALLPOINT. WATERPROOFM401FAN ROOMFAN ROOM M4011ST ACCOM3026DA961E016F758TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM203PASSAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM203PASSAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>762961-MAC-04-008ADDR. CALLPOINT. WATERPROOFM203PASSAGE WAYPASSAGE WAY M203TWEEN DECK3026DA961E014F339TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM303</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM303</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>782961-MAC-07-001GADDR. CALLPOINT. WATERPROOFM303 -M303UPPER DECK3026DA961E015F569TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOF-KNUCKLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOF-KNUCKLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>789961-MAC-07-008ADDR. CALLPOINT. WATERPROOF-KNUCKLE CRANEKNUCKLE CRANEUPPER DECK3026DA961E015F593TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOF-PEDESTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOF-PEDESTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>797961-MAC-07-014ADDR. CALLPOINT. WATERPROOF-PEDESTAL CRANE STBDPEDESTAL CRANE STBDUPPER DECK3026DA961E015F668TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOF-RISER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOF-RISER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>803961-MAC-07-019ADDR. CALLPOINT. WATERPROOF-RISER CRANERISER CRANEUPPER DECK3026DA961E015F687TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM324DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM324DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>808961-MAC-08-002AADDR. CALLPOINT. WATERPROOFM324DRILL TOOL STOREDRILL TOOL STORE M324UPPER DECK3026DA961E015F586TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM326SACK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM326SACK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>810961-MAC-08-002CADDR. CALLPOINT. WATERPROOFM326SACK STORESACK STORE M326UPPER DECK3026DA961E015F563TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOF-CHILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOF-CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>816961-MAC-09-002ADDR. CALLPOINT. WATERPROOF-CHILLER ROOM STAIRWAYCHILLER ROOM STAIRWAYTWEEN DECK3026DA961E014F452TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM209LIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM209LIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>817961-MAC-09-003ADDR. CALLPOINT. WATERPROOFM209LIR &amp; VENT. PIPE RMLIR &amp; VENT. PIPE RM M209TWEEN DECK3026DA961E014F491TYCOCP830</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM207PASSAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM207PASSAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>818961-MAC-09-004ADDR. CALLPOINT. WATERPROOFM207PASSAGE WAYPASSAGE WAY M207TWEEN DECK3026DA961E014F327TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM226PASSAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM226PASSAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>823961-MAC-09-008AADDR. CALLPOINT. WATERPROOFM226PASSAGE WAYPASSAGE WAY M226TWEEN DECK3026DA961E014F331TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM225DRILLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM225DRILLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>825961-MAC-09-009AADDR. CALLPOINT. WATERPROOFM225DRILLING SWBD ROOMDRILLING SWBD ROOM M225TWEEN DECK3026DA961E014F462TYCOCP830M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM220PASSAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM220PASSAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>826961-MAC-09-009BADDR. CALLPOINT. WATERPROOFM220PASSAGE WAYPASSAGE WAY M220TWEEN DECK3026DA961E014F357TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM160DRILLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM160DRILLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>832961-MAC-10-001ADDR. CALLPOINT. WATERPROOFM160DRILLING UTILITY ROOMDRILLING UTILITY ROOM M160TWEEN DECK3026DA961E014F330TYCOC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM214HYDR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM214HYDR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>DDR  CALLPOINT  WATERPROOFM   HYDR   HP COMPRESSOR RMHYDR   HP COMPRESSOR RM M   TWEEN DECK    DA   E   F   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM150MUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM150MUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>834961-MAC-10-003ADDR. CALLPOINT. WATERPROOFM150MUD PUMP ROOMMUD PUMP ROOM M150TWEEN DECK3026DA961E014F336TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM224DRILLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM224DRILLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>839961-MAC-10-007ADDR. CALLPOINT. WATERPROOFM224DRILLING SWBD ROOMDRILLING SWBD ROOM M224TWEEN DECK3026DA961E014F463TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM221COMPRESSOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM221COMPRESSOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>840961-MAC-10-008ADDR. CALLPOINT. WATERPROOFM221COMPRESSOR RMCOMPRESSOR RM M221TWEEN DECK3026DA961E014F438TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM212INERGEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM212INERGEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>841961-MAC-10-008AADDR. CALLPOINT. WATERPROOFM212INERGEN ROOMINERGEN ROOM M212TWEEN DECK3026DA961E014F445TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM211CENTRAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM211CENTRAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>842961-MAC-10-009ADDR. CALLPOINT. WATERPROOFM211CENTRAL STORECENTRAL STORE M211TWEEN DECK3026DA961E014F445TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM147LOCAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM147LOCAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>851961-MAC-11-006AADDR. CALLPOINT. WATERPROOFM147LOCAL ENG. WORKSHOPLOCAL ENG. WORKSHOP M147LOWER DECK3026DA961E013F337TYCOCP83</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM164LOCAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM164LOCAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>852961-MAC-11-006BADDR. CALLPOINT. WATERPROOFM164LOCAL ENG. WORKSHOPLOCAL ENG. WORKSHOP M147LOWER DECK3026DA961E013F331TYCOCP83</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM165UTILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM165UTILITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>853961-MAC-11-007ADDR. CALLPOINT. WATERPROOFM165UTILITY ROOMUTILITY ROOM M165LOWER DECK3026DA961E013F331TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM131SEPARATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM131SEPARATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>858961-MAC-11-011AADDR. CALLPOINT. WATERPROOFM131SEPARATOR ROOMSEPARATOR ROOM M131LOWER DECK3026DA961E013F328TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM129MCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM129MCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>859961-MAC-11-012ADDR. CALLPOINT. WATERPROOFM129MCC ROOMMCC ROOM M129LOWER DECK3026DA961E013F327TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM108LOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM108LOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>861961-MAC-12-001BADDR. CALLPOINT. WATERPROOFM108LOW VOLT. ROOMLOW VOLT. ROOM M108LOWER DECK3026DA961E013F322TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM106UTILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM106UTILITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>862961-MAC-12-001CADDR. CALLPOINT. WATERPROOFM106UTILITY ROOMUTILITY ROOM M106LOWER DECK3026DA961E013F339TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM142MCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM142MCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>863961-MAC-12-001DADDR. CALLPOINT. WATERPROOFM142MCC ROOMMCC ROOM M142LOWER DECK3026DA961E013F337TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM146TRAFOTRAFO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM146TRAFOTRAFO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>864961-MAC-12-001EADDR. CALLPOINT. WATERPROOFM146TRAFOTRAFO M146LOWER DECK3026DA961E013F337TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM151LOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM151LOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>865961-MAC-12-002ADDR. CALLPOINT. WATERPROOFM151LOW VOLT. ROOMLOW VOLT. ROOM M151LOWER DECK3026DA961E013F335TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM154LOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM154LOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>867961-MAC-12-004ADDR. CALLPOINT. WATERPROOFM154LOW VOLT. ROOMLOW VOLT. ROOM M154LOWER DECK3026DA961E013F333TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM161TRAFO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM161TRAFO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>869961-MAC-12-005AADDR. CALLPOINT. WATERPROOFM161TRAFO TRAFO M161LOWER DECK3026DA961E013F331TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM162MCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM162MCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>DDR  CALLPOINT  WATERPROOFM   MCC ROOMMCC ROOM M   LOWER DECK    DA   E   F   TYCOCP   MZ     APCPCWM         WP        WP        APCPCWM         WP  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATER-RESISTANT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATER-RESISTANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>WATER-RESISTANT LEATHER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHEMWATCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHEMWATCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>te     Jan      CHEMWATCH       C    EC Version No   CD         Page   of    Section     CHEMICAL PRODUCT AND COMPANY IDENTIFICATION  PRODUCT NAME Roc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHEMWATCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs>te     Nov      CHEMWATCH         XC    SC Version No     CD         Page   of    Section     CHEMICAL PRODUCT AND COMPANY IDENTIFICATION  PRODUCT NAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHEMWATCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>te     May      CHEMWATCH       XC    SC Version No   CD         Page   of    Section     CHEMICAL PRODUCT AND COMPANY IDENTIFICATION  PRODUCT NAME so</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TALLOWATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TALLOWATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>TALLOWATE AND/OR SODIUM PALMATE, SODIUM PALM  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Time_Mist_Disp_Virtual_Aire_5701WHI_msds.pdf</filepath>
+        <Paragraphs>985-878-6751        WATCO Part#: 38MS355400TMCA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Tide_Coldwater_-_Fresh_Scent_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>  ULTRA  TIDE   COLDWATER   (ALL SCENTS: FRESH SCENT)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TLV-TWATributyl</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TLV-TWATributyl</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - BE-9.pdf</filepath>
+        <Paragraphs>ACGIH TLV-TWATributyl tetradecyl phosphonium</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERMELON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERMELON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>          CON   WATERMELON    A            PARA    LIMPIEZA  EN   SET                      PAG                 DE          Proyecto Pozo NOBILIS      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>100 WATT - 110/240 VOLT ATEX  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATER-ABSORBENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATER-ABSORBENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Commercial Invoice 48753.pdf</filepath>
+        <Paragraphs>FILTER ELEMENT, WATER-ABSORBENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WATER-ABSORBENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>FILTER ELEMENT, WATER-ABSORBENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\03 FRESH WATER GENERATOR ROOM.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV    Safety Tour       CUERTO DE POTABILIZADORAS /FRESH WATE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

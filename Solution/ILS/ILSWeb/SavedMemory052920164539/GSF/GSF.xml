@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>s.gp70FUELOILHEATERS(HEATINGCOILSINF.O.TANKS)704FUELOILPIPING,seeresp.systems.gp70FOR-FUE  PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GSF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GSF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-239.pdf</filepath>
+        <Paragraphs>GSF Development Driller I </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KUPLINGSFLENS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KUPLINGSFLENS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>KUPLINGSFLENS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

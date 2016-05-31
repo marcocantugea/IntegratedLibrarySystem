@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>	PCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>	PCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\1 Almacen-Warehouse\755.PW08 Formatos Almacen\755.PW08.F06 - Formato Vale de resguardo.docx</filepath>
+        <Paragraphs>W THIMBLE        PCE                          EYE BOTH ENDS TO MASTER LINK ASSY MT              TOTAL                      SOLICITANTE          GRUPO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELECTRODE-039PCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELECTRODE-039PCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>ELECTRODE-039PCE P/PACKLiebherr Werk Nenzing GmbH10573426</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELECTRODE-57PCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELECTRODE-57PCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>ELECTRODE-57PCE P/PACKLiebherr Werk Nenzing GmbH10573427</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SRPCEngineering</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SRPCEngineering</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>SRPCEngineering</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SRPCEngineeringRevisionHistoryRevEffectiveDateDescriptionPreparedby</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SRPCEngineeringRevisionHistoryRevEffectiveDateDescriptionPreparedby</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>SRPCEngineeringRevisionHistoryRevEffectiveDateDescriptionPreparedby 1.2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CPC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>ower CPC Polyester 99 Sawyer-T</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSIDPPSICPCASING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSIDPPSICPCASING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DSIDPPSICPCASING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSICPCASING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSICPCASING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DSICPCASING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

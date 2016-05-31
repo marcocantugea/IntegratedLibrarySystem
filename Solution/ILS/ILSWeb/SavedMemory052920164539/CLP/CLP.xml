@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CLPU 50/51 74</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLPUs10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLPUs10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Pick-up threshold CLPUs10 to 100% of In</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLPUs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>define the time before activation Tcold and the pick-up threshold CLPUs</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLPU-1-120</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLPU-1-120</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CLPU-1-120 T </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>7CLPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>7CLPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>7CLPU 50/51 global action setting0 = blocking</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>33CLPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>33CLPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>33CLPU 50N/51N global action setting0 = blocking</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MCLPBH9F</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MCLPBH9F</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>nt   Subconn    MCLPBH F        V   Video Screen           Camera Power         Video Core         N C         N C         Pan     Exposure Control   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\35524-MSDS-BABA HYSO Aerosol Surface Disinfectant_for Kimberly Clark Professional.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Isopropanol  Isopropyl alc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-06070-MSDS-BABA_KIMTECH PURE CL-4 PreSat Wipes.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Numerical Measures of Toxicity    Isopropanol  Iso</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-11047-MSDS-BABA_KIMCARE INDUSTRIE NTO.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-11047-MSDS-E_SP_KIMCARE INDUSTRIE NTO.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12369-MSDS-BABA_SCOTT Continuous Air Freshener_Natural Refill.pdf</filepath>
+        <Paragraphs>by IARC, NTP, US OSHA or the EU CLP Annex VI. Reproductive Toxicity:  Ethanol has been found to cause adverse reproductive effects in </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12369-MSDS-E_SP_SCOTT Continuous Air Freshener_Natural Refill.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12370-MSDS-BABA_SCOTT Continuous Air Freshener_Summer Fresh.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   No data is currently avail</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12370-MSDS-E_SP_SCOTT Continuous Air Freshener, Summer Fresh.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-BABA- KLEENEX Alcohol Free Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Benzalkonium Chloride  LD   oral rat     mg kg    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-BABA.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Benzalkonium Chloride  LD   oral rat     mg kg    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-E_SP - KLEENEX Alcohol Free Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-14551-MSDS-BABA_Lens Cleaning Towelette.pdf</filepath>
+        <Paragraphs>by IARC, NTP, US OSHA or the EU CLP Annex VI. Reproductive Toxicity:  2-Butoxyethanol has been found</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-14551-MSDS-E_SP_Lens Cleaning Towelette.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-29388-MSDS-BABA_KLEENEX Cool Touch Facial Tissue.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-29388-MSDS-E_SP_KLEENEX Cool Touch Facial Tissue.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-30760-MSDS-BABA SCOTT Disinfectant Wipes.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-30760-MSDS-E_SP SCOTT Disinfectant Wipes.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-30893-MSDS-BABA_KLEENEX Anti-Viral Facial Tissue.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Patch testing does not ind</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-30893-MSDS-E_SP_KLEENEX Anti-Viral Facial Tissue.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33330-KIMTECH PURE W4 Critical Dry Wipers-MSDS-BABA.9.29.12.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   No data available     ECOL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33330-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33977-MSDS-BABA_LiveWell Clean_Refill.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No data is currently available  Acute Toxicity Values   Product  Oral LD    rat       mg kg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33977-MSDS-E_SP_LiveWell Clean_Refill.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33979-MSDS-BABA KLEENEX Natural Hands and Face Wipes.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33979-MSDS-E_SP KLEENEX Natural Hands and Face Wipes.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34622-MSDS-BABA_KIMTECH SCIENCE KIMWIPES Lens Cleaning Station Solution.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Isopropanol  Isopropyl alc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34622-MSDS-E_SP_KIMTECH SCIENCE KIMWIPES Lens Cleaning Station Solution.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34700-MSDS-E_SP Kleenex® Ultra Moisturizing Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35362-MSDS-BABA_KLEENEX Moisturizing Hand and Body Lotion.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat     g kg Based on an asses</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35362-MSDS-E_SP_KLEENEX Moisturizing Hand and Body Lotion.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35364-MSDS-BABA_SCOTT Skin Relief.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat         mg kg Based on an </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35364-MSDS-E_SP_SCOTT Skin Relief.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35464-MSDS-BABA_SCOTT Surface Wipes.pdf</filepath>
+        <Paragraphs>by IARC, NTP, US OSHA or the EU CLP Annex VI. Reproductive Toxicity:  None currently known.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35464-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35524-MSDS-BABA HYSO Aerosol Surface Disinfectant_for Kimberly Clark Professional.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Isopropanol  Isopropyl alc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35524-MSDS-E_SP  HYSO Aerosol Surface Disinfectant_for Kimberly Clark Professional.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-36700-MSDS-BABA SCOTT 24 Hour Sanitizing Spray.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-36700-MSDS-E_SP  SCOTT 24 Hour Sanitizing Spray.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_001.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_French.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_French_001.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_Spanish.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_Spanish_001.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41859-00-MSDS-BABA_SCOTT Naturally Tuff Orange Hand Cleanser with Grit.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41859-00-MSDS-BABA_SCOTT Naturally Tuff Orange Hand Cleanser with Grit_001.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41859-00-MSDS-E_SP_SCOTT Naturally Tuff Orange Hand Cleanser with Grit.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41859-00-MSDS-E_SP_SCOTT Naturally Tuff Orange Hand Cleanser with Grit_001.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58028-MSDS-BABA SCOTT Hand Wipes.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58028-MSDS-E_SP  SCOTT Hand Wipes.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58040-MSDS-BABA KIMTECH PREP Surface Sanitizer Wipe.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat         mg kg </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58040-MSDS-E_SP  KIMTECH PREP Surface Sanitizer Wipe.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58310-04-MSDS-BABA WypAll Waterless Cleaning Wipes, SCOTT Pro Heavy Duty Cleaning Wipes.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58310-04-MSDS-E_SP WypAll Waterless Cleaning Wipes, SCOTT Pro Heavy Duty Cleaning Wipes.pdf</filepath>
+        <Paragraphs>CLP Anexo VI. Toxicidad a la reproducción:  No se </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91045-04-MSDS-BABA_SCOTT Naturally Tuff Orange Skin Cleanser with Grit.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91045-04-MSDS-E_SP_SCOTT Naturally Tuff Orange Hand Cleanser with Grit.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91072-MSDS-BABA_SCOTT Continuous Air Freshener_Ocean.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   No data is currently avail</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91072-MSDS-E_SP_SCOTT Continuous Air Freshener_Ocean.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91175-MSDS-BABA.12.22.12.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91175-MSDS-E_SP.12.22.12.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91241-MSDS-BABA_SCOTT TRIANGLE Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91241-MSDS-E_SP_SCOTT TRIANGLE Lotion Sklin Cleanser.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91298-MSDS-BABA Scott Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs> CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg Based on an assessment </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91298-MSDS-E_SP_Scott Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91300-MSDS-BABA SCOTT Pink Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat     g kg     ECOLOGICAL IN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91300-MSDS-E_SP  SCOTT Pink Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91339-MSDS-BABA KLEENEX Hair and Body Wash.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg Based on an a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91339-MSDS-E_SP  KLEENEX Hair and Body Wash.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91388-05-MSDS-BABA_SCOTT Super Duty Skin Cleanser with Grit.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   No adverse effects on reproduction are known  Acute Toxicity Values   Product  Oral LD    rat   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91388-05-MSDS-E_SP_SCOTT Super Duty Skin Cleanser with Grit.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91441-MSDS-BABA_SCOTT White Satin Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product estimated oral toxicity      g kg     ECOL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91547-MSDS-BABA KLEENEX Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg Based on an a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91547-MSDS-E_SP KLEENEX Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91553-MSDS-BABA_KLEENEX Foam Hair and Body Wash.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91553-MSDS-E_SP_KLEENEX Foam Hair and Body Wash.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-BABA.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-BABA_KLEENEX Antibacterial Foam Skin Cleanser_0.5 Triclosan_KIMCARE.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-E_SP_KLEENEX Antibacterial Foam Skin Cleanser_0.5 Triclosan_KIMCARE.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91556-MSDS-BABA KLEENEX® Gentle Lotion Skin Cleanser, KIMCARE GENERAL.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat     g kg     ECOLOGICAL IN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91556-MSDS-E_SP KLEENEX Gentle Lotion Skin Cleanser_KIMCARE GENERAL.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91590-MSDS-E_SP_KLEENEX® Moisturizing Foam Hand Sanitizer KLEENEX® Luxury.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91591-MSDS-BABA.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91591-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91592-MSDS-BABA KLEENEX Foam Skin Cleanser with Moisturizers.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91592-MSDS-BABA KLEENEX Foam Skin Cleanser with Moisturizers_001.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91592-MSDS-E_SP KLEENEX Foam Skin Cleanser with Moisturizers.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91595-MSDS-BABA_KLEENEX E-2 Foam Skin Cleanser.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91595-MSDS-E_SP_KLEENEX E-2 Foam Skin Cleanser.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91726-MSDS-BABA_SCOTT Hair and Body Wash.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   Product  Oral LD    rat        mg kg Based on an a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91726-MSDS-E_SP_SCOTT Hair and Body Wash.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-92519-MSDS-BABA_SCOTT ULTRA-KIND Clear Gentle Skin Cleanser.pdf</filepath>
+        <Paragraphs> OSHA or the EU CLP Annex VI  Reproductive Toxicity   None currently known  Acute Toxicity Values   No data is currently available      ECOLOGICAL INF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-92519-MSDS-E_SP_SCOTT ULTRA-KIND Clear Gentle Skin Cleanser.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93040-MSDS-E_SP  KLEENEX Instant Hand Sanitizer_62 percent Alcohol_KIMCARE Instant.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93044-MSDS-E_SP Scott Moisturizing Instant Hand Sanitizer.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93047-MSDS-E_SP_KLEENEX Moisturizing Instant Hand Sanitizer_KIMCARE.pdf</filepath>
+        <Paragraphs>la Salud Ocupacional) de UE CLP </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TCLP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_HandGelCleaner.pdf</filepath>
+        <Paragraphs>under RCRA, CERCLA, or CWA. Analysis by TCLP (Toxicity</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>CERCLA, o CWA.  Los análisis de TCLP (Toxicity </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CrystalFoam.pdf</filepath>
+        <Paragraphs>CWA. Los análisis según TCLP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_RigWash.pdf</filepath>
+        <Paragraphs>TCLP (Toxicity Characteristic Leaching Procedure-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLPL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLPL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>CLPL = Example: Determine </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CLPL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>CLPL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

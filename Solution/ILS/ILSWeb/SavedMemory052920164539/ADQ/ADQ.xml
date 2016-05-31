@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ADQUISICIONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADQUISICIONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>    PROGRAMA DE ADQUISICIONES Y REGISTROS POR ETAPA                                                                                       PROGRAMA DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADQUIRIERAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADQUIRIERAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>DA PARA QUE SE  ADQUIRIERAN LOS CALENTADORES  SOLARES DE AGUA   NICAMENTE CON LOS FABRICANTES ESTABLECIDOS EN M XICO      POSTERIORMENTE SE PERMITI  A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADQUIRIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADQUIRIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>ES DE VIVIENDA  ADQUIRIR EQUIPOS IMPORTADOS DE CHINA EN BASE  SOLAMENTE A SU BAJO PRECIO  SIN VALORAR SU FUNCIONALIDAD  SU RENDIMIENTO  LA CALIDAD Y S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEADQUARTERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEADQUARTERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs> HOUSTON CORPORATE HEADQUARTERS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEADQUARTERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs> HOUSTON CORPORATE HEADQUARTERS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BKS1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKS1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>EN ISO 20345: 2011 S3 HRO SRC Sizes 38-47                 Bacou Super Boot BKS1 HRO S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKS1P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKS1P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>EN ISO 20345: 2011 S1 HRO SRC Sizes 38-47 Bacou Super Boot BKS1P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

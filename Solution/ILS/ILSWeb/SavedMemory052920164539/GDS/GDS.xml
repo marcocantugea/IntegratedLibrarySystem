@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GDS102</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GDS102</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Echo sounder, Skipper GDS102 [transducer in each HIPAP room of pontoon]. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GDS102</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ounder  Skipper GDS     transducer in each HIPAP room of pontoon          Doppler speed log  Skipper DL     transducer in port side HIPAP room        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>l       SKIPPER GDS        Located at       CCR    Recorder       YES        Current Indicator        Make Model       SONARDYNE      USBL  LUSBL    L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>l       SKIPPER GDS        Located at       CCR    Recorder       YES        Current Indicator        Make Model       SONARDYNE      USBL  LUSBL    L</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TGDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TGDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>motor. TGDS is theoretically higher when using the shorter Mach 1.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

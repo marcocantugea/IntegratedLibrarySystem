@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AFRICAFKI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>e-mail: sales@marelli-ce.fki-et.comSOUTH AFRICAFKI Rotating Machines (Pty) Ltd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>e-mail: sales@marelli-ce.fki-et.comSOUTH AFRICAFKI Rotating Machines (Pty) Ltd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>e-mail: FKI_EA@froudehofmann.deSOUTH AFRICAFKI Rotating Machines (Pty) Ltd</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> TOWER CLIMBING AFK HARNESS With Nomex      Kevlar         ber web  back web loop     PVC coated aluminum front and side D rings   locking quick conne</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

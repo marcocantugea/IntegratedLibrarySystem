@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BCMRMXMM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+        <Paragraphs>    Switf code: BCMRMXMM   706F49DC-01DF-4ABB-8059-710945B8F5B0  CERTIFICADO EMISOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Invoicing\Factura de clientes 19014.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Invoicing\Factura de clientes 19015.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Invoicing\Factura de clientes 19019.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Invoicing\Factura de clientes 19017.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Invoicing\Factura de clientes 19018.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BCMRMXMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>Clabe: 012052001368220295    Switf code: BCMRMXMM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABCMaterial</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABCMaterial</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Big_Blue_Bowl_Cleaner_ABC_msds.pdf</filepath>
+        <Paragraphs> ABCMaterial Safety Data Sheet Section   Chemical Product   Company Information Emergency Contact   Spill Release                  Information Number </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ATP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT02\Organización para Emergencias.docx</filepath>
+        <Paragraphs>Descanso        ATP  En Descanso         Equipo Contraincendio No        Estaci n Contraincendio   UHF CH      Operador de Gr a  En Descanso     Asist</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>ItemPart NumberDescriptionQtyU/MRev03123362 ATP FS21 X 60 HDLG/TEST TOOL  0.00EA A </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ATP222S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATP222S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014 cubierta.pdf</filepath>
+        <Paragraphs>ATP222S  FALTA BARANDAL A CONTENEDOR DE ATP222S  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATP222S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\09 CUBIERTA PPAL  22  00 .pdf</filepath>
+        <Paragraphs>BUENA COORDINACION Y  DESEMPE321O DE LOS TRABAJADORES ATP222S EN LAS TAREAS  QUE LES SON EN-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATP222S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\11 contenedor de ATP'S.pdf</filepath>
+        <Paragraphs>  CONTENEDOR DE ATP   S           HRS JULY    th      SE OBSERVA EN UN AREA LIMPIA Y ORDENADA  CON LAS HERRAMIENTAS Y EQUIPOS CLASIFICADAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ATP222s</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATP222s</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\01BOP's skids deck.pdf</filepath>
+        <Paragraphs>NTENEDOR DE ATP222s EN ORDEN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MATP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MATP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>MATP initial = 5586 psi   -  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

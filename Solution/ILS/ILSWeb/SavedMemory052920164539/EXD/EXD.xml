@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EXDCESI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXDCESI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15310-HYH-0472DRILLINGRT GEAR LOCK OFF1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0711-M 24DC NG6  EXDCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EEXDCESI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EEXDCESI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15410-HYH-0475DRILLINGPS DOWN ON/OFF VALVE1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0751/2-M 24DC NG6 EEXDCESI 02 ATEX 014&lt;Ex&gt; II 2 G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EEXD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EEXD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>Mountingplate BX&amp;Rotator EEXD 24V/DC ATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEXD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>Mountingplate BX&amp;Rotator EEXD 24V/DC ATOS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DYNAPLEXDYNAPLEX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DYNAPLEXDYNAPLEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>ECTION    HOOKS DYNAPLEXDYNAPLEX HOOKS                                                                                                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DYNAPLEXDYNAPLEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>ECTION    HOOKS DYNAPLEXDYNAPLEX HOOKS                                                                                                                </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

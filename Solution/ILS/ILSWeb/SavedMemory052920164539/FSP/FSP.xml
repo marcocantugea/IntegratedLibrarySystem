@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSPRING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSPRING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>LE A FSPRING A RM A TURE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FSP019-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSP019-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>FSP019-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FSP019-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSP019-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>FSP019-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2ORFSORFSPN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2ORFSORFSPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>yellow platedsuffix needed)4RHDMLOSNBR Tube 1Tube 2ORFSORFSPN (bar)1)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

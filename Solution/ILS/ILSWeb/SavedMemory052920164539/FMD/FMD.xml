@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>Inspection      FMD      Flooded Member Detection      GVI      General Visual Inspection      IMS      Integrated Management System      LARS      La</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMDPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMDPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ating pressure  FMDPP  Final maximum drillpipe pressure  FP  Formation pressure  ft  Foot  gal  Gallon  gpm  Gallons per minute  HP  Hydrostatic press</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMDPPpsi</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMDPPpsi</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>lpipe Pressure  FMDPPpsi   FMDPPpsi   FITpsi     KMHPpsi  S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

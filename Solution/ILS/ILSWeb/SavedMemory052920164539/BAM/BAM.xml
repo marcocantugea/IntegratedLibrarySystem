@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BAM06</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAM06</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>ype      Mako   BAM       Locations   outlets at location        Drill Floor            Sack Store          BOP            Cellar Deck           Cemen</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAMBOO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAMBOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>EALTHTECH256 BAMBOO LINING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAMBOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011919_Fragrance_Collection_by_Glade_Reed_Diffuser_Lotus_Bamboo.pdf</filepath>
+        <Paragraphs> GLADE® - SCENTED REED  DIFFUSER - LOTUS BAMBOO Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RIBAMAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RIBAMAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>  ATTN: JOSE RIBAMAR AT jribamar@odebrecht.com  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIBAMAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>JOSE RIBAMAR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIBAMAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>JOSE RIBAMAR  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RIBAMAR-MATERIALS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RIBAMAR-MATERIALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>   ATTN: JOSE RIBAMAR-MATERIALS COORDINATOR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIBAMAR-MATERIALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>   ATTN: JOSE RIBAMAR-MATERIALS COORDINATOR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIBAMAR-MATERIALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>   ATTN: JOSE RIBAMAR-MATERIALS COORDINATOR  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BUBBLEPLANTBubble</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUBBLEPLANTBubble</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>BUBBLEPLANTBubble</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPRESSORINBUBBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPRESSORINBUBBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COMPRESSORINBUBBLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUBBLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUBBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>BUBBLES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUBBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DRK-94308.pdf</filepath>
+        <Paragraphs>MATERIAL SAFETY DATA SHEET  ANTIBACTERIAL SCRUBBING BUBBLES BATHROOM CLEANER   1. PRODUCT AND COMPANY IDENTIFICATION   Product name:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUBBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Scrubbing_Bubbles_Aersol_7207_msds.pdf</filepath>
+        <Paragraphs>erial SCRUBBING BUBBLES Bathroom Cleaner  NFPA  Personal protective equipment        Version Number      Health     Preparation date              Reac</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUBBL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUBBL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004729_Scrubbing_Bubbles_Fresh_Brush_Toilet_Cleaner.pdf</filepath>
+        <Paragraphs>Trade name : SCRUBBING BUBBL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUBBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUBBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>INDICATED BY ACCEPTANCE OF THIS DOCUMENT.   INDICATES REFERENCE TO A BOM BUBBLE NUMBER.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

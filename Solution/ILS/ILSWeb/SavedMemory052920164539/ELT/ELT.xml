@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SHELTERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHELTERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SHELTERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUELTOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUELTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\09 Cuarto de Tuberias M 217.pdf</filepath>
+        <Paragraphs>CABLES SUELTOS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\07 FEB 2014 .pdf</filepath>
+        <Paragraphs>     MATERIALES SUELTOS CON RIESGO DE CAER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\29 MAR 2014 Drill floor   22 00.pdf</filepath>
+        <Paragraphs>SE OBSERVA TAPETES SUELTOS FALTA DE ORDEN Y LIMPIEZA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUELTAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUELTAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\03 FEB 2014 COLUM. POPA ESTR .pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR      COLUMNA Y PONTONES BABOR  03 DE FEBRERO DEL 2014 PIEZAS SUELTAS CON EL RIESGO DE  CAERLE A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\23 Starboard Pipe rack.pdf</filepath>
+        <Paragraphs>PARTES SUELTAS SOBRE CAJAS DE EEQUIPOS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\12 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>BLOCKING ACCESS TO HANDLE VALVE EXTINTORES CONTRAINCENDIO BLOQUEADOS POR PARRILLA SUELTA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\08 June 2014  ACCIONES CORREGIDAS.pdf</filepath>
+        <Paragraphs>REJILLA SUELTA EN ACCESO A WINCHES DE REMOL-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\18.- nuevos talleres.pdf</filepath>
+        <Paragraphs>ANDAMIO INSEGURIOLAMPARA SUELTA CON RIESGO DE CAER FALTA ORDEN Y LIMPIEZA AREA  CON AMBIENTE  ALTAMENTE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\07 SHAKER ROOM.pdf</filepath>
+        <Paragraphs>VENTANILLA DE CAJA DE ERA  SUELTA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUELTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUELTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\14 THRUSTER ROOM #4.pdf</filepath>
+        <Paragraphs>MATERIAL SUELTO SOBRE EQUIPO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\03 Air Compressor Room.pdf</filepath>
+        <Paragraphs>PEDAZO DE AISLAMIENTO SUELTO SOBRE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUELTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\01.- Drill floor Heavy tool store.pdf</filepath>
+        <Paragraphs>FALTA DE ORDEN, MATERIAL SUELTO Y SIN ASEGURAR EN EL PISO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REVUELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REVUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\03 cement room .pdf</filepath>
+        <Paragraphs>BASURA REVUELTA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REVUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\07 SHAKER ROOM.pdf</filepath>
+        <Paragraphs>h        BASURA REVUELTA Y FUERA DE CONTENEDOR CORRESPONDIENTE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>690  7 BELT 4-3VX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0042HINGED BELT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>690  7 BELT 4-3VX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>BELT XPB 2240 60 Hz</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>        DERRICK BELT With tongue buckle  attachment     Large    Harnesses sold separately           EXOFIT NEX       OIL   GAS HARNESS     D ring ext</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>BELT With pass-thru attachment </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>                BELT Miners Small W Braces Snap      D                BELT Miners Medium W Braces Snap      D                BELT Miners Large W Brace</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>38Hearing Protection BELT CLIP A simple and convenient solution for attaching earmuffs to a belt or pocket when not in use. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>CHECKING THE WIRE ROPE OR SLING BELT DAMAGE. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB034 - Removing DATs Load Ring from Telescopic Joint R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>MAN ON A RIDING BELT IF THE LOAD RING IS AWASH IN WAVES        The Subsea Engineer will supervise the lowering of the Assistant Subsea Engineer down t</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VUELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>y  VUELTA  T351cnico Inspector en </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs>    SWITCH  OIL DELTA P      A                     SCREW                           ADAPTER                           TUBE  OIL DELTA P                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> DELTA      COMFORT HIP PAD Improved ergonomic    t constructed with  a soft  breathable  comfortable interior  that supports your back and hips  TECH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>01655C  Large DELTA   þCROSSCROSS - þOVEROVER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>FORGED STEEL DELTA RAPIDE, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TUNNELTHRUSTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TUNNELTHRUSTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1156176-HS-014LOCAL MANUAL RELEASE BOX /INERGEN 6SPIPE TUNNELTHRUSTER ROOM 4PONTOON3026DA961E011-TYCO-Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>V-BELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>V-BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>V-BELT XPB 2360</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEAT-BELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEAT-BELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>rk comfort    D SEAT BELT      Small D rings    designed for    Cynch Lok       fall restrict    device    S shaped large full       oating D rings  f</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>tion    LINEMAN BELTS Designed BY Linemen  FOR Linemen    Model Shown         XX     LINEMAN BELTS AND HARNESSES             EXOFIT NEX         SUSPEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>BELTS    1113688 þCC   þ  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-UTILITY-SL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-UTILITY-SL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-UTILITY-SL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-UTILITY-XL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-UTILITY-XL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-UTILITY-XL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-DRLOOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-DRLOOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-DRLOOP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-DRLOOP-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-DRLOOP-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-DRLOOP-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-TRLOOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-TRLOOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-TRLOOP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-TRLOOP-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-TRLOOP-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-TRLOOP-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-COMFORT-S-M</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-COMFORT-S-M</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-COMFORT-S-M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-COMFORT-L-XL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-COMFORT-L-XL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-COMFORT-L-XL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELT-COMFORT-2X-3X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELT-COMFORT-2X-3X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BELT-COMFORT-2X-3X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>ELT 231 þ    þ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ELT FEATURES &amp; BENEFITS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELTA231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELTA231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>ELTA231  þCONSTRCONSTR U þCTIONCTION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELTA231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELTA231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>niversal Size) DELTA231 þ   þ   þ   þ   þ   þFF U þLLLL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>ELTA 231  þVESTVEST - þSTYLESTYLE   þHARNESS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ELTA FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENVUELTAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENVUELTAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>BOTE CON 100 TOALLITAS ENVUELTAS INDIVIDUALMENTE PN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IRBELT256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IRBELT256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>IRBELT256 A SIMPLE AND EFFECTIVE PARTICLE FILTRATION SYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELTASAFE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELTASAFE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>DELTASAFE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MELTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MELTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\10 Percent Sterilizing Gas Mixture of CH2CH2O and CO2 SDS P4705.pdf</filepath>
+        <Paragraphs>Not applicable.  MELTING POINT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MELTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CDC5703735061.pdf</filepath>
+        <Paragraphs>MELTING POINT:  Not applicable</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MELTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\COVER_GIRL_EYE_ENHANCERS_-_BLAZING_WHITE_92081317_PGNA_EN_9-20-13.pdf</filepath>
+        <Paragraphs>Eye Enhancers   MELTING CARAMEL            Cover Girl Eye Enhancers   SCORCHING COCOA            Manufacturer  The Procter   Gamble Company        Yor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MELTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>                MELTING PT         F                                         SECTION    FIRE AND EXPLOSION HAZARD DATA                     FLASH POINT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MELTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sani-Fresh_Hand_Cream_09031_msds.pdf</filepath>
+        <Paragraphs>MELTING POINT:Not applicable</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MELTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stargon Gas Blends Mixture of Ar O2 and CO2 Safety Data Sheet SDS P6304.pdf</filepath>
+        <Paragraphs>Not applicable.  MELTING POINT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14FELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14FELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>14FELT (AIR DAM)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FELT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FELT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>RESISTANCE IS FELT FROM THE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRGELTETCSSEENGOther</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRGELTETCSSEENGOther</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>BRGELTETCSSEENGOther</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CRM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>CRM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRMMale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRMMale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>logue        UK CRMMale thread elbowMale NPTF  thread  SAE J       Male NPTF  thread  SAE J    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

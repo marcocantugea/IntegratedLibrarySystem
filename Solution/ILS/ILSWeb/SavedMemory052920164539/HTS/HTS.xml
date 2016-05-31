@@ -1,0 +1,373 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SKYLIGHTSWITHEQUIPMENTAll</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SKYLIGHTSWITHEQUIPMENTAll</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>SKYLIGHTSWITHEQUIPMENTAll</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COUNTERWEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COUNTERWEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COUNTERWEIGHTS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>gp41SEARCHLIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>gp41SEARCHLIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>gp41SEARCHLIGHTS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\26 Galley dry storepub.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     GALLEY DRY STORE 10:00 HRS JUN 26th, 2014SOME FREZZER222S LIGHTS ARE BLOWN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\09 STBD AFT COLUMN.pdf</filepath>
+        <Paragraphs>2 LIGHTS DAMAGED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\17. Botes Salvavidas (Life Boats)\17.3 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\SRV727.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.1 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.2 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.4 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.5 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.6 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.7 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.8 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.9 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\17. Botes Salvavidas (Life Boats)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\life boat\37 WO.pdf</filepath>
+        <Paragraphs>NAVIGATION LIGHTS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIGHTSHIP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIGHTSHIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>LIGHTSHIP DATA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTSHIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  LIGHTSHIP WEIGHT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTSHIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>last            LIGHTSHIP DATA              Inclining experiment data              Variable deck load   payload limits              Lightship revision</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTSHIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>45047.7 A PCPCWM_4828539:WP_0000045WP_0000045 APCPCWM_4828539:WP_0000045WP_0000045  9. SUMMARY OF LIGHTSHIP WEIGHTITEM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTSHIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>LIGHTSHIP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIGHTSHIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>1 m LIGHTSHIP  1,704 LT. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>WEIGHTS AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>P TENSION  WHAT WEIGHTS ARE USED      BOP WEIGHT    LMRP  WEIGHT    RISER WEIGHT   MUD WEIGHT    LMRP WEIGHT   RISER WEIGHT   MUD WEIGHT    LMRP WEIGH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>WEIGHTS AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>WEIGHTS AND OVERALL DIMENSIONS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>WEIGHTS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>204WEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>204WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>(see the chapter 204WEIGHTS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>204WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>(see the chapter 204WEIGHTS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>223WEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>223WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>223WEIGHTS AND OVERALL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>223WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>223WEIGHTS AND OVERALL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>LASS        BHP AHTS FLAG  United States SOLAS  Full USCG  USCG Sub L  OSV  ABS  A  AMS  Solas YEAR BUILT       OFFICIAL NUMBER          RADIO CALL SI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>214WEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>214WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>(see the chapter 214WEIGHTS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>215WEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>215WEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>215WEIGHTS AND OVERALL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Antibacterial_800_mil_HOS80807_msds.pdf</filepath>
+        <Paragraphs>HIGHLAND HEIGHTS OH 44143  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Soap_Antibac_800ml_Clear_80807_msds.pdf</filepath>
+        <Paragraphs>HIGHLAND HEIGHTS OH 44143  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA TRABAJO CON BALZO Y CANASTILLA.docx</filepath>
+        <Paragraphs>CLEANUP WORK AT HEIGHTS     Page   P gina          OF  De          TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPTION   Resu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA TRABAJO LIMPIEZA EN ALTURAS.docx</filepath>
+        <Paragraphs>CLEANUP WORK AT HEIGHTS     Page   P gina          OF  De          TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPTION   Resu</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Prolex HTS-310 MSDS English.pdf</filepath>
+        <Paragraphs>HTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0088 NOV Hydratong ET\Sales Order Acknowledgement 712022KRS1 ~07252011033920.pdf</filepath>
+        <Paragraphs>Total Sales Order:  712022KRS1$14.059,25"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>Total Sales Order:  714990$1.040,57"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>Total Sales Order:  715004$26.605,53"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>Total Sales Order:  714848$20.547,22"DISCLAIMER: All ECCN and HTS classification information received from National Oilwell Varco (NOV)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>811HTSuction</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>811HTSuction</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>   88 Series - pg. B-197. 811HTSuction and Return Line 226 High-Temperature </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Copyrighted as an unpublished work. All RIGHTS RESERVED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>All RIGHTS RESERVED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs> RIGHTS WHICH VARY FROM STATE TO STATE AND COUNTRY TO COUNTRY  Obtaining Technical SupportIf you experience problems with the setup or use of your pri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI Spec Tec.pdf</filepath>
+        <Paragraphs>           USER RIGHTS FOR THE SFI GROUP SYSTEM   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>CPROPRIETARY RIGHTS INVOLVEDTHIS DOCUMENT AND ALL ACCOMPANYING INFORMATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HTSLH90</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTSLH90</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>2 3/8 HTSLH90</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EIGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EIGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>EIGHTS  Baker </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IGHTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IGHTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>IGHTS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WEIGHTSTART</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEIGHTSTART</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>MAXIMUMWAIT &amp; WEIGHTSTART OF KICKGas Kick</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

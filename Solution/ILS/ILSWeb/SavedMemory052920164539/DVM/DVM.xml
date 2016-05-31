@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DVM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DVM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs>No Gas  25% Gas  50% Gas  DVM Reading  4.0mA  8mA  12mA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DVM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>No Gas  25% Gas  50% Gas  DVM Reading  4.0mA  8mA  12mA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

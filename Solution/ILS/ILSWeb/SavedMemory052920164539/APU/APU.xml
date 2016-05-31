@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>APUNTES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APUNTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\15 BRIDGE.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     COMMAND BRIDGE 10:00 HRS APRIL 15th 2014TABLERO (PIZARRON)  PARA APUNTES SIN TRINCAR, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APUNTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\02 BRIDGE.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     COMMAND BRIDGE             10:00 HRS MAY 02nd 2014TABLERO (PIZARRON)  PARA APUNTES SIN TRINCAR, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPUCHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPUCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\08 MAIN DECK PORT SIDE.pdf</filepath>
+        <Paragraphs>CILINDROS  SIN UTILIZAR, NO TIENEN CAPUCHA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAPUCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>ES DE SOLDADURA CAPUCHA DE SOLDADOR Esta capucha fabricada de estambre de vidrio  cabe sobre el  adaptador de soldadura para proteger la cabeza  el cu</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPUCHO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPUCHO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Quotation\81-2014 GRUPOP R  (2).pdf</filepath>
+        <Paragraphs>VULA CGA     Y  CAPUCHO DE PROTECCION                              Condiciones Comerciales             Condiciones de pago  Cr dito a      d as       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUILDLAPUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUILDLAPUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>BUILDLAPUMP HamworthyCENTRIFUGAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PULSANTIERAPUSHBUTTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PULSANTIERAPUSHBUTTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Green FRONTE PULSANTIERAPUSHBUTTON FRONT BOX FIRMA F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPUCHAConfeccionado</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPUCHAConfeccionado</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>O EN P V C  CON CAPUCHAConfeccionado en tela poli ster recubierta </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPUCHONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPUCHONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\22 CUARTO DE OXIGENO Y ACETILENO.pdf</filepath>
+        <Paragraphs>FALTA COLOCAR CAPUCHONES PARA ALGUNOS CILINDROS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LABYRINTH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LABYRINTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>NG LABYRINTH GEARBOX END</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LABYRINTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>NG LABYRINTH GEARBOX END</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ABY FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABYC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABYC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ABYC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

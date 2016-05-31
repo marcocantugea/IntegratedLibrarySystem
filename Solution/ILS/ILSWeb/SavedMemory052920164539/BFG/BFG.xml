@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BFG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BFG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BFG (10L-28L)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BFGStraight</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BFGStraight</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10 M78Catalogue 4100-7/UK Gear pump flanges BFGStraight flange connection EO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BFGGear</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BFGGear</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs> cone end BFGGear pump flange straightHydraulic flange / EO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

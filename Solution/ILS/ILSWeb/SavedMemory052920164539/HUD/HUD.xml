@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>2014MECHUDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014MECHUDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\23 Upper Pipe Deck.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   UPPER PIPE DECK 10:00 HRS APRIL 23rd 2014MECHUDO VIEJO SOBRE KIT DE DERRAMES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>I-HUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>I-HUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-366-sp_indpetrolera.pdf</filepath>
+        <Paragraphs>Receptor I-HUD con pantalla inal341mbrica de avisos importantes.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>I-HUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>M7 I-HUD Receiver Double-pull</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-366-sp_indpetrolera.pdf</filepath>
+        <Paragraphs>CBRN pieza facial Ultra Elite de Hycar y arn351s de kevlar Speed On, Sistema HUD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>245Control module and HUD display required </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>HUD Brigadista </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIVIANOHUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIVIANOHUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>casEQUIPO M   S LIVIANOHUD INAL   MBRICO CON RFI PROTECCI   NBAJO COSTO DEL MANTENIMIENTO DEL SCBASISTEMA DE AMPLIFICACI   N PARA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>alphaHUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>alphaHUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>alphaHUD in Ultra Elite mask</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>alphaHUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>TAGwriter alphaHUD in Ultra Elite maskalphaHUDUsing a non-distracting LED display at the perimeter of your field of</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>alphaHUDalphaSCOUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>alphaHUDalphaSCOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>alphaHUDalphaSCOUT At the core of the alpha electronic system is a unique  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>maskalphaHUDUsing</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>maskalphaHUDUsing</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>TAGwriter alphaHUD in Ultra Elite maskalphaHUDUsing a non-distracting LED display at the perimeter of your field of</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10086118alphaHUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10086118alphaHUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>cuation signal          alphaHUD  incl  battery  Leaflet                      Supplied Air Respirators  Monitoring Systems   alphaMITTER on AirMaXX ba</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

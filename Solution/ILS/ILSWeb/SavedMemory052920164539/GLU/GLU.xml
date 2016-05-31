@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GLUED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLUED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>   ITEM 6 TO BE GLUED TO THE HOUSING AND ITEM 7</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Quotation\PA-00743 LA MURALLA IV  Insp. Balsas (1er. Lote) 3027-14-1017.pdf</filepath>
+        <Paragraphs>   R       PZA  GLUE FOR REPAIR KIT                                                                                            R       PZA  VIKING SOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GLUCOSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLUCOSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Long_Lasting_Semi-Permanent.pdf</filepath>
+        <Paragraphs> DECYL GLUCOSIDE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GLUCOSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>DECYL GLUCOSIDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

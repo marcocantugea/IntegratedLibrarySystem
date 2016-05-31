@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PROTECTWith</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTWith</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>  Comfort HYDRO PROTECTWith the Bacou Original Speci   c range  Honeywell offers seven models dedicated to speci   c </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CTW501Car</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CTW501Car</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Car_&amp;_Truck_Wash_501P5_msds.pdf</filepath>
+        <Paragraphs>CTW501Car and Truck Wash</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CTW501Car</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Car_&amp;_Truck_Wash_501_msds.pdf</filepath>
+        <Paragraphs>CTW501Car and Truck Wash</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CTW501Car</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Truck_Wash_55 Gal_SP9503_msds.pdf</filepath>
+        <Paragraphs>CTW501Car and Truck Wash</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

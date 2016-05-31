@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SIAa</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SIAa</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  Item   Allocation   SIAa / Port1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SIAb</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SIAb</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  SIAb / Port1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEMASIADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEMASIADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\22 Jun Drawworks.pdf</filepath>
+        <Paragraphs>PASILLOS EST301N DEMASIADO GRASOSOS, NO SE HAN LIMPIADO DESDE EL ULTIMO TOUR  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QUALSIASI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QUALSIASI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>QUALSIASI CHIAVE O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>QUALSIASI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>QUALSIASI CHIAVE O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>QUALSIASI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>QUALSIASI CHIAVE O </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Quotation\VDR.pdf</filepath>
+        <Paragraphs>ASIA PACIFIC      Telok Blangah Road          Telok Blangah House  Singapore         Phone              Fax                  E mail  support maris sg </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>sizeSIAngular</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>sizeSIAngular</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>sizeSIAngular</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUSSIAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUSSIAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>RUSSIAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SSIAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SSIAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>SSIAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUSSIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUSSIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>RUSSIA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEMASIADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEMASIADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\24 Taller de soldadura.pdf</filepath>
+        <Paragraphs>TUBERIA MAL ALMACENADA ( DEMASIADA INCLINACION) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

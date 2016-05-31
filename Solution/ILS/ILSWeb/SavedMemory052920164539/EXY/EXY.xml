@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LEXY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEXY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>LEXY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEXYLENE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEXYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>HEXYLENE GLYCOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEXYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>HEXYLENE GLYCOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEXYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>HEXYLENE GLYCOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEXYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>HEXYLENE GLYCOL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEXYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>HEXYLENE GLYCOL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUTYLCYCLOHEXYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUTYLCYCLOHEXYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_Refresh_Winter_Frost.pdf</filepath>
+        <Paragraphs>s        TERT   BUTYLCYCLOHEXYL ACETATE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETHYLHEXYLGLYCERIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETHYLHEXYLGLYCERIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pampers_and_Luvs_Baby_Wipes_SDS.pdf</filepath>
+        <Paragraphs>ETHYLHEXYLGLYCERIN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

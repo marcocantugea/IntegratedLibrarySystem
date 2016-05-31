@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>APPENDIX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>     WP         APPENDIX D  La Muralla IV  DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>     WP         APPENDIX D  La Muralla IV  DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs>                APPENDIX A     LA MURALLA RESPONSE  AMPLITUDE OPERATORS                                                           Grupo   R   La Mural</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>Wear-resistant inner lining  178 APPENDIXES  8.1 APPENDIX A: PV- Open Body Assembled  1. Valve body 6. Allen screw </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs> APPENDIXA                                                    APPENDIX B                                                    INDEX                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>APPENDIX A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>    APPENDIX A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\IPC - Garbage Management Manual - Rev 04-2011.12.pdf</filepath>
+        <Paragraphs>APPENDIX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PPENDIX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  WP          A PPENDIX D  La Muralla IV  DAILY STABILITY RE P CASE FORM D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  WP          A PPENDIX D  La Muralla IV  DAILY STABILITY RE P CASE FORM D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>              A PPENDIX      T ECHNICAL  S UPPORT                                                                                                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>PPENDIX  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPENDIXES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDIXES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>Wear-resistant inner lining  178 APPENDIXES  8.1 APPENDIX A: PV- Open Body Assembled  1. Valve body 6. Allen screw </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NDIX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>           A PPENDIX      T ECHNICAL  S UPPORT                                                                                                       A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPENDIXA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDIXA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs> APPENDIXA                                                    APPENDIX B                                                    INDEX                     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPEKDIX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPEKDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Hydraulics.224 SPE Paper No. 3530. New Orleans. La.. 1971.  APPEKDIX  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

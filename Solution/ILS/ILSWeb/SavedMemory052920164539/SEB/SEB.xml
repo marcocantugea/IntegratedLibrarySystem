@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>					SEBO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>					SEBO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>     Make Type       SEBO TECH CO   LTD    Quantity          Portside and   Starboard side    Length          Meters     Feet     Horizontal          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>					SEBO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>     Make Type       SEBO TECH CO   LTD    Quantity          Portside and   Starboard side    Length          Meters     Feet     Horizontal          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LASEBRlKKE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LASEBRlKKE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LASEBRlKKE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LASEBRIKKE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LASEBRIKKE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LASEBRIKKE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>USEBack</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>USEBack</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>HOT WORK USEBack D-ring, Kevlar256  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>StackSEBV001W01Check</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>StackSEBV001W01Check</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\Outstanding maintenance\Outstanding maintenance May 2015.pdf</filepath>
+        <Paragraphs>StackSEBV001W01Check</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEBO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEBO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>27/09/12    Procedure No.3027-SQAP-UM-001  SEBO TECH CO.,LTD   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINERELEASEBUTTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINERELEASEBUTTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>KNOB  EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  VENTEDFOREENDTUBE MAGAZINERELEASEBUTTON MAGAZINEBOX MAGAZINEBOX SAFETY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLOSEBLOCKOPEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLOSEBLOCKOPEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>VENT  psi KEY CLOSEBLOCKOPEN MIX WATER TANK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

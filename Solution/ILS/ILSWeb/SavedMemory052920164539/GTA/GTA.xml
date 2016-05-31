@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>IRONINGTABLE558INS-IRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IRONINGTABLE558INS-IRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>IRONINGTABLE558INS-IRO  SFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GTA803Do</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GTA803Do</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>International GTA803Do not thin more than allowed by local </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GTA803</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GTA803</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>International GTA803</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>NEOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>GLOVES (PAIR) NEOX F/CAUSTIC MIXER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EOXH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EOXH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs> LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER ZLWK  HIW  ROO VHOHFWHG  QWHOOLJHQW  DLO    DUFRGH  KH  QWHOOLJHQW  DLO EDUFRGH LV QRZ XVHG E  WKH      L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOXH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs> LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER ZLWK  HIW  ROO VHOHFWHG  XSSRUWHG  DEHO  ULQWHUV  RVW  DEHO ULWHU  VHULHV SULQWHUV DQG DOO RI WKH  DEHO U</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

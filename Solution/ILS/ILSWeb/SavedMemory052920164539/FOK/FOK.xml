@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Closed Type, FOK 100 for AC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>   Closed Type  FOK     for AC    HHP Anchor        MBL        ton    Chaser Line    Anchor Chain    Dia     mm X    m  NV R  Stud link Chain with Swi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

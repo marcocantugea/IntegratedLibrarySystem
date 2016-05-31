@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>JOHNSON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>JOHNSON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>           E F  JOHNSON                               FM       LX            ZX                                  series     x           x     x       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>JOHNSON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Drilling\Drillfloor\Change out bails and elevators.docx</filepath>
+        <Paragraphs> print   JUSTIN JOHNSON           ASSESSOR s SIGNATURE S       DATE                        Full Name    Job Title    Signature    Full Name    Job Tit</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VLQJOH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VLQJOH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>WHG E  HLWKHU D VLQJOH EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ WKH WH W  I WKH WH W F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VLQJOH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>WHG E  HLWKHU D VLQJOH EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ WKH WH W  I WKH WH W F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

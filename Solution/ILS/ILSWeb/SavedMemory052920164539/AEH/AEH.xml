@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AEH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEHJWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEHJWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEHJWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEHJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEHJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEHJ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

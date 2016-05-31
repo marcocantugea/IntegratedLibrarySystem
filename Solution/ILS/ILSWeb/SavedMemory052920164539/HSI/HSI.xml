@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HSI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>a         HP    HSI    V  Anul     Efic     Trans    DEC    HP    Gasto    Camisa    g cm       cp    lb    ft       plg      psi     Bna    Bna    Hp</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>  DP       HP   HSI   Vol    anular   DEC   HP   Gasto   bna    g cm      cp     lb    ft        plg      psi    Bna   Bna      Hp plg      pies min  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>HSI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSI222s</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSI222s</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>Drilling Fluids And Hydraulics 21.What are the optimum HSI222s for PDC bit hydraulics in the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

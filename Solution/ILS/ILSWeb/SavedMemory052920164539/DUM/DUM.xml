@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>3653NewDUMMY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3653NewDUMMY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>3653NewDUMMY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>ISTEMA PUMP AND DUMP                                                                                            AN LISIS HIDR ULICO A      M          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INCERTIDUMBRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INCERTIDUMBRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>                INCERTIDUMBRE GEOL GICA                                                                                                               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>ISTEMA PUMP AND DUMP                                                                                            AN LISIS HIDR ULICO A      M          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DUMPED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUMPED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>1. BRAKE WON'T HOLD BRAKE SUPPLY PRESSURE NOT BEING DUMPED FROM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DUMPED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>1. BRAKE WON'T HOLD BRAKE SUPPLY PRESSURE NOT BEING DUMPED FROM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

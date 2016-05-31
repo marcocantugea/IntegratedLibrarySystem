@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AHJB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHJB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AHJB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFHJB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFHJB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AFHJB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEFHJB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEFHJB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEFHJB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HJB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HJB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>HJB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

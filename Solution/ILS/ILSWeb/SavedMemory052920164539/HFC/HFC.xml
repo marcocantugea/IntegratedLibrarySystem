@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HFC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HFC 245fa</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HFC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>HFC and HFD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HFC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Shell Clavus HFC 68</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HFC134A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFC134A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Refrigerant HFC134A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HFC-fluids</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFC-fluids</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Not suitable for corrosive and HFC-fluids or gases.Construction:Compact, maintenance-free construction, service-proved.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

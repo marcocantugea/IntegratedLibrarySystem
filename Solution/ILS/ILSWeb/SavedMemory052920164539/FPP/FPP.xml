@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>2xFPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2xFPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>2xFPP Steerprop</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CIM800datTFPP1505</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CIM800datTFPP1505</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\CIM800dat1505.pdf</filepath>
+        <Paragraphs>CIM800datTFPP1505 Australia</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

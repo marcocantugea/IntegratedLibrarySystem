@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HUELLA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUELLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08.L02 Guias de Operaciones Especificas en Pozo - WSOG NEEDS REVISED.docx</filepath>
+        <Paragraphs>ONFIGURACI N DE HUELLA DE ALARMA     Condition       Condiciones    Green    Advisory      Aconsejable    Yellow    Red    DP position footprint    mi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUELLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L02 WSOG NEEDS REVISED.docx</filepath>
+        <Paragraphs>ONFIGURACI N DE HUELLA DE ALARMA     Condition       Condiciones    Green    Advisory      Aconsejable    Yellow    Red    DP position footprint    mi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUELLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Presentacion Ley3D3.pdf</filepath>
+        <Paragraphs>BRE S   FIRMA   HUELLA  TWITTER       Opcional  CLAVE DE ELECTOR  CE    OCR   NO  EMISI N  NE     CE  NE  Instrucciones de llenado    Favor de utiliza</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HUECOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUECOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CAPITULO2.pdf</filepath>
+        <Paragraphs>e accesibilidad HUECOS DE PASOCondicionesPercepci nDiferenciaci n crom tica con el entornot cnicasMovilidadSuperficie horizontal de maniobra a ambos l</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HUELA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUELA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HojaSeguridadGasLP_v2007.pdf</filepath>
+        <Paragraphs>NO SE CONFIE, MIENTRAS HUELA A GAS, EXISTE UN FUERTE PELIGRO DE EXPLOSIÓN.  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

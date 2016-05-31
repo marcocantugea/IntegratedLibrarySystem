@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GEExdeIIBT3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEExdeIIBT3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>(0722    CESI) 0722II   2   GEExdeIIBT3 D5X series. -EN 50014</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GEExdeIIBT3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>(0722    CESI) 0722II   2   GEExdeIIBT3 D5X series. -EN 50014</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GEExd-IIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEExd-IIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs> GEExd IIC Cable Gland Inner Seal           HEExd IIC Cable Gland Inner Seal            LEExd IIC Cable Gland Inner Seal             MEExd IIC Cable G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-H2LBUNGEE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-H2LBUNGEE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-H2LBUNGEE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-H2LBUNGEE-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-H2LBUNGEE-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-H2LBUNGEE-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-H2LBUNGEEMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-H2LBUNGEEMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-H2LBUNGEEMD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STORAGEEYE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STORAGEEYE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs> HANDLING  AND  STORAGEEYE PROTECTION   Chemical splash goggles   Refer to    CFR          or European Standard EN    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STORAGEEYE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia_Shine_Aerosol_SS1_msds.pdf</filepath>
+        <Paragraphs> HANDLING  AND  STORAGEEYE PROTECTION   Chemical splash goggles   Refer to    CFR          or European Standard EN    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

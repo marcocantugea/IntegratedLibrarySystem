@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STANCHION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANCHION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>PIPE STANCHION (3.9m x 6ea/ 3.2m x 30ea/</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STANCHION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>3. STANCHION DAVIT ARM &amp; RECEPTACLE FOR I036BEAM MOUNTINGLynx Rescuer</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COPERCHIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COPERCHIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>PER COPERCHIO / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUSHIONED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUSHIONED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>emely durable   CUSHIONED SHOULDER PADS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIONED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIONED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>HIONED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ISETHIONATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ISETHIONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Xtreme_FX_Industrial_Blonde_Bleach_Powder.pdf</filepath>
+        <Paragraphs>SODIUM COCOYL ISETHIONATE 61789320 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>AHEEEHAPBFAJJPNECFMCDPIJEBMMACBCOHLNCOLIBPAHEEEHA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>	FMC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>	FMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>     Make Type   FMC    FIG      CWP WC     ID          Section length        m        ft     Quantity                      Section length       m    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>	FMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>     Make Type   FMC    FIG      CWP WC     ID          Section length        m        ft     Quantity                      Section length       m    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>    Make Type   FMC    FIG      CWP WC     ID          Section length        m        ft     Quantity                      Section length       m     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>    Make Type   FMC    FIG      CWP WC     ID          Section length        m        ft     Quantity                      Section length       m     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Lakach - Rig Assessment Rev 01 Comp  2.pdf</filepath>
+        <Paragraphs>   generation   FMC   Schilling     Robotics   HD   ROV     The   ROV   is   equipped   with   low   pr essure   pumps   at   high   volume   and   hi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

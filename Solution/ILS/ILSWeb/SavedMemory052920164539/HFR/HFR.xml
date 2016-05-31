@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HFRA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFRA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_Basin_Newsletter_4_Dec2010.pdf</filepath>
+        <Paragraphs>isk Assessment  HFRA   was carried out by Golder Associates  and is available at http   www santos  com library Roma Shallow Gas  EMP Appendix D secur</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENGLISHFRANCAISParker</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENGLISHFRANCAISParker</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DEUTSCH ENGLISHFRANCAISParker Hannifin GmbH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

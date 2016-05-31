@@ -1,0 +1,783 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>REPORT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RN-021.pdf</filepath>
+        <Paragraphs>  AKER MH AS   SERVICE REPORT FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>SERVICE REPORT FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>2.- DEFICIENCY REPORT WILL BE DONE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Column load above has its own 221STABILITY REPORT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L09 Reporte de Cambio de Turno - Shift Handover Report (11-Abr-12).doc</filepath>
+        <Paragraphs>a               REPORTE DE CAMBIO DE TURNO   SHIFT HANDOVER REPORT       MGT   L                                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\Job Description GRPMSA.pdf</filepath>
+        <Paragraphs>    REPORT TO        OPERATION   UNIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L09 SHIFT HANDOVER REPORT.doc</filepath>
+        <Paragraphs> SHIFT HANDOVER REPORT   REPORTE DE CAMBIO DE TURNO     MGT   L                                                                                    PAG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs> own  STABILITY REPORT FORM  see Section                     Variable deck   Column loads should be loaded and distributed in accordance with the foll</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\boom lacing 29-30.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT               GRUPO R TR     a                                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TechDiving NDT Report - ROV Davit OCt  2014 (3).pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT surface conditions  CLEANING temperature of the object      Customer  GRUPO R P O  Contract No  NOT WERE FOUND INSPECTED AREA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1433 MURALLA IV.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT GRUPO R TR       Date of examination    Customer P O  Contract No  TDS Report  No  Ship platform Location Drawing of Ref  Eleme</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT surface conditions NATURAL temperature of the object NA Customer  GRUPO R P O  Contract No  NA CLASS Report  No  NA     Type of</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT surface conditions NATURAL temperature of the object NA Customer  GRUPO R P O  Contract No  NA CLASS Report  No  NA     Type of</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT Date of examination            Customer  GRUPO R P O  Contract No  NA CLASS Report  No  NA     FROM X FROM Y FROM X FROM Y I F </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT Date of examination            Customer  GRUPO R P O  Contract No  NA CLASS Report  No  NA     FROM X FROM Y FROM X FROM Y     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT Date of examination            Customer  GRUPO R P O  Contract No  NA CLASS Report  No  NA     FROM X FROM Y FROM X FROM Y I F </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>REPORT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Port Crane Boom NDT.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT               GRUPO R TR     a                                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TR 1345a LA MURALLA IV.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT               GRUPO R TR     a                                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT GRUPO R TR                        REPORT No  TR      PROFESSIONAL DIVING  THICKNESS MEASUREMENT   NDT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT GRUPO R TR                        REPORT No  TR      PROFESSIONAL DIVING  THICKNESS MEASUREMENT   NDT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+        <Paragraphs>REPORT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+        <Paragraphs>REPORT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Tech Diving Dec 2014\PRELIMINARY REPORT 09-12-14.pdf</filepath>
+        <Paragraphs>TICS INSPECTION REPORT surface conditions NATURAL temperature of the object NA Customer  GRUPO R P O  Contract No  NA CLASS Report  No  NA     Type of</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\01.Mud Column Tanks Ps-Stb.pdf</filepath>
+        <Paragraphs>INTERNAL TECHNICAL REPORT   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>SURANCE COATING REPORT     COMPILED  BY   DATE     J Michie                CLIENT JOB  N O                   E   BLAST JOB  NO             CLIENT    O</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>REPORT ANY PROBLEMS FOUND TO YOUR SUPERVISOR.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>                REPORT ANY PROBLEMS FOUND TO YOUR SUPERVISOR Page    of     Maintenance Work OrderCLEA    Clean BOP HPU filters</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder.pdf</filepath>
+        <Paragraphs>port CHEM ALERT REPORT    IDENTIFICATION OF THE MATERIAL AND SUPPLIER   Ward Road  East Rockingham  WA  AUSTRALIA                                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder_001.pdf</filepath>
+        <Paragraphs>port CHEM ALERT REPORT    IDENTIFICATION OF THE MATERIAL AND SUPPLIER   Ward Road  East Rockingham  WA  AUSTRALIA                                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs> 3. GE TEST REPORT      S/N TT06010572 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SERVICEPOINT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SERVICEPOINT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RN-021.pdf</filepath>
+        <Paragraphs>  SERVICEPOINT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542 PT012 F01 - Lista de Verificación Diaria Grua Articulada - Daily Checklist  (9-Jun-15).doc</filepath>
+        <Paragraphs>NES DEBER N SER REPORTADAS INMEDIATAMENTE AL JEFE DE OFICIALES  ALL DAMAGES  PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO CHIEF OFFICER  No </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542 PT012 F01 - Lista de Verificación Diaria Grua Articulada - Daily Checklist  (9-Jun-15).doc</filepath>
+        <Paragraphs> BE IMMEDIATELY REPORTED TO CHIEF OFFICER  No Conformidades   Acciones Correctiva  CMMS Lugares  Non Conformances  Corrective Actions  Place on CMMS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Main Cranes\Main Cranes 2013\18.2 Work Orders feb.pdf</filepath>
+        <Paragraphs>ALL DAMAGES, PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO CHIEF OFFICER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Main Cranes\Main Cranes 2013\18.3 Work Orders March.pdf</filepath>
+        <Paragraphs>ALL DAMAGES, PROBLEMS OR MALFUNCTIONS TO BE IMMEDIATELY REPORTED TO CHIEF OFFICER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\SP-01-05-01T Daily Knuckleboom crane Rev1.doc</filepath>
+        <Paragraphs> BE IMMEDIATELY REPORTED TO SSL Non conformances Corrective Actions  Place on Synergi   Date Action Required Work Order No       MAY        TOP WINDOW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\5 RH - HR\Formatos Recursos Humanos\062.FH13 Descripcion Puesto.pdf</filepath>
+        <Paragraphs>    REPORTA A        UNIDAD OPERACIONAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\2. Segundo Ingeniero.pdf</filepath>
+        <Paragraphs>NDO INGENIERO   REPORTA A   Primer   Ingeniero    Supervisor Mec  nico        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\22. Electrico.pdf</filepath>
+        <Paragraphs>   ELECTRIC O   REPORTA A   Supervisor El ctrico       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\35. Mecanico.pdf</filepath>
+        <Paragraphs>GO   MEC NICO   REPORTA A   Jefe de Ma ntenimiento    Jefe de Ingenier  a        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\38. Motorista.pdf</filepath>
+        <Paragraphs>   M OTORISTA   REPORTA A   Tercer Ingeniero       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EXPERI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\49. Soldador Especialista.pdf</filepath>
+        <Paragraphs> ESPECIALISTA   REPORTA A   Jefe de Mantenimiento    Jefe de Ingenier  a        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\51. Primer Ingeniero (Supervisor Mecanico).pdf</filepath>
+        <Paragraphs>R MEC  NICO     REPORTA A   Jefe de Mantenimiento     Jefe de Ingenier  a        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\55. Supervisor Electrico.pdf</filepath>
+        <Paragraphs>  REPORTA A  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\60. Tecnico Informatico.pdf</filepath>
+        <Paragraphs>  REPORTA A  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\61. Coordinador de Sistema de Mantenimiento Planeado.pdf</filepath>
+        <Paragraphs>ENTO PLANEADO   REPORTA A   Jefe de Mantenimiento    Jefe de Ing enier  a        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\63. Tecnico Hidraulico.pdf</filepath>
+        <Paragraphs>   HIDR ULICO   REPORTA A   Jefe de Mantenimiento     Jefe de Ingenier  a        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\64. Tecnico Electronico Instrumentista.pdf</filepath>
+        <Paragraphs>NSTRUMENTISTA   REPORTA A   J efe de Mantenimiento    Jefe de Ingenier  a        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\1. Jefe de Oficiales ( Auxiliar de Estabilidad).pdf</filepath>
+        <Paragraphs>  REPORTA A  Capit341n </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\14. Ayudante de Especialista Gruero.pdf</filepath>
+        <Paragraphs>LISTA  GRUERO   REPORTA A   Operario Especialista Gruero       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o pr cti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\16. Bombero.pdf</filepath>
+        <Paragraphs>RGO   BOMBERO   REPORTA A   T  cnico para la Recepci  n y Despacho de  Combustible       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\19. Contramaestre.pdf</filepath>
+        <Paragraphs>CONTRAMAESTRE   REPORTA A   Capit n    OIM         UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  pr ctico   EXPERI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\21. Tecnico para la Recepción y Despacho de Combustible.pdf</filepath>
+        <Paragraphs>E COMBUSTIBLE   REPORTA A   O ficial de Operaciones del Helipuerto       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeni</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\23. Especialista en Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>ENTO DINAMICO   REPORTA A   Capit n   OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\29. Capitan.pdf</filepath>
+        <Paragraphs>IT N   OIM      REPORTA A   Gerente de Proyecto   Representante del Proveedor en Tierra       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\32. Supervisor Especialista en Seguridad y Salud en el Trabajo.pdf</filepath>
+        <Paragraphs>N EL  TRABAJO   REPORTA A   Capit n  OIM       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\34. Marinero.pdf</filepath>
+        <Paragraphs>GO   MARINERO   REPORTA A   Cont ramaestre       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o pr ctico   EXPERIENC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\37. Medico.pdf</filepath>
+        <Paragraphs>RGO   M EDICO   REPORTA A   C apit n   OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Licenciatura   EXPERIENCIA   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\39. Oficial de Proteccion de Buque.pdf</filepath>
+        <Paragraphs>ION DE  BUQUE   REPORTA A   Capit n   OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T  cnico o Practico</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\40. Oficial de Operaciones del Helipuerto.pdf</filepath>
+        <Paragraphs>UERTO    HLO    REPORTA A   Capit n   OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T  cnico o Practico     EXPERI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\41. Operador de Posicionamiento Dinamico.pdf</filepath>
+        <Paragraphs>TO  DINAMICO    REPORTA A   Especialista en Posicionamiento Din mico       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T  c</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\43. Operario Especialista Gruero.pdf</filepath>
+        <Paragraphs>LISTA  GRUERO   REPORTA A   Jefe de Oficiales  Auxiliar de Estabilidad        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\46. Radio Operador.pdf</filepath>
+        <Paragraphs>ADIO OPERADOR   REPORTA A   Capit n  OIM   Jefe de Estabilidad       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\27. Interprete.pdf</filepath>
+        <Paragraphs>   INTERPRETE   REPORTA A   Superintendente de la Plataforma   Representante del Proveedor       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\42. Operador de ROV.pdf</filepath>
+        <Paragraphs>ERADOR DE ROV   REPORTA A   Supervisor de ROV       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ct</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\54. Supervisor de ROV.pdf</filepath>
+        <Paragraphs> VISOR DE ROV   REPORTA A   Superintendente de  Plataforma   Representante del Proveedor       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\57. Tecnico de ROV.pdf</filepath>
+        <Paragraphs>NICO   DE ROV   REPORTA A   O perador de ROV       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr cti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\6. Ayudante de Perforador (Segundo).pdf</filepath>
+        <Paragraphs>    SEGUNDO     REPORTA A   Perforador       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o pr ctico   E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>O   HELIPCOTERO REPORTA FALLA MECANICA Y REALIZA MANIOBRA PARA ATERRIZAJE  COLISIONANDO  CON ESTRUCTURA DE HELIPUERTO  PROVOCANDO INCENDIO NO CONTROLA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs>ES S A  DE C V  REPORTE DE INSPECCION DE PARTCULAS MAGNETICAS               GRUPO R TR     a                      Fecha de examinacion    Cliente P O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>REPORTE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEPOSITO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEPOSITO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\18 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>DONADOS EN AREA DE TRABAJO. DEPOSITO PARA RESIDUOS SIN IDENTIFICACION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEPOSITO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\27 MAYO 2014  HOSPITAL.pdf</filepath>
+        <Paragraphs>DEPOSITO DE RESIDUOS BIOLOGICOS INFECCIO-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEPOSITO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\30 MAYO 2014  Fire Station #3.pdf</filepath>
+        <Paragraphs>CABO DE CIGARRO EN DEPOSITO DE BASURA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEPOSITADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEPOSITADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\25 MAR 2014 pasillo babor Tween D 22 00.pdf</filepath>
+        <Paragraphs>CAJA DE CARTON (BASURA) DEPOSITADO EN  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEPOSITADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEPOSITADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\07 ABRIL 2014 UPPER DECK.pdf</filepath>
+        <Paragraphs>BATERIAS GASTADAS A LA INTENPERIE,  DEPOSITADAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEPOSITOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEPOSITOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\07 ABRIL 2014 UPPER DECK.pdf</filepath>
+        <Paragraphs>DEPOSITOS DE RESIDUOS PELIGROSOS.  E </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014DEPOSITO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014DEPOSITO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\16 ABRIL 2014 ENGINE ROOM.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   ENGINE ROOM 3 Y 4  10:00 HRS APRIL 11 th 2014DEPOSITO DE BASURA CON RESIDUOS  PELIGROSOS.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEPOSIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEPOSIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\22 Mud Pump Room.pdf</filepath>
+        <Paragraphs>SCBA  ENCIMA DE DEPOSIT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CodeEPO28</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CodeEPO28</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>QG42.18 m Codice SAM/SAM CodeEPO28</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CodeEPO28</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>QG42.18 m Codice SAM/SAM CodeEPO28</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EPO15</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EPO15</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>EPO15</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EPO15</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>EPO15</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EPO26</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EPO26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>EPO26</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EPO26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>EPO26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EPO27</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EPO27</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>EPO27 QGPILZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EPO27</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>EPO27 QGPILZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>REPORTES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>REPORTS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs> 23. TEST REPORTS S/N 84487-1 THRU 84487-8  QCD129 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HORSEPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HORSEPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>BRAKE HORSEPOWER  4000</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HORSEPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>      G A BRAKE HORSEPOWER       REDUCTION GEARS    Reintjes Double Reduction GEAR RATIO         PROPELLERS    Berg   Blade CPP RUDDERS    Yoked Fisht</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTARA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTARA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\1.- Plan Control de Brote y H. caido 8.10.2015.doc</filepath>
+        <Paragraphs>OLPUSHER     SE REPORTARA AL MEDICO SOBRE LA PERSONA CAIDA          PERFORADOR     LA CUADRILLA DE PRMIEROS AUXILIOS TRASLADARA  LA PERSONA CAIDA AL H</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTARA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>GADISTAS     SE REPORTARA MEDICO EN ESPERA DE INSTRUCCIONES       MEDICO     SE REPORTA POZO ASEGURADO       PERFORADOR     ENCARGADOS DE COMUNICACI N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>DE COMUNICACI N REPORTAN A TIERRA LA EMERGENCIA Y A EMBARCACIONES EN CERCAN A          RADIO OPERADOR  ADMINISTRADOR     BRIGADA CONTRA INCENDIO PROCE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRANEPORT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRANEPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>-PORT PEDESTAL CRANEPORT PEDESTAL CRANEUPPER DECK3026DA961E015F565TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENSEPOINT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENSEPOINT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>F   HONEYWELL S ENSEPOINT PR O Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LINEPOSSUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LINEPOSSUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1071961-ASH-066ACOMBUSTIBLE GAS DETECTOR -POSSUM BELLY AT FLOW LINEPOSSUM BELLY AT FLOW LINEUPPER DECK3026DA961E015F329HONEYWEL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GENERALEPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GENERALEPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>110V ALIMENTAZIONE GENERALEPOWER SUPPLY M1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPOSTER315A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPOSTER315A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>CHOCOLATE, REPOSTER315A Y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>TO THE CRITERIA OF THE NTP ANNUAL REPO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CDC5703735061.pdf</filepath>
+        <Paragraphs>CERCLA REPORTABLE QUANTITY:  None</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLO-69150.pdf</filepath>
+        <Paragraphs> final RQ       REPORTABLE INGREDIENTS  None reportable  Acute Health  SARA TITLE III   USA   Superfund Amendments and Reauthorization Act   TSCA   US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-DER 410_Pink_Lotion_Soap_Gallon_DER 410_msds.pdf</filepath>
+        <Paragraphs>OR REPORTABLE BY ANY FEDERAL (TSCA, OSHA, WHMIS, SARA,</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs>REPORTABLE QUANTITY: N/A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sebreeze_Citrus_Breeze_5139_msds.pdf</filepath>
+        <Paragraphs>CLA  Superfund  REPORTABLE QUANTITY  in lbs      ND   RCRA HAZARDOUS WASTE NO      CFR            D       VOLATILE ORGANIC COMPOUND  VOC   as packaged</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT1100.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313 REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT1300.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313 REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT1600.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT1700.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT1800.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT1900.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT2000.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT2100.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT2200.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT2400.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313 REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CFT2500.pdf</filepath>
+        <Paragraphs>FIRE: NO  PRESSURE GENERATING: NO  REACTIVITY: NO  ACUTE: NO  CHRONIC: NO  313  REPORTABLE INGREDIENTS: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPORTABLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPORTABLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>ACIÓN SOBRE LOS INGREDIENTES   COMPONENTES REPORTABLES                               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REPORTABLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CrystalFoam.pdf</filepath>
+        <Paragraphs> COMPONENTES REPORTABLES                </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPOSITION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPOSITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Black Jak Torque Master.pdf</filepath>
+        <Paragraphs>S IS REMOVED. IF POSSIBLE REPOSITION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPAREPORTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPAREPORTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>TYPE OF THREADSIZE SPAREPORTS ROTATINGHEAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVEPOD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVEPOD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>VALVEPOD SELECT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

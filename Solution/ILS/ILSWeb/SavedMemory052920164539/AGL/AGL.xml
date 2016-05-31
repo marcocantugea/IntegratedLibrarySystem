@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TAGLINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGLINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>   REMOTE POWER TAGLINE SYSTEM Ideal for use in applications where bridge cranes or other   temporary overhead obstructions exist and fall protection </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAGLINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>TAGLINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGLINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGLINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>AGLINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL403G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL403G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL403G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL403M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL403M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL403M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL404G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL404G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL404G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL404M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL404M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL404M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL405G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL405G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL405G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL405M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL405M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL405M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL406G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL406G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL406G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL406M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL406M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL406M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL408G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL408G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL408G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL408M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL408M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL408M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL410G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL410G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL410G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL410M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL410M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL410M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>dippedSPAGL102G14Sonly</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>dippedSPAGL102G14Sonly</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>surface and material Steel, blanc oil dippedSPAGL102G14Sonly flange</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>steelSSPAGL102G14SSonly</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>steelSSPAGL102G14SSonly</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Stainless steelSSPAGL102G14SSonly flange Weight</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL102G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL102G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL102G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL102M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL102M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL102M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL104G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL104G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL104G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL104M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL104M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL104M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL106G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL106G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL106G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL106M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL106M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL106M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL108G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL108G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL108G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL108M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL108M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL108M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL110G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL110G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL110G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL110M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL110M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL110M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL112G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL112G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL112G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL112M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL112M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL112M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL114G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL114G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL114G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL114M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL114M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL114M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL116G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL116G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL116G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL116M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL116M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL116M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL118G14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL118G14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL118G14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGL118M10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGL118M10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAGL118M10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EAGLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EAGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\07 - Black Eagle Hose\BUL 4465 UK-Black Eagle Family_Feb. 2010.pdf</filepath>
+        <Paragraphs>BLACK EAGLE FamilyContact information:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

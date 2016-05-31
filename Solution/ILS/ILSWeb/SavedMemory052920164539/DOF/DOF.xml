@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>DOF = Delayed deactivation</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\REGLASGRALESGIZ-FIRCO.pdf</filepath>
+        <Paragraphs>ublicada   en   DOF                     Reglamento   de   la   LAERFETE   publicado   en   el   DOF                    Ley   del   Servicio   Publico </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\RES-005-2011+-+Febrero+2011.pdf</filepath>
+        <Paragraphs> F ederaci n    DOF   el    de abril del mismo a o  por la que  expide  la  m etodolog a para la  d eterminaci n de los  c argos correspondientes a lo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PARTICULADOFabricadas</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PARTICULADOFabricadas</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>como mascarilla quirúrgica. Aprobados por: 1835MATERIAL PARTICULADOFabricadas bajo especicaciones de la </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STANDOFF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANDOFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>-  STANDOFF (Total Gap Between Disc and Both Pads) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STANDOFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>-  STANDOFF (Total Gap Between Disc and Both Pads) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

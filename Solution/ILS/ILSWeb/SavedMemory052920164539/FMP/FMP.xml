@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FMP40-AKK3YY9B11AA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMP40-AKK3YY9B11AA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PO 3027-15-0116.pdf</filepath>
+        <Paragraphs>                FMP   AKK YY B  AA              Range       mm IMPORTE EN LETRA THREE THOUSAND SIX HUNDRED THIRTY FOUR  USD AND         DESCUENTO FIJO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFPAFG080GCFPAFG080GCFMPAFG080GCFUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFPAFG080GCFPAFG080GCFMPAFG080GCFUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>l  zinc plated  chrome  freeCFPAFG   GCFPAFG   GCFMPAFG   GCFUNBR Steel  zinc yellow platedA CPAFG   GA CPAFG   GA CMPAFG   GA CUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFPAFG080X-ACFPAFG080X-ACFMPAFG080X-ACFUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFPAFG080X-ACFPAFG080X-ACFMPAFG080X-ACFUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>l  zinc plated  chrome  freeCFPAFG   X ACFPAFG   X ACFMPAFG   X ACFUNBR Steel  zinc yellow platedA CPAFG   X AA CPAFG   X AA CMPAFG   X AA CUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFPAFG080L-ACFPAFG080L-ACFMPAFG080L-ACFUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFPAFG080L-ACFPAFG080L-ACFMPAFG080L-ACFUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>l  zinc plated  chrome  freeCFPAFG   L ACFPAFG   L ACFMPAFG   L ACFUNBR Steel  zinc yellow platedA CPAFG   L AA CPAFG   L AA CMPAFG   L AA CUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

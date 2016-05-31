@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DEW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>IVE HUMIDITY    DEW POINT    STEEL TEMP                    C               C        C                   C               C        C                   C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>de-DEWeight</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>de-DEWeight</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>  with extension cap 130 mm [Combined Filters] de-DE   de-DEWeight in use with standard blower þ  1.3 kg with Particle Filters de-DE de-DE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MILDEW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MILDEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004370_Scrubbing_Bubbles_Mildew_Stain_Remover_with_Bleach_03-22-10.pdf</filepath>
+        <Paragraphs>OM CLEANER MILDEW STAIN  REMOVER WITH BLEACH Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MILDEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Tilex_Mildew_Remover_35600_msds.pdf</filepath>
+        <Paragraphs>Product  TILEX  MILDEW ROOT  PENETRATOR   REMOVER  Description  CLEAR  FAINT YELLOW LIQUID WITH CHARACTERISTIC BLEACH ODOR  Other Designations Distrib</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZUMILDEW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZUMILDEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-English-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>Product nameMold &amp; Mildew Stain RemoverProduct codeZUMILDEW Supersedes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUMILDEWIngestion</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUMILDEWIngestion</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-English-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>ZUMILDEWIngestion</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUMILDEW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUMILDEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-English-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>ZUMILDEW   Acute Toxicity</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ZUMILDEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-Spanish-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>ZUMILDEW   Name of Hazardous Ingredients</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>productoZUMILDEW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>productoZUMILDEW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-Spanish-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>Nombre del productoEliminador de manchas de moho y mildiuCódigo del productoZUMILDEW Sustituya</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUMILDEWRespiratoria</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUMILDEWRespiratoria</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-Spanish-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>ZUMILDEWRespiratoria</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EW-M-EDEW-R-EDEV-M-EDEV-R-EDET-M-EDET-R-ED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EW-M-EDEW-R-EDEV-M-EDEV-R-EDET-M-EDET-R-ED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>EW-M-EDEW-R-EDEV-M-EDEV-R-EDET-M-EDET-R-ED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

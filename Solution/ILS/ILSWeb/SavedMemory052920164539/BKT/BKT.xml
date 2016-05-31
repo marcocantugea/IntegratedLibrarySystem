@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BKT-100HLC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-100HLC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-100HLC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-100DRAWC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-100DRAWC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-100DRAWC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-250HLV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-250HLV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-250HLV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-250DRAWV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-250DRAWV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-250DRAWV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-HBINSERT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-HBINSERT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-HBINSERT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-100HLC-5G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-100HLC-5G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-100HLC-5G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-100HLC-6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-100HLC-6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-100HLC-6</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKT-100HLC-10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-100HLC-10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-100HLC-10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SKO-BKT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SKO-BKT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>SKO-BKT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SKO-BKT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>SKO-BKT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SKO-BKT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>SKO-BKT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SKO-BKT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>SKO-BKT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

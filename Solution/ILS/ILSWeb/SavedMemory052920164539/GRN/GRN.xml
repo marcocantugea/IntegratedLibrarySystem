@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GRN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>GRN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ee service þPP U þshSH 036LO þkK 256 GRA BLK GRN BLU YEL RED Application: Pneumatic, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QW-HDGRN1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QW-HDGRN1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>QW-HDGRN1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QW-HDGRN1-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QW-HDGRN1-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>QW-HDGRN1-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QW-HDGRN1-CASE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QW-HDGRN1-CASE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>QW-HDGRN1-CASE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

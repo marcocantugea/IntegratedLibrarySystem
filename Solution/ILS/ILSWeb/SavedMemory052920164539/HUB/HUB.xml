@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HUB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>   THE ENCODER CLAMP HUB . THE SPLINE BUSH SHALL BE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> BI DIRECTIONAL HUB   Rope descends from either  side which brings one hook  up as the other goes down   allowing for immediate use  after each descen</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>RAULIC COUPLING HUB PULLER  E          GEK        C  Horizontal Drill Motor  Model  GEB       FIG      GEB  A  DRILL MOTOR LONGITUDINAL SECTION   E   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>HUB AND SHAFT FITS ...................................................................................................... 56</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>COUPLING HUB TYPE B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>25HUB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>25HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>  GEK        C    HUB MOUNTING  Thoroughly clean the hub fit on the shaft and</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHAFT-HUB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHAFT-HUB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>FEDER   KEYLESS SHAFT HUB LOCKING DEVICESRequest Separate Catalogs LOCKING ELEMENTS    Internal Locking Devices LOCKING ASSEMBLIES    Internal Locking</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

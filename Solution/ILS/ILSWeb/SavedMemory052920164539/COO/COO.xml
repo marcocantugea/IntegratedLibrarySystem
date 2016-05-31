@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COOLING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>COOLING FAN WORKING CORRECT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.1   SEA WATER COOLING SYSTEM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>FluidAllAllWATER, SW COOLING SYSTEM1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COOLING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0013PIPEWORK WATER COOLING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1605842-PT-001DP/IASSERVICE SW COOLING LINE PRESSURE1M223 Mud Pit Room / ZONE 2Endress HauserGermanyPMC71-5CA1PBRDBAAKEMA 04ATE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>3.4 OPERATING SPRAY COOLING BOOM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>COOLING WATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>FLUID COOLING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>3.3 SEA WATER COOLING PUMPS ...................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>15COO-CYLCOOLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15COO-CYLCOOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>15COO-CYLCOOLING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>see721COOLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>see721COOLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>see721COOLING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>713COO-CYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>713COO-CYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>713COO-CYL PAGE16</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SCAVENGINGAIRCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCAVENGINGAIRCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SCAVENGINGAIRCOOLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGGREGATES651SCAVENGINGAIRCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGGREGATES651SCAVENGINGAIRCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>AGGREGATES651SCAVENGINGAIRCOOLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLERS551SOFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLERS551SOFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COOLERS551SOFT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLERS731STARTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLERS731STARTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COOLERS731STARTING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLIONG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLIONG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>COOLIONG FAN A: 84%   B: 86%</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLANT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>TOOK SAMPLE OF COOLANT 165 mg/l  is too high. next times filling up exp tank use only water 3/17/2013</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\02 Junio Electric Motors Store.pdf</filepath>
+        <Paragraphs>COOLANT CYLINDERS WELL SECURED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COORDINATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COORDINATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>COORDINATE SYSTEM &amp; UNI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ment            COORDINATE SYSTEM   UNITS            PRINCIPAL DIMENSIONS            DRAFTS   DISPLACEMENTS            CAPACITIES            WEIGHT   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COORDENADAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COORDENADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542.IT003\542.IT003.F01  Lista de Verificación del Posicionamiento Dinámico (12-Dic-14).docx</filepath>
+        <Paragraphs>     VISUALIZAR COORDENADAS Y CONDICIONES DEL MEDIO AMBIENTE            Pozo      Nombre      Posici n      N      E            TP                    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDENADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>  PROFUNDIDAD Y COORDENADAS DE LOS OBJETIVOS                                                                                          OBJETIVO PETROLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDENADAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>                COORDENADAS AGUJERO ALTERNO                                                                                                           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COORDINATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COORDINATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>4. COORDINATOR SYSTEM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>   ATTN: JOSE RIBAMAR-MATERIALS COORDINATOR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>   ATTN: JOSE RIBAMAR-MATERIALS COORDINATOR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>   ATTN: JOSE RIBAMAR-MATERIALS COORDINATOR  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>FluidAllAllWATER, FW COOL SYSTEM1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SAI Global AS/NZS 1270 Lic0783 en-USSAI Global Wide Sun Brim &amp; Neck Flap COOL COTTON BRIM WITH ATTACHED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Box of 100 pairs BILSOM COOL II EAR CUSHI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Cool_Pack.pdf</filepath>
+        <Paragraphs>ATA SHEET NAME  COOL  PACK   Promotionally distributed with  BRAUN  SILK  PIL   CAS NO  NA Effective Date          Rev  NA A     IDENTIFICATION Compos</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs>EYE CONTACT:  FLUSH WITH COOL WATER FOR 15 MINUTES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>LINES (TO COOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>65-HB3610COOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>65-HB3610COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>65-HB3610COOLER SKID FOR CENTRAL HPU1F0.50.550.0504.545-23.23440.060716-0001</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRODUCOON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRODUCOON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>  EXPLORACION Y PRODUCOON      EVENTO  TOPE  Golpe a </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COORDINADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\01&amp; 02 Fuego y Abandono\02.- evaluacion  04-10-2015.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\1.- Planeacion.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  ALFONSO MEZA MIRANDA PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEPHANUS M  VA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\2.- evaluacion.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  ALFONSO MEZA MIRANDA  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEPHANUS M  V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\1.- Plan Control de Brote y H. caido 8.10.2015.doc</filepath>
+        <Paragraphs>SENTE  AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\2.- Eval Control de Pozo y Hombre Caido.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\1.- PLANEACION.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\2.- Evaluacion .doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\1.- Plan H2S 11.10.2015.doc</filepath>
+        <Paragraphs>SENTE  AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\2.- Eval h.agua y les.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  EDGAR CASTRO VARGAS  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEINAR LARSEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\02.- evaluacion  18-10-2015.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  ALFONSO MEZA MIRANDA  PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEPHANUS M  V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>ENTE   AUSENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  ALFONSO MEZA MIRANDA PRESENTE  COORDINADOR Y NOTIFICADOR DE LA EMERGENCIA  STEPHANUS M  VA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLINGPUMP-TAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLINGPUMP-TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COOLINGPUMP-TAG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs> UNIT WITH AFTERCOOLER                          AFTERCOOLER     A                     BOLT                          SUPPORT  COOLERS     A            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0027OIL COOLER FOR HYDR. POWER PACK1.00PC110425510028VALVE BLOCK GEAR SHIFT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>OIL COOLER FOR HPS GEARBOX WITHOUT MOTOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\Maintenance cooler on Engine rooms.doc</filepath>
+        <Paragraphs>PIPE ON CENTRAL COOLER B Page   P gina   OF  De    TASK  Tarea  JOB STEPS  HAZARD  Peligro HAZARD EFFECT  DESCRIPTION    Resultado del Peligro INITIAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFTERCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFTERCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs>      UNIT WITH AFTERCOOLER                          AFTERCOOLER     A                     BOLT                          SUPPORT  COOLERS     A       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLING11044300Item</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLING11044300Item</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>Rev.38 Page 3 of 3B0027838_Parts_List.xls   PIPING EDDY CURRENT BRAKE WATER COOLING11044300Item</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLINGTOWERFAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLINGTOWERFAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>UGALCO M PRE S  COOLINGTOWERFAN RECIPROCATINGCOMPRESSOR Y TYPE  EExd Manual Atex    GPage     MOUNTING DIMENSIONS Model CS INVR    Figure      Mountin</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOther</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOther</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>TER II  Nonane  COOther configurations on request Delta charger  EX METER II Series </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLO-COOL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLO-COOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Chevron FLO-COOL 180</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ECOOL11X11X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECOOL11X11X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>11113 ECOOL11X11X ESSO, Univis 1311X113 ESSO, Univis 2611X113 ESSO, Univis 3211X113 ESSO, Univis 4611X113 Ethanol (Ethylalkohol)1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>215COOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>215COOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>    A ROUND MAY    COOK OFF       Cooking Off   means that a Round may Detonate  Fire  unexpectedly just from being exposed to the heat of the</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COORDINACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COORDINACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\09 CUBIERTA PPAL  22  00 .pdf</filepath>
+        <Paragraphs>BUENA COORDINACION Y  DESEMPE321O DE LOS TRABAJADORES ATP222S EN LAS TAREAS  QUE LES SON EN-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COORDINACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\16 Area de Comisaria.pdf</filepath>
+        <Paragraphs>V  Safety Tour                 AREA DE LA COMISARIA22:00 HRS JULY 16th  2014BUENA COORDINACION AL REALIZAR LA DESCARGA DE CON-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

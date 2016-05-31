@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DMB50-2-45</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMB50-2-45</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>  x Independent DMB        ANCHOR   CHAIN    x HHP with   shots each   mm     PERFORMANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DMB50-2-45</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>  x Independent DMB        ANCHOR   CHAIN    x HHP with   shots each   mm     PERFORMANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DMB50-2-45</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>  x Independent DMB        ANCHOR   CHAIN    x HHP with   shots each   mm     PERFORMANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DMB50-2-45</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>  x Independent DMB        ANCHOR   CHAIN    x HHP with   shots each   mm     PERFORMANCE   MAXIMUM SPEED       knots  SERVICE SPEED     knots  DP   F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EPDMBY12752</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EPDMBY12752</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>EPDMBY12752</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EPDMBY12752</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>EPDMBY12752</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EPDMBY12755</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EPDMBY12755</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>EPDMBY12755</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EPDMBY12755</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>EPDMBY12755</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

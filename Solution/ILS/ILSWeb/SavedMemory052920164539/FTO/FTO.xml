@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PROTECTIONOFTOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONOFTOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PROTECTIONOFTOP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIFTORVAPOURSUGEH0YDENELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIFTORVAPOURSUGEH0YDENELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LIFTORVAPOURSUGEH0YDENELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIFTORVAPOUR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIFTORVAPOUR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LIFTORVAPOUR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

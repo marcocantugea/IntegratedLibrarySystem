@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>841-HB-003-DTHRUSTER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>841-HB-003-DTHRUSTER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>841-HB-003-DTHRUSTER COOLING HEAT EXCHANGER1F0.6580.7760.118-47.707-23.5772.646841-0009FRESH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WIDTH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WIDTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>WIDTH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WIDTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>38 m WIDTH  39.37 ft. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WIDTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>cm  APPROXIMATE WIDTH           cm            cm            cm           cm  APPROXIMATE HEIGHT          cm           cm           cm           cm    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WIDTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>WIDTH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INVOLVEDTHIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INVOLVEDTHIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>CPROPRIETARY RIGHTS INVOLVEDTHIS DOCUMENT AND ALL ACCOMPANYING INFORMATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

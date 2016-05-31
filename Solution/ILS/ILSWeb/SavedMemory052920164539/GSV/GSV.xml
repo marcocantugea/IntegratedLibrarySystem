@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GSV6-10-CEIntermediate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GSV6-10-CEIntermediate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Hydac Nitrogen Charging Kit.pdf</filepath>
+        <Paragraphs>TE PIECE GSV6-10-CEIntermediate piece for installing the gas safety valve GSV6 between the 200 bar nitrogen </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GSV6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GSV6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Hydac Nitrogen Charging Kit.pdf</filepath>
+        <Paragraphs>TE PIECE GSV6-10-CEIntermediate piece for installing the gas safety valve GSV6 between the 200 bar nitrogen </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GSV6-10-CE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GSV6-10-CE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Hydac Nitrogen Charging Kit.pdf</filepath>
+        <Paragraphs>Intermediate piece GSV6-10-CE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

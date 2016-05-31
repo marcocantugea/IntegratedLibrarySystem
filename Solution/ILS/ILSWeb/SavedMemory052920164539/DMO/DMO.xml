@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WARPINGANDMOORINGWINCHESWinches</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARPINGANDMOORINGWINCHESWinches</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>WARPINGANDMOORINGWINCHESWinches</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANCHORINGANDMOORING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANCHORINGANDMOORING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>ANCHORINGANDMOORING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWDMOON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWDMOON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP850.pdf</filepath>
+        <Paragraphs>TOXIC GAS DETECTOR 961-OSH-028 H2S GAS DETECTOR,STBD FWDMOON POOL AREA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWDMOON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.4 Work Orders.pdf</filepath>
+        <Paragraphs>TOXIC GAS DETECTOR 961-OSH-028 H2S GAS DETECTOR,STBD FWDMOON POOL AREA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

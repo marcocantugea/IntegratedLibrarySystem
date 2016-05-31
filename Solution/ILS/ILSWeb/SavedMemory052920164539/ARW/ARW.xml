@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ARW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-002 Service Air.pdf</filepath>
+        <Paragraphs>         N S    ARW    DW           El  n mero de control asignado por     la Secretar a  en su caso                    El a o de fabricaci n         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ARW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-003 Bulk Air.pdf</filepath>
+        <Paragraphs>         N S    ARW    DW           El n me ro de control asignado por     la Secretar a  en su caso                    El a o de fabricaci n         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARW09DW3027</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARW09DW3027</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-004 Control.pdf</filepath>
+        <Paragraphs>         N S    ARW  DW           El   n mero de control asignado por     la Secretar a  en su caso                    El a o de fabricaci n          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLEARWAYSTMCLEARWAYS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLEARWAYSTMCLEARWAYS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>CLEARWAYSTMCLEARWAYS HEADGEAR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

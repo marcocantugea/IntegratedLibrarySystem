@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>NEGOTIATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEGOTIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>NEGOTIATIONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FORGOTTEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FORGOTTEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\26 ENE 2014 COLUMNA BABOR-.pdf</filepath>
+        <Paragraphs>TOOLS AND GARBAGE FORGOTTEN IN COLUMNS  E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FORGOTTEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\14 THRUSTER ROOM #4.pdf</filepath>
+        <Paragraphs>PARTS FORGOTTEN OR ILL-STORED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FORGOTTEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\18 Fan Room Accommodation N.DeckM703.pdf</filepath>
+        <Paragraphs>RAGS FORGOTTEN    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FORGOTTEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\23 HELIDECK .pdf</filepath>
+        <Paragraphs>RAGS AND BUCKET FORGOTTEN   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GOTEO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GOTEO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>     PRUEBAS DE GOTEO                                                                                                                                 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GOTEO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>     PRUEBAS DE GOTEO   POR ETAPA                                                                                                                     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GOTERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GOTERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\16 Incinerator room.pdf</filepath>
+        <Paragraphs> AGUA EN EL PISO, POSIBLE GOTERA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

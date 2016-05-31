@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BuchholzBUCHHOLZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BuchholzBUCHHOLZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>BuchholzBUCHHOLZ ALARMBUCHH ALARME25</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALARMBUCHH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALARMBUCHH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>BuchholzBUCHHOLZ ALARMBUCHH ALARME25</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VR-2ATTACHHD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VR-2ATTACHHD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>VR-2ATTACHHD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VR-2ATTACHHD-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VR-2ATTACHHD-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>VR-2ATTACHHD-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -8,6 +8,20 @@ Namespace ilscore.lib.file
         Private _TextFile As String
         Public _temp_file_created As String
         Private _Stream As StreamReader
+        Private _dictionary As DictionaryWords
+        Private _filepath As String
+        Public WriteOnly Property FilePath() As String
+            Set(ByVal value As String)
+                _filepath = value
+            End Set
+        End Property
+
+        Public WriteOnly Property Dictionary() As DictionaryWords
+            Set(ByVal value As DictionaryWords)
+                _dictionary = value
+            End Set
+        End Property
+
         Private Sub ConvertPDFToText(ByVal pdf_file As String, ByVal temp_file As String)
             Try
                 Dim pdfParse As New PDFParser
@@ -17,6 +31,13 @@ Namespace ilscore.lib.file
             End Try
         End Sub
 
+        Public Sub OpenPDFTxt()
+            Try
+                OpenPDFTxt(_dictionary, _filepath)
+            Catch ex As Exception
+                Console.WriteLine("Error :" & ex.Message.ToString)
+            End Try
+        End Sub
 
         Public Sub OpenPDFTxt(ByVal Dictionary As DictionaryWords, ByVal FilePath As String)
             _TextFile = FilePath

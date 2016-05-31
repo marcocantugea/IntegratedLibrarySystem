@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GLFC-5</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLFC-5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5.pdf</filepath>
+        <Paragraphs>RESSURE PUMPING GLFC   GELLANT   WATER          ITEM NUMBER   BJ SERVICES GLFC      May      Fax Supplier Name Address Telephone Emergency Web Site Sy</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GLFC-5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5_001.pdf</filepath>
+        <Paragraphs>RESSURE PUMPING GLFC   GELLANT   WATER          ITEM NUMBER   BJ SERVICES GLFC      May      Fax Supplier Name Address Telephone Emergency Web Site Sy</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LQGLFDWHG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LQGLFDWHG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>LOO SULQW WR LV LQGLFDWHG E  D JUHHQ DUURZ DQG LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER ZLWK  HIW  ROO VHOHFWHG  QWHOOLJHQW  DLO    DUFRGH  KH  QWH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LQGLFDWHG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>LOO SULQW WR LV LQGLFDWHG E  D JUHHQ DUURZ DQG LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER ZLWK  HIW  ROO VHOHFWHG  XSSRUWHG  DEHO  ULQWHUV  RVW  DEHO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

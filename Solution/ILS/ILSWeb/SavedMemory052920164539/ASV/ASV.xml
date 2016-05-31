@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AirASV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AirASV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>Clean AirASV en-USSupplied Air Respirators  19  en-USSupplied Air Respirators BD mini The short-duration compressed </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASV-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASV-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>essure reducer  ASV- Automatic Switch </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs> The ASV connects a compressed  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>ASV - Automatic Switch ValveAirline Systems [Compressed Airline Breathing Apparatus] 37</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>reducerASV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>reducerASV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>bar. D4066830Pressure reducerASV - Automatic Switch </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

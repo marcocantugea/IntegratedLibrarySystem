@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CARDBOARD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CARDBOARD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\04 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>ABLE -ENGINE WORKSHOP CARDBOARD BOX LEANING AGAINST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CARDBOARD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>0SLKTBOX3 CARDBOARD SEAL KIT 32 X4 X32  1.00EA A1  Pa g e 1of 1  BOM 3139563-01 Rev </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DBO5</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DBO5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Conc_Malodor_Neutral_226_msds.pdf</filepath>
+        <Paragraphs>DBO5 et DCO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HANDBOOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDBOOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>HANDBOOK  2 CAREANDMAINTENANCE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADBOLT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADBOLT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>LOADBOLT 4900kN,  Dual 4-20mA,STRAIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

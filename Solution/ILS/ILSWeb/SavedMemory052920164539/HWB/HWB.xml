@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>HWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ACHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>CHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEHWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEHWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEHWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

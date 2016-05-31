@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COBXSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COBXSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COBXSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TYPECOBXSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPECOBXSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TYPECOBXSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COBXPUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COBXPUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COBXPUMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TYPECOBX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPECOBX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TYPECOBX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CL301SICOBarrier256PRODUCTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CL301SICOBarrier256PRODUCTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>mTek   PRODUCTO CL   SICOBarrier   PRODUCTO CL   SICODura Touch    RESUMEN DE POL   MEROS RESUMEN DE POL   MEROS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COBRA231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COBRA231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>COBRA231 ROPE GRAB </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROCOBRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROCOBRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>GAMEX  MONARCA  PROCOBRE  SANWAY  TECNOSOL  USOL SITUACI   N QUE GUARDA LA  INDUSTRIA NACIONAL DE  CALENTADORES SOLARES DE  AGUA  COMPARATIVO DE TECNO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

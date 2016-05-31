@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FRThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>eces   Affinity FRThe foldable respirator Affinity FR OR  Odour Removal  offers relief from low level concentrations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>221FRTransportation</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>221FRTransportation</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> þ   þ   þ   þ  221FRTransportation 226 Marine Fuel and Engine HoseSAE J1527 TYPE A CLASS I, USCG SAE J1942 /  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

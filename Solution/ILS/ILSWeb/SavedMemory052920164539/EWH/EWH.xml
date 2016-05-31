@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HazardEWHMIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Citrusspray_Clinging_Foaming_Degreaser_137_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) Massachusetts RTK: Ethylene Oxide</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_SC_Industrial_Cleaner_171D55_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) Massachusetts RTK: Ethylene Oxide</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_SC_Industrial_Cleaner_171P5_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) Massachusetts RTK: Ethylene Oxide</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104D55_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104P5_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Nonammoniated_Stripper_104D55_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Cleaner_&amp;_Degreaser_103P5_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Cleaner_&amp;_Degreaser_103_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HazardEWHMIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Mega_Base_554_msds.pdf</filepath>
+        <Paragraphs>Physical HazardEWHMIS (Classification) SARA 311/312 MSDS distribution - chemical inventory - hazard</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEWHolanda</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ADAPTA.pdf</filepath>
+        <Paragraphs>SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK TRKGel de siliceNo se aplica  mg m No se aplicaNo se aplicaNo se aplicaSustanciaItaliaPoloniaHung</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ATC.pdf</filepath>
+        <Paragraphs>IÓN/PROTECCIÓN INDIVIDUALPar á metros de control SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK/TRKéster de ácido graso</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\COLDTROL.pdf</filepath>
+        <Paragraphs>SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK TRKaductos de alcoholNo se aplicaNo se aplicaNo se aplicaNo se aplicaNo se aplicaSustanciaItaliaP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\EZ SPOT.pdf</filepath>
+        <Paragraphs>IÓN/PROTECCIÓN INDIVIDUALPar á metros de control SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK/TRKDestilado de petroleo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\FACTANT.pdf</filepath>
+        <Paragraphs>IÓN/PROTECCIÓN INDIVIDUALPar á metros de control SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK/TRKDestilado de petroleo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\LE SUPERMUL.pdf</filepath>
+        <Paragraphs>IÓN/PROTECCIÓN INDIVIDUALPar á metros de control SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK/TRKpoliamida grasa terminada</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LEWHolanda</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\TEMPERUS.pdf</filepath>
+        <Paragraphs>IÓN/PROTECCIÓN INDIVIDUALPar á metros de control SustanciaEURU   LEWHolanda   MACFranciaAlemania  MAK/TRKEter monobutilico de</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EWH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EWH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>ProductTubeThread sizeForm AForm BForm EO-ring sealingForm EWH / THSWVEO-ringForm E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

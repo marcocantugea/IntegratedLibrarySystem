@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>Total DFT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>Total DFT microns225225275 Repair system, minor areas, part of MH STANDARD PAINT SPECIFICATION I 73</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs> primer     mic DFT         coat epoxy high   build      mic DFT         coat urethane finish     mic DFT     Finish Colour RAL                Interna</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de cabina de control  Gas y fuego 0 to10.pdf</filepath>
+        <Paragraphs>primer     m ic DFT       coat epoxy high   build      mic DFT       coat urethane finish      mic DFT       Finish Colour RAL           Internal     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>primer     m ic DFT       coat epoxy high   build      mic DFT       coat urethane finish      mic DFT       Finish Colour RAL           Internal     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

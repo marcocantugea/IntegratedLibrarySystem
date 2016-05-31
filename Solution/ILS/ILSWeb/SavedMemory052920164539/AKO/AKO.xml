@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MAKO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>6.55 MAKO Fast Rescue Boat with Water jet</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>  Model         MAKO Fast Rescue Boat with Water jet    Quantity    One        Carrying Capacity      persons  Maximum     Speed   Range       knots w</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs> Make Type      MAKO       MAKO Diesel Jet    Engine power          Hp         Life Jackets        Type       I     SOLAS Offshore Lifejacket    Quant</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs> Make Type      MAKO       MAKO Diesel Jet    Engine power          Hp         Life Jackets        Type       I     SOLAS Offshore Lifejacket    Quant</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNBRAKOSKRUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNBRAKOSKRUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>UNBRAKOSKRUE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AKO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>The Navi-Drill Mach 1 P/HF offers the AKO (adjustable kick off sub) </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>225AKO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>225AKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>225AKO or DTU motor</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREAKOUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREAKOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>D.ABNORMALLY HIGH BREAKOUT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

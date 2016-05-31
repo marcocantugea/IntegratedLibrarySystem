@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STORAGEComplete</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STORAGEComplete</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>STORAGEComplete</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRECHARGECheck</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRECHARGECheck</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>vice. NEVER USE AN AUTOMOTIVE TYPE VALVE CORE.CHECKING PRECHARGECheck the precharge pressure only after the hydraulic</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CVLAB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CVLAB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cot. VIKING\300314..pdf</filepath>
+        <Paragraphs>ON MARINA SA DE CVLAB VIKING Purchase Order No  Customer ID Sales Person Shipping Method Payment Terms Req  Ship Date Master No  Sales Order btn prepa</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VLANs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VLANs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\La Muralla IV - LAN Diagram.pdf</filepath>
+        <Paragraphs>VLANs</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KEVLARDisponible</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KEVLARDisponible</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs> COSIDO EN HILO KEVLARDisponible en    pulgadas     K  GUANTE COSIDO EN HILO KEVLARDisponible en    pulgadas </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KEVLAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KEVLAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>KEVLAR - FLAMED RESISTANT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

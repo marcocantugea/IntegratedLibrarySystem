@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>794647STEAMCONVERTERSSteam</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>794647STEAMCONVERTERSSteam</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>794647STEAMCONVERTERSSteam</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AMC3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMC3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>Unable to run at PM due to AMC3 upgrade.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AMC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>the AMC processor provides an interface to all</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>croControllers  AMCs  work in a duty standby pair arrangement for a given set of functions  Thestandby controller merely shadows the action of the onl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-011 Update AMC software (New).docx</filepath>
+        <Paragraphs>dad      Update AMC Software    Page   P gina          OF  De            TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPTION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALAMCENADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALAMCENADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\13 Mud cleaner room.pdf</filepath>
+        <Paragraphs>OPERLY AND AISLE CLEAR AND CLEAN  MATERIAL DE RESPALDO ALAMCENADO CORRECTAMENTE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRITAINAMCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRITAINAMCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>e-mail: sales@marelli.fki-et.comGREAT BRITAINAMCO MARELLI Ltd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRITAINAMCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>e-mail: sales@marelli.fki-et.comGREAT BRITAINAMCO MARELLI Ltd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRITAINAMCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>e-mail: fki@iafrica.comGREAT BRITAINAMCO MARELLI Ltd</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GVI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GVI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs> Detection      GVI      General Visual Inspection      IMS      Integrated Management System      LARS      Launch and Recovery System      LIM      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>O-RINGVITON14STATIONARYSEALRINGCARBON15O-RINGVITON18SHAFTSLEEVESTAINLESSSTEEL136STOPPINSTAINLESSSTEEL1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>O-RINGVITON14STATIONARYSEALRINGCARBON15O-RINGVITON18SHAFTSLEEVESTAINLESSSTEEL136STOPPINSTAINLESSSTEEL1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>INLESSSTEEL     O RINGVITON  STATIONARYSEALRINGCARBON  O RINGVITON  SHAFTSLEEVESTAINLESSSTEEL   STOPPINSTAINLESSSTEEL    CENTRIFUGAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6 ,".:';;.- CENTRIFUGAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ZONE1DANFOSSNorwayEXPIRED--157B4218EX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZONE1DANFOSSNorwayEXPIRED--157B4218EX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11910-HY-0121DRILLINGMH 45' CENTRALIZER1DF DRILL FLOOR BELOW / ZONE1DANFOSSNorwayEXPIRED--157B4218EX PVEONEMKO 02ATEX459X&lt;Ex&gt; I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZONE2DANFOSSNorwayEXPIRED--157B4218EX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZONE2DANFOSSNorwayEXPIRED--157B4218EX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>13110-HY-0237DRILLINGDFMA CLAMP1DF DRILL FLOOR / ZONE2DANFOSSNorwayEXPIRED--157B4218EX PVEONEMKO 02ATEX459X&lt;Ex&gt; II 2 G EEx m II</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOSFORES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOSFORES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>GRIS OSCURO FOSFORES CENTE SENSOR DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOSTECH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOSTECH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>OLAR  CAPTASOL  FOSTECH  INTERSA  IUSA  KALOTRON  KIOTO  MAGAMEX  MONARCA  PROCOBRE  SANWAY  TECNOSOL  USOL SITUACI   N QUE GUARDA LA  INDUSTRIA NACIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

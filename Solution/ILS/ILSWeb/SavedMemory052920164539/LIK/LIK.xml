@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LIKELY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIKELY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ASSESSMENT, IT IS LIKELY THAT: (1) MORE TANKS AND/OR COMPARTMENTS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LIKELY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>SESSMENT  IT IS LIKELY THAT      MORE TANKS AND OR COMPARTMENTS ARE DAMAGED THAN PRESENTLY ASSESSED  OR     THE VESSEL S CORRECTED KG IS HIGHER THAN C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNLIKELY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNLIKELY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>          EYES  UNLIKELY                     ORAL INGESTION  YES                    SKIN  UNLIKELY                     INHALATION  UNLIKELY           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HYDRAULIK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HYDRAULIK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>HAWE HYDRAULIK SE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

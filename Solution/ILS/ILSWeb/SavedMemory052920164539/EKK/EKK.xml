@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STALH0YSTREKKF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STALH0YSTREKKF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STALH0YSTREKKF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UTILSTREKKELIG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UTILSTREKKELIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>UTILSTREKKELIG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UTILSTREKKELIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>PUMPEN GIR UTILSTREKKELIG </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUFTLEKKASJE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUFTLEKKASJE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LUFTLEKKASJE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LUFTLEKKASJE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>     LUFTLEKKASJE I AKSELTETNING, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TEKK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEKK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>                TEKK T                               UNIDEN SPH Series  SPU Series                   SPS    T    TS                   VERTEX VX  R    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

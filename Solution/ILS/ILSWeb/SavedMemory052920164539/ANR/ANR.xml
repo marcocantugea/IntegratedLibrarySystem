@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MANRIDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANRIDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs>N/S:CX074 5151861 07-2009 0.15 T MANRIDER WINCH (ON DRILL FLOOR) / WINCHE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HANRAILS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANRAILS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\27 Top Deck Bridge &amp; Navigation Deck.pdf</filepath>
+        <Paragraphs>CORRECT USE OF HANRAILS WHILE WALK- </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>143110-IB0794DRILLINGMANRIDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>143110-IB0794DRILLINGMANRIDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>143110-IB0794DRILLINGMANRIDER WINCH AFT EEXE J-BOX (10-CX0730)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 202010DNV-2001-OSL-ATEX-01</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>143210-IB0795DRILLINGMANRIDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>143210-IB0795DRILLINGMANRIDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>143210-IB0795DRILLINGMANRIDER WINCH FWD EEXE J-BOX (10-CX0740)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 202010DNV-2001-OSL-ATEX-01</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLEANROOMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLEANROOMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>EUTICAL LABS    CLEANROOMS   E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5WANR6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5WANR6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Fabric_Refresher_-_Antimicrobial.pdf</filepath>
+        <Paragraphs>5WANR6</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MANRIDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANRIDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB021 - Retrieving the BOP Stack Assembly, Riser &amp; Diverter R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>rm      CONDUCT MANRIDING AND UTILITY WINCH INSPECTION      Have the crane operator set the riser guiding head on the skate  Once the guiding head has</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CONFIM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFIM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\7 Mantenimiento - Maintenance\Formatos Mantenimiento\077.PM007.F01 Format Oil Bunkering (15-Sep-15).docx</filepath>
+        <Paragraphs>                CONFIM that bypass valve fuel  flow meter is closed                  During bunkering            Have all prestart checks been complet</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIM-SYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIM-SYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>POWER SUPPLY FIM-SYSTEM 24VDC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RHEOBAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RHEOBAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Barite_Rheochem.pdf</filepath>
+        <Paragraphs>HEOCHEM BARITE  RHEOBAR MSDS Date    April      NOT CLASSIFIED AS HAZARDOUS ACCORDING TO NOHSC CRITERIA    HAZARDS IDENTIFICATION NOT CLASSIFIED AS A </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EOB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EOB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ent mud weight  EOB  End of build  FCP  Final circulating pressure  FMDPP  Final maximum drillpipe pressure  FP  Formation pressure  ft  Foot  gal  Ga</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

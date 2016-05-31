@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CMC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-182.pdf</filepath>
+        <Paragraphs>CMC cylinder is fully retracted.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-DSC-004.pdf</filepath>
+        <Paragraphs>Even though this counterbalance wire guide wheel is removed, it is still safe to operate the CMC or  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>Inspected CMC cilinders.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\AD's_exam_with_answers.docx</filepath>
+        <Paragraphs>ring   Position CMC in mid stroke  Clear Drill Floor   Moon Pool and wait for further instructions         Why is it important to know the  A  Weight </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB003 - Emergency Disconnect LMRP, Retrieve Fish &amp; Connect R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>sator  Activate CMC and adjust in mid stroke     Activate EDS pushbutton     Lift drill string above BOP     Inform DP operator when disconnected     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB007 - Simulated Landing BOP use Dat Cylinders CMC &amp; AHC R. 01 (16-Aug-13).docx</filepath>
+        <Paragraphs> DAT cylinders  CMC and AHC aboard the MURALLA IV   The purpose of this procedure is to ensure that all activities are planned  prepared and performed</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB018 - Support all BOP String Weight with DAT Cylinder R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>linders and the CMC                          Equipment check list      Item     Equipment    Driller SSE     Have radios with fresh batteries so there</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB041 - Unlatch BOPs from Well Head R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>ed Compensator  CMC  set mid stroke              NOTE  THE ACTIVE HEAVE COMPENSATOR IS NOT NECESSARY FOR AND UNLATCH OF THE BOPS              Sub Sea </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>or other salts (potassium, etc.) are added. Attapulgite clay, CMC or starch </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PCMCIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PCMCIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>r provided by a PCMCIA or USB adapter         USB port for a dongle    more may be required for USB RS     converters as most  modern PCs do   not hav</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMCIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-101.pdf</filepath>
+        <Paragraphs>ypically USB or PCMCIA    If the  dongle is lost or damaged  the  system will operate for  one  month after w hi ch passwords  systems  may be used   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

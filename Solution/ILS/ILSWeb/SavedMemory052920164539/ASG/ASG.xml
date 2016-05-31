@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>system581649GASGENERATORSIsolated</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>system581649GASGENERATORSIsolated</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>system581649GASGENERATORSIsolated</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRASG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRASG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\18 Shakers rooms.pdf</filepath>
+        <Paragraphs>ESCALERA BLOQUEANDO PARTE DE PASILLO (CORREGIDO) GOOD TRASG SEGREGATION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASG019-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASG019-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>ASG019-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASG019-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASG019-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>ASG019-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASGrease</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASGrease</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Fettleitscheibe ASGrease guide disk, DE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASGsw</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASGsw</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>gravity of saltwater (ASGsw) + 1 ASGsw = (ppm CI)0.95 x (1.94 x  92 Formulas and Calculations Step 4 Average </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASGsw</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Average specific gravity of saltwater   (ASGsw)  ASGsw  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>oil) ss ASG = Step 5 Average </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>ASG =  (12  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

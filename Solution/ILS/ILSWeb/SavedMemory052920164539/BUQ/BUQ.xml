@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BUQUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUQUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\39. Oficial de Proteccion de Buque.pdf</filepath>
+        <Paragraphs> PROTECCION DE  BUQUE   REPORTA A   Capit n   OIM        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero  T  cnico o </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>90217BARBUQUEJO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>90217BARBUQUEJO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs> arseg com co        BARBUQUEJO DE   PUNTOS de apoyo para adaptar al casco elaborado </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

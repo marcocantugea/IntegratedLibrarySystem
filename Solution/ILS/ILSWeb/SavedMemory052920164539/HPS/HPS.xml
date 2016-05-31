@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB001 - Plan disconnect of LMRP (12-Apr-12).docx</filepath>
+        <Paragraphs>sible  position HPS close to Drill Floor   This to be done when casing has entered the well and cannot be lifted out of the well without breaking out </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB003 - Emergency Disconnect LMRP, Retrieve Fish &amp; Connect R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>sible  position HPS close to Drill Floor   This to be done when casing has entered the well and can not be lifted out of the well without braking out </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\TOP DRIVE MAINTENANCE.pdf</filepath>
+        <Paragraphs>T op Drive   HPS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>HPS ELEVATOR TILT, BUSHING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPSW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPSW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>HPSW = 8.9ppg x 0.052 x 2OOOft </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPSVI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPSVI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Determine the hydrostatic pressure of the seawater:  HPSVI  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QuoteHPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QuoteHPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>QuoteHPS TORQUE ARRESTOR, GLIDE PLATE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

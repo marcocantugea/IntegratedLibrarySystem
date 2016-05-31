@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GHDPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GHDPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs> alta densidad  GHDPE  renovable  en lugar del polietileno  HDPE  de los cascos tradicionales  V Gard  El GHDPE es un biopol   mero derivado del etano</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GHD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GHD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>                GHD        Proserpine  Queensland               Sa ntos   Roma  Queensland     x              Santos Ltd   Queensland  Australia     x</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

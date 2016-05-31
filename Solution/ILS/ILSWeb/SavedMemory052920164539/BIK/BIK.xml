@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CORREASTMCORREASTMBIKE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CORREASTMCORREASTMBIKE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>CORREASTMCORREASTMBIKE FRAME </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BIKE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BIKE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>Versión: 60014ES08BFormato ANSI-Z400.1-2003Hoja de Seguridad:   SIMPLE GREEN® BIKE CLEANER/DEGREASER  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

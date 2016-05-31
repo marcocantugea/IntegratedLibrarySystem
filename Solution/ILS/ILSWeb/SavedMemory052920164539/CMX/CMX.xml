@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PCMX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Winning_Hands_Antibacterial_Soap_141_msds.pdf</filepath>
+        <Paragraphs>Winning Hands AntibacterialPearlized Antibacterial Skin Cleanser with PCMX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Winning_Hands_Premium_Antibacterial_736_msds.pdf</filepath>
+        <Paragraphs>AntibacterialPremium Antibacterial Skin Cleanser with PCMX Aloe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Antibacterial_800_mil_HOS80807_msds.pdf</filepath>
+        <Paragraphs>ANTIB.VALUE SOAP 0.3% PCMX </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Soap_Antibac_800ml_Clear_80807_msds.pdf</filepath>
+        <Paragraphs>ANTIB.VALUE SOAP 0.3% PCMX </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Provon_Antimicrobial_Lotion_2118-08_msds.pdf</filepath>
+        <Paragraphs>   WITH         PCMX   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Provon_Antimicrobial_Lotion_4212-10_msds.pdf</filepath>
+        <Paragraphs>   WITH         PCMX   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PCMX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Provon_Antimicrobial_Lotion_4218-12_msds.pdf</filepath>
+        <Paragraphs>   WITH         PCMX   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone            </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CMX-XL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CMX-XL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>305340 CMX-XL SLipDCS Drill Collar SlipsDescription</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

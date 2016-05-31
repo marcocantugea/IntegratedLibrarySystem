@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EFS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EFS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs>Pressure Switch EFS                         Call Point  Menvier  MGB                 V Twin Socket Face Plate           Co mplete Set of Roxtec Transi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLDRWREFSU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLDRWREFSU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PLDRWREFSU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

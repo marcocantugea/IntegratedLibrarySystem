@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>C-iCBILLOFMATERIALANDASSEMBLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>C-iCBILLOFMATERIALANDASSEMBLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>C-iCBILLOFMATERIALANDASSEMBLY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>C-1CBILLOFMATERIALANDASSEMBLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>C-1CBILLOFMATERIALANDASSEMBLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>C-1CBILLOFMATERIALANDASSEMBLY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

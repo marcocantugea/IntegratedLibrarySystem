@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SCAVENGINGAIRCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCAVENGINGAIRCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SCAVENGINGAIRCOOLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGGREGATES651SCAVENGINGAIRCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGGREGATES651SCAVENGINGAIRCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>AGGREGATES651SCAVENGINGAIRCOOLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAVITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAVITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\00105 lincoln pump.pdf</filepath>
+        <Paragraphs>CAVITY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>PROGRESSING CAVITY PUMPS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>IN THIS CAVITY SMEAR RUNNING SURFACES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>14. SLOPED RAM CAVITY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>CAVITY BEFORE OPENING THE PACKING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOCAVACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOCAVACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs>Desde XDesde Y I.F=FUSION INCOMPLETA UC= SOCAVACION P= POROS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAVICONNECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAVICONNECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>WDU6 MORSETTIERA M1 e LISTA CAVICONNECTION BAR M1 &amp; CABLE LIST1x3x0,75 RFOU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVICONNECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>WDU6 MORSETTIERA M1 e LISTA CAVICONNECTION BAR M1 &amp; CABLE LIST1x3x0,75 RFOU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOURSCAV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOURSCAV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>nte de H   S    SOURSCAV  Secuestrante de H   S libre de Zinc    NO   SULF  Secuestrante de H   S      Di xido de Carbono   Trate el fluido de perfora</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BARASCAV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BARASCAV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>BARACOL      y  BARASCAV   L para mantener valores de alcalinidad  normal  Puede realizar tratamiento con cal hidratada  el tratamiento con cal es pre</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAVITIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAVITIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CAVITIES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVITIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>CAVITIES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUMPBCAVITIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMPBCAVITIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PUMPBCAVITIES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAVO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAVO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>CAVO - CABLE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAVO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>  01 ALBERO CAVO / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>767001MFCAVAILABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>767001MFCAVAILABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>767001MFCAVAILABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

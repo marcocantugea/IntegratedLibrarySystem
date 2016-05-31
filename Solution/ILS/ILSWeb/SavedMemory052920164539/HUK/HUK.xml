@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>2ABTECHUKBPG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2ABTECHUKBPG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1607723-IB0105DRILLINGJUNCTION BOX (CHOKE &amp; KILL)1DRILL FLOOR / Zone 2ABTECHUKBPG 6SIRA 99 ATEX 3173EEx e II T6COMPLETE ASSY.N/</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HUK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>ller220s console acc. to HUK drawing. . . . . . . . . . . . 51</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>ler220s console acc. to HUK drawing. . . . . . . . . . . .61</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

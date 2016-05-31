@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>11110-HS-0213CDRILLINGHRN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>11110-HS-0213CDRILLINGHRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11110-HS-0213CDRILLINGHRN EMERGENCY STOP (RD)1DF DRILL FLOOR / ZONE2CEAGGermanyP 411PTB 00 ATEX 3117&lt;Ex&gt; II 2 G EEx de IIC T6CO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>11610-HS-1213CDRILLINGHRN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>11610-HS-1213CDRILLINGHRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11610-HS-1213CDRILLINGHRN EMERGENCY STOP (RD)1DF DRILL FLOOR / ZONE2CEAGGermanyP 411PTB 00 ATEX 3117&lt;Ex&gt; II 2 G EEx de IIC T6CO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CDR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>OP Surface Test CDR     PB    as reference   Editable PDF version will be requested to be Updated and submited for revision </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>BOP Surface Test CDR 077.PB019 as reference. (Editable PDF version will be requested to be Updated and submited for revision)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs> lbs   Out In   CDR Resistance   Ohms Mft   Maximum Temp   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NAMEGBW-12CDReport</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NAMEGBW-12CDReport</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert.pdf</filepath>
+        <Paragraphs>andler  PRODUCT NAMEGBW   CDReport StatusThis document has been compiled by RMT on behalf of the manufacturer of the product and serves as themanufact</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NAMEGBW-12CDReport</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert_001.pdf</filepath>
+        <Paragraphs>andler  PRODUCT NAMEGBW   CDReport StatusThis document has been compiled by RMT on behalf of the manufacturer of the product and serves as themanufact</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

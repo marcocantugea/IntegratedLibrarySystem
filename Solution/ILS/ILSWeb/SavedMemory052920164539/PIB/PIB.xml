@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PIB102A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PIB102A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\826.002\ECM-025 CM Defective PIB102A card in thruster No 2.docx</filepath>
+        <Paragraphs>      Defective PIB   A Card in Thruster No   VFD        Status   Pending        Type    CM    Priority  Critical    Requestor  Roy Gordon    Req  Dat</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PIB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PIB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\826.002\ECM-025 CM Defective PIB102A card in thruster No 2.docx</filepath>
+        <Paragraphs>      Defective PIB   A Card in Thruster No   VFD        Status   Pending        Type    CM    Priority  Critical    Requestor  Roy Gordon    Req  Dat</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ININTERRUMPIBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ININTERRUMPIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV 2015.pdf</filepath>
+        <Paragraphs>   UPS  SISTEMA ININTERRUMPIBLE POTENCIA        MAIN CRANE  GRUAS PRINCIPALES      BOP SYSTEM  SISTEMA PREVENTORES        GEN  EMERG  SHUT DOWN  SIST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ININTERRUMPIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV hasta Octubre-2014.pdf</filepath>
+        <Paragraphs>   UPS  SISTEMA ININTERRUMPIBLE POTENCIA        MAIN CRANE  GRUAS PRINCIPALES      BOP SYSTEM  SISTEMA PREVENTORES        GEN  EMERG  SHUT DOWN  SIST </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

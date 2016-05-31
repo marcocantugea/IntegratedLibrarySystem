@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>A324FEMALE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A324FEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A324FEMALE CHANGE ROOMFEMALE CHANGE ROOM A324UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMFEMALE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMFEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A324FEMALE CHANGE ROOMFEMALE CHANGE ROOM A324UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEMALE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP838.pdf</filepath>
+        <Paragraphs>961-YSH-04-003 FEMALE CHANGE ROOM A324 UPPER DECK F566</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>FEMALE DRIVE SHAFT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>FEMALE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.5 Work Orders.pdf</filepath>
+        <Paragraphs>961-YSH-04-003 FEMALE CHANGE ROOM A324 UPPER DECK F566</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEMALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>            NPT FEMALE  N  CLEANOUT               NPT FEMALE   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>FEM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>FEM (Finite Element Method) has been used to optimize the seal design</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAFEMTX231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAFEMTX231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SAFESITEen-US256en-US System components consist of the SAFEMTX231 en-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAFEMTX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAFEMTX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SAFEMTX231 Detectors per system, integrating SAFEMTX data, en-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>en-USSAFEMTXen-US231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>en-USSAFEMTXen-US231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>attery life of  en USSAFEMTXen US    en USDetecors     System Status     alerts user to  en USalarm  warning or fault within a en US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

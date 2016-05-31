@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HMR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HMR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_GT_Cleaner_695_msds.pdf</filepath>
+        <Paragraphs>This product is not regulated under the HMR when shipped by ground in Quantities less than</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HMR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_GT_Cleaner_Wood_Floor_695_msds.pdf</filepath>
+        <Paragraphs>This product is not regulated under the HMR when shipped by ground in Quantities less than</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HMR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Wood_Floor_Maintenance_Cleaner_175P5_msds.pdf</filepath>
+        <Paragraphs>This product is not regulated under the HMR when shipped by ground in Quantities less than</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>Shoulder240DPASS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Shoulder240DPASS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>Shoulder240DPASS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA40</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA40</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Drip_Pan_Allwik_msds.pdf</filepath>
+        <Paragraphs>DPA40</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA24</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA24</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Drip_Pan_Allwik_msds.pdf</filepath>
+        <Paragraphs>DPA24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA0X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA0X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA0X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA1X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA1X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA1X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA2X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA2X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA2X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA3X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA3X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA3X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA4X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA4X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA4X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA5X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA5X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA5X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA6X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA6X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA6X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DPA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\IPC - Garbage Management Manual - Rev 04-2011.12.pdf</filepath>
+        <Paragraphs>                DPA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

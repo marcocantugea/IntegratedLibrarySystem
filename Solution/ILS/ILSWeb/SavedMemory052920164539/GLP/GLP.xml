@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GLP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>Procesamiento y almacenamiento de GLP y </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hds_glp_v082013.pdf</filepath>
+        <Paragraphs>tr   leo        GLP            LPG    N     NU                        N    C A S                                     SECCI   N    IDENTIFICACI   N DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HojaSeguridadGasLP_v2007.pdf</filepath>
+        <Paragraphs>rticular, o que desarrolle algún efecto tóxico.     12. INFORMACIÓN ECOLÓGICA  El efecto de una fuga de GLP es local </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

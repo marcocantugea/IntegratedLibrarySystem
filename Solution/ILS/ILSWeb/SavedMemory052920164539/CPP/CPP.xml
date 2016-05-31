@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>   Berg   Blade CPP RUDDERS    Yoked Fishtail AUXILIARY GENERATORS        V    Detriot Diesel EMERGENCY GENERATOR  Baylor M    JAB       kw      rpm B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>ssic Aprons     CPP Vinyl Aprons     CPP Supported Aprons     Endurosaf      Aprons     Coat Aprons     CPP Shop Aprons     PolarBear      Plus Sleeve</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MCPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MCPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Triple_Threat_Selective_363-5_msds.pdf</filepath>
+        <Paragraphs>2,4-DP &amp; MCPP are on the IARC group 2B list. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

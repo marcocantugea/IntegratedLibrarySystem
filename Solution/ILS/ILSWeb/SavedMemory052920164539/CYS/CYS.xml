@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EMERGENCYSTOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMERGENCYSTOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CCF11 EMERGENCYSTOP QH LAYOUT GLOBALEGLOBAL LAYOUT 2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENCYSTOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CCF11 EMERGENCYSTOP QH LAYOUT GLOBALEGLOBAL LAYOUT 2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMERGENCYSTOP6SB1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMERGENCYSTOP6SB1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>GreenFRONT PANEL LAYOUT EMERGENCYSTOP6SB1 LAYOUT PANNELLOFRONT PANEL LAYOUT 3</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENCYSTOP6SB1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>GreenFRONT PANEL LAYOUT EMERGENCYSTOP6SB1 LAYOUT PANNELLOFRONT PANEL LAYOUT 3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CYSCAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CYSCAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYSCAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYSCAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYSCAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>Band   X Band   CYSCAN  Multi Target Laser Radar Positioning System AUTOMATION SYSTEM  Kongsberg K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMERGENCYSTOP9SB1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMERGENCYSTOP9SB1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>FE  ITALY00F17F12079.000F17F12079.0 EMERGENCYSTOP9SB1 9HL1POWER ON110</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

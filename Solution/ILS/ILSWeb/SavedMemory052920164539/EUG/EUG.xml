@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PEUGEOT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PEUGEOT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>PEUGEOT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLEUGER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLEUGER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+        <Paragraphs>       USER INSTRUCTIONS FOR PLEUGER ® Underwater Detachab</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

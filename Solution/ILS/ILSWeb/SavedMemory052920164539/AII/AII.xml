@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>364-65AIIIA42</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>364-65AIIIA42</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>0.2 ppm NO2; ; 0.01 ppm Cl2EIA 364-65AIIIA42 days; 75% RH; 30°C (86°F); </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Cl2EIA364-65AIIIA42</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Cl2EIA364-65AIIIA42</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>0.2 ppm NO2; 0.01 ppm Cl2EIA364-65AIIIA42 days ; 75% RH ; 30 °C (86 °F) ;</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAWAIIAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAWAIIAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004593_Glade_Aerosol_Hawaiian_Breeze.pdf</filepath>
+        <Paragraphs> - HAWAIIAN BREEZE® Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAWAIIAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004892_Glade_PlugIns_Scented_Oil_Lasting_Impressions_Hawaiian_Breeze_and_Vanilla_Passionfruit_05-10-10.pdf</filepath>
+        <Paragraphs>OIL LASTING IMPRESSIONS  -  HAWAIIAN BREEZE® and VANILLA PASSION FRUIT Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAWAIIAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000014767_Glade_Solid_Gel_Hawaiian_Breeze_12-17-10.pdf</filepath>
+        <Paragraphs>- HAWAIIAN BREEZE® Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAWAIIAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000014839_Glade_Automatic_Aerosol_Spray_Hawaiian_Breeze_12-14-10.pdf</filepath>
+        <Paragraphs>SPRAY - HAWAIIAN BREEZE® Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AII</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AII</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>J1402 AII</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AII-AIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AII-AIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> O T  FMVSS     AII AIR BRAKEA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIIAII</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIIAII</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>201100R5J1402 AIIAII</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

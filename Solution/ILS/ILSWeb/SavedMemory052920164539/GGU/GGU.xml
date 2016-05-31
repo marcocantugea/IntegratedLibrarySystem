@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PLUGO-RINGGUIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLUGO-RINGGUIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\N-50B-4KG1_9.pdf</filepath>
+        <Paragraphs>Strainer1.    HYTROL MAIN VALVE 3X 1/2-14 NPT OR3X 3/4 -14 NPT PIPE PLUGO-RINGGUIDE STEM, CRL-60DIAPHRAGM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DGGUHVV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DGGUHVV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>W VXFK DV LQ DQ DGGUHVV  Q WKLV FDVH WKH WH W IRU HDFK ODEHO LV VHSDUDWHG E  HLWKHU D VLQJOH EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DGGUHVV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>W VXFK DV LQ DQ DGGUHVV  Q WKLV FDVH WKH WH W IRU HDFK ODEHO LV VHSDUDWHG E  HLWKHU D VLQJOH EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DGGUHVVHV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DGGUHVVHV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>H DPSOH  KH WZR DGGUHVVHV EHORZ DUH VHSDUDWHG E  D VLQJOH EODQN OLQH  R WKH WH W ZLOO SULQW DV WZR WKUHH OLQH ODEHOV  RZHYHU WKH OLVW LQ WKH IROORZLQJ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DGGUHVVHV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>H DPSOH  KH WZR DGGUHVVHV EHORZ DUH VHSDUDWHG E  D VLQJOH EODQN OLQH  R WKH WH W ZLOO SULQW DV WZR WKUHH OLQH ODEHOV  RZHYHU WKH OLVW LQ WKH IROORZLQJ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

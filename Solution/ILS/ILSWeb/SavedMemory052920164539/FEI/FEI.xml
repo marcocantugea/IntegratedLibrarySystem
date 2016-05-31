@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FEILAKTIG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEILAKTIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FEILAKTIG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FEILAKTIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>FEILAKTIG OPPRETTING   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEIL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEIL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>   FAULT       FAULT NO. FEIL NR.  FEIL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEITO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEITO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Lista de Modificações e Dúvidas a Serem Tiradas Modificada.docx</filepath>
+        <Paragraphs>A NPT  CONFORME FEITO DO OUTRO LADO DA C MARA      Verificar a possibilidade de remover as v lvulas e instalar plugs               CALHA DE COMUNICA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

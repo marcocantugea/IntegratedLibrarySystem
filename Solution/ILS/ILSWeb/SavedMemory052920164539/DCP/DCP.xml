@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DECK3026DA961E015-MEDCPBEZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECK3026DA961E015-MEDCPBEZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1189175-HS-001ADELUGE STATION -OUTSIDE WELL TEST EQUIPMENT AREAWELL TEST EQUIPMENT AREAUPPER DECK3026DA961E015-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DECK3026DA961E013-MEDCPBEZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECK3026DA961E013-MEDCPBEZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1191175-HS-002ADELUGE STATION -CELLAR DECKCELLAR DKLOWER DECK3026DA961E013-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLOOR3026DA961E018-MEDCPBEZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLOOR3026DA961E018-MEDCPBEZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1196175-HS-005ADELUGE STATION -DRILL FLOORDRILL FLOORDRILL FLOOR3026DA961E018-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DECK3026DA961E019-MEDCPBEZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECK3026DA961E019-MEDCPBEZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1200175-HS-007DELUGE STATION -HELI FUEL SKIDHELI FUEL SKIDNAVI. DECK3026DA961E019-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>DCP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCPs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCPs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>There are no other DCPs which are relevant to the proposal.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCPlain</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCPlain</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>lampingPipe Zip DCPlain DCRatingSlip assy Dressing Kit p nInsert Load ringRam Ram Throat </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCPlain</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>lampingPipe Zip DCPlain DCRatingSlip assy Dressing Kit p nInsert Load ringRam Ram Throat </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

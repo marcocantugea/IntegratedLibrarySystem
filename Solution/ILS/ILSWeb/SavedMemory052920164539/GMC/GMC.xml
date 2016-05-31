@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GMC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>GMC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>815363 2, GMC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\cartuchosderespiracion.pdf</filepath>
+        <Paragraphs>GMC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>ck GMB     P    GMC   VO GA  GMC     P    GMC     P      ShortStack GMD GMD     P    GME   Multigas  GME     P    GMI      P    Mersorb  Mersorb     P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMCconprefiltroN95815357con815394363816357</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMCconprefiltroN95815357con815394363816357</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>815357 2, GMCconprefiltroN95815357con815394363816357 2, GMCconprefiltroR95815357con815967 2, GMCP100</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMCconprefiltroR95815357con815967</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMCconprefiltroR95815357con815967</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>815357 2, GMCconprefiltroN95815357con815394363816357 2, GMCconprefiltroR95815357con815967 2, GMCP100</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMCP100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMCP100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>815357 2, GMCconprefiltroN95815357con815394363816357 2, GMCconprefiltroR95815357con815967 2, GMCP100</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HOJAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOJAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\08 Paint Locker.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   Paint Locker                   22:00 HRS MAY 08th 2014AREA IDENTIFICADA Y HOJAS DE DATOS DE SEGIRIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\01 OXY-ACET ROOM.pdf</filepath>
+        <Paragraphs>UST    St       HOJAS DE DATOS DE SEGUIRDAD EN SITIO   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOJA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\21.- SHALE SHAKER .pdf</filepath>
+        <Paragraphs>FALTA HOJA DE DATOS DE SEGURIDAD EN SITIO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Avistat-D MSDS Spa.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Bare Bones MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Concentrado RMX.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Conkleen 204 MSDS Spanish.pdf</filepath>
+        <Paragraphs> Estados unidos HOJA DE DATOS DE SEGURIDAD DEL MATERIAL Similar al Formato OSHA     SECCION       INFORMACION DEL FABRICANTE DISTRIBUIDOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Corral MSDS.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Decade MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Diamond Gloss MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL(Similar al Formato OSHA 174)SECCION 1 226 INFORMACION DEL FABRICANTE/DISTRIBUIDOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\document.pdf</filepath>
+        <Paragraphs> HOJA DE DATOS DE SEGURIDAD      ANTIBACTERIAL ALL PURPOSE CLEANER                              SECCI N      IDENTIFICACI N DEL PRODUCTO Y DE LA COMPA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\emulsika.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIA LES   Emulsika       Fecha de elaboraci n    Fecha de  ltima actualizaci n         de Marzo  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Evergreen Finish MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL  Similar al Formato OSHA      SECCION       INFORMACION DEL FABRICANTE DISTRIBUIDOR Nombre del Producto   Eart</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Frioplast PX.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hds_glp_v082013.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD    GAS LICUADO DEL PETROLEO          S  ECCI   N       IDENTIFICACI   N DEL PRODUCTO Y DEL PROVEEDOR       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-in-13070090-al-048-sigunit-p1-mx.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   IN          AL           IN            AL             Fecha de elaboraci n    Fecha de  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sigunit-liquido-al-032-5-6-base-matrix-2.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S igunit L quidos AL            AL           base Matrix         Fecha de elaboraci n   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sika-boom.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   Sika Boom       Fecha de elaboraci n    Fecha de  ltima actualizaci n         de Marzo d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sika-monotop-723.pdf</filepath>
+        <Paragraphs>       HOJA DE DATOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikabond-t-35.pdf</filepath>
+        <Paragraphs>       HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikaflex-primer-429-202.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S ikaflex Primer                  Fecha de elaboraci n    Fecha de  ltima actualizaci n </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-100-esd.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Sikafloor     ESD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-colorflakes.pdf</filepath>
+        <Paragraphs>       HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-adhesive-componente-a.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S ikaflo or Comfort Adhesive Componente A         Fecha de elaboraci n    Fecha de  ltim</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-adhesive-componente-b.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S ikafloor Comfort Adhesive Com ponente B         Fecha de elaboraci n    Fecha de  ltim</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-porefiller-componente-a.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S ikaflo or Comfort Poref iller   Componente A         Fecha de elaboraci n    Fecha de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-porefiller-componente-b.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S ik afl oor Comfort Porefiller    Componente B         Fecha de elaboraci n    Fecha de</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-decoflakes.pdf</filepath>
+        <Paragraphs>       HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-uretano-premium.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES   Sikafloor Uretano Premium  componente H y R       Fecha de elaboraci n    Fecha de  ltima a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikaguard-62-todos-los-colores.pdf</filepath>
+        <Paragraphs>         MSDS   HOJA DE DATOS DE SEGURIDAD DE MATERIALES Sikaguard    todos los colores  componente A y B Fecha de elaboraci n  Fecha de  ltima actual</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikalastic-612-gris-blanco.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   S ikalastic       Gris y Blanco         Fecha de elaboraci n    Fecha de  ltima actualiz</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HojaSeguridadGasLP_v2007.pdf</filepath>
+        <Paragraphs>Oficinas Centrales. México, D.F. C.P. 11311. HOJA DE DATOS DE SEGURIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Intraplast-Z.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Micro-Cide MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-3in42698713.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DE MATERIALES  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-sika-manto-app-sika-manto-pro-app-monterplas-app.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES   Sika Manto  APP     Sika Manto PRO   APP  Monterplas APP   APP  Monterplas       Fecha de e</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-sikahyflex-260.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES   SikaHyflex           Fecha de elaboraci n    Fecha de  ltima actualizaci n            Febre</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CrystalFoam.pdf</filepath>
+        <Paragraphs> HOJA DE SEGURIDAD:   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_RigWash.pdf</filepath>
+        <Paragraphs>HOJA DE SEGURIDAD: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_RTU-MultiSurfaceWipes.pdf</filepath>
+        <Paragraphs>HOJA DE SEGURIDAD: SIMPLE GREEN® LIMPIADOR DE VIDRIOS Y CO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds_espanol.pdf</filepath>
+        <Paragraphs>277C323MO LEER UNA HOJA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Neutra-Cide 256 MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Next Step MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\No Zap Finish MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ONE STEP MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PLastiment CCR Plus.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Plastiment Liquid.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SaniQuat MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sigunit L-22 R.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sigunit P1 AF.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika 1.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika 2.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Ferrogard 903.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Fiber CHO 6535 NB.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Fiber Microbac.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Fiber Xorex.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Latex AD Concentrado.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Latex AD.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Latex N.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Manto SBS y APP, varios espesores y colores.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Multiseal.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\sika-boom-s-espuma.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD   DE  MATERIALES   Sika Boom   S       Fecha de elaboraci n    Fecha de  ltima actualizaci n         de Abr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaCem Fiber.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaCem Fluidificante.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaCem Impermeabilizante.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikacryl-S.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor 100 ESD, componente R y H.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Sikafloor     ESD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor 110 EpoRok, componentes R y H.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Sikafloor     EpoRok</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor 262 AS, componente A y B.pdf</filepath>
+        <Paragraphs>                HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Sikafloor     AS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor Cure Hard-24.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaGrind 180.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaGrind 200.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaGrind 272 Mx.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikaguard 71W.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikalightcrete.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikalite Plus.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikalite.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikapiso 20.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikapiso 40.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop 111, componente A y B.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop 123, componente A y B.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Armatec 110 EpoCem, componente A, B y C.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Seal 107, componente A y B.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Seal 144, componente A y B.pdf</filepath>
+        <Paragraphs>                        HOJA DE DATOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Spit shine MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\TP 07 Span MSDS.pdf</filepath>
+        <Paragraphs>de los Estados unidos HOJA DE DATOS DE SEGURIDAD DEL MATERIAL(Similar al Formato OSHA 174)SECCION 1 226 INFORMACION DEL FABRICANTE/DISTRIBUIDOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\World Class MSDS Spanish.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DEL MATERIAL (Similar al Formato OSHA 174) N/A =  No aplicable </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41866-MSDS-E_SP SCOTT Super Duty with Grit_ES.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD         SCOTT  Super Duty with Grit         Versi n              Fecha de revisi n                         N mero HDS      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41866-MSDS-E_SP SCOTT Super Duty with Grit_ES_001.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD         SCOTT  Super Duty with Grit         Versi n              Fecha de revisi n                         N mero HDS      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91591-MSDS-E_SP KLEENEX Green Certified Foam Skin Cleanser.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD         KLEENEX  Green Certified Foam Skin  Cleanser         Versi n              Fecha de revisi n                        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\BAROLIFT.pdf</filepath>
+        <Paragraphs>HOJA DE SEGURIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\Encore Base.pdf</filepath>
+        <Paragraphs>    HOJA DE DATOS DE SEGURIDAD DE MATERIALESNombre comercial del</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ENCORE SYSTEM.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Nombre comercial del  producto   ENCORE SYSTEM  F e c h a   d e   R e v i s i   n       mar     V a l o r   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\LIME.pdf</filepath>
+        <Paragraphs>HOJA DE SEGURIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\OxidoDeZinc.pdf</filepath>
+        <Paragraphs>                HOJA   DE SEGURIDAD DEL OXIDO DE ZINC       SECCION I                    DESCRIPCI   N DEL PRODUCTO                       Nombre com  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\RHEMOD L.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Nombre comercial del  producto    F e c h a   d e   R e v i s i   n       ene     F a m i l i a   q u   m i </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\STEEL SEAL 100.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Nombre comercial del  producto   S T E E L S E A L            F e c h a   d e   R e v i s i   n       dic   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\STEEL SEAL 1000.pdf</filepath>
+        <Paragraphs>    HOJA DE DATOS DE SEGURIDAD DE MATERIALESNombre comercial del</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\STEEL SEAL 400.pdf</filepath>
+        <Paragraphs>HOJA DE DATOS DE SEGURIDAD DE MATERIALES  Nombre comercial del  producto   S T E E L S E A L            F e c h a   d e   R e v i s i   n       dic   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\KILL-LOSS.pdf</filepath>
+        <Paragraphs>a para Fluido   HOJ A   D E   SEGUR I DAD             No m b r e     KILL   LOSS   F       Fa m ili a   Qu   m i ca     Po l vo   No m b r e   Qu   m </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

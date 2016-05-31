@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DNP3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNP3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>protocol Modbus DNP  IEC             IEC       TC Binary Output ASDU  FUN  INF LN DO DA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DNP3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs> DNP3 and IEC60870-5-103 with ACE969 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\07 FEB 2014 2200 .pdf</filepath>
+        <Paragraphs>S AUDITIVOS  NO HAY TAPONES AUDITIVOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\19 Moonpool.pdf</filepath>
+        <Paragraphs>HAY BARANDALES, CUBIERTAS DE DRENAJE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\15 Jun Different Rig Areas.pdf</filepath>
+        <Paragraphs>NO HAY ACCESO A STACI323N DE BOTONERAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\March 2014\08 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>NO HAY TAPONES AUDITIVOS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WDBCTL0040HWT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WDBCTL0040HWT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\Product Overview PDF.pdf</filepath>
+        <Paragraphs>WDBCTL0040HWT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WDBCTL0030HWT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WDBCTL0030HWT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\Product Overview PDF.pdf</filepath>
+        <Paragraphs>WDBCTL0030HWT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WDBCTL0020HWT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WDBCTL0020HWT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\Product Overview PDF.pdf</filepath>
+        <Paragraphs>WDBCTL0020HWT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

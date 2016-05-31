@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AEES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-003  HV UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs> Have available AEES UPS manual and DSME Commissioning procedure    Not having the support documentation    In case the UPS throws an unknown alarm or</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-004  DP UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs> Have available AEES UPS manual and DSME Commissioning procedure    Not having the support documentation    In case the UPS throws an unknown alarm or</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

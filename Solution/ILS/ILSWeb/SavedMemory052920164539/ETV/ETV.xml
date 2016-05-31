@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ETVautex</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETVautex</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>r  Vautex Elite ETVautex Elite ETThe chemical protective suit for Emergency Teams  ET  has a combination of elastomer coated</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SPILL-CONTROL-ENVIRONMENTAL-English.pdf</filepath>
+        <Paragraphs>EPA compliant and ETV certi036ed.Prosolv256 SystemSafely and economically convert gas cylinders into recyclable  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

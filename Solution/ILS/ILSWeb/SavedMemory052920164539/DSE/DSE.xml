@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BALLASTANDSEAWATERTANKSMaterial</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BALLASTANDSEAWATERTANKSMaterial</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>BALLASTANDSEAWATERTANKSMaterial</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM41NAVIGATIONANDSEARCHINGEQUIPMENT413GYRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM41NAVIGATIONANDSEARCHINGEQUIPMENT413GYRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>SYSTEM41NAVIGATIONANDSEARCHINGEQUIPMENT413GYRO PLANTS, AUTOPILOTS,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCDSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCDSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs> UPAP  GMDIPE   VCDSE   AEAPN           PROGRAMA DE PERFORACI N   DISE O DEL POZO EXPLORATORIO     EXPLORATUS     DL             DICIEMBRE   DE       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCDSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>UPAP  G MDIPE   VCDSE   AEAP           PROGRAMA DE PERFORACI N   PROYECTO POZO   NOBILIS         Noble             OCTUBRE   DE                    SUB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSERV422</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSERV422</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>DSERV422</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ODSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ODSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>30" ODSECTION A-A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSERV206</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSERV206</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO SERV206.pdf</filepath>
+        <Paragraphs>DSERV206</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

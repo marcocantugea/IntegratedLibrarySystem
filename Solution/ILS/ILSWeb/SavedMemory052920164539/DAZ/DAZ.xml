@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PEDAZO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PEDAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\10 Emergency generator.pdf</filepath>
+        <Paragraphs>PEDAZO DE TRAPO TI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\19 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>ROV AREA   PEDAZO DE CUERDA EN EL PISO( ARREGLADO)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\19 Moonpool.pdf</filepath>
+        <Paragraphs>PEDAZO DE SOGA TIRADA EN EL PISO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\05 RO UNIT .pdf</filepath>
+        <Paragraphs>PEDAZO DE MADERA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\03 Air Compressor Room.pdf</filepath>
+        <Paragraphs>PEDAZO DE MADERA RECOSTADA SOBRE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\22 Engine room #3.pdf</filepath>
+        <Paragraphs>PEDAZO DE TUBO TIRADO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PEDAZOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PEDAZOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\26.- Riser bay.pdf</filepath>
+        <Paragraphs>22:00 HRS NOVEMBER 26th , 2014 PEDAZOS DE MADERA REGADOS (CORREGIDO) /  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\30 oil station stbr.pdf</filepath>
+        <Paragraphs>BO DE SEGURIDAD PEDAZOS DE MADERA REGADOS SOBRE Y ENTRE LOS TOTER DE ACEITE PEDAZOS DE MADERA REGADOS SOBRE Y ENTRE LOS TOTER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PEDAZOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\02 Lower shaker room.pdf</filepath>
+        <Paragraphs>CAJAS VACIAS, PEDAZOS DE MADERA Y CUERDA NECESITAN DISPOSICION FINAL Y MATERIAL Y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIMETHYLIMIDAZOLIDINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-bleach-single-and-twin-epa-us-ghs-sds-6-11-14-with-logo.pdf</filepath>
+        <Paragraphs>ICHLORO         DIMETHYLIMIDAZOLIDINE         DIONE              III   Marine Pollutant   ICAO Shipping Description   UN      OXIDIZING SOLID  CORROSI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-blue-plus-bleach-epa-us-ghs-sds.pdf</filepath>
+        <Paragraphs>HLORO           DIMETHYLIMIDAZOLIDINE           DIONE            III  Marine Pollutant   ICAO Shipping Description  UN      OXIDIZING SOLID  CORROSIVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-msds-20056312479.pdf</filepath>
+        <Paragraphs>ICHLORO         DIMETHYLIMIDAZOLIDINE         DIONE           III            Regulatory Information   US REGULATIONS   Hazard Category For Section    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-antibacterial-toilet-bowl-cleaner-with-bleach-us-ghs-sds.pdf</filepath>
+        <Paragraphs>ICHLORO         DIMETHYLIMIDAZOLIDINE         DIONE            III  Ltd  Qty    Note  Shipping Papers are not required for Limited Quantities unless  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

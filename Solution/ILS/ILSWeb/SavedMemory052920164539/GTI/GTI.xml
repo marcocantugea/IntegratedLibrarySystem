@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GTI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GTI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>GTI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SNUGTITETM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SNUGTITETM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>SNUGTITETM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>767025GTIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>767025GTIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>767025GTIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

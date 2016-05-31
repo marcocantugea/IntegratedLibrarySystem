@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DrawnSHLSU04886-005ROTOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DrawnSHLSU04886-005ROTOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>819262734TOGREASENIPPLEThisdrawingandthedesignshownisourpropertyandmustnotbeusedordisclosedforanythirdpersonwithoutpermission DrawnSHLSU04886-005ROTOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLSR00104</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLSR00104</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>   SHLARD A     SHLSR          SHLSR            SHLSR          SHLSR          SHLSR          SHLSR          SHW       SKITSMT        SLLNL      LS    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLSR0021000</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLSR0021000</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs> SHLSR          SHLSR            SHLSR          SHLSR          SHLSR          SHLSR          SHW       SKITSMT        SLLNL      LS     SLLNL      LS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLSR00501</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLSR00501</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>HLSR            SHLSR          SHLSR          SHLSR          SHLSR          SHW       SKITSMT        SLLNL      LS     SLLNL      LS     SMI          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLSR00601</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLSR00601</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs> SHLSR          SHLSR          SHLSR          SHLSR          SHW       SKITSMT        SLLNL      LS     SLLNL      LS     SMI           SNL       LS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLSR00703</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLSR00703</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs> SHLSR          SHLSR          SHLSR          SHW       SKITSMT        SLLNL      LS     SLLNL      LS     SMI           SNL       LS      SNL       L</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLSR00801</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLSR00801</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs> SHLSR          SHLSR          SHW       SKITSMT        SLLNL      LS     SLLNL      LS     SMI           SNL       LS      SNL       LS     SNYL   DH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HLStandard</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HLStandard</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Special assembly cones MOSI and plates HLStandard assembly cones MOK and plates GHP Operation drive</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

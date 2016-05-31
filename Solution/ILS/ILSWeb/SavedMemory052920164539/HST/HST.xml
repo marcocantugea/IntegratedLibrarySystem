@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MHSTD-Z-BJ30-KA09-0001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MHSTD-Z-BJ30-KA09-0001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-037a.pdf</filepath>
+        <Paragraphs>      Doc  no   MHSTD Z BJ   KA        Rev       Title  Installation Guidelines Page     of     P  Shared Document        Loop Improvement Project Doc</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MHSTD-Z-BJ30-KA09-0002</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MHSTD-Z-BJ30-KA09-0002</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-037a.pdf</filepath>
+        <Paragraphs>allation and return page to Aker MH Please fill in and return document MHSTD-Z-BJ30-KA09-0002 in order to get extended war-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MHSTD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MHSTD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-037a.pdf</filepath>
+        <Paragraphs>    Doc  no     MHSTD   Z   BJ     KA             Rev           Title    Confirmation of installation   Page         of          P </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MHSTD-Z-ZZ50-SA19-0001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MHSTD-Z-ZZ50-SA19-0001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>MHSTD-Z-ZZ50-SA19-0001 (CLASS I)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MHSTD-Z-ZZ50-SA23-0001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MHSTD-Z-ZZ50-SA23-0001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>MHSTD-Z-ZZ50-SA23-0001 (CLASS II)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HSTRE3D</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HSTRE3D</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs>onditions        HSTRE D            Results tabulation and stress check        HCOMP  D           Results comparison for different load cases        H</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NOTWITHSTANDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NOTWITHSTANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\terms-and-conditions-of-sale-usa.pdf</filepath>
+        <Paragraphs>ON WILL APPLY   NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED   REMEDY     In no case will  Zep  Zep   by  Customer   for  the   spe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NOTWITHSTANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> þ  NOTWITHSTANDING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WITHSTAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WITHSTAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Withstand MSDS English.pdf</filepath>
+        <Paragraphs>WITHSTAND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUHSTORF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUHSTORF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>P.O.Box 1164  94095 RUHSTORF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RUHSTORF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>P.O.Box 1164  94095 RUHSTORF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>;!015"EF# 21 in HST RISER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

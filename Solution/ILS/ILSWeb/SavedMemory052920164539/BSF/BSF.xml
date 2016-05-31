@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>220175BSFen-USTraditional</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>220175BSFen-USTraditional</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>220175BSFen-USTraditional lines with a new modern approach. The contoured en-US en-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FPMLBSFPMLBSFPMLBSFPMLBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPMLBSFPMLBSFPMLBSFPMLBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>FPMLBSFPMLBSFPMLBSFPMLBS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BSFI-350</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BSFI-350</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO LUBE117.pdf</filepath>
+        <Paragraphs>5.- Check back-up disc brake system according to:  Cycles For Testing Brake Callipers Type BSFI-350 MS25R...</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

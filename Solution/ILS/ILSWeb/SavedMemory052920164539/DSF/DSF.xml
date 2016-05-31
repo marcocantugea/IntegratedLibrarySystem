@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PDSF-B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDSF-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PDSF-B </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PWDSFemale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PWDSFemale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>ar pump flanges PWDSFemale BSPP thread BFW  GGear pump flange   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PDSF-BSquare</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PDSF-BSquare</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>om  flange size PDSF BSquare flange  butt weld connection Square flange   Butt weld tube end</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GJD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GJD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de cabina de control  Gas y fuego 0 to10.pdf</filepath>
+        <Paragraphs>ith Quotation   GJD   CAR     Rev   Dat e   Description   Originator   Approved By   Client Approval        TS      Rev Z      December               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GJD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>ith Quotation   GJD   CAR     Rev   Dat e   Description   Originator   Approved By   Client Approval        TS      Rev Z      December               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

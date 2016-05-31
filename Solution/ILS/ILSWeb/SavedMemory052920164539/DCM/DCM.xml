@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DCMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>components, see DCMS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>components  see DCMS Topology and DrillView Functional Description  ref  chapter      References      The cameras have an IP address  and are connecte</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>LIEGEPFKEOKCAJKKAFFPNDHFCHBINEIBGDMLBENHODDCMODDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

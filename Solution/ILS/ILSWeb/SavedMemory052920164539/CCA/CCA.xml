@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>IDROMECCANICI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDROMECCANICI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs> GIUNTI IDROMECCANICI  MANUALE D'USO E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDROMECCANICI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs> GIUNTI IDROMECCANICI  MANUALE D'USO E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDROMECCANICI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs> GIUNTI IDROMECCANICI  MANUALE D'USO E </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDROMECCANICO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDROMECCANICO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>IL GIUNTO IDROMECCANICO SI SURRISC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDROMECCANICO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>IL GIUNTO IDROMECCANICO SI SURRISC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDROMECCANICO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>IL GIUNTO IDROMECCANICO SI SURRISCALDA OPPURE IL TAPPO FUSIBILE O </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>508ABACBABBBCCCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>508ABACBABBBCCCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>508ABACBABBBCCCA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>508ABACBABBBCCCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>508ABACBABBBCCCA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA630</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA630</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>1 A or 5 A CT (with CCA630 or CA634)Consumption&lt; 0.02 VA at 1 A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA634</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA634</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CT + CCA634 combination.TS/TC equivalence for each protocol Modbus DNP3 IEC 60870-5-103 IEC 61850 TC Binary Output ASDU, FUN, INF LN.DO.DA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA67</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA67</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA67</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA614</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA614</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>check the CCA614 cord connection between the ACE850 interface and the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA626</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA626</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs> Accessory for bridging terminals 3 and 5 supplied with CCA626 connector.  211 6PCRED301006EN - 03/2011 InstallationBase unit</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA670</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA670</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA670 connector. The connection of only one </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA634DE52520Description</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA634DE52520Description</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>20 A rating CSHIn0 = 20 A2 to 400 A Variant 3: residual current measurement by 1 A or 5 A CTs and CCA634DE52520Description</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA613</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA613</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA613 remote test plug, flush-mounted on the front of the cubicle and equipped </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA671</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA671</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA671 interface connector (9-pin sub-D). 5</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA770</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA770</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA770 (L = 0.6 m or 2 ft)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA772</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA772</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA772 (L = 2 m or 6.6 ft)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA774</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA774</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA774 (L = 4 m or 13.1 ft). </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA772MSA141</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA772MSA141</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Module  DE      CCA   MSA    CCA   MET      CCA    DSM    CCA   MSA    CCA   MET      CCA    MET      CCA   MET      CCA   MET      CCA    DSM   DE   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA770MET148-2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA770MET148-2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>   CCA   MSA    CCA   MET      CCA    DSM    CCA   MSA    CCA   MET      CCA    MET      CCA   MET      CCA   MET      CCA    DSM   DE      D         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA772MET148-2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA772MET148-2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CCA    MET      CCA   MET      CCA   MET      CCA    DSM   DE      D                 PCRED      EN             Installation MET         Temperature se</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA77x</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA77x</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>ase unit with a CCA  x cord RJ   connector to link up the next remote module with a CCA  x cord     according to application  Grounding earthing termi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA612</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA612</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>interfaces Connection cords          CCA612 connection cord Function The CCA612 prefabricated cord is used to connect ACE949-2, ACE959, ACE937, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA783</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA783</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>The CCA783 or CCA784 PC connecting cord, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA784</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA784</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>The CCA783 or CCA784 PC connecting cord, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCA785</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCA785</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>are transmitted to the Sepam base unit via the CCA785 connection cord.Block diagramDE80238AnticipationIt is possible to anticipate the function by </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

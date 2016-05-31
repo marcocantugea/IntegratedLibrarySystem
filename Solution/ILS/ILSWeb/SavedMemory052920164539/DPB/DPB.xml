@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DPB1X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPB1X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPB1X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPB2X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPB2X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPB2X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPB3X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPB3X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPB3X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPB4X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPB4X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPB4X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPB5X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPB5X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPB5X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPBO-LAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPBO-LAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>shall open.  9.  If not, adjust valve DPBO-LAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

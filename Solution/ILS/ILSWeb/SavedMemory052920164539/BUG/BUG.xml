@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BUG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaker room 2200 hrs .pdf</filepath>
+        <Paragraphs>BUG BLOWER UNINSTALLED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaleshakers 1000 hrs .pdf</filepath>
+        <Paragraphs>BUG BLOWER UNINSTALLED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000013074_Raid_Max_Bug_Barrier_11-19-2009.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  RAID® MAX BUG BARRIER Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BUG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\RAID%c2%ae+HOUSE+%26+GARDEN+BUG+KILLER+FORMULA+7.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  RAID® HOUSE &amp; GARDEN BUG KILLER FORMULA 7 Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

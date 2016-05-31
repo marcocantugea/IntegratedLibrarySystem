@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EASLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EASLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\20 Navigationdeck.pdf</filepath>
+        <Paragraphs>FOAM KIT BOX LID  DOES NOT OPEN EASLY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRASLADARA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRASLADARA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\1.- Plan Control de Brote y H. caido 8.10.2015.doc</filepath>
+        <Paragraphs>MIEROS AUXILIOS TRASLADARA  LA PERSONA CAIDA AL HOSPITAL           BRIGADA DE CONTROL DE PRIMEROS AUXILIOS      EL MEDICO ATENDERA A LA PERSONA ENGASA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRASLADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRASLADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\1.- PLANEACION.doc</filepath>
+        <Paragraphs>NA RESCATADA SE TRASLADA AL CONSULTORIO M DICO        MEDICO     SE DARA POR FINALIZADO EL SIMULACRO        RADIO OPERADOR     BRIGADAS QUE PARTICIPAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRASLADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRASLADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>SUPERVISI N DEL TRASLADO Y  POSICIONAMIENTO DE PLATAFORMAS DE PERFORACI N MARINA TIPO  SEMISUMERGIBLES DE POSICIONAMIENTO DIN MICO   GO   PP   TC     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>ASL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASLSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASLSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>6000 PSI Series ASLSAE Straight flange adapterSAE Flange       / Butt weld tube end</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

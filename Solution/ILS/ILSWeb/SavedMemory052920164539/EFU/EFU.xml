@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>USEFUL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>USEFUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>59. USEFUL INFORMATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0112NewREFURB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0112NewREFURB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>0112NewREFURB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0114NewREFURB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0114NewREFURB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>0114NewREFURB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0115NewREFURB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0115NewREFURB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>0115NewREFURB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0116NewREFURB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0116NewREFURB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>0116NewREFURB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0119NewREFURB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0119NewREFURB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>0119NewREFURB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAREFULLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAREFULLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>LED EXTR EMELY  CAREFULLY AS THEY AR E CONSTRUCTED USING  CERAMIC  CAPACITORS      T HE MODULES MUST NOT  BE  SUBJECTED   TO  IMPACTS AND WHERE PO SSI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFURBISHMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFURBISHMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>MAJOR REFURBISHMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

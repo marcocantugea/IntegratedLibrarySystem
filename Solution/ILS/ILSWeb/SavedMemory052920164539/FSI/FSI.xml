@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSIV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSIV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\5-crewboat-181-fsiv-procyon.pdf</filepath>
+        <Paragraphs>FSIV -  DIMENSIONS   Length overall:.............................................................................55,15 m </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSIV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\fsiv-181-bourbon-deneb.pdf</filepath>
+        <Paragraphs>FSIV -  DIMENSIONS   Length overall:.............................................................................55,15 m </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

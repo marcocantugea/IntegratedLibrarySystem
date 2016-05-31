@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DNBAUS33</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNBAUS33</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Quotation\Copia de Proforma Invoice  MS0000014 (002).pdf</filepath>
+        <Paragraphs>rk   swift code DNBAUS   Beneficiary  Navico  Inc  Account             CASH IN ADVANCE                  LAMURALLA IV SALES AMOUNT M V LAMURALLA IV VER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAUTISTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAUTISTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>TANTE ALEJANDRO BAUTISTA PERAZA Rig   La Muralla IV En la direcci n de entrega Payment    days after invoice CERTIFICADO CALIDAD CERTIFICADO ORIGEN IN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TERBAU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TERBAU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\AUTO FUEL FILTER_3609DV703M002.pdf</filepath>
+        <Paragraphs>L   KIRa t FIL  TERBAU  GJB t I Z       BI         Se eISSTR      ro    B   laEX   B      Nr  Bezeichnung  SKIZZE IDENT   NR  ZEICHNG NR  I PDS NR  ST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EWF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EWF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EWF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEWF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEWF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEWF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FlangeThreadAEWF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FlangeThreadAEWF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>FlangeThreadAEWF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -8,6 +8,7 @@ Module Module1
         Dim doprogram As Boolean = True
         Dim l_filesfound As New FileShowedCollection
         Dim d_MainDictionary As New ILSCore.ilscore.lib.entities.DictionaryWords
+        Dim threat_opener As System.Threading.Thread
 
         While doprogram = True
             Dim command As String = Console.ReadLine()
@@ -103,9 +104,10 @@ Module Module1
             End If
 
             If command.Contains("startsearch") Then
+
                 Dim o_command As New ilsserver.server.Commands
                 o_command.StartManualSearch(l_filesfound)
-                Console.WriteLine("Files Found : " & l_filesfound.Count.ToString)
+                'Console.WriteLine("Files Found : " & l_filesfound.Count.ToString)
                 Console.WriteLine("")
                 Console.WriteLine("")
             End If
@@ -128,9 +130,52 @@ Module Module1
                 Dim o_pdft As New ILSCore.ilscore.lib.file.OpenerPDFText
 
                 If Not command.Contains("""") Then
-                    'For Each item As ILSCore.ilscore.lib.entities.FileShowed In l_filesfound
-                    'TOADD look in all files
-                    'Next
+                    Dim count_processedfiles As Integer = 0
+                    Console.WriteLine("Reading Files please wait..")
+                    For Each item As ILSCore.ilscore.lib.entities.FileShowed In l_filesfound.Items
+                        If item.GetExtention.Equals(".doc") Then
+                            'create threat
+                            o_w.Dictionary = d_MainDictionary
+                            o_w.FilePath = item.GetFullActualPath
+                            threat_opener = New Threading.Thread(AddressOf o_w.OpenerWordFile)
+                            threat_opener.Start()
+                            threat_opener.Join()
+
+                            'o_w.OpenerWordFile(d_MainDictionary, item.GetFullActualPath)
+                        End If
+                        If item.GetExtention.Equals(".docx") Then
+                            Try
+                                'create threat
+                                o_wx.Dictionary = d_MainDictionary
+                                o_wx.FilePath = item.GetFullActualPath
+                                threat_opener = New Threading.Thread(AddressOf o_wx.OpenerWordXFile)
+                                threat_opener.Start()
+                                threat_opener.Join()
+
+                                'o_wx.OpenerWordXFile(d_MainDictionary, item.GetFullActualPath)
+                            Catch ex As Exception
+                                Console.WriteLine("Error Reading file : " & item.GetFileName)
+                            End Try
+
+                        End If
+                        If item.GetExtention.Equals(".pdf") Then
+                            Try
+                                Console.WriteLine("Opening : " & item.GetFileName)
+                                o_pdft.Dictionary = d_MainDictionary
+                                o_pdft.FilePath = item.GetFullActualPath
+                                threat_opener = New Threading.Thread(AddressOf o_pdft.OpenPDFTxt)
+                                threat_opener.Start()
+                                threat_opener.Join()
+
+                                'o_pdft.OpenPDFTxt(d_MainDictionary, item.GetFullActualPath)
+
+                            Catch ex As Exception
+                                Console.WriteLine("Error Reading file : " & item.GetFileName)
+                            End Try
+                        End If
+                        count_processedfiles = count_processedfiles + 1
+                    Next
+                    Console.WriteLine("Files Processed: " & count_processedfiles.ToString)
                 Else
 
                     Dim v_command() As String
@@ -152,11 +197,21 @@ Module Module1
                         For Each item As ILSCore.ilscore.lib.entities.FileShowed In l_filesfound.Items
                             If item.GetExtention.Equals(v_command(1)) Then
                                 If item.GetExtention.Equals(".doc") Then
-                                    o_w.OpenerWordFile(d_MainDictionary, item.GetFullActualPath)
+                                    'create threat
+                                    o_w.Dictionary = d_MainDictionary
+                                    o_w.FilePath = item.GetFullActualPath
+                                    threat_opener = New Threading.Thread(AddressOf o_w.OpenerWordFile)
+                                    threat_opener.Start()
+                                    'o_w.OpenerWordFile(d_MainDictionary, item.GetFullActualPath)
                                 End If
                                 If item.GetExtention.Equals(".docx") Then
                                     Try
-                                        o_wx.OpenerWordXFile(d_MainDictionary, item.GetFullActualPath)
+                                        'create threat
+                                        o_wx.Dictionary = d_MainDictionary
+                                        o_wx.FilePath = item.GetFullActualPath
+                                        threat_opener = New Threading.Thread(AddressOf o_wx.OpenerWordXFile)
+                                        threat_opener.Start()
+                                        'o_wx.OpenerWordXFile(d_MainDictionary, item.GetFullActualPath)
                                     Catch ex As Exception
                                         Console.WriteLine("Error Reading file : " & item.GetFileName)
                                     End Try
@@ -165,7 +220,13 @@ Module Module1
                                 If item.GetExtention.Equals(".pdf") Then
                                     Try
                                         Console.WriteLine("Opening : " & item.GetFileName)
-                                        o_pdft.OpenPDFTxt(d_MainDictionary, item.GetFullActualPath)
+                                        o_pdft.Dictionary = d_MainDictionary
+                                        o_pdft.FilePath = item.GetFullActualPath
+                                        threat_opener = New Threading.Thread(AddressOf o_pdft.OpenPDFTxt)
+                                        threat_opener.Start()
+                                        threat_opener.Join()
+
+                                        'o_pdft.OpenPDFTxt(d_MainDictionary, item.GetFullActualPath)
 
                                     Catch ex As Exception
                                         Console.WriteLine("Error Reading file : " & item.GetFileName)
@@ -203,6 +264,9 @@ Module Module1
 
                     For Each item As ILSCore.ilscore.lib.entities.WordFile In wc_wordscollected.Items
                         Console.WriteLine("WORD : " & item.Word & "  FILE:" & item.FileRelated.GetFullActualPath)
+                        Console.WriteLine("Paragraph")
+                        Console.WriteLine(item.Paragraphs)
+
                     Next
 
                     If wc_wordscollected.Count = 0 Then

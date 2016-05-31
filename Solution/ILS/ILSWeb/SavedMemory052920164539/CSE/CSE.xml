@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ACCSESS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACCSESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>/ GUIDELINE TO ACCSESS FOR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TCSEAK0100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCSEAK0100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs> parameters The TCSEAK     configuration kit can be used </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs> CSECTION      PHYSICAL  AND  CHEMICAL  PROPERTIESCONDITIONS TO AVOID   Extreme temperatures  open flames INCOMPATIBILITY  MATERIALS TO AVOID    Stron</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRASCSEAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRASCSEAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Fracseal_Rheochem.pdf</filepath>
+        <Paragraphs>u  RHEOCHEM LTD FRASCSEAL FINE  MEDIUM DRILLING FLUID ADDITIVE FINE FRACSEAL    Sep      Fax Supplier Name Address Telephone Emergency Web Site Synony</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRACSEAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRACSEAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Fracseal_Rheochem.pdf</filepath>
+        <Paragraphs>D ADDITIVE FINE FRACSEAL    Sep      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  MSDS Date Product Name NOT CLASSIFIED AS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

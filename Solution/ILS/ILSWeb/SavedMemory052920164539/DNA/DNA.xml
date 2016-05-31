@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Nitrile, rolled edge, roughened fingertips, powder free, 240mm, 2pcs DNA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Olay_Regenerist_DNA_Superstructure_Cream_(98641938).pdf</filepath>
+        <Paragraphs>:  Olay Regenerist DNA Superstructure Cream (98641938)  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DNA222</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNA222</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>DNA222 FREE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACORODNAMIENTOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACORODNAMIENTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\29 bahia de risers.pdf</filepath>
+        <Paragraphs>   h      FALTA ACORODNAMIENTOS EN AREA DE RIESGOS FALTA SEGREGACION ADECUADA  FALTAN  CHAVETAS QUE NOS GARANTIZEN UNA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

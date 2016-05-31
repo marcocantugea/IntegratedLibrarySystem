@@ -1,0 +1,2218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OILFORTESTSANDTRIALTRIPSConsumptionoffuel</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OILFORTESTSANDTRIALTRIPSConsumptionoffuel</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>OILFORTESTSANDTRIALTRIPSConsumptionoffuel</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>58SANITARYSYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>58SANITARYSYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>58SANITARYSYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>gp87581SANITARYSUPPLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>gp87581SANITARYSUPPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>gp87581SANITARYSUPPLY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHESTS-OF-DRAWERS541CHICKSAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHESTS-OF-DRAWERS541CHICKSAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>CHESTS-OF-DRAWERS541CHICKSAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>445GARBAGEDISPOSALPLANTS445GARBAGEDISPOSALUNIT551GARBAGEINCINERATOR445GASANDFIREALARMDEVICES811GASANDOXYGENDELIVEREDWITHPLATFORM441GASANDOXYGENduring</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>445GARBAGEDISPOSALPLANTS445GARBAGEDISPOSALUNIT551GARBAGEINCINERATOR445GASANDFIREALARMDEVICES811GASANDOXYGENDELIVEREDWITHPLATFORM441GASANDOXYGENduring</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>TRUCTION PLANT     GARBAGEDISPOSALPLANTS   GARBAGEDISPOSALUNIT   GARBAGEINCINERATOR   GASANDFIREALARMDEVICES   GASANDOXYGENDELIVEREDWITHPLATFORM   GAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAND-SANDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAND-SANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>HAND-SANDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INSULATIONOFSANITARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INSULATIONOFSANITARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>INSULATIONOFSANITARY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DESANDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DESANDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>DESANDER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANITARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANITARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SANITARY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.5.12   SANITARY SYSTEM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs> WATER INTO THE SANITARY SEWAGE SYSTEM  PRODUCT IS BIODEGRADABLE  DO NOT                     REUSE EMPTY CONTAINER  WRAP CONTAINER AND PUT IN TRASH   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GASANALVZING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GASANALVZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>GASANALVZING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PASANDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PASANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L07 Passing non-shearables through BOP checklist.doc</filepath>
+        <Paragraphs> BOP CHECKLIST  PASANDO HERRAMIENTAS NO CORTABLES A TRAV S DE PREVENTORES        MGT   L                                                              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>USANDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\08 Mud Lab.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour                  MUD LAB  22:00 HRS AUGUST 08th , 2014 PERSONAL USANDO EPP COMPLETO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\08 FEB 2014 2200 Cuttings Skip Area.pdf</filepath>
+        <Paragraphs>ON A THIN SUPPORTING EDGE SE ESTAN USANDO EN LAS CAJAS DE RECORTE GRIL-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\21 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>SE ESTA USANDO GRILLETE DE DOS PARTES. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\09.-SEPTIEMBRE\02 Port-Fwd pontoon.pdf</filepath>
+        <Paragraphs>       PERSONAL USANDO PPE CORRECTAMENTE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\11 Upper deck PRT-FWD.pdf</filepath>
+        <Paragraphs>AISLES CLEAR AND CLEAN  PERSONAL USANDO EPP COMPLETO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\05.-Pits room.pdf</filepath>
+        <Paragraphs>EQUIPMENT STOWED PROPWERLY  TRABAJADOR USANDO EPP COMPLETO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08.-Tanks 4S STBD pontoon.pdf</filepath>
+        <Paragraphs>PERSONAL USANDO EPP COMPLETO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\11.-Machine shop.pdf</filepath>
+        <Paragraphs>TRABAJADOR USANDO EPP COMPLETO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\15 Tank 7s.pdf</filepath>
+        <Paragraphs>DEC 15TH 10:00 HRS  , 2014  TRABAJADOR USANDO EPP ESPECIFICO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\18 Trash area.pdf</filepath>
+        <Paragraphs>GOOD ORGANIZATION AND HOUSEKEEPING  TRABAJADOR USANDO EPP COMPLETO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\14.- CUARTO DE PRESAS.pdf</filepath>
+        <Paragraphs>PERSONAL USANDO EL EPP  COMPLETO Y               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>USANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\01 Subsea shop.pdf</filepath>
+        <Paragraphs>TRABAJADOR USANDO EPP COMPLETO AISLES CLEAN AND FREE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANITARIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANITARIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\14 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>           PISO DE AREA DE SANITARIO ESTA SUCIA CON LODO. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAUSAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAUSAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\15  temblorinas 22 00.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   Temblorinas   22:00 HRS MAY 15th 2014CARTONES TIRADOS CAUSAN RIESGO DE TROPEZONES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REBOSANDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REBOSANDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\11 UpperDeck Port side.pdf</filepath>
+        <Paragraphs>CINTA BARRICADCA SIN RETIRAR Y BOTE DE BASURA REBOSANDO   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NISSAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NISSAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>NISSAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>           TUBE SAND  BLASTED  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton_MSDS_Sand_Premium_Brown.pdf</filepath>
+        <Paragraphs>SAND - PREMIUM BROWN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Lista de Modificações e Dúvidas a Serem Tiradas Modificada.docx</filepath>
+        <Paragraphs> PARA DENTRO DO SAND TRAP  ACHAR LOCAL PARA REINSTAL  LA     Ir a bordo e checar possibilidade de instal  la no by pass do flow divider que vai para o</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THOUSAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>SUBTOTAL DESCUENTO FIJO  l.V.A. THREE  HUNDRED  EIGHTY-TWO  THOUSAND  NINE  HUNDRED  TWENTY  MXN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\3027-14-0007.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0009A\Procurement Document\OC 3027-14-0009A.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\PO 3027-14-0107.pdf</filepath>
+        <Paragraphs>E EN LETRA FIVE THOUSAND THIRTY SIX  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0153\Procurement Document\PO 3027-14-0153.pdf</filepath>
+        <Paragraphs>RA SEVENTY NINE THOUSAND EIGHT HUNDRED SIXTY SIX  MXN AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158A\Procurement Document\OC 3027-14-0158A APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158B\Procurement Document\OC 3027-14-0158B.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158C\Procurement Document\OC 3027-14-0158C.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\OC 3027-14-0739.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\OC 3027-14-1012 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\OC 3027-14-1012.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\OC 3027-14-1017.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017 AUT..pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA Rev2.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019 APROBADA.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019.pdf</filepath>
+        <Paragraphs>THOUSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\PO 3027-15-0479.pdf</filepath>
+        <Paragraphs> LETRA FOURTEEN THOUSAND FIVE HUNDRED   USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733 APROBADA.pdf</filepath>
+        <Paragraphs> EN LETRA THREE THOUSAND SEVEN HUNDRED FORTY ONE  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733.pdf</filepath>
+        <Paragraphs> EN LETRA THREE THOUSAND SEVEN HUNDRED FORTY ONE  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>LETRA FORTY SIX THOUSAND TWO HUNDRED EIGHTY FOUR  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THOUSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PO 3027-15-0116.pdf</filepath>
+        <Paragraphs> EN LETRA THREE THOUSAND SIX HUNDRED THIRTY FOUR  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KRISTIANSAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mousehole 45FT BX201).pdf</filepath>
+        <Paragraphs>girsvei  A      KRISTIANSAND S Faglig leder Inspector     mai      Prod  ihht  acc  to    DIN        M    IKKE VARMEBEHANDLES NOT  TO BE HEAT TREATED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Mousehole 60FT BX202).pdf</filepath>
+        <Paragraphs>girsvei  A      KRISTIANSAND S Faglig leder Inspector     september      CONSISTING OF    x     mtr   MM DYF   x LR GALV      N MM   RHLL  MBL    kN B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708101 -  ~04082011082801.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708207 -  ~04082011083338.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708744 -  ~02252011101042.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710607 -  ~04052011031028.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 711494 -  ~04272011050517.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712381 - 1 ~05162011051054.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712735 -  ~05242011031204.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712760 -  ~05242011050539.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 713036 -  ~05312011030134.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0002 NOV Spare Parts\Commercial Invoice 49490 ~08302011065913.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0003 NOV Spare Parts\Sales Order Acknowledgement 715282 ~07142011020404.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0004 NOV Spare Parts\Sales Order Acknowledgement 715274 ~07142011020911.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0009 NOV Spare Parts\Commercial Invoice 49348 ~08262011054614.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712381KRS ~07042011073909.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712735 ~07042011074251.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712887 ~07042011073533.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Commercial Invoice 48753.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0027 NOV Spare Parts\Commercial Invoice 49569 ~08312011063514.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0032 NOV Spare Parts\Commercial Invoice 48995 ~08192011051644.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0032 NOV Spare Parts\Sales Order Acknowledgement 714540 ~06292011055630.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0033 NOV Spare parts\Commercial Invoice 48902 ~08182011052541.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0033 NOV Spare parts\Sales Order Acknowledgement 714535 ~06292011040103.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0034 NOV Spare Parts\Commercial Invoice 48901 ~08182011052524.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0034 NOV Spare Parts\Sales Order Acknowledgement 714534 ~06292011054610.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0036 NOV Spare parts\Commercial Invoice 48903 ~08182011052557.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0036 NOV Spare parts\Sales Order Acknowledgement 713393 ~06292011035334.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0037 NOV Spare Parts\Sales Order 716187a.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0044 NOV Spare parts\Sales Order Invoice 47464 ~07112011030528.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0063 NOV Spare Parts\Sales Order Invoice 47463 ~07112011030512.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0064 NOV Spare Parts\Sales Order Invoice 47619 ~07142011074430.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0074 NOV Riser Granty Crane\ODN2-11-0074 714006KRS REV 1 PART NUNBER.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0087 NOV Crown Mounted Compensator ET\Sales Order Acknowledgement 712002KRS ~07252011034250.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0088 NOV Hydratong ET\Sales Order Acknowledgement 712022KRS1 ~07252011033920.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0089 NOV Active Heave Compesator ET\Sales Order Acknowledgement 712406KRS1 ~07252011033555.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0090 NOV Riser Catwolk Machine ET\Sales Order Acknowledgement 710692KRS1 ~07252011033122.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0091 NOV Gripper YOKE ET\Sales Order Acknowledgement 712596KRS ~07252011032730.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0092 NOV Guide ARM ET\Sales Order Acknowledgement 712571KRS ~07252011031529.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0093 NOV HPU &amp; AHC ET\Commercial Invoice 48982 ~08192011031736.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0094 NOV X-mas Tree 150T ET\ODN2-11-0094 712463KRS REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0094 NOV X-mas Tree 150T ET\Sales Order Acknowledgement 712463KRS ~07252011030710.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0096 NOV Derrick\Sales Order Acknowledgement 706623KRS ~07252011022502.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0097 NOV XT Gantry Crane ET\Sales Order Acknowledgement 711705KRS ~07252011022112.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0099 NOV Utility Winch ET\Sales Order Acknowledgement 714988 ~07252011021727.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\ODN2-11-0100 714982 REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\Sales Order Acknowledgement 714982 ~07252011021415.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0106 NOV Manrider Winch ET\Sales Order Acknowledgement 715001 ~07252011020134.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0139 NOV Mousehole Spare Parts\Sales Order Acknowledgement 716190 ~08222011070656.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0144 NOV Powered Mousehole\Sales Quote Acknowledgement 716190 - 1 ~08032011114427.pdf</filepath>
+        <Paragraphs>DVERGSNES, N-4639 KRISTIANSAND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\GRUPO R PERFORACION MARINA  COTIZACION  05 CILINDROS DE AIRE EXTRA SECO PRAXAIR   REFERENCIA 3027‐15‐0733  SEPTIEMBRE 08 2015.pdf</filepath>
+        <Paragraphs>NO              SAN SALVADOR XOCHIMANCA         MEXICO  D F                R F C      PME        GG         El n mero de Referencia y la informaci n b</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Cool Mist _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Fresh Outdoors _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant New Car _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wild Berry _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Cool Mist _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Fresh Outdoors _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>LES DONN311ES FOURNIES SON T  UNIQUEMEN T  A L222IN T EN T ION DES QUES T IONS SUR LA SAN T 311 E T  LA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes New Car _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Wild Berry _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Care Protectant _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Wipes _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Natural Car Wash Concentrate(01-2012)  FrenchCanada.pdf</filepath>
+        <Paragraphs>SÉCURITÉ ET LA SAN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant Wipes _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Tire Foam _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Protectant Wipes _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Protectant _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Tire Foam _01-2013_ FrenchCanada.pdf</filepath>
+        <Paragraphs>S311CURI T 311 E T  LA SAN T 311 AU  T RAVAIL.    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1419961-AU-02-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1419961-AU-02-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1419961-AU-02-001ADDRESSANLE UNIT -OUTSIDE STAIR WAY M111OUTSIDE STAIR WAY M1112ND ACCOM3026DA961E016-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1420961-AU-07-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1420961-AU-07-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1420961-AU-07-001ADDRESSANLE UNITM302FAN ROOMFAN ROOM M302UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1421961-AU-07-002ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1421961-AU-07-002ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1421961-AU-07-002ADDRESSANLE UNITM222STAIRWAYSTAIRWAY M222UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1422961-AU-07-003ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1422961-AU-07-003ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1422961-AU-07-003ADDRESSANLE UNIT-STAIRWAYSTAIRWAYUPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1423961-AU-07-004ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1423961-AU-07-004ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1423961-AU-07-004ADDRESSANLE UNITM319-M319UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1424961-AU-07-005ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1424961-AU-07-005ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1424961-AU-07-005ADDRESSANLE UNITM218HYDR. ROOMHYDR. ROOM M218TWEEN DECK3026DA961E014-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1425961-AU-07-006ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1425961-AU-07-006ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1425961-AU-07-006ADDRESSANLE UNITM156HIGH VOLTAGE ROOMHIGH VOLTAGE ROOM M156TWEEN DECK3026DA961E014-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1426961-AU-07-007ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1426961-AU-07-007ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1426961-AU-07-007ADDRESSANLE UNITM156HIGH VOLTAGE ROOMHIGH VOLTAGE ROOM M156TWEEN DECK3026DA961E014-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1427961-AU-07-008ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1427961-AU-07-008ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1427961-AU-07-008ADDRESSANLE UNITM156HIGH VOLTAGE ROOMHIGH VOLTAGE ROOM M156TWEEN DECK3026DA961E014-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1428961-AU-07-009ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1428961-AU-07-009ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1428961-AU-07-009ADDRESSANLE UNIT-STBD AFT FUNNELSTBD AFT FUNNELUPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1429961-AU-07-010ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1429961-AU-07-010ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1429961-AU-07-010ADDRESSANLE UNIT-STBD AFT FUNNELSTBD AFT FUNNELUPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1430961-AU-07-011ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1430961-AU-07-011ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1430961-AU-07-011ADDRESSANLE UNIT-STBD AFT FUNNELSTBD AFT FUNNELUPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1431961-AU-07-012ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1431961-AU-07-012ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1431961-AU-07-012ADDRESSANLE UNITM334-M334UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1432961-AU-07-013ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1432961-AU-07-013ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1432961-AU-07-013ADDRESSANLE UNITM335VENT HOUSEVENT HOUSE M335UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1433961-AU-07-014ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1433961-AU-07-014ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1433961-AU-07-014ADDRESSANLE UNITM335VENT HOUSEVENT HOUSE M335UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1434961-AU-07-015ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1434961-AU-07-015ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1434961-AU-07-015ADDRESSANLE UNIT-SUBSEA WORK AREASUBSEA WORK AREAUPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1435961-AU-07-016ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1435961-AU-07-016ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1435961-AU-07-016ADDRESSANLE UNITM326SACK STORESACK STORE M326UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1436961-AU-07-017ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1436961-AU-07-017ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1436961-AU-07-017ADDRESSANLE UNITM312-M312UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1437961-AU-07-018ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1437961-AU-07-018ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1437961-AU-07-018ADDRESSANLE UNITM313FAN ROOMFAN ROOM M313UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1438961-AU-07-019ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1438961-AU-07-019ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1438961-AU-07-019ADDRESSANLE UNITM208HYDR ROOMHYDR ROOM M208TWEEN DECK3026DA961E014-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1439961-AU-07-020ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1439961-AU-07-020ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1439961-AU-07-020ADDRESSANLE UNITM208HYDR ROOMHYDR ROOM M208TWEEN DECK3026DA961E014-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1440961-AU-07-021ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1440961-AU-07-021ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>        AU       ADDRESSANLE UNIT FWD LIFE BOATFWD LIFE BOATUPPER DECK    DA   E    TYCOC   T Z   APCPCWM         WP        WP        APCPCWM         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1441961-AU-08-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1441961-AU-08-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>Fire ZoneMANUFACTURERMODEL NO.Rev.REMARK 1441961-AU-08-001ADDRESSANLE UNIT-2ND ACCOM. STBD AFTDRILL FLOOR PORT FWD2ND ACCOM.3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1442961-AU-08-002ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1442961-AU-08-002ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1442961-AU-08-002ADDRESSANLE UNIT-M603 OUTSIDE3RD ACCOM.3RD ACCOM.3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1443961-AU-08-003ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1443961-AU-08-003ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1443961-AU-08-003ADDRESSANLE UNITM307FUNNELFUNNEL M307UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1444961-AU-08-004ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1444961-AU-08-004ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1444961-AU-08-004ADDRESSANLE UNITM311FAN ROOMHURRICANE GENERATOR RM M309UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1445961-AU-08-005ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1445961-AU-08-005ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1445961-AU-08-005ADDRESSANLE UNITM403FAN ROOMHURRICANE GENERATOR RM M309UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1446961-AU-08-006ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1446961-AU-08-006ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1446961-AU-08-006ADDRESSANLE UNITM403FAN ROOMHURRICANE GENERATOR RM M309UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1447961-AU-08-007ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1447961-AU-08-007ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1447961-AU-08-007ADDRESSANLE UNITM403FAN ROOMHURRICANE GENERATOR RM M309UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1448961-AU-10-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1448961-AU-10-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1448961-AU-10-001ADDRESSANLE UNIT-OUTSIDE M324OUTSIDE M324UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1449961-AU-15-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1449961-AU-15-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1449961-AU-15-001ADDRESSANLE UNIT-HELI DECKHELI DECKNAVI. DECK3026DA961E019-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1450961-AU-15-002ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1450961-AU-15-002ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1450961-AU-15-002ADDRESSANLE UNIT-HELI DECKHELI DECKNAVI. DECK3026DA961E019-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1451961-AU-15-003ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1451961-AU-15-003ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1451961-AU-15-003ADDRESSANLE UNIT-HELI DECKHELI DECKNAVI. DECK3026DA961E019-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1452961-AU-15-004ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1452961-AU-15-004ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1452961-AU-15-004ADDRESSANLE UNIT-HELI FUEL SKIDHELI FUEL SKIDNAVI. DECK3026DA961E019-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1453961-AU-15-005ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1453961-AU-15-005ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1453961-AU-15-005ADDRESSANLE UNITM704BATTERY ROOMBATTERY ROOM M704NAVI. DECK3026DA961E019-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1454961-AU-19-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1454961-AU-19-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1454961-AU-19-001ADDRESSANLE UNIT-DRILL FLOORDRILL FLOORDRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1455961-AU-19-002ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1455961-AU-19-002ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1455961-AU-19-002ADDRESSANLE UNIT-OUTSIDE DCROUTSIDE DCRDRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1456961-AU-19-003ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1456961-AU-19-003ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1456961-AU-19-003ADDRESSANLE UNIT-OUTSIDE DCROUTSIDE DCRDRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1457961-AU-19-004ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1457961-AU-19-004ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1457961-AU-19-004ADDRESSANLE UNIT-OUTSIDE M607OUTSIDE M607DRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1458961-AU-21-001ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1458961-AU-21-001ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1458961-AU-21-001ADDRESSANLE UNITM317PAINT LOCKERPAINT LOCKER M317UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1459961-AU-21-002ADDRESSANLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1459961-AU-21-002ADDRESSANLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1459961-AU-21-002ADDRESSANLE UNITM317PAINT LOCKERPAINT LOCKER M317UPPER DECK3026DA961E015-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PULSANTIERAPUSHBUTTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PULSANTIERAPUSHBUTTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Green FRONTE PULSANTIERAPUSHBUTTON FRONT BOX FIRMA F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PULSANTIERAREAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PULSANTIERAREAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>0Green RETRO PULSANTIERAREAR PUSHBUTTON BOX 110</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANITATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANITATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>ATIONS MECHANICAL PROTECTION GLOVE STYLE #   APPLICATION    SEGMENT DUTY LEVEL FISHING FORESTRY  JANITORIAL / SANITATION W</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>en-USANSI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>en-USANSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>edium     þ  en-USANSI þ  Basic Z87 þ  High Z87+ þ  en-USProduct Marking for AS/NZS 1337 I þ  Medium Impact þ  M þ       Molt</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>en-USANCHORAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>en-USANCHORAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>by no more than 2 people. en-USANCHORAGE en-USHARNESSen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> SANTA CRUZ231 FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANWAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANWAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>ARCA  PROCOBRE  SANWAY  TECNOSOL  USOL SITUACI   N QUE GUARDA LA  INDUSTRIA NACIONAL DE  CALENTADORES SOLARES DE  AGUA  COMPARATIVO DE TECNOLOG AS SOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANITIZER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003665_Oust_Surface+Disinfectant_%26_Air_Sanitizer_Outdoor_Scent_12-01-2009.pdf</filepath>
+        <Paragraphs>NFECTANT &amp; AIR SANITIZER - </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\A-1_Bleach_label.pdf</filepath>
+        <Paragraphs>SANITIZER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Purell_Hand_Sanitizer_9652_msds.pdf</filepath>
+        <Paragraphs>   INSTANT HAND SANITIZER WITH MOISTURIZERS AND VITAMIN E  Company Name   Address     GOJO Industries  Inc   One GOJO Plaza  Suite      Akron  OH     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Purell_Instant_Hand_Sanitizer_1000ml_2156-08_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Purell_Instant_Hand_Sanitizer_250ml_Refill_9654-12_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Purell_Instant_Hand_Sanitizer_800ml_9657_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Purell_Instant_Hand_Sanitizer_8oz_9651-24_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ozium_3000_Air_Freshener_031_msds.pdf</filepath>
+        <Paragraphs>53031CWD OZIUM GLYCOL-IZED AIR SANITIZER - ALL SIZES &amp; FRAGRANCES (metered aerosol version)   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ozium_3000_Metered_Fresh_Country_TMS331_msds.pdf</filepath>
+        <Paragraphs>53031CWD OZIUM GLYCOL-IZED AIR SANITIZER - ALL SIZES &amp; FRAGRANCES (metered aerosol version)   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ozium_7000C_017_msds.pdf</filepath>
+        <Paragraphs>53031CWD OZIUM GLYCOL-IZED AIR SANITIZER - ALL SIZES &amp; FRAGRANCES (metered aerosol version)   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Purell_Hand_Sanitizer_9656_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Purell_Hand_Sanitizer_9659_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Purell_Hand_Sanitizer_wAloe_9631_msds.pdf</filepath>
+        <Paragraphs>PURELL256 INSTANT HAND SANITIZER WITH ALOE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Purell_Instant_Hand_Sanitizer_12oz_9639_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANITIZER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Purell_Instant_Hand_Sanitizer_2oz_9650-24_msds.pdf</filepath>
+        <Paragraphs>L  INSTANT HAND SANITIZER   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANT311</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANT311</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Behold_Furniture_Polish_96406_msds.pdf</filepath>
+        <Paragraphs>SANT311 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs> 2 SANI CLOTH HB  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sani-Turge MSDS English.pdf</filepath>
+        <Paragraphs>SANI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANIQUAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANIQUAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SaniQuat MSDS English.pdf</filepath>
+        <Paragraphs>SANIQUAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANTOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs> SANTOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_Basin_Newsletter_4_Dec2010.pdf</filepath>
+        <Paragraphs>hemicals   TELL SANTOS Santos    of   ce at    Marquis Street  Gunnedah is open    ve days a week  Please call in and see the team anytime if you  wou</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>4SANTOS325 EHSPOLICIES EHSMSStandards SANTOS EHS POLICIES &gt;SantosEvolution of the Environment,Health and Safety</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANTOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>                                Z 10.08.30 As-Built  KM SANTOS SW KIM JT KIM  Rev Date Description Prepared CheckedChecked Approved  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>4SANTOS325</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>4SANTOS325</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>4SANTOS325 EHSPOLICIES EHSMSStandards SANTOS EHS POLICIES &gt;SantosEvolution of the Environment,Health and Safety</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5EHSMSStandardsSANTOS325</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5EHSMSStandardsSANTOS325</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>5EHSMSStandardsSANTOS325 EHSPOLICIES SantosEnvironmental PolicyOur Environmental Vision: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DeterminedSAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DeterminedSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton_MSDS_Sand_Premium_Brown.pdf</filepath>
+        <Paragraphs>Not DeterminedSAND - PREMIUM BROWN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>766SAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>766SAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton_MSDS_Sand_Premium_Brown.pdf</filepath>
+        <Paragraphs>0800 764 766SAND - PREMIUM BROWN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\10000932772 -PDC-000 Manual Riser telescopic Joint.pdf</filepath>
+        <Paragraphs>ISUNGSET, SANDER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STYLESANDACCESSORIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STYLESANDACCESSORIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Demcocat[1].pdf</filepath>
+        <Paragraphs>STYLESANDACCESSORIES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYEONGSANGNAM-DO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>  GYEONGSANGNAM-DO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>  GYEONGSANGNAM-DO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708744 -  ~02252011101042.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710607 -  ~04052011031028.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 711494 -  ~04272011050517.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712381 - 1 ~05162011051054.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712735 -  ~05242011031204.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712760 -  ~05242011050539.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0002 NOV Spare Parts\Commercial Invoice 49490 ~08302011065913.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0003 NOV Spare Parts\Sales Order Acknowledgement 715282 ~07142011020404.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0009 NOV Spare Parts\Commercial Invoice 49348 ~08262011054614.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712381KRS ~07042011073909.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712735 ~07042011074251.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712887 ~07042011073533.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Commercial Invoice 48753.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0027 NOV Spare Parts\Commercial Invoice 49569 ~08312011063514.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0033 NOV Spare parts\Commercial Invoice 48902 ~08182011052541.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0033 NOV Spare parts\Sales Order Acknowledgement 714535 ~06292011040103.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0034 NOV Spare Parts\Commercial Invoice 48901 ~08182011052524.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0034 NOV Spare Parts\Sales Order Acknowledgement 714534 ~06292011054610.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0036 NOV Spare parts\Commercial Invoice 48903 ~08182011052557.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0036 NOV Spare parts\Sales Order Acknowledgement 713393 ~06292011035334.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0037 NOV Spare Parts\Sales Order 716187a.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0044 NOV Spare parts\Sales Order Invoice 47464 ~07112011030528.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0063 NOV Spare Parts\Sales Order Invoice 47463 ~07112011030512.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0064 NOV Spare Parts\Sales Order Invoice 47619 ~07142011074430.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0074 NOV Riser Granty Crane\ODN2-11-0074 714006KRS REV 1 PART NUNBER.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0087 NOV Crown Mounted Compensator ET\Sales Order Acknowledgement 712002KRS ~07252011034250.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0088 NOV Hydratong ET\Sales Order Acknowledgement 712022KRS1 ~07252011033920.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0090 NOV Riser Catwolk Machine ET\Sales Order Acknowledgement 710692KRS1 ~07252011033122.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0091 NOV Gripper YOKE ET\Sales Order Acknowledgement 712596KRS ~07252011032730.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0092 NOV Guide ARM ET\Sales Order Acknowledgement 712571KRS ~07252011031529.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0093 NOV HPU &amp; AHC ET\Commercial Invoice 48982 ~08192011031736.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0094 NOV X-mas Tree 150T ET\ODN2-11-0094 712463KRS REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0096 NOV Derrick\Sales Order Acknowledgement 706623KRS ~07252011022502.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0097 NOV XT Gantry Crane ET\Sales Order Acknowledgement 711705KRS ~07252011022112.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\ODN2-11-0100 714982 REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\Sales Order Acknowledgement 714982 ~07252011021415.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0106 NOV Manrider Winch ET\Sales Order Acknowledgement 715001 ~07252011020134.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>656-714 GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0139 NOV Mousehole Spare Parts\Sales Order Acknowledgement 716190 ~08222011070656.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM-DO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0144 NOV Powered Mousehole\Sales Quote Acknowledgement 716190 - 1 ~08032011114427.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-DO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUSAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUSAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>SUSAN GILLIS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUSAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>SUSAN GILLIS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYEONGSANGNAM-D0</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYEONGSANGNAM-D0</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM-D0  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KRISTIANSANDTERMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KRISTIANSANDTERMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>A NOV WAREHOUSE KRISTIANSANDTERMS AND CONDITIONS                                                                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSANDTERMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708101 -  ~04082011082801.pdf</filepath>
+        <Paragraphs>A NOV WAREHOUSE KRISTIANSANDTERMS AND CONDITIONS                                                                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSANDTERMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708207 -  ~04082011083338.pdf</filepath>
+        <Paragraphs>A NOV WAREHOUSE KRISTIANSANDTERMS AND CONDITIONS                                                                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSANDTERMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>A NOV WAREHOUSE KRISTIANSANDTERMS AND CONDITIONS                                                                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KRISTIANSANDTERMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708744 -  ~02252011101042.pdf</filepath>
+        <Paragraphs>A NOV WAREHOUSE KRISTIANSANDTERMS AND CONDITIONS                                                                                                      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>eMailKRISTIANSAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710607 -  ~04052011031028.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 711494 -  ~04272011050517.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712381 - 1 ~05162011051054.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712735 -  ~05242011031204.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712760 -  ~05242011050539.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712381KRS ~07042011073909.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712735 ~07042011074251.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712887 ~07042011073533.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\ODN2-11-0100 714982 REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\Sales Order Acknowledgement 714982 ~07252011021415.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0106 NOV Manrider Winch ET\Sales Order Acknowledgement 715001 ~07252011020134.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>eMailKRISTIANSAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0139 NOV Mousehole Spare Parts\Sales Order Acknowledgement 716190 ~08222011070656.pdf</filepath>
+        <Paragraphs>Customer eMailKRISTIANSAND RIG SOLUTIONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SANDTVEIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712381KRS ~07042011073909.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712735 ~07042011074251.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712887 ~07042011073533.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Commercial Invoice 48753.pdf</filepath>
+        <Paragraphs>Remit ToSales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0023 NOV Spare Parts\Sales Order Acknowledgement 714639 ~06302011075857.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0027 NOV Spare Parts\Commercial Invoice 49569 ~08312011063514.pdf</filepath>
+        <Paragraphs>Remit ToSales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0044 NOV Spare parts\Sales Order Invoice 47464 ~07112011030528.pdf</filepath>
+        <Paragraphs>Remit ToSales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0063 NOV Spare Parts\Sales Order Invoice 47463 ~07112011030512.pdf</filepath>
+        <Paragraphs>Remit ToSales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0093 NOV HPU &amp; AHC ET\Commercial Invoice 48982 ~08192011031736.pdf</filepath>
+        <Paragraphs>Remit ToSales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\Sales Order Acknowledgement 714982 ~07252011021415.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0106 NOV Manrider Winch ET\Sales Order Acknowledgement 715001 ~07252011020134.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SANDTVEIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>Sales RepRANDI SANDTVEIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYEONGSANGNAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0087 NOV Crown Mounted Compensator ET\Sales Order Acknowledgement 712002KRS ~07252011034250.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0088 NOV Hydratong ET\Sales Order Acknowledgement 712022KRS1 ~07252011033920.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0090 NOV Riser Catwolk Machine ET\Sales Order Acknowledgement 710692KRS1 ~07252011033122.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0091 NOV Gripper YOKE ET\Sales Order Acknowledgement 712596KRS ~07252011032730.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0092 NOV Guide ARM ET\Sales Order Acknowledgement 712571KRS ~07252011031529.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0093 NOV HPU &amp; AHC ET\Commercial Invoice 48982 ~08192011031736.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0096 NOV Derrick\Sales Order Acknowledgement 706623KRS ~07252011022502.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0097 NOV XT Gantry Crane ET\Sales Order Acknowledgement 711705KRS ~07252011022112.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\Sales Order Acknowledgement 714982 ~07252011021415.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0102 NOV Bellyboard ET\Sales Order Acknowledgement 714990 ~07252011020930.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0105 NOV Pipe Catwalk Shuttle ET\Sales Order Acknowledgement 715004 ~07252011020559.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0106 NOV Manrider Winch ET\Sales Order Acknowledgement 715001 ~07252011020134.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GYEONGSANGNAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>GYEONGSANGNAM 656-714</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>15BodyGRS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15BodyGRS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>15BodyGRS 250Valve Body16Sleeve </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GRStraight</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GRStraight</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSXG16SMSX  DIN fittings I16Catalogue 4100-7/UK GRStraight reducerEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

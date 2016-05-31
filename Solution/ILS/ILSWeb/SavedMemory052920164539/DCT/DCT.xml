@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CNDCT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CNDCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>CNDCT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DCT_Delimer.pdf</filepath>
+        <Paragraphs> Product Name   DCT DELIMER LIQUID         MSDS Date        June                       Revision No            Page      of      SECTION          PRODU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DCT_Stainless_Steel_Cleaner_and_Polish.pdf</filepath>
+        <Paragraphs> Product Name   DCT STAINLESS STEEL CLEANER AND POLISH           MSDS Date        June                         Revision No           Page      of     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCT1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCT1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DCT_Delimer.pdf</filepath>
+        <Paragraphs>uct ID Number   DCT            Product Description   Descaler       COMPANY IDENTIFICATION     Supplier   Diversified Chemical Technologies  Inc      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCT1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DCT_Stainless_Steel_Cleaner_and_Polish.pdf</filepath>
+        <Paragraphs>uct ID Number   DCT              Product Description   Cleaner   Polisher of Stainless Steel Equipment       COMPANY IDENTIFICA TION     Supplier   Di</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

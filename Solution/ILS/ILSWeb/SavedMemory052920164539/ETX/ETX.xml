@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ETX-S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>2 ETX-S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>4EMTXS4EMTXSS4 ETX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S6-4EMTXSS6-4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S6-4EMTXSS6-4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>6-4 ETX-S6-4EMTXSS6-4 ETX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S8-6EMTXSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S8-6EMTXSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>8-6 ETX-S8-6EMTXSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S10-8EMTXSS10-8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S10-8EMTXSS10-8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10-8 ETX-S10-8EMTXSS10-8 ETX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S12-8EMTXSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S12-8EMTXSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>12-8 ETX-S12-8EMTXSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S12-10EMTXSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S12-10EMTXSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>12-10 ETX-S12-10EMTXSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S14EMTXSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S14EMTXSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>14 ETX-S14EMTXSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETX-S16-12EMTXSS16-12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETX-S16-12EMTXSS16-12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>16-12 ETX-S16-12EMTXSS16-12 ETX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-S4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-S4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>4 WETX-WLN-S4 WETX-WLN-SS4 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>4 WETX-WLN-S4 WETX-WLN-SS4 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>4 WETX-WLN-S4 WETX-WLN-SS4 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-S5</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-S5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>5 WETX-WLN-S5 WETX-WLN-SS5 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS5</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>5 WETX-WLN-S5 WETX-WLN-SS5 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>6WEMTXWLNMS6 WETX-WLN-SS6 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>8WEMTXWLNMS8 WETX-WLN-SS8 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10WEMTXWLNMS10 WETX-WLN-SS10 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>12WEMTXWLNMS12 WETX-WLN-SS12 WETX-WLN-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-S14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-S14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>14 WETX-WLN-S14 WETX-WLN-SS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-SS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-SS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>14 WETX-WLN-S14 WETX-WLN-SS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-S16</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-S16</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>16 WETX-WLN-S16 WETX-WLN-SS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WETX-WLN-S20</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WETX-WLN-S20</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>20 WETX-WLN-S20 WETX-WLN-SS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GJENVEKT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GJENVEKT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>GJENVEKT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GJENVEKT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>V306SKENS GJENVEKT ELLER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

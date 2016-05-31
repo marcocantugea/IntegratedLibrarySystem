@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BBV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+        <Paragraphs>Banco: BBV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BBV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Invoicing\Factura de clientes 19014.pdf</filepath>
+        <Paragraphs>Banco: BBV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BBV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Invoicing\Factura de clientes 19015.pdf</filepath>
+        <Paragraphs>Banco: BBV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BBV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Invoicing\Factura de clientes 19019.pdf</filepath>
+        <Paragraphs>Banco: BBV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BBV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Invoicing\Factura de clientes 19018.pdf</filepath>
+        <Paragraphs>Banco: BBV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BBV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>Banco: BBV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BBVA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBVA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Invoicing\Factura de clientes 19017.pdf</filepath>
+        <Paragraphs>Banco: BBVA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NIBBVS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NIBBVS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>eLLK 92018/18 NIBBVS 09 ATEX E 034Ex de mb ib IIC T4COMPLETE ASSY.N/A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LTDGBW-12CDPRODUCT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LTDGBW-12CDPRODUCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert.pdf</filepath>
+        <Paragraphs>Y  NEW ZEALAND  LTDGBW   CDPRODUCT NAMEENZYME Use s  Synonym s GBW   CD   HEMICELLULASE ENZYME MSDS Date   June     CLASSIFIED AS HAZARDOUS ACCORDING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LTDGBW-12CDPRODUCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert_001.pdf</filepath>
+        <Paragraphs>Y  NEW ZEALAND  LTDGBW   CDPRODUCT NAMEENZYME Use s  Synonym s GBW   CD   HEMICELLULASE ENZYME MSDS Date   June     CLASSIFIED AS HAZARDOUS ACCORDING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DGBall</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DGBall</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>logue        UK DGBall bearing rotary fittings  ring piston  intermediate ring  rubber spring  base  pivot  ball  top  raceway  dust seal positionspec</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

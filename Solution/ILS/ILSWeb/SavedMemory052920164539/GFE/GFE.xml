@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GFEPDs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFEPDs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>cables recommends the use of GFEPDs with a nominal 30 milliampere trip level for </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEVICESRINGFEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEVICESRINGFEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>PECIALTYLOCKING DEVICESRINGFEDER CORPORATIONW       RINGFEDER Products are available from MARYLAND METRICS P O  Box       Owings Mills  MD       USA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RINGFEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RINGFEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>YLOCKING DEVICESRINGFEDER CORPORATIONW       RINGFEDER Products are available from MARYLAND METRICS P O  Box       Owings Mills  MD       USA   email </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Devices1RINGFEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Devices1RINGFEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>RINGFEDER CORPORATIONSpecialty Locking Devices1RINGFEDER CORPORATIONSpecialty ProductsINTERNALLOCKING ASSEMBLIES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3RINGFEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3RINGFEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>Fig.13  Tightening procedure positionINSTALLATION and REMOVAL Instructions 3RINGFEDER CORPORATION     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5RINGFEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5RINGFEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs> TAS      S  S   RINGFEDER CORPORATION     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

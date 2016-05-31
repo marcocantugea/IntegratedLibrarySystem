@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BPP0707-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPP0707-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>BPP0707-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BPP0707-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BPP0707-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>BPP0707-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

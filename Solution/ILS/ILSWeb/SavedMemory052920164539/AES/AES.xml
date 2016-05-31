@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CONTRAMAESTRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONTRAMAESTRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\19. Contramaestre.pdf</filepath>
+        <Paragraphs>EV      CARGO   CONTRAMAESTRE   REPORTA A   Capit n    OIM         UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   T cnico o  p</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>YAESU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>YAESU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>                YAESU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REATAESLINGAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REATAESLINGAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>9017933ESLINGAS CON ABSORBEDOR DE ENERGÍA Y PUNTO DE ANCLAJE EN REATAESLINGAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SALVAESCALERASCondicionesComponentesAsiento</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SALVAESCALERASCondicionesComponentesAsiento</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CAPITULO3.pdf</filepath>
+        <Paragraphs>    cm C SILLAS SALVAESCALERASCondicionesComponentesAsiento con respaldo reposabrazos y reposapiest cnicasPendiente ngulo m ximo    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Tide_Instant_Detergent_08349_msds.pdf</filepath>
+        <Paragraphs>AES 68585-34-2 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Tide_Laundry_Detergent_24758_msds.pdf</filepath>
+        <Paragraphs>AES 68585-34-2 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MetricInchSAESAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MetricInchSAESAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>MetricInchSAESAE   Assembly torque</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AESS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-003  HV UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs>ure to have the AESS UPS manual and commissioning procedure handy     L    L    L                                            Perform the Commissioning</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-004  DP UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs>ure to have the AESS UPS manual and commissioning procedure handy     L    L    L            Changeover to any other DP workstation that does not feed</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

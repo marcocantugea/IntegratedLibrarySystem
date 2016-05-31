@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HMC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>HMC 2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>HANDLING    The HMC      crane is a complete  electro hydraulic operated  independent  self contained unit  Equipped with a circular foundation for we</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>andling Crane   HMC      PDPH     Customer Aker Solutions MH     Location  stbd   port  aft  frwd       Starboard AFT Midships        Main Components </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HMC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>andling Crane   HMC      PDPH     Customer Aker Solutions MH    Location  stbd   port  aft  frwd       Starboard AFT Midships        Main Components  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HMCDVIV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HMCDVIV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs>oad cases        HMCDVIV            Generates current profiles suitable for input to SHEAR         HCALDAM            Calculates   total VIV damage   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

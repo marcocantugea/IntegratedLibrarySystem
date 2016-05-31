@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WELDSHOPOUTSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELDSHOPOUTSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>791961-MAC-07-010ADDR. CALLPOINT. WATERPROOF SAFETY OUTDOOR-OUTSIDE WELDSHOPOUTSIDE WELDSHOPUPPER DECK3026DA961E015F593TYCOMEDC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WELDSHOPUPPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELDSHOPUPPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>791961-MAC-07-010ADDR. CALLPOINT. WATERPROOF SAFETY OUTDOOR-OUTSIDE WELDSHOPOUTSIDE WELDSHOPUPPER DECK3026DA961E015F593TYCOMEDC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WELDSHOP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELDSHOP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP844.pdf</filepath>
+        <Paragraphs>961-MAC-07-010 OUTSIDE WELDSHOP UPPER DECK F593</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STANDARDSHSHS01Hand</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANDARDSHSHS01Hand</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>39EHSMSStandards HEALTH AND SAFETY HAZARD STANDARDSHSHS01Hand SafetyPurpose</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STANDARDSHSHS08Chemical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STANDARDSHSHS08Chemical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>45EHSMSStandards HEALTH AND SAFETY HAZARD STANDARDSHSHS08Chemical Management and Dangerous Goods Purpose</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WH-M-KDSHigh</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WH-M-KDSHigh</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>fittings or alternative sealing materials see page I7. WH-M-KDSHigh pressure banjo elbowEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WH-R-KDSHigh</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WH-R-KDSHigh</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>fittings or alternative sealing materials see page I7. WH-R-KDSHigh pressure banjo elbowEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TH-M-KDSHigh</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TH-M-KDSHigh</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>fittings or alternative sealing materials see page I7. TH-M-KDSHigh pressure banjo teeEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TH-R-KDSHigh</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TH-R-KDSHigh</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>fittings or alternative sealing materials see page I7. TH-R-KDSHigh pressure banjo teeEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDSHDP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDSHDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>torque, high speed drilling operations. HDSHDP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

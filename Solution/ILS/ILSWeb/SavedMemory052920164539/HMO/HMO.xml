@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VIBRATIONSWITCHMODELEuro366G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VIBRATIONSWITCHMODELEuro366G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>VIBRATIONSWITCHMODELEuro366G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLUSHMOUNTEDSLIPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLUSHMOUNTEDSLIPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>FLUSHMOUNTEDSLIPS Varco BJ is an industry leader in casing handling equipment, offering a wide</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FLUSHMOUNTEDSLIPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>FLUSHMOUNTEDSLIPS Varco BJ is an industry leader in casing handling equipment, offering a wide</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CTC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\GE - Converteam\CTC-PC-2015-004.pdf</filepath>
+        <Paragraphs>         Ref    CTC   PC                       Rev            Date          May              Compliance Category        S   Timing Code             th</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CTC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\GE - Converteam\CTC_PC-2015-005.pdf</filepath>
+        <Paragraphs>        Ref     CTC   PC                      Rev             Date          May              Compliance Category        S   Timing Code               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HLG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HLG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs> Gas Channel    HLG   HLG       LEL   High  Level Gas Alarm   Remains Off   No   Remains Off   Remains Off     X       Gas Channel    HLG   HLG       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HLG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs> Gas Channel    HLG   HLG       LEL   High  Level Gas Alarm   Remains Off   No   Remains Off   Remains Off     X       Gas Channel    HLG   HLG       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DDP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\NSF-GOR-0915-137.pdf</filepath>
+        <Paragraphs> USD INCOTERMS  DDP Tiempo de Entrega        semanas Embarcaci n   Proyecto  Muralla IV Lifeboat No    and   RFQ  E mail Item Cantidad Unidad No  Part</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DDPDT-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DDPDT-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs> load contacts  DDPDT  Double Pole  Double Throw load switches   EExd Manual Atex    GPage Table </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

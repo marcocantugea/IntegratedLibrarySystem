@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CPT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cloro.pdf</filepath>
+        <Paragraphs>CPT : 1 PPM. CCT : 3 PPM.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>sensorSCPT-600-10-07</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>sensorSCPT-600-10-07</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Pressure/temperature sensorSCPT-600-10-07 Assembly fixtures, tools, cone gauges, and lubricant must be ordered separately</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

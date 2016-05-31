@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FOC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-024.pdf</filepath>
+        <Paragraphs>Hek AB will send the parts FOC and compensate you with a lump sum of 5</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOCOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOCOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\08 Galley dry store .pdf</filepath>
+        <Paragraphs>FOCOS FUERA DE SERVICIO EN LOS 4 CONGELADORES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOCUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOCUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>he  PA N  TILT  FOCUS   ZOOM   PCB may or may not be fitted depending on the  system configuration         Open the Jupiter   Subsea Control System in</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOCUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>SAFETY FOOTWEAR FOCUS ON WELL-BEING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BIFOCALS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BIFOCALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>e as UNIFOCALS  BIFOCALS or PROGRESSIVE  clear or tinted  anti re   ective coating available    Eye  Face  Head   Weldingwww honeywellsafety com</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUFFOCATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUFFOCATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dry Ice UltraIce CO2 Safety Data Sheet SDS P4575.pdf</filepath>
+        <Paragraphs>ND CAU SE RAPID SUFFOCATION              Other hazards   Other hazards not contributing to the  classification       Refrigerated solidified gas  CONT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUFFOCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUFFOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 14 CF4 Safety Data Sheet SDS P4665.pdf</filepath>
+        <Paragraphs>AND CAUSE RAPID SUFFOCA TION    Precautionary statements  GHS   US        P         Do not handle until all safety precautions have been read and unde</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUFFOCAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUFFOCAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 22 CHCIF2 Safety Data Sheet SDS P4667.pdf</filepath>
+        <Paragraphs>AND CAUSE RAPID SUFFOCAT ION    CGA   HG        MAY CAUSE FROSTBITE    Precautionary statements  GHS   US        P         Do not handle until all saf</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

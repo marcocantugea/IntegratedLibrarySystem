@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EAMY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EAMY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011020_Glade_2in1_Candle_Creamy_Custard_%26_Blushing_Apple_10-26-10.pdf</filepath>
+        <Paragraphs>EAMY CUSTARD® &amp; BLUSHING  APPLE® Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CREAMY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CREAMY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011020_Glade_2in1_Candle_Creamy_Custard_%26_Blushing_Apple_10-26-10.pdf</filepath>
+        <Paragraphs>Trade name : GLADE® 2 IN 1 CANDLE - CREAMY CUSTARD® &amp; </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CREAMY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pink N Creamy MSDS English.pdf</filepath>
+        <Paragraphs>CREAMY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CREAMY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Soft N Creamy MSDS English.pdf</filepath>
+        <Paragraphs>CREAMY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

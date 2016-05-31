@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COLORBEDXTENDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLORBEDXTENDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>COLORBEDXTENDER HD231</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEDXTENDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEDXTENDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BEDXTENDER HD231 MOTOCHEVROLET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TAGOUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>boxes LOCKOUT   TAGOUT     Honeywell Safety Productswww honeywellsafety com TRAININGHoneywell Safety Products supports a positive program to deliver w</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RIGOUR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RIGOUR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>RIGOUR &amp; QUALITY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

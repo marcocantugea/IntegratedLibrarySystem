@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ASJONSRETNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASJONSRETNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ASJONSRETNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUFTLEKKASJE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUFTLEKKASJE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LUFTLEKKASJE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LUFTLEKKASJE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>     LUFTLEKKASJE I AKSELTETNING, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROTASJONSHASTIGHETEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROTASJONSHASTIGHETEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ROTASJONSHASTIGHETEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROTASJONSHASTIGHETEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>   ROTASJONSHASTIGHETEN IKKE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROTASJONSRETNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROTASJONSRETNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>FEIL ROTASJONSRETNING  SUCTION LIFT OR VAPOUR  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ABBShanghai</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABBShanghai</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>2008.12.24ASSMotors Address ABBShanghai</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MotorsAddressABBShanghai</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MotorsAddressABBShanghai</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>MotorsAddressABBShanghai</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BBSPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBSPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DIN 3852 Form BBSPP ISO 1179-2DIN 3852 Form BBSPPBSPP ISO 1179-2 NPT/NPFTUN/UNFNPT/NPFTUN/UNFUN/UNF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BBSPPBSPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBSPPBSPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DIN 3852 Form BBSPP ISO 1179-2DIN 3852 Form BBSPPBSPP ISO 1179-2 NPT/NPFTUN/UNFNPT/NPFTUN/UNFUN/UNF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

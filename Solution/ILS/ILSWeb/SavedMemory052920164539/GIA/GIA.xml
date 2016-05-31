@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VIGIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VIGIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\11 UTILITY ROOM M 106.pdf</filepath>
+        <Paragraphs> M 106 10:00 HRS  OCT. 11Th, 2014 FALTA VIGIA EN LA ENTRADA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EQUIPAGGIATI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EQUIPAGGIATI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>EQUIPAGGIATI CON TAPPI  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EQUIPAGGIATI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>EQUIPAGGIATI CON TAPPI  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EQUIPAGGIATI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>EQUIPAGGIATI CON TAPPI  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALLOGGIAMENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALLOGGIAMENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>  53 ALLOGGIAMENTO PREMISTOPPA / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLANGIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLANGIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>112 FLANGIA B5 AD255</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALERGIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERGIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Septic-System-and-Cesspool-Treatment-Liquid-Spanish-MSDS-ZLST.pdf</filepath>
+        <Paragraphs>INGESTIÓN. PUEDE PROVOCAR UNA ALERGIA EN LA PIEL.*Hazard Determination System (HDS): Health, Flammability, ReactivityEfectos agudos Ojos</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

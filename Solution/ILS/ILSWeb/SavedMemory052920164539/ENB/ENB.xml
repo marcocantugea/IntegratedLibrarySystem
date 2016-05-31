@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENBromine</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENBromine</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_Permeation_2015_02.pdf</filepath>
+        <Paragraphs>ENBromine (10 g/m2)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENBurst</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENBurst</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PhosphatedZinc platedChromium6-TubeToleranceWallTubeDIN ENDIN ENBurst</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

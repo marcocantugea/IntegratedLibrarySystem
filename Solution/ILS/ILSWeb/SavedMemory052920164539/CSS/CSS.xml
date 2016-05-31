@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ANALYTICSSOUTH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANALYTICSSOUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>236961-ASH-037F&amp;GHC GAS DETECTOR1M320 Cutting Cleaning/Shale Shaker Room / ZONE 1HONEYWELL ANALYTICSSOUTH KOREASensepoint XCD S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ERICSSON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ERICSSON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>             GE ERICSSON Jaguar    P    PI  P   IP            HT     S     T  HA VSX                      P  KPC                   Monogram           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Behold_Furniture_Polish_96406_msds.pdf</filepath>
+        <Paragraphs>4400) or CSST in  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSSI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSSI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>cas y el sticas CSSI AVO   se utilizan  patrones estructurales y estratigr ficos para la caracterizaci n de la roca a lmac n en los diferentes  cuerpo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>CSS 1001Dairy Hydraulic Fluid</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>pin51604-8-CSSW40</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>pin51604-8-CSSW40</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>1Roll pin51604-8-CSSW40 GEAR TRAIN ASSEMBLY  1.26</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>pin51604-8-CSSW40</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>1Roll pin51604-8-CSSW40 GEAR TRAIN ASSEMBLY  1.26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRGELTETCSSEENGOther</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRGELTETCSSEENGOther</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>BRGELTETCSSEENGOther</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

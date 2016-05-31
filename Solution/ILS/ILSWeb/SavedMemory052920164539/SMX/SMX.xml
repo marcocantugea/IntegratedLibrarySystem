@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SMX-250</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMX-250</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>SMX-250 Elevator 22 Casing </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMX-150</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMX-150</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs> SMX-150 Elevator 7-5/8 Casing </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

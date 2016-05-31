@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DUH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs> ODEHO SULQWHUV DUH VXSSRUWHG  Q DGGLWLRQ WKH QHZ  DEHO ULWHU    IRXU LQFK ZLGH ODEHO SULQWHU DQG WKH  DEHO DQDJHU   DQG  DEHO DQDJHU  Q  ODEHO PDNHUV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DUH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs> ODEHO SULQWHUV DUH VXSSRUWHG  Q DGGLWLRQ WKH QHZ  DEHO ULWHU    IRXU LQFK ZLGH ODEHO SULQWHU DQG WKH  DEHO DQDJHU   DQG  DEHO DQDJHU  Q  ODEHO PDNHUV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DUHD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUHD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>JH LQ WKH  ULQW DUHD  OO WKH ODEHO SULQWHUV WKDW DUH LQVWDOOHG RQ  RXU FRPSXWHU DUH GLVSOD HG  RZHYHU RQO  WKH SULQWHUV WKDW FDQ SULQW WKH FXUUHQWO  V</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DUHD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>JH LQ WKH  ULQW DUHD  OO WKH ODEHO SULQWHUV WKDW DUH LQVWDOOHG RQ  RXU FRPSXWHU DUH GLVSOD HG  RZHYHU RQO  WKH SULQWHUV WKDW FDQ SULQW WKH FXUUHQWO  V</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

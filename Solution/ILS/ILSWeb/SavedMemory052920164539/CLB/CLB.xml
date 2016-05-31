@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLBCREAU81</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLBCREAU81</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLBCREAU81.pdf</filepath>
+        <Paragraphs>CLBCREAU81</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>applicableCLBCREAU81</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>applicableCLBCREAU81</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLBCREAU81.pdf</filepath>
+        <Paragraphs>ACGIH TLV-TWAHemicellulase enzyme9012-54-81 - 5%Not applicableNot applicableNot applicableCLBCREAU81</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

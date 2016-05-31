@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AKMH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>Reading AKMH hydraulic flow diagrams: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>erface A        AKMH        Fibre Optic        FS                    LS  Switchboard ACB Relays  LS        MCC           ABB        RS       wire     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>ake   Type      AKMH   BB          Main Structure         Pinned Leg with Drive Carriage     Ea     Fixed Leg with Drive Carriage     Ea     Main Beam</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>ake   Type      AKMH   BB          Main Structure         Pinned Leg with Drive Carriage     Ea     Fixed Leg with Drive Carriage     Ea     Main Beam</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>					AKMH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>					AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>    Make   Type      AKMH   BB          Main Structure         Pinned Leg with Drive Carriage     Ea     Fixed Leg with Drive Carriage     Ea     Main</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>					AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>    Make   Type      AKMH   BB          Main Structure         Pinned Leg with Drive Carriage     Ea     Fixed Leg with Drive Carriage     Ea     Main</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>				AKMH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>				AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>   Make   Type      AKMH   BB          Main Structure         Pinned Leg with Drive Carriage     Ea     Fixed Leg with Drive Carriage     Ea     Main </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>				AKMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>   Make   Type      AKMH   BB          Main Structure         Pinned Leg with Drive Carriage     Ea     Fixed Leg with Drive Carriage     Ea     Main </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

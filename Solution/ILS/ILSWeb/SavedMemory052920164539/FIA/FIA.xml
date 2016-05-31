@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CONFIABLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFIABLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>TAPAS CONFIABLES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONFIABLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>SEGURIDAD M   S CONFIABLES DEL MUNDOSOLUCIONES DE SEGURIDAD A NIVEL GLOBAL ESPA   OL     MEDIDA M   TRICA APROBACI   N justritemfg com   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONFIARCARACTER315STICAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFIARCARACTER315STICAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>PUEDES CONFIARCARACTER315STICAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FIAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FIAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>FIAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COFIAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COFIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>COFIAS  NOTAS:  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COFIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\29 Todas las Areas.pdf</filepath>
+        <Paragraphs>INAS     LATAS  COFIAS Y GUANTES DE LIMPIEZA MESCLADOS EN     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONFIANZA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFIANZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>ci   n    horas CONFIANZA  A PRUEBA DE FUEGO Los equipos aut   nomos de protecci   n respiratoria  de MSA  han sido dise   ados para ser duraderos y  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOTOGRAFIAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOTOGRAFIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\145 PS014 TRA Camara fotografica.docx</filepath>
+        <Paragraphs>dad     TOMA DE FOTOGRAFIAS C FLASH    Page   P gina           OF  De           TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

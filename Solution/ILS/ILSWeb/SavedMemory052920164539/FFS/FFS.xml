@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OFFSHORE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs>            OEG OFFSHORE       DNV                A   ZONE      ATEX CAT       ENGINEERING   CABIN         Section      Design Standards     Section  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>OEG OFFSHORE    TW          HSCOPYRIGHT THIS DRAWING REMAINS THE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>OEG OFFSHORE    TW          HSCOPYRIGHT THIS DRAWING REMAINS THE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>OFFSHORE RIGS) 1. 10,000 psi gate valves.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OFFStandard</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFFStandard</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>   minutes min  OFFStandard Voltages                                             VDC     VDC      VDC      VAC          VAC EExd Manual Atex    GPage </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OFFSET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFFSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ation  VARIABLE OFFSET MAST    Adjustable length of davit ensures  lifelines are always centered over  con   ned space  WINCH    Davits can be equippe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>operation. þVV ARIABLE OFFSET MAST  þ  Adjustable length of davit ensures </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EARMUFFS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EARMUFFS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> Snap-in ear cushions make replacement quick and easy. FEATURESClarityTM EARMUFFS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OFFS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFFS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>IONTM R7 OFFS     B  MILLER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FFSH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>FFSH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZULFFS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZULFFS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>Product nameHeavy Duty Floor StripperProduct codeZULFFS Supersedes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZULFFSEye</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZULFFSEye</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>ZULFFSEye Contact</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZULFFSEyes</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZULFFSEyes</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>ZULFFSEyes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUHTFFSpill</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUHTFFSpill</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>ZUHTFFSpill Clean up Put on appropriate personal protective equipment (see section 8). Stop leak if without risk.  Move containers</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FFS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>changes in the structure usage is proposed. FFS shall be</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PCFFSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PCFFSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>3434 M68Catalogue 4100-7/UK SAE 4 Flange accessories Screws Nom. flange size PN (bar)1)3000 PSI Series PCFFSAE Closed flangeSAE Closed flange</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PCCFFSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PCCFFSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series PCCFFSAE Closed counter flangeSAE Closed counter flange</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

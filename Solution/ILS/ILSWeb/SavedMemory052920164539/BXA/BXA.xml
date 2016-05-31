@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>777951-JT-504PABXAUTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>777951-JT-504PABXAUTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>777951-JT-504PABXAUTO TELEPHONE1DRILL FLOOR / Zone 2FHFGermanyEX-ResistTelDMT 02 ATEX E 183II 2G EEx em [ib] IIC T5COMPLETE ASS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>779951-JT-606PABXAUTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>779951-JT-606PABXAUTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>779951-JT-606PABXAUTO TELEPHONE1M223 / Zone 2FHFGermanyEX-ResistTelDMT 02 ATEX E 183II 2G Ex emb [ib] IIC T5COMPLETE ASSY.N/A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BXAlways</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BXAlways</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>safe use of the BXAlways use secondary retention as established and implemented by NOV Rely on signals     elevator cl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BXAlways</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>safe use of the BXAlways use secondary retention as established and implemented by NOV Rely on signals    elevator closed</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

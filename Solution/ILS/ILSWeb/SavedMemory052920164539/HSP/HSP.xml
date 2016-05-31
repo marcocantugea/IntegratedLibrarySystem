@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WHSPeso</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WHSPeso</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>WHSPeso de </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>petrochemical, oil &amp; gas, civil security or nuclear.THE HSP PPE CONCEPT IS OUR SOLUTION FOR YOUR SAFETY IN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EHSPolicies</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHSPolicies</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>Santos EHSPolicies</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EHSPOLICIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHSPOLICIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>4SANTOS325 EHSPOLICIES EHSMSStandards SANTOS EHS POLICIES &gt;SantosEvolution of the Environment,Health and Safety</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

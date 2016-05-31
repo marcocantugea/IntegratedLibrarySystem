@@ -1,0 +1,1808 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SFIGROUPSYSTEMINTRODUCnON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMINTRODUCnON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\0 Introduction and Guide.pdf</filepath>
+        <Paragraphs>contactman.0.4   SFIGROUPSYSTEMINTRODUCnON</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFtGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFtGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>    SFtGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>drawings105      SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>etc.3.4 SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>556  SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>797Continued SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ingp43AIR-ANC       SFIGROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM13PROVISIONAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM13PROVISIONAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>537 MAY91SFIGROUPSYSTEM13PROVISIONAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CODENOTEQ.t 4422 ROTATING GROUP 00AMV9610052SC 508401336_METRIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CODENOTEQ.t 4422 ROTATING GROUP 00AMV9610052SC 508401336_METRIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Sect. (mm2) Oi  ASI.UM.021.1 Ed. 06/03 MarelliMotoriS.p.A.PART OF THE          FKI GROUP OF COMPANIES Via Sabbionara, 1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Barren_RTU_Herbicide_55_Gallon_3320-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Eliminator_Non-Selective_Herbicide_145-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Triple_Threat_Selective_363-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Turf_King_Herbicide_Non-Select_322-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Zap-It_Concentrate_Non-Select_155-1_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>GROUP I: SPARES FOR ONE UNIT PER YEAR. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI description.pdf</filepath>
+        <Paragraphs> GROUP SYSTEM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI Spec Tec.pdf</filepath>
+        <Paragraphs>HTS FOR THE SFI GROUP SYSTEM   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>OPERATION IN GROUP IIA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFJGROUPSYSTEMMAY9115</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFJGROUPSYSTEMMAY9115</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>trimming142 SFJGROUPSYSTEMMAY9115</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>488 MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>4892.8 MAY91 29 SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM26</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>.  SFIGROUPSYSTEM26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>278 SFIGROUPSYSTEMMAY 91 2.14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM34</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM34</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>342 MAY91SFIGROUPSYSTEM34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>etc.)761 SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFfGROUPSYSTEM73COMPRESSED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFfGROUPSYSTEM73COMPRESSED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>etc.761   MAY91SFfGROUPSYSTEM73COMPRESSED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM82</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM82</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ballast8018.2    MAY91SFIGROUPSYSTEM82</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM84</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM84</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>tankstodeck8218.8  MAY91SFIGROUPSYSTEM84</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>Generator861DUC-DYN PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>246FIR-FOR PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>s.gp70FUELOILHEATERS(HEATINGCOILSINF.O.TANKS)704FUELOILPIPING,seeresp.systems.gp70FOR-FUE  PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUNDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE34-INDEXGYM-GYRSFIGROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE34-INDEXGYM-GYRSFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>804GEN-GUT 267 PAGE34-INDEXGYM-GYRSFIGROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>IRONINGTABLE558INS-IRO  SFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>312MOO-MOT PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PUMPS,LUBEOILTRANSFER-711PUM-PUM PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>194SIG-SOL PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>442TEL-TOO PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>427TRI-TYP  SFIGROUPSYSTEM-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VAC-VIS PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROOVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROOVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DW-004.pdf</filepath>
+        <Paragraphs>TIONS FOR LEBUS GROOVED SHELLS                                             Preparation                                                                </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROOVING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROOVING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DW-004.pdf</filepath>
+        <Paragraphs>EBUS  PARALLEL  GROOVING           General Information   To ensure      service life potential for demanding  applications   certain   instructions  s</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>LEBUS GROOVING REPLACEMENT ................................................................................... 63</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROOVES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROOVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>   POSITIONED WITH ALL THREE GROOVES OUT OF THE ENCODER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>J.CORROSION GROOVES are sometimes </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>012015 %&amp;*,-= !&gt;C015015 13. CONNECTOR RING GROOVES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROOVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>   AND WITH UPPER EDGE OF UPPER GROOVE FLUSH WITH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>GROOVE DIA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>STD RELIEF GROOVE PIN  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>STD RELIEF GROOVE PIN  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>STD RELIEF GROOVE PIN  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>BX-165 RING GROOVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROWTH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROWTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>3.11 MARINE GROWTH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROSOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142. PS001 Formatos Residuos Peligrosos\SSPA-ERP-02-01 Semarnat  Bitacora de Generación de Residuos Peligrosos (25-Jun-13).docx</filepath>
+        <Paragraphs>RAS DE RESIDUOS PELIGROSOS Y SITIOS CONTAMINADOS     Modalidad A  Bit cora de generaci n de residuos peligrosos en plataformas marinas      SEMARNAT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142. PS002 Formatos Residuos No Peligrosos\142. PS002.F02 Formato Desembarque de Generación de Residuos Sólidos No Peligrosos Esp - Ing (25-Jun-13).docx</filepath>
+        <Paragraphs>DUOS S LIDOS NO PELIGROSOS  BOARDING PASS GENERATION OF SOLID WASTE NON HAZARDOUS    REMITENTE  Sender        DIRECCI N  Address        V A  Way      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\19 WASTE AREA.pdf</filepath>
+        <Paragraphs>CONTENEDORES DE RESIDUOS PELIGROSOS REBOSADOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\14 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>         RESTROOM AREA FLOOR IS DIRTY WITH MUD         CONTENEDORES DE RESIDUOS PELIGROSOS ORGANI-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>PARCIALMENTE CON EQUIPO DE IZAJE.         AREA DE RESIDUOS PELIGROSOS CON ORDEN Y </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\19 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>AREA DE RESIDUOS PELIGROSOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaker room 2200 hrs .pdf</filepath>
+        <Paragraphs>CONTENEDORES CON RESIDUOS PELIGROSOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\19 Cement unit.pdf</filepath>
+        <Paragraphs>CUBETAS CON RESIDUOS PELIGROSOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\04 Dangerous residues area.pdf</filepath>
+        <Paragraphs>REA DE RESIDUOS PELIGROSOS       HRS  OCT   th       TODOS LOS CONTENEDORES CUENTAN CON IDENTIFICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\aire.pdf</filepath>
+        <Paragraphs>ESCOMPOSICI   N PELIGROSOS Ninguno CONDICIONES A EVITAR Evite usar aceites en sistemas con presi   n similar a la de cilindros llenos  RIESGO DE POLIM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs> DESCOMPOSICION PELIGROSOS                                    Ninguno RIESGO DE POLIMERIZACION PUEDE OCURRIR NO OCURRE X CONDICIONES A  EVITAR Ninguna</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Avistat-D MSDS Spa.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Bare Bones MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cloro.pdf</filepath>
+        <Paragraphs>PRODUCTOS DE DESCOMPOSICI356N PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Conkleen 204 MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Corral MSDS.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Decade MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Diamond Gloss MSDS Spanish.pdf</filepath>
+        <Paragraphs>   INGREDIENTES PELIGROSOS Nombre Qu   mico      DE CAS     Fluctuaci   n   Concentrado     Apreciaciones de  Riesgo TLV PEL          Phosphoric Acid </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Evergreen Finish MSDS Spanish.pdf</filepath>
+        <Paragraphs># Identi037caci363n D.O.T. :   N/A SECCION 2 226 INGREDIENTES PELIGROSOS Nombre Qu355mico </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Micro-Cide MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Neutra-Cide 256 MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Next Step MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\No Zap Finish MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ONE STEP MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\oxido_nitroso.pdf</filepath>
+        <Paragraphs>PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SaniQuat MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Spit shine MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\TP 07 Span MSDS.pdf</filepath>
+        <Paragraphs>   INGREDIENTES PELIGROSOS Nombre Qu   mico  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\World Class MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 2 226 INGREDIENTES PELIGROSOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\KILL-LOSS.pdf</filepath>
+        <Paragraphs>   INGREDIENTES PELIGROSOS   IDENTIFICACION   INFORMACION DE REACTIVIDAD                                  Pun t o   d e   i n fl a m a ci   n     m   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\17.- AREA DE RESIDUOS.pdf</filepath>
+        <Paragraphs>CUBETAS CON RESIDUOS PELIGROSOS SIN TAPA, SE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\17 UPPER DECK DRILL TOOL STORE.pdf</filepath>
+        <Paragraphs>10:00 HRS NOVEMBER 17 th , 2014 RECIPIENTES CON RESIDUOS PELIGROSOS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\19.- ENGINE ROOM 3 -4.pdf</filepath>
+        <Paragraphs>RECIPIENTE PARA RESIDUOS PELIGROSOS SIN IDENTIIFICACION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\20 ROV.pdf</filepath>
+        <Paragraphs>TAMBORES DE MATERIALES PELIGROSOS SIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\19h Helipuerto.pdf</filepath>
+        <Paragraphs>PELIGROSOS IMPREGNADOS CON SOLVENTES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\06 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>PISO RESBALOSO, PELIGRO DE RESBALON </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\03 JAN 2014 MUD PUMP ROOM.pdf</filepath>
+        <Paragraphs>SITO DE PERSONAL BARRICADAS DE PELIGRO INSTALADAS SIN UTILIZARCE.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\03 JUN 2014 MUD PUMP ROOM.pdf</filepath>
+        <Paragraphs>SITO DE PERSONAL BARRICADAS DE PELIGRO INSTALADAS SIN UTILIZARCE.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hdot_acetileno.pdf</filepath>
+        <Paragraphs>LIDAD DEBIDO AL PELIGRO DE EXPLOSION O INCENDIO   Utilice un medidor de gases inflamables explos   metro  calibrado para medir las concentraciones del</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HojaSeguridadGasLP_v2007.pdf</filepath>
+        <Paragraphs>NO SE CONFIE, MIENTRAS HUELA A GAS, EXISTE UN FUERTE PELIGRO DE EXPLOSIÓN.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-3-en-uno-tecnico-grasa-bl.pdf</filepath>
+        <Paragraphs>emergencias     PELIGRO     Aerosol extremadamente inflamable    En caso de ingesti n  puede ser nocivo o fatal  Contenidos  bajo presi n    L quido y</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-3-en-uno-tecnico-limp-de.pdf</filepath>
+        <Paragraphs>ergencias       PELIGRO   Aerosol extremadamente inflamable  Contenidos bajo presi n  En caso de ingesti n  puede ser  nocivo o fatal  Puede causar ir</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-aerosol-msds-lat-am-03-10-13-span.pdf</filepath>
+        <Paragraphs>mergencias      PELIGRO   Aerosol inflamab le  Contenidos bajo presi n  En caso de ingesti n  puede ser nocivo o fatal  En  caso de ingesti n  puede a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-bulk-msds-lat-am-03-10-13-span.pdf</filepath>
+        <Paragraphs>mergencias      PELIGRO   En caso de i ngesti n  puede ser nocivo o fatal  L quido combustible  En caso de ingesti n  puede  aspirarse y provocar da o</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-06070-MSDS-E_SP_KIMTECH PURE CL-4 PreSat Wipes.pdf</filepath>
+        <Paragraphs>- 70% Isopropyl Alcohol  PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33939-MSDS-E_SP_KLEENEX® Green Certified Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34700-MSDS-E_SP Kleenex® Ultra Moisturizing Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-6343000-MSDS-E_SP.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91590-MSDS-E_SP_KLEENEX® Moisturizing Foam Hand Sanitizer KLEENEX® Luxury.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93040-MSDS-E_SP  KLEENEX Instant Hand Sanitizer_62 percent Alcohol_KIMCARE Instant.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93044-MSDS-E_SP Scott Moisturizing Instant Hand Sanitizer.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93047-MSDS-E_SP_KLEENEX Moisturizing Instant Hand Sanitizer_KIMCARE.pdf</filepath>
+        <Paragraphs> PELIGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\015 limpieza de tanques de lodos( esp. confin).docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\016 limpieza de tanques de salmuera( esp. confin).docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\018 limpieza de PRESAS de lodos( esp. confin).docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\019 Inspeccion de valvulas en PRESAS de lodos( esp. confin).docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\27 TRA trabajos en Altura.docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\CAMBIO DE MODULO.docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\CAMBIO DE VALVULA LINEA A Y B.docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Drilling\Drillfloor\Rigging Down Lifting Frame, Bails, Test Head..docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\001 TRA trabajos de corte y soldadura.docx</filepath>
+        <Paragraphs>DEL TRABAJO     PELIGRO    EFECTO DEL PELIGRO  DESCRIPCION     RIESGO INICIAL        MINIMIZAR EL RIESGO POR      CONTROLES     RIESGO RESIDUAL       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROSO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\13 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>EVACUATION ROUTE SE CUENTA CON PLACA PARA LETRERO DE RESIDUO PELIGROSO PERO SIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>DE PELIGROS  NO PELIGROSO Resumen de Emergencia   PRECAUCI N   Ligero irritante ocular  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUNDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\03 ABRIL 2014 WELDING SHOP 2200.pdf</filepath>
+        <Paragraphs>GROUNDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\12 ABRIL 2014 Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>THIRD-PARTY CONTAINER IS PROPERLY GROUNDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\20 Jun Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>GROUNDED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\04.FANN ROM M302.pdf</filepath>
+        <Paragraphs>GROUND SYSTEM OK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Marathane_693_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot available      Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213D55_msds.pdf</filepath>
+        <Paragraphs>(FOR GROUND SHIPMENT WITHIN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213P5_msds.pdf</filepath>
+        <Paragraphs>(FOR GROUND SHIPMENT WITHIN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_OMU_Sealer_626_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot available      Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_One_Coat_699_msds.pdf</filepath>
+        <Paragraphs>by GROUND transport in North America.Maritime TransportationNot available.  3  Section 14. Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Reclaim_R_487_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot regulated  Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212D55_msds.pdf</filepath>
+        <Paragraphs>(FOR SHIPPING GROUND TRANSPORT IN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212P5_msds.pdf</filepath>
+        <Paragraphs>(FOR SHIPPING GROUND TRANSPORT IN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      DID UNIT PASS THE HIPOT OF ANY TERMINAL TO GROUND AT 3500V, 60HZ,         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEGRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08 MUD PITS ROOM.pdf</filepath>
+        <Paragraphs>CON NEGRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEGRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>RC2 NEGRO TEXTURIZADO 520001 Negro </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>46  GROUPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>46  GROUPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEGROPROTECCI323N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEGROPROTECCI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>AVM NEGROPROTECCI323N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs> GROSS TONNAGE       T  NET TONNAGE       T  DEADWEIGHT        ft        m          MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs> GROSS TONNAGE       T  NET TONNAGE       T  DEADWEIGHT        ft        m          MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs> GROSS TONNAGE       T  NET TONNAGE       T  DEADWEIGHT        ft        m            MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs> GROSS TONNAGE       T  NET TONNAGE       T  DEADWEIGHT        ft        m            MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0009GROOVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0009GROOVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0009GROOVE NUT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0039GROOVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0039GROOVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0039GROOVED BALL BEARING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0069GROOVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0069GROOVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0069GROOVED NUT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>140810-IB0410DRILLINGROTARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>140810-IB0410DRILLINGROTARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>140810-IB0410DRILLINGROTARY TABLE VALVE UNIT Eexe (10-BG5315)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 302015DNV-2001-OSL-ATEX-017</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>140910-IB0411DRILLINGROTARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>140910-IB0411DRILLINGROTARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>140910-IB0411DRILLINGROTARY TABLE VALVE UNIT Eexi (10-BG5315)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 302015DNV-2001-OSL-ATEX-017</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>141010-IB0412DRILLINGROTARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>141010-IB0412DRILLINGROTARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>141010-IB0412DRILLINGROTARY TABLE VALVE UNIT Eexi (10-BG5310)1DRILL FLOOR / Zone 2TECHNORNorwayTNCN 151510DNV-2001-OSL-ATEX-017</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROSOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROSOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>GROSOR mm SIN POLVO P301GINA     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERGROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>PROTECTION  FOR UNDERGROUND    MINING AND TUNNELING  SAFLOK      MINING ANCHORS  Our SAFLOK      mining anchors were designed to be used with friction</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>FOR UNDERGROUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\16.-DRILLING SWITCHBOARD ROOM.pdf</filepath>
+        <Paragraphs>CIONES / UNDERGROUND SYSTEM IN GOOD CONDI-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EmergenciaPELIGROPROVOCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EmergenciaPELIGROPROVOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acidic-Toilet-Bowl-Cleaner-Spanish-MSDS-ZUATB.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROPROVOCA QUEMADURAS EN LO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EmergenciaPELIGROPROVOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Calcium-Lime-and-Rust-Remover-Spanish-MSDS-ZUCAL32.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROPROVOCA QUEMADURAS EN LOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EmergenciaPELIGROPROVOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Deck-and-Fence-Cleaner-Concentrate-Spanish-MSDS-ZUDFW.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROPROVOCA QUEMADURAS EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EmergenciaPELIGROPROVOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Grout-Cleaner-and-Whitener-Spanish-MSDS-ZU1046.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROPROVOCA QUEMADURAS EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EmergenciaPELIGROPROVOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Professional-Strength-Drain-Opener-Spanish-MSDS-ZUPRDO.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROPROVOCA QUEMADURAS EN LOS OJ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EmergenciaPELIGROPROVOCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Shower-Tub-and-Tile-Cleaner-Spanish-MSDS-ZUSTT.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROPROVOCA QUEMADURAS EN LOS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROSAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\aire.pdf</filepath>
+        <Paragraphs>si   n  MEZCLAS PELIGROSAS DE OTROS L   QUIDOS  SOLIDOS O GASES El aire es un gas comburente  puede formar mezclas inflamables y explosivas con gases </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs>  dico  MEZCLAS PELIGROSAS DE OTROS LIQUIDOS   SOLIDOS O GASES                             Ninguna  PROPIEDADES  FISICAS PUNTO DE EBULLICION    atm   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cloro.pdf</filepath>
+        <Paragraphs>MEZCLAS PELIGROSAS DE OTROS L352QUIDOS,  SOLIDOS O GASES.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hdot_acetileno.pdf</filepath>
+        <Paragraphs>ci   n  MEZCLAS PELIGROSAS DE OTROS L   QUIDOS  SOLIDOS O GASESBajo ciertas condiciones el acetileno formar    compuestos f   cilmente explosivos con </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds_espanol.pdf</filepath>
+        <Paragraphs>AS PELIGROSAS (MSDS)?   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\oxido_nitroso.pdf</filepath>
+        <Paragraphs>MEZCLAS PELIGROSAS DE OTROS L315QUIDOS,  S323LIDOS O GASES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\015 limpieza de tanques de lodos( esp. confin).docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\016 limpieza de tanques de salmuera( esp. confin).docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\018 limpieza de PRESAS de lodos( esp. confin).docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\019 Inspeccion de valvulas en PRESAS de lodos( esp. confin).docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\27 TRA trabajos en Altura.docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH     X        GENTE FACTORES HUMANOS    X        RUIDO    X        COMUNICACION    X        MANEJO MANUAL        X   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\CAMBIO DE MODULO.docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\CAMBIO DE VALVULA LINEA A Y B.docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Drilling\Drillfloor\Rigging Down Lifting Frame, Bails, Test Head..docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH             GENTE FACTORES HUMANOS            RUIDO            COMUNICACION            MANEJO MANUAL            AMBI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\001 TRA trabajos de corte y soldadura.docx</filepath>
+        <Paragraphs>    SUBSTANCIAS PELIGROSAS  COSHH     X        GENTE FACTORES HUMANOS    X        RUIDO    X        COMUNICACION    X        MANEJO MANUAL        X   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\aire.pdf</filepath>
+        <Paragraphs>si   n  MEZCLAS PELIGROSAS DE OTROS L   QUIDOS  SOLIDOS O GASES El aire es un gas comburente  puede formar mezclas inflamables y explosivas con gases </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs>  dico  MEZCLAS PELIGROSAS DE OTROS LIQUIDOS   SOLIDOS O GASES                             Ninguna  PROPIEDADES  FISICAS PUNTO DE EBULLICION    atm   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Avistat-D MSDS Spa.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Bare Bones MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\bioxido_carbono.pdf</filepath>
+        <Paragraphs>    IDENTIFICACI323N DE PELIGROS DE INCENDIO DE MATERIALES RIESGOS A LA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cloro.pdf</filepath>
+        <Paragraphs>PELIGROS INUSUALES DE FUEGO Y EXPLOSI356N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Conkleen 204 MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 -  DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Corral MSDS.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Decade MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Diamond Gloss MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 -  DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\document.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROS     Clasificaci n SGA   Producto TAL COMO VENDIDO    Toxicidad aguda     Oral         Categor a     Toxicidad aguda     Cut n</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Evergreen Finish MSDS Spanish.pdf</filepath>
+        <Paragraphs>N      DATOS DE PELIGROS DE SALUD Ruta s  de Entrada   Inhalaci   n   Si   Piel   Si   Ingesti   n   Si       Valor L   mite de Entrada   No Est  Efec</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\helio.pdf</filepath>
+        <Paragraphs>   IDENTIFICACION DE PELIGROS DE INCENDIO DE MATERIALES RIESGOS A LA SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HojaSeguridadGasLP_v2007.pdf</filepath>
+        <Paragraphs>a como una vía potencial de exposición.     5. PELIGROS DE EXPLOSIÓN E INCENDIO  Punto de flash </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Micro-Cide MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>ENTIFICACI N DE PELIGROS  NO PELIGROSO Resumen de Emergencia   PRECAUCI N   Ligero irritante ocular  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>NTIFICACI N DEL PELIGROS El Limpiador Concentrado Todo Prop sito Simple Green  Clean Building  es un l quido incoloro e inodoro  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-BathroomCleaner.pdf</filepath>
+        <Paragraphs>onzas de agua) para uso en superficies duras no porosas  Sección 2:  IDENTIFICACIÓN DEL PELIGROS El Limpiador Concentrado </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-CarpetCleaner.pdf</filepath>
+        <Paragraphs>previo a la extracción de superficies alfombradas  Sección 2:  IDENTIFICACIÓN DEL PELIGROS El Limpiador Concentrado Pa</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-GlassCleaner.pdf</filepath>
+        <Paragraphs>onzas de agua) para uso en superficies duras no porosas  Sección 2:  IDENTIFICACIÓN DEL PELIGROS El Limpiador Concentrado Pa</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CrystalFoam.pdf</filepath>
+        <Paragraphs> III.  IDENTIFICACIÓN DE PELIGROS                                                                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_LimeScaleRemover.pdf</filepath>
+        <Paragraphs>ENTIFICACI N DE PELIGROS   Resumen de Emergencia    PR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_RigWash.pdf</filepath>
+        <Paragraphs>TSCA. III.  IDENTIFICACIÓN DE PELIGROS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_RTU-MultiSurfaceWipes.pdf</filepath>
+        <Paragraphs>ENTIFICACI N DE PELIGROS  Clasificaci n de Peligro  NFPA HMIS                 Escala de Clasificaci n                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Neutra-Cide 256 MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Next Step MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\No Zap Finish MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ONE STEP MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\oxido_nitroso.pdf</filepath>
+        <Paragraphs>PELIGROS INUSUALES DE FUEGO Y EXPLOSI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SaniQuat MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Spit shine MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\TP 07 Span MSDS.pdf</filepath>
+        <Paragraphs>SECCION 5 -  DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\World Class MSDS Spanish.pdf</filepath>
+        <Paragraphs>SECCION 5 226 DATOS DE PELIGROS DE SALUD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-06070-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Informaci n general sobre situaciones de emergencia    L quido inflamable  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-06070-MSDS-E_SP_KIMTECH PURE CL-4 PreSat Wipes.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Clasificación GHS (siglas en ingl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-11047-MSDS-E_SP_KIMCARE INDUSTRIE NTO.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Loci n de color blanco con aroma de c trico  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12369-MSDS-E_SP_SCOTT Continuous Air Freshener_Natural Refill.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Información general sobre situaciones de emergencia:  Líquido transparente de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12370-MSDS-E_SP_SCOTT Continuous Air Freshener, Summer Fresh.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente de color amarillo claro con aroma fragante  Informaci n general sobre situaciones de emergencia   L qui</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-E_SP - KLEENEX Alcohol Free Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>en contacto con: kcpinfo@kcc.com.   Uso del producto:  Hand Sanitizer 2. IDENTIFICACION DE LOS PELIGROS  Líquido de color ámbar claro In</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-12979-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>en contacto con: kcpinfo@kcc.com.   Uso del producto:  Hand Sanitizer 2. IDENTIFICACION DE LOS PELIGROS  Líquido de color ámbar claro In</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-14551-MSDS-E_SP_Lens Cleaning Towelette.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente con olor a alcohol en una toalla de poli ster  Informaci n general sobre situaciones de emergencia   Pu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-29388-MSDS-E_SP_KLEENEX Cool Touch Facial Tissue.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  S lido de color blanco  Informaci n general sobre situaciones de emergencia   No se esperan efectos </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-30760-MSDS-E_SP SCOTT Disinfectant Wipes.pdf</filepath>
+        <Paragraphs>1-888-346-4652   Uso del producto:  Limpiador de superficies duras. 2. IDENTIFICACION DE LOS PELIGROS  Líquido transparente e incoloro con ol</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-30893-MSDS-E_SP_KLEENEX Anti-Viral Facial Tissue.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  S lido de color blanco  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33330-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>+44 1352 806006   Uso del producto:  Entornos de sala limpia ISO Clase 4 o superior 2. IDENTIFICACION DE LOS PELIGROS  Tela no tejida </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33939-MSDS-E_SP_KLEENEX® Green Certified Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido lechoso  Olor a alcohol  Informaci n general sobre situaciones de emergencia    L quido inflamable  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33977-MSDS-E_SP_LiveWell Clean_Refill.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  S lido con una fragancia caracter stica  Informaci n general sobre situaciones de emergencia   Causa una severa </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-33979-MSDS-E_SP KLEENEX Natural Hands and Face Wipes.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Líquido transparente e incoloro con ol</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34622-MSDS-E_SP_KIMTECH SCIENCE KIMWIPES Lens Cleaning Station Solution.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido de color azul verde  Olor a alcohol  Informaci n general sobre situaciones de emergencia    L quido inflamable  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-34700-MSDS-E_SP Kleenex® Ultra Moisturizing Foam Hand Sanitizer.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido lechoso  Olor a alcohol  Informaci n general sobre situaciones de emergencia    L quido inflamable  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35362-MSDS-E_SP_KLEENEX Moisturizing Hand and Body Lotion.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Crema de color blanco con aroma agradable  Informaci n general sobre situaciones de emergencia   Puede provocar una leve </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35364-MSDS-E_SP_SCOTT Skin Relief.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Crema de color blanco con aroma agradable  Informaci n general sobre situaciones de emergencia   Puede producir irritaci n </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35464-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Líquido transparente e incoloro con ol</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-35524-MSDS-E_SP  HYSO Aerosol Surface Disinfectant_for Kimberly Clark Professional.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Solución con color de Amarillo pá</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-36700-MSDS-E_SP  SCOTT 24 Hour Sanitizing Spray.pdf</filepath>
+        <Paragraphs>superficies duras. 2. IDENTIFICACION DE LOS PELIGROS  Información general sobre situaciones de emergencia:  Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_French.pdf</filepath>
+        <Paragraphs>superficies duras. 2. IDENTIFICACION DE LOS PELIGROS  Información general sobre situaciones de emergencia:  Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_French_001.pdf</filepath>
+        <Paragraphs>superficies duras. 2. IDENTIFICACION DE LOS PELIGROS  Información general sobre situaciones de emergencia:  Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_Spanish.pdf</filepath>
+        <Paragraphs>superficies duras. 2. IDENTIFICACION DE LOS PELIGROS  Información general sobre situaciones de emergencia:  Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41524-MSDS-BABA_SCOTT 24 Hour Sanitizing Wipes_Spanish_001.pdf</filepath>
+        <Paragraphs>superficies duras. 2. IDENTIFICACION DE LOS PELIGROS  Información general sobre situaciones de emergencia:  Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41859-00-MSDS-E_SP_SCOTT Naturally Tuff Orange Hand Cleanser with Grit.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Loci n de color blanco con aroma de c trico  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41859-00-MSDS-E_SP_SCOTT Naturally Tuff Orange Hand Cleanser with Grit_001.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Loci n de color blanco con aroma de c trico  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41866-MSDS-E_SP SCOTT Super Duty with Grit_ES.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROS   Clasificaci n GHS   No es una sustancia o mezcla peligrosa    elemento de etiqueta GHS   No es una sustancia o mezcla pelig</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-41866-MSDS-E_SP SCOTT Super Duty with Grit_ES_001.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROS   Clasificaci n GHS   No es una sustancia o mezcla peligrosa    elemento de etiqueta GHS   No es una sustancia o mezcla pelig</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58028-MSDS-E_SP  SCOTT Hand Wipes.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Informaci   n general sobre situaciones de emergencia   L   quido de color blanco </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58040-MSDS-E_SP  KIMTECH PREP Surface Sanitizer Wipe.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente e incoloro con aroma lige</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-58310-04-MSDS-E_SP WypAll Waterless Cleaning Wipes, SCOTT Pro Heavy Duty Cleaning Wipes.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido de color blanco con aroma de c trico en una toalla de polipropileno  Informaci n general sobre situaciones de emerge</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-6343000-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Informaci n general sobre situaciones de emergencia   L quido inflamable  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91045-04-MSDS-E_SP_SCOTT Naturally Tuff Orange Hand Cleanser with Grit.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Loci n de color blanco con aroma de c trico  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91072-MSDS-E_SP_SCOTT Continuous Air Freshener_Ocean.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente de color amarillo claro con aroma fragante  Informaci n general sobre situaciones de emergencia   L qui</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91175-MSDS-E_SP.12.22.12.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente rosado claro con aroma floral  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91176-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Informaci n general sobre situaciones de emergencia   L quido de color azul </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91177-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Informaci n general sobre situaciones de emergencia   L quido transparente de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91241-MSDS-E_SP_SCOTT TRIANGLE Lotion Sklin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Gel de color verde con aroma floral  Informaci n general sobre situaciones de emergencia   Este producto es un </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91298-MSDS-E_SP_Scott Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente con aroma floral  Informaci n general sobre situaciones de emergencia   Este producto es un </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91300-MSDS-E_SP  SCOTT Pink Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Gel de color rosa transparente con aroma a melocot n  Informaci n general sobre situaciones de emergencia    Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91339-MSDS-E_SP  KLEENEX Hair and Body Wash.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Líquido transparente, de color am</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91388-05-MSDS-E_SP_SCOTT Super Duty Skin Cleanser with Grit.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido verde  viscoso y arenoso con aroma de c trico  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91437-MSDS-E_SP  SCOTT Golden Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Líquido transparente, de color am</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91439-MSDS-E_SP  SCOTT Pearlized Lotion Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Loci n nacarada de lavanda  l quido viscoso  con aroma floral  Informaci n general sobre situaciones de emergencia    Puede </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91547-MSDS-E_SP KLEENEX Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente con aroma floral  Informaci n general sobre situaciones de emergencia    Este producto es un </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91552-MSDS-E_SP_KLEENEX_KIMCARE Foam Skin Cleanser_2.15.11.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente rosado claro con aroma floral  Informaci n general sobre situaciones de emergencia    Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91553-MSDS-E_SP_KLEENEX Foam Hair and Body Wash.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido de color azul claro con aroma agradable  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente con aroma frutal  Informaci n general sobre situaciones de emergencia    Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-E_SP_KLEENEX Antibacterial Foam Skin Cleanser_0.5 Triclosan_KIMCARE.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente con aroma frutal  Informaci n general sobre situaciones de emergencia    Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91555-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Soluci n clara e incolora con aroma medicinal  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91556-MSDS-E_SP KLEENEX Gentle Lotion Skin Cleanser_KIMCARE GENERAL.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Gel de color rosa con aroma floral  Informaci n general sobre situaciones de emergencia   Puede provocar una leve </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91565-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente e incoloro  Informaci n general sobre situaciones de emergencia    Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91590-MSDS-E_SP_KLEENEX® Moisturizing Foam Hand Sanitizer KLEENEX® Luxury.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Informaci n general sobre situaciones de emergencia    L quido inflamable  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91591-MSDS-E_SP KLEENEX Green Certified Foam Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROS   Otros peligros no clasificables   No conocidos    SECCI N       COMPOSICI N INFORMACI N SOBRE LOS INGREDIENTES   Sustancia </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91591-MSDS-E_SP.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente e incoloro  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91592-MSDS-E_SP KLEENEX Foam Skin Cleanser with Moisturizers.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente rosado claro con aroma floral  Informaci n general sobre situaciones de emergencia    Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91595-MSDS-E_SP_KLEENEX E-2 Foam Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Soluci n clara e incolora con aroma medicinal  Informaci n general sobre situaciones de emergencia   Puede provocar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91726-MSDS-E_SP_SCOTT Hair and Body Wash.pdf</filepath>
+        <Paragraphs>e en contacto con: kcpinfo@kcc.com. 2. IDENTIFICACION DE LOS PELIGROS  Líquido transparente, de color am</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-92519-MSDS-E_SP_SCOTT ULTRA-KIND Clear Gentle Skin Cleanser.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  L quido transparente con aroma floral  Informaci n general sobre situaciones de emergencia    Este producto es un </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93040-MSDS-E_SP  KLEENEX Instant Hand Sanitizer_62 percent Alcohol_KIMCARE Instant.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Gel claro con aroma de c trico  Informaci n general sobre situaciones de emergencia   Inflamable Punto de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93044-MSDS-E_SP Scott Moisturizing Instant Hand Sanitizer.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Gel de color blanco opaco  con aroma frutal  Informaci n general sobre situaciones de emergencia   Inflamable Punto de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-93047-MSDS-E_SP_KLEENEX Moisturizing Instant Hand Sanitizer_KIMCARE.pdf</filepath>
+        <Paragraphs>FICACION DE LOS PELIGROS  Gel de color blanco opaco  con aroma frutal  Informaci n general sobre situaciones de emergencia   Inflamable Punto de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\BAROLIFT.pdf</filepath>
+        <Paragraphs>IDENTIFICACI323N DE LOS PELIGROS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\KILL-LOSS.pdf</filepath>
+        <Paragraphs>   INGREDIENTES PELIGROSOS   IDENTIFICACION   INFORMACION DE REACTIVIDAD                                  Pun t o   d e   i n fl a m a ci   n     m   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\LIME.pdf</filepath>
+        <Paragraphs>IDENTIFICACI323N DE LOS PELIGROS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EmergenciaPELIGROCAUSA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EmergenciaPELIGROCAUSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Root-Kill-Spanish-MSDS-ZROOT2.pdf</filepath>
+        <Paragraphs>EmergenciaPELIGROCAUSA QUEMADURAS EN LOS OJ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\tilextileandgroutgelpenmsds10-04.pdf</filepath>
+        <Paragraphs>I Product: TILEX® TILE AND GROUT GEL (PEN)  Description: WHITE, VISCOUS LIQUID WITH CHLORINE ODOR  Other Designations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROSClasificaci</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ADAPTA.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROSClasificaci   n de la sustancia o de la mezcla REGLAMENTO  CE  No                                                             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ATC.pdf</filepath>
+        <Paragraphs>NHS Direct (UK): +44 0845 46 472. IDENTIFICACIÓN DE LOS PELIGROSClasificaci ó n de la sustancia o de la mezcla REGLAMENTO (CE) No 1272/2008</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\COLDTROL.pdf</filepath>
+        <Paragraphs>NHS Direct (UK): +44 0845 46 472. IDENTIFICACIÓN DE LOS PELIGROSClasificaci ó n de la sustancia o de la mezcla REGLAMENTO (CE) No 1272/2008</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\EZ SPOT.pdf</filepath>
+        <Paragraphs>NHS Direct (UK): +44 0845 46 472. IDENTIFICACIÓN DE LOS PELIGROSClasificaci ó n de la sustancia o de la mezcla Clasificación de acuerdo con las Direct</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\FACTANT.pdf</filepath>
+        <Paragraphs>NHS Direct (UK): +44 0845 46 472. IDENTIFICACIÓN DE LOS PELIGROSClasificaci ó n de la sustancia o de la mezcla Clasificación de acuerdo con las Direct</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\LE SUPERMUL.pdf</filepath>
+        <Paragraphs>NHS Direct (UK): +44 0845 46 472. IDENTIFICACIÓN DE LOS PELIGROSClasificaci ó n de la sustancia o de la mezcla Clasificación de acuerdo con las Direct</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSClasificaci</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\TEMPERUS.pdf</filepath>
+        <Paragraphs>NHS Direct (UK): +44 0845 46 472. IDENTIFICACIÓN DE LOS PELIGROSClasificaci ó n de la sustancia o de la mezcla Clasificación de acuerdo con las Direct</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROSNo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROSNo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\ADAPTA.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROSNo est  clasificado</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGROSPara</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGROSPara</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\EZ SPOT.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROSPara el texto completo de las frases R mencionadas en esta Secci n  ver la Secci n   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSPara</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\FACTANT.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROSPara el texto completo de las frases R mencionadas en esta Secci n  ver la Secci n   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSPara</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\LE SUPERMUL.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROSPara el texto completo de las frases R mencionadas en esta Secci n  ver la Secci n   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PELIGROSPara</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\TEMPERUS.pdf</filepath>
+        <Paragraphs>FICACI N DE LOS PELIGROSPara el texto completo de las frases R mencionadas en esta Secci n  ver la Secci n   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROMMET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROMMET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>RUBBER GROMMET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>Bulletin 947070-B ROTATING GROUPThe rotating group may be heavy. Be</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPRefer</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPRefer</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>THE OILGEAR COMPANY21 CONTROL GROUPRefer to CONVERSIONS for flow reversal</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PELIGRO-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PELIGRO-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\23 JULY 2014 TALLER MECANICO.pdf</filepath>
+        <Paragraphs>SEGREGACION INADECUADA DE RESIDUOS PELIGRO-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

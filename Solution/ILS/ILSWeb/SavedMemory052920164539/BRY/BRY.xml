@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BRY13DCK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRY13DCK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BRY13DCK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRY06DCK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRY06DCK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BRY06DCK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRY07SBK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRY07SBK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BRY07SBK   60 ACCESORIOS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

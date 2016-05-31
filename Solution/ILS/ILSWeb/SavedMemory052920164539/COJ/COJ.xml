@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RECOJA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NVA803_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>ol de fuego  NO RECOJA AGUA DE DENTRO DE LOSRECIPIENTES Seguridad p   blicaPara respuestas en caso de emergencias  LLAME A CHEMTREC al                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NVA805_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>ol de fuego  NO RECOJA AGUA DE DENTRO DE LOSRECIPIENTES Seguridad p   blicaPara respuestas en caso de emergencias  LLAME A CHEMTREC al                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECOJA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\QHA027_MEX-SPA_SPA_A8.pdf</filepath>
+        <Paragraphs>ilizaci   n  NO RECOJA AGUA DE DENTRO DE LOS RECIPIENTES      Precauciones relativas al medio ambienteImpedir que los derrames vayan a desag   es o cu</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

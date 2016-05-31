@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DRW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>HEET Th   L SEE DRW  NOT DRW               metric PROTECTION REDUCING SIDE   AMV                         metric HINGE    IN BELT GUARD MAIN           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>DRW</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>HEET Th   L SEE DRW  NOT DRW               metric PROTECTION REDUCING SIDE   AMV                         metric HINGE    IN BELT GUARD MAIN           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STALDRWREF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STALDRWREF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STALDRWREF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SKoPLDRW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SKoPLDRW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>SKoPLDRW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLDRW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLDRW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PLDRW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLDRWREFSU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLDRWREFSU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PLDRWREFSU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CEMENTLAsESEMENTDRWREF267SU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CEMENTLAsESEMENTDRWREF267SU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CEMENTLAsESEMENTDRWREF267SU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRONZET0MMEPLUGGBRONSEDRWREF267SU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRONZET0MMEPLUGGBRONSEDRWREF267SU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>BRONZET0MMEPLUGGBRONSEDRWREF267SU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STALDRWREF267SU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STALDRWREF267SU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STALDRWREF267SU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRWD125</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRWD125</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>"D" SIZE SHEETPRO/E DRWD125   INDICATES LOCATION OF CURRENT REVISION CHANGE.A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRWDITEMDESCRIPTIONPORT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRWDITEMDESCRIPTIONPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>REVPRO/E DRWDITEMDESCRIPTIONPORT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRWDRPRESSURE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRWDRPRESSURE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>REVPRO/E DRWDRPRESSURE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

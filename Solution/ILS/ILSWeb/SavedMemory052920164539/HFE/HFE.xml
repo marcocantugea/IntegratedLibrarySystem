@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HFE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HFE 347E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HFE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Mobil Aero HFE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

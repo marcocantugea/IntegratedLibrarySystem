@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ANDTOWINGEQUIPMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDTOWINGEQUIPMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>ANDTOWINGEQUIPMENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFERREDTOONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFERREDTOONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFERREDTOONE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DTO25</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DTO25</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>SPC813 T33; K  DTO25 ODN08 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DTO25</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>SPC813 T33; K  DTO25 ODN08 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DTO25</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>SPC813 T33; K  DTO25 ODN08 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DTO25</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>SPC813 T33; K  DTO25 ODN08 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHIPPEDTOTHECLIENTFROMLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHIPPEDTOTHECLIENTFROMLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 FINAL PYMT INVOICE.pdf</filepath>
+        <Paragraphs>INING LINESWERE SHIPPEDTOTHECLIENTFROMLE TRAIT  PAYTHIS               AMOUNT DUCO INC  APARTOFTHETECHNIPGROUP    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIPPEDTOTHECLIENTFROMLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 PRE PYMT INVOICE.pdf</filepath>
+        <Paragraphs>INING LINESWERE SHIPPEDTOTHECLIENTFROMLE TRAIT  PAYTHIS               AMOUNT DUCO INC  APARTOFTHETECHNIPGROUP    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

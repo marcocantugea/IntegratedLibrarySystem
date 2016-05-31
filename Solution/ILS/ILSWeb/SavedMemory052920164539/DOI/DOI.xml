@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ESPECIALIZADOIngenieros</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESPECIALIZADOIngenieros</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>ESPECIALIZADOIngenieros calicados y certicados como </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUPRDOIngestion</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUPRDOIngestion</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Professional-Strength-Drain-Opener-English-MSDS-ZUPRDO.pdf</filepath>
+        <Paragraphs>ZUPRDOIngestion</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DOING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>     INSTALLED  DOING SO WILL  RESULT IN COMPONENT FAILURE   WHICH COULD RESULT IN  PERSONAL INJURY    CAUTION   READ OPERATING MANUAL  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

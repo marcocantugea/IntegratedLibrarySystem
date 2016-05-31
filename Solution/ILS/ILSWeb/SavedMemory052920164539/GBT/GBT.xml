@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GBTK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBTK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>GBTK 7065: the PVC lining ensures the glove has impermeable properties . EN 388EN 407 EN 420 Ref.Name</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GBTK7065</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBTK7065</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>GBTK7065</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GBTK7065Top037re</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBTK7065Top037re</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>GBTK7065Top037re Glass 037bre  www.honeywellsafety.com</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

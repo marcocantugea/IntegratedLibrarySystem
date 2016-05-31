@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BVARRICADE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BVARRICADE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>BVARRICADE TAPE LEFT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BBVA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBVA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Invoicing\Factura de clientes 19017.pdf</filepath>
+        <Paragraphs>Banco: BBVA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

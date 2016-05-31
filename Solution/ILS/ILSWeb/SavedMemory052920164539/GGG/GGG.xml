@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GGG40</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GGG40</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>GGG40</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GGG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>Bushing diameter 70 x 28 / GGG 423,00PC520.2.0.3892</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>headGGG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>headGGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>erial of filter headGGG  cast iron  Material of filter bowlSteel Cracking pressure of bypass  bar Sizes                           FILTER CALCULATION S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

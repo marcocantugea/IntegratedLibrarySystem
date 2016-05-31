@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FUELOILSHUTOFF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUELOILSHUTOFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FUELOILSHUTOFF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHUTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-043.pdf</filepath>
+        <Paragraphs>no.:  RISER CHUTE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PARACHUTES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PARACHUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>4 PARACHUTES EXP. 01/14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>TESTED AIR SHUT OFF, CHECKED AND CLEANED OIL MIST</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Procedimientos para entregar\542.PT042 - Thruster start and stop (19-Nov-15) Revised.docx</filepath>
+        <Paragraphs>       THRUSTER SHUT DOWN        Both  SDPO and DPO are to be carrying out this operation          Check with relevant departments LECR   ROV  etc to </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV 2015.pdf</filepath>
+        <Paragraphs>    GEN  EMERG  SHUT DOWN  SIST  PARO EMERG         FIRE   GAS SYSTEM  SISTEMA DET  GAS Y FUEGO       FIRE SYSTEM  SISTEMA CONTRA INCENDIO       CROWN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11210-HS-0231DRILLINGDFMA EMERGENCY SHUT OFF1DF DRILL FLOOR / ZONE2CEAGGermanyP 411PTB 00 ATEX 3117&lt;Ex&gt; II 2 G EEx de IIC T6COM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>METHODKICK SHUT INGas Kick</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV hasta Octubre-2014.pdf</filepath>
+        <Paragraphs>    GEN  EMERG  SHUT DOWN  SIST  PARO EMERG         FIRE   GAS SYSTEM  SISTEMA DET  GAS Y FUEGO       FIRE SYSTEM  SISTEMA CONTRA INCENDIO       CROWN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUTDOWNS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUTDOWNS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EMERGENCY SHUTDOWNS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTDOWNS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>      EMERGENCY SHUTDOWNS                 General                ESD Hierarchy                ESD Reference              COLD PLANT START UP          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUT-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUT-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>5.9.2 EMERGENCY SHUT-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUTDOWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUTDOWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\23 Jun Mud Tanks.pdf</filepath>
+        <Paragraphs>ALIMENTO EN 301REA DE TRABAJO EMERGENCY SHUTDOWN BOTTOM  COVER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTDOWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>F&amp;G AUTOMATIC SHUTDOWN ..................................................................................... 16</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0016SHUTTLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0016SHUTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0016SHUTTLE VALVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUT-OFF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUT-OFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs> Component: Parts list 0029MEMORY SECURITY AND SHUT-OFF BLOCK1.00PC2100660</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>E  R EDUCING  S HUT   O FF   A RRANGEMENT                                                            F IGURE        T YPICAL  NG    V ALVE  A RRANGEME</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUT-OFF1DF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUT-OFF1DF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11810-HY-0120DRILLINGMH'S OIL SUPPLY SHUT-OFF1DF DRILL FLOOR BELOW / ZONE1ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUTTLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> RAILOK         SHUTTLE Climbing shuttle automatically follows user and locks onto rail during fall  BOTTOM LADDER RAIL GATE Aluminum and galvanized s</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>VALVE SHUTTLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>SHUTTLE BOLT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712381 - 1 ~05162011051054.pdf</filepath>
+        <Paragraphs>SHUTTLE VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTTLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712381KRS ~07042011073909.pdf</filepath>
+        <Paragraphs>SHUTTLE VALVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OCHUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OCHUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>OCHUT FEATURES &amp; BENEFITS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHUTOFF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHUTOFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710607 -  ~04052011031028.pdf</filepath>
+        <Paragraphs>SHUTOFF VALVE 3/2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTOFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 711494 -  ~04272011050517.pdf</filepath>
+        <Paragraphs>SHUTOFF VALVE 3/2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHUTOFF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0037 NOV Spare Parts\Sales Order 716187a.pdf</filepath>
+        <Paragraphs>SHUTOFF VALVE 3/2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANTICHUTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANTICHUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Chapter7.pdf</filepath>
+        <Paragraphs>     M809336  AC  DISPOSITIF ANTICHUTE "PR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

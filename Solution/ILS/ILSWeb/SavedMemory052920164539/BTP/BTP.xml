@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BTPS3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BTPS3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>426Bacou Original Speci037cs Construction Bacou Pro BTPS3 CI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BTP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BTP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Bacou Histrio BTP S3 SRC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

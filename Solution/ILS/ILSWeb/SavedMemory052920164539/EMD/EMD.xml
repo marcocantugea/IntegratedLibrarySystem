@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SYSTEMDerrick</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMDerrick</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>SYSTEMDerrick</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>MAIN ENGINES    EMD        G A BRAKE HORSEPOWER       REDUCTION GEARS    Reintjes Double Reduction GEAR RATIO         PROPELLERS    Berg   Blade CPP R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMDRAIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMDRAIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1618167-PG-004-ADRAIN SYSTEMDRAIN TRANSFER PUMP MOTOR1CELLAR DECK / SafetyEUROMOTORI SITALYMAK 100 Lw-4CESI 06 ATEX 059&lt;Ex&gt; II </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-H2LBUNGEEMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-H2LBUNGEEMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-H2LBUNGEEMD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KEMDT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KEMDT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\PLEASE4.pdf</filepath>
+        <Paragraphs>KEMDT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMDC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMDC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>The shipment will be done by the EMDC (European Mar-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRWDITEMDESCRIPTIONPORT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRWDITEMDESCRIPTIONPORT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>REVPRO/E DRWDITEMDESCRIPTIONPORT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

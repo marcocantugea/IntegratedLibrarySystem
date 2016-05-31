@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SOAPCASE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOAPCASE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SOAPCASE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APCNot</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APCNot</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Fastdraw_Natural_All_Purpose_Cleaner_19847-00_msds.pdf</filepath>
+        <Paragraphs>Green Earth Natural APCNot available.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APCNot</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Natural_APC_2L_19847-00_msds.pdf</filepath>
+        <Paragraphs>Green Earth Natural APCNot available.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APCNot</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Nat_APC_4 Gal_19804_msds.pdf</filepath>
+        <Paragraphs>Green Earth Natural APCNot available.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC1X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC1X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC1X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC2X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC2X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC2X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC3X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC3X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC3X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC4X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC4X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC4X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC5X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC5X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC5X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC6X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC6X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC6X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC7X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC7X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC7X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APC8X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APC8X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>APC8X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

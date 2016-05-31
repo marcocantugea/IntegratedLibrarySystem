@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EZN4SPACER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EZN4SPACER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>EZN4SPACER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EZN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EZN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>EZN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

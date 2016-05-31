@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ECBA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECBA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\05 UPPER DECK.pdf</filepath>
+        <Paragraphs>ECBA PROPERLY SECURE  FOR BAD WATER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TYPECBSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPECBSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TYPECBSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BECBJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BECBJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>BEARING 7316 BECBJ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>GND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GNDCUSTOMER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GNDCUSTOMER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>GNDCUSTOMER TERMINAL CONNECTIONS MODEL Euro 366G  -  A MODEL Euro 366G  -  D MODEL Euro 366 G -  D  with Space Heater C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPACEHEATERGND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPACEHEATERGND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>SPACEHEATERGND Figure      External Wiring for the Vibraswitch  Model       Switch shown in normal or reset position   reverses on actuation from incr</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

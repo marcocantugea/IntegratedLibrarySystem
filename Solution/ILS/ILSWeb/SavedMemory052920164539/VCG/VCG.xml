@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>(VCG) of the rig lower than the recommended VCG g</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs> CENTER LINE m  VCG VERTICAL CENTER OF GRAVITY FROM BASELINE m  WPA WATER PLANE AREA m   FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>            Max VCG Curve            STATION KEEPING LIMITS              Dynamic positioning                Environmental condition                Thr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>  VCG = KMT - GM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT016 - Cálculos de estabilidad (11-Abr-12) OK\542.PT016 - Cálculos de estabilidad (Aug-14) EDITABLE CORREGIDO.docx</filepath>
+        <Paragraphs>de cubierta  el VCG de un peso que se levanta efectivamente cambia de su posici n de reposo antes del levantamiento a la polea al final de la pluma de</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT016 - Cálculos de estabilidad (11-Abr-12).docx</filepath>
+        <Paragraphs>y monitorear el VCG transversal y longitudinal de la plataforma y confirmar que es menor que el VCG m ximo disponible para la condici n de operaci n a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT017 - Rutinas de lastrado diarias (11-Abr-12).docx</filepath>
+        <Paragraphs>y monitorear el VCG transversal y longitudinal de la plataforma y confirmar que es menor que el VCG m ximo permisible para la condici n de operaci n a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT051 - Secuencia de lastre (11-Abr-12).docx</filepath>
+        <Paragraphs>cia superar  el VCG corregido para la superficie libre el KG m ximo disponible      En la condici n de toda la gama desde calado de tr nsito hasta cal</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\DP_Questionnaire_with_answers.docx</filepath>
+        <Paragraphs>e pits      The VCG of the rig will move up  The trim of the rig will also change a large amount if no action is taken to compensate for the transfer </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGp</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGp</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  VCGp</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCGp</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>: VCGp IS OBTAINED FROM MAX. PERMISSIBLE VCG CURVE. 6)  :FSM(T), FSM(L) ARE OBTAINED FROM "TANK CAPACITY TABLES" PRESENTED IN S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCGp</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>of the rig      VCGp      m      Is the permissible vertical center of gravity of the rig obtained from stability calculation               m      Is </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>free surfaces   VCGo   m   Is the vertical center   of   gravity of the rig corrected for longitudinal or    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCGo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>e surfaces      VCGo      m      Is the vertical center of gravity of the rig corrected for longitudinal or transverse free suirfaces       LCB      m</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGINITIAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGINITIAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VM = WT × VCGINITIAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VCGINITIAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VM = WT × VCGINITIAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KML-VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KML-VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>the differences KML VCG and KMT VCG  i e  line        line      to obtain GML and GMT respectively   Enter these values     Line         Enter FSM  L </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KMT-VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KMT-VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ces KML VCG and KMT VCG  i e  line        line      to obtain GML and GMT respectively   Enter these values     Line         Enter FSM  L  and FSM  T </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VCGp-VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VCGp-VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>e difference of VCGp VCG obtained by FORM  I                tonne       is the displacement of the platform at a draft condition under FORM  I        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ListLCGTCGVCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ListLCGTCGVCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>2011-02-15 Attachment 3 ) To be Deducted Item ListLCGTCGVCG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LCGTCGVCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LCGTCGVCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>2011-02-15 LCGTCGVCG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LISTLCGTCGVCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LISTLCGTCGVCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>OFE   OCFE ITEM LISTLCGTCGVCG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

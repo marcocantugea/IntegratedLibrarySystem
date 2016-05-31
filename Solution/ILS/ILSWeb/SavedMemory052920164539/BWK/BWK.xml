@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BWK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BWK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-341-12.pdf</filepath>
+        <Paragraphs> Cleaner   SKU  BWK            Manufacture d for     LAGASSE  Inc      One Parkway North     Deerfield  IL          Contact Number    Prepared  By    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BWK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-341-4.pdf</filepath>
+        <Paragraphs> Cleaner   SKU  BWK           Manufacture d for     LAGASSE  Inc      One Parkway North     Deerfield  IL          Contact Number    Prepared B y    D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BWK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-341-A.pdf</filepath>
+        <Paragraphs> Cleaner   SKU  BWK           Manufacture d for     LAGASSE  Inc      One Parkway North     Deerfield  IL          Contact Number    Prepared B y    D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BWK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-342-12.pdf</filepath>
+        <Paragraphs> Cleaner   SKU  BWK            Manufacture d for     LAGASSE  Inc      One Parkway North     Deerfield  IL          Contact Number     Prepared By    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BWK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-345-12.pdf</filepath>
+        <Paragraphs> Cleaner   SKU  BWK            Manufacture d for     LAGASSE  Inc      One Parkway North     Deerfield  IL          Contact Number    P repared by    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

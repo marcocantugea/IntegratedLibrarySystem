@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ANTENNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANTENNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ANTENNA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ANTENNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  ANTENNA   The GPS antenna is a right</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ANTENNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18710-XX-0785DRILLINGOCB ANTENNA 11DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THANL0FTEH0YDENST0RREENN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THANL0FTEH0YDENST0RREENN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>THANL0FTEH0YDENST0RREENN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>  L330FTEH330YDEN ST330RRE ENN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HENNEMANN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HENNEMANN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Clean_Oil_Guide.pdf</filepath>
+        <Paragraphs>www.ccjensen.frGermanyKARBERG &amp; HENNEMANN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANTENNE1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANTENNE1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18510-XX-0209DRILLINGDFMA ANTENNE1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANTENNA1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANTENNA1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18610-XX-0217DRILLINGHRN ANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>18910-XX-0791DRILLINGANTENNA1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>18910-XX-0791DRILLINGANTENNA1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18910-XX-0791DRILLINGANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPLETE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>19010-XX-0792DRILLINGANTENNA1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>19010-XX-0792DRILLINGANTENNA1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>19010-XX-0792DRILLINGANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPLETE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>19110-XX-0793DRILLINGANTENNA1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>19110-XX-0793DRILLINGANTENNA1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs> IP-ratingRemark 19110-XX-0793DRILLINGANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPLETE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>19210-XX-0794DRILLINGANTENNA1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>19210-XX-0794DRILLINGANTENNA1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>19210-XX-0794DRILLINGANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPLETE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>19310-XX-0795DRILLINGANTENNA1DRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>19310-XX-0795DRILLINGANTENNA1DRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>19310-XX-0795DRILLINGANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPLETE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MILLENNIA256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MILLENNIA256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> HONEYWELL MILLENNIA256 FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MILLENNIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MILLENNIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> HONEYWELL MILLENNIA SPORT231 FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ILLENNIA231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ILLENNIA231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ILLENNIA231 FEATURES &amp; BENEFITS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PENNSYLVANIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04209MSDS.pdf</filepath>
+        <Paragraphs>ments   None    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST              This product contains the following components              subject to reporting re</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04368MSDS.pdf</filepath>
+        <Paragraphs>ulfuric acid    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST             This product contains the following components             subject to reporting requ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04949MSDS.pdf.pdf</filepath>
+        <Paragraphs>um hydroxide    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST             This product contains the following components              subject to reporting req</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\10 Percent Sterilizing Gas Mixture of CH2CH2O and CO2 SDS P4705.pdf</filepath>
+        <Paragraphs> This product is subject to the PENNSYLVANIA WORKER AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\14615MSDS.pdf</filepath>
+        <Paragraphs>um hydroxide    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST              This product contains the following components              subject to reporting re</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\74164MSDS.pdf</filepath>
+        <Paragraphs>                PENNSYLVANIA HAZARDOUS SUBSTANCE LIST             This product contains the following components              subject to reporting req</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\74199MSDS.pdf</filepath>
+        <Paragraphs>um hydroxide    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST             This product contains the following components             subject to reporting requ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Color Standards for Control Tests Mixtures of HCl CoCl2 CuSO45H2O FeCl3 H2O SDS P4899.pdf</filepath>
+        <Paragraphs> The components of this solution are subject to the PENNSYLVANIA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CPC-04944.pdf</filepath>
+        <Paragraphs>lycol ethers    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST               This product contains the following components                subject to reporting</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar H5 H10 H35 Shielding Gases Mixtures of H2 and Ar SDS P4861.pdf</filepath>
+        <Paragraphs> Propylene is subject to the PENNSYLVANIA WORKER AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Neon Gas Ne Safety Data Sheet SDS P4628.pdf</filepath>
+        <Paragraphs> Neon is subject to the PENNSYLVANIA WORKER AND COMMUNITY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methanol UCAR HTF Heat Treating Fluid CH3OH Safety Data Sheet SDS P4672.pdf</filepath>
+        <Paragraphs>position        PENNSYLVANIA    Methanol   is subject to the PENNSYLVANIA WORKER AND  COMMUNITY RIGHT   TO   KNOW ACT     P S  Sections               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Mildew_Remover_Ajax_14615_msds.pdf</filepath>
+        <Paragraphs>um hydroxide    PENNSYLVANIA HAZARDOUS SUBSTANCE LIST              This product contains the following components              subject to reporting re</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_dPro3.pdf</filepath>
+        <Paragraphs>to know   act   PENNSYLVANIA        Ethanol   TEXAS ESL        Tetrasodium EDTA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_dPro5.pdf</filepath>
+        <Paragraphs>ration          PENNSYLVANIA           Ethanol   CAS                 Typical Max   Concentration          INTERNATIONAL REGULATION    WHMIS Classifica</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PENNSYLVANIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stargon Gas Blends Mixture of Ar O2 and CO2 Safety Data Sheet SDS P6304.pdf</filepath>
+        <Paragraphs> This mixture is subject to the PENNSYLVANIA WORKER AND </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHEYENNE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHEYENNE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>CHEYENNE WELLS, CO   PHONE:  719/767-8801 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHEYENNE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>CHEYENNE WELLS, CO   PHONE:  719/767-8801 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

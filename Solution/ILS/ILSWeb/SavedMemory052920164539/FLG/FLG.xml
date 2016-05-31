@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PFLGear</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PFLGear</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>180 PFLGear pump flange straightHydraulic flange / Female BSPP thread Ð long version</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>0X-1013541-01 G/A, VALVE, BALL 16" 300# FLG  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

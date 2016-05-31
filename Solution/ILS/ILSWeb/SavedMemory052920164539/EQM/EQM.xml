@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EQMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EQMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>EQMD @ Shoe = _______ ppgExercise 1-7:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ppgEQMD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ppgEQMD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>______ ppgEQMD @ 9,000 ft = _______ ppg</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REQMTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REQMTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>4HEMPS 11.700 MINIMUM WELD JOINT REQMTS  0.00EA A1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

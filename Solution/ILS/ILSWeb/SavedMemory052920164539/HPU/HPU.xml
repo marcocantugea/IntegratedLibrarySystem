@@ -1,0 +1,623 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>Isolate the hydraulic supply (shut down the HPU or close ball valve </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-024.pdf</filepath>
+        <Paragraphs> Available oil flow from the HPU (due to the changed gear ratio of the gearbox) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DSC-002.pdf</filepath>
+        <Paragraphs> Upgrade kit for DSC HPU (ref. note 2) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RT-010.pdf</filepath>
+        <Paragraphs>ven HPU on shut off skid for direct acting tensioner system (</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>Visual check of HPU oil level and for hydraulic leaks through the BRC system.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-RN-003.pdf</filepath>
+        <Paragraphs>off HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs>lic Power Unit  HPU                                                                                                           Diverter Control Unit  D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>INSP612 Inspection Of Central HPU 6X9 4 385.001.   .   .   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>SERV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\734.002\20 CM RGC HPU Control Power Supply.docx</filepath>
+        <Paragraphs> Supply for RGC HPU         Status   Pending        Type    CM    Priority  Critical    Requestor  Randy Reese    Req  Date      Jan             Area </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>motor). Local start/stop panel for HPU of VRC is located in LCP.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs> thrusters      HPU Hydraulic Power Unit   An engine driven or electrically powered assembly which provides  hydraulic fluid at high pressure to perfo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>replacing an ROV HPU pump, repairing a manipulator, fitting cameras or   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs> panel      The HPU s for ballast and bilge valves is a self contained system with local control panel contained motor control circuits located close </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\17 BOPs HPU room.pdf</filepath>
+        <Paragraphs>           BOPs HPU ROOM       HRS AUGUST   th         TODOS LOS PASILLOS LIMPIOS Y LIBRES  BUEN ORDEN Y LIMPIEZA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\01 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>CUARTO HPU HIDRAULICO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT014 - Panel de control de lastre -sentina de emergencia (11-Abr-12).docx</filepath>
+        <Paragraphs>            Las HPU para las v lvulas de lastre y sentina es un sistema aut nomo con panel de control local que contiene circuitos de control de motor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>lic Power Unit  HPU       Ea     Control Cabinet       Ea     Control System        Ea     Access Basket        Ea         Weight     Weight  Crane  A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig_Supt_Exam.docx</filepath>
+        <Paragraphs>finition of the HPU reservoir volume according to API RP        a    times usable accumulator volume     b    times accumulator volume     c    times </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\1. Sistema  de Preventores (BOP System)\1.3 Work Ordes.pdf</filepath>
+        <Paragraphs>Page 3 of 23  Maintenance Work OrderSUBS001W16 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\17. Botes Salvavidas (Life Boats)\17.3 Work Orders.pdf</filepath>
+        <Paragraphs>Page 30 of 32   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>HPU High Pressure Hydraulic Unit  Th 4</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP323.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC359.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVCheck Winch HPU (3M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP325.pdf</filepath>
+        <Paragraphs>Approved Notes Torque HPU and pump mounting cleats</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP337.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVInspect pump/ motor ROV hydraulic eq. deck HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP340.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVInspection Heat Exchanger anode ROV winch HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\LUBE316.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVLubricate Winch HPU (6M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\LUBE322.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVLubrication of Electric motor BOP HPU E-pump</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\SRV413.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVBOP Control, Main HPU Maintenance (1WK)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST386.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVCalibrate HPU and Reservoir - ROV Hydraulics (3M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST388.pdf</filepath>
+        <Paragraphs>Check HPU idle current Page 1 of 1 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST814.pdf</filepath>
+        <Paragraphs>HPU for Winch oil.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TST808.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVLPA2 Oil Samples for HPU Davit Rescue Boat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\4297231053_Normal_ROV HPU_LA MURALLA IV GRUPO R SPANISH.pdf</filepath>
+        <Paragraphs>ecialties   ROV HPU Normal No  de Cuenta          Descripci n   ROV HPU Nombre de la Cuenta   LA MURALLA IV GRUPO R Componente   Hidr ulica LEPSA MATR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.1 Work orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.1 Work Orders.pdf</filepath>
+        <Paragraphs>Page 3 of 15  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>Page 3 of 16  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.3 Work Orders.pdf</filepath>
+        <Paragraphs>Page 3 of 16  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>Page 4 of 24  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.5 Work Orders.pdf</filepath>
+        <Paragraphs>Page 3 of 19  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.6 Work Ordes.pdf</filepath>
+        <Paragraphs>Page 3 of 23  Maintenance Work OrderSUBS001W16 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>Page 14 of 62  Maintenance Work OrderCLEA404 Clean BOP HPU filters</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.8 Work Orders.pdf</filepath>
+        <Paragraphs>Page 2 of 17  Maintenance Work OrderSUBS001W06 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.9 Work Orders.pdf</filepath>
+        <Paragraphs>Page 2 of 17  Maintenance Work OrderSUBS001W06 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\10. Corona (Crown block Assembly)\10.1 Work Orders.pdf</filepath>
+        <Paragraphs>Filter Element for HPU of DSCAker Solutions Drilling Technologies I n BA0015883</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.1 Work Orders.pdf</filepath>
+        <Paragraphs>Page 35 of 37   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.2 Work Orders.pdf</filepath>
+        <Paragraphs>Page 31 of 33   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.4 Work Orders.pdf</filepath>
+        <Paragraphs>Page 33 of 35   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.5 Work Orders.pdf</filepath>
+        <Paragraphs>Page 29 of 31   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.6 Work Orders.pdf</filepath>
+        <Paragraphs>Page 30 of 32   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.7 Work Orders.pdf</filepath>
+        <Paragraphs>HPU Davit Rescue Boat 261-SA-006-F2 (1M) 7. Filed</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.8 Work Orders.pdf</filepath>
+        <Paragraphs>Engineer. Maintenance Plan Notes HPU Davit Rescue Boat 261-SA-006-F2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.1 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.5 Work Orders.pdf</filepath>
+        <Paragraphs>Dynacon Winch HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.6 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.7 Work Order.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.9 Work Orders.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>HPU High Pressure Hydraulic Unit  Th 3</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>HPU High Pressure Hydraulic Unit  Th 4</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>Electric Motor of the Thruster HPU - High Pressure Hydraulic Unit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\luis Mayo\1.5 Work Orders mayo bop.pdf</filepath>
+        <Paragraphs>Page 3 of 19  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\PLEASE5.pdf</filepath>
+        <Paragraphs>HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>lic Power Unit  HPU       Ea     Control Cabinet       Ea     Control System        Ea     Access Basket        Ea         Weight     Weight  Crane  A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>elevator can be set to any desired value allowed by the HPU press .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>elevator can be set to any desired value allowed by the HPU press .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>FILTER BLOCK FOR  HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\BOP\15-wo.pdf</filepath>
+        <Paragraphs>Page 3 of 15  Maintenance Work OrderSRV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\crown block assembly\9 WO.pdf</filepath>
+        <Paragraphs>Filter Element for HPU of DSCAker Solutions Drilling Technologies I n BA0015883</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\life boat\37 WO.pdf</filepath>
+        <Paragraphs>Page 35 of 37   Maintenance Work OrderTST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\rov\57 rov.pdf</filepath>
+        <Paragraphs>Inspect HPU head plates for corrosion/cracks</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\SERV413.pdf</filepath>
+        <Paragraphs>SERV413 BOP Control, Main HPU  M SERV4137. Filed03-May-14</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\TEST808.pdf</filepath>
+        <Paragraphs>                HPU Davit Rescue Boat     SA      WI Description WI Rev  No Form Code Form Description Form Rev  No Asset Code Asset Serial No LPA  Oi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO SERV413.pdf</filepath>
+        <Paragraphs>Maintenance Work OrderSERV413 BOP Control, Main HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO TEST808.pdf</filepath>
+        <Paragraphs>Maintenance Work OrderTEST808 LPA2 Oil Samples for HPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ENERO\TEST 508.pdf</filepath>
+        <Paragraphs>501.504.   .   .   HPU Davit Rescue Boat 261-SA-006-F2  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ENERO\WO TEST508.pdf</filepath>
+        <Paragraphs>HPU Davit Rescue Boat 261-SA-006-F2</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\FEBRERO\SERV 413.pdf</filepath>
+        <Paragraphs>SERV413 BOP Control, Main HPU  M SERV4137. Filed15-Feb-14</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\MARZO\WO INSP340.pdf</filepath>
+        <Paragraphs>anode ROV winch HPU (2W)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\Replace Booster Pump HPU on Thruster 8.docx</filepath>
+        <Paragraphs>Booster Pump in HPU on Thruster         Page   P gina          OF  De          TASK  Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\Thuster 8 HPU pump.docx</filepath>
+        <Paragraphs>    Cleaned the HPU system    Page   P gina          OF  De          TASK  Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPTION    Re</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\ROV\HD36-TRA-Launch and Recovery.docx</filepath>
+        <Paragraphs>quipment  Winch HPU overheat or over run     M    M    M    Pilot is ready with motors in the rov  to  perform evasive maneuvers in case of strong cur</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Lakach - Rig Assessment Rev 01 Comp  2.pdf</filepath>
+        <Paragraphs>nce       shp   HPU        T onnes   thr ough   frame   lift          kgf   payload            msw            msw   option          LPM   auxiliary   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10-YD2810HPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10-YD2810HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>HPU for AHC 10-YD2810HPU for AHC ManualCallendar</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPU222s</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPU222s</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>The HPU222s for ballast and bilge valves is a self contained system with local control panel </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>						HPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>						HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>      Location        HPU ROOM    Locking unlocking control     yes        Remete panel     Make     Model     Location     Locking unlocking control </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>						HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>      Location        HPU ROOM    Locking unlocking control     yes        Remete panel    Make     Model     Location     Locking unlocking control  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPUs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP329.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Page 1 of 1 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.1 Work orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.1 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.5 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.6 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.7 Work Order.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.9 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\3. Sistema de ROV (ROV System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HPUs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\rov\57 rov.pdf</filepath>
+        <Paragraphs>Calibrate Main and Aux HPUs Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IVHPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IVHPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\SRV527.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVHPU Davit Rescue Boat Maintenance (24M)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1003NewHPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1003NewHPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>1003NewHPU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EHPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.1 Work orders.pdf</filepath>
+        <Paragraphs>Dynacon EHPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EHPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>Dynacon EHPU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EHPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>Maintenance Work OrderROVV003M01 Check Winch EHPU (3M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EHPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>Dynacon EHPU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HP-HPU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HP-HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>Electric Motor for HP-HPU Pump</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HP-HPU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>Electric Motor for HP-HPU Pump</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPU2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPU2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\MARZO\INSP340.pdf</filepath>
+        <Paragraphs>Unexpected Winch HPU2 Week0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,923 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>WARNING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-029.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-033.pdf</filepath>
+        <Paragraphs>Material:             Ref. installation guidelines in this bulletin.   WARNING  Possible Loss,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-034.pdf</filepath>
+        <Paragraphs>  WARNING 1.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-037a.pdf</filepath>
+        <Paragraphs>tional rig. It is essential to read through all the guidelines before starting the installation.   WARNING Possible Loss, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>  WARNING   To be able to do the work in a safe manner, applicable risk co n- trol measures shall be in place. Risks can typically be like shut in </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DW-004.pdf</filepath>
+        <Paragraphs>ke through      WARNING  actions or information   An icon in a black triangle with a yellow background      DIRECTIVE  actions or information   An ico</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RN-021.pdf</filepath>
+        <Paragraphs>WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RT-010.pdf</filepath>
+        <Paragraphs>  WARNING   This equipment holds high pressure and care must be taken to make sure  the serviced</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-CS-011.pdf</filepath>
+        <Paragraphs>     WARNING    Due to potential component failure, loss of EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-DDM-034.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-DDM-034a.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-DR-002.pdf</filepath>
+        <Paragraphs> DR             WARNING     Under no circumstances shall load be transferred to the Telescopic  Joint inner barrel while running  and retrieving the r</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-012.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-GE-018.pdf</filepath>
+        <Paragraphs>WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-040.pdf</filepath>
+        <Paragraphs>   WARNING  Possible Loss,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-043.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-044.pdf</filepath>
+        <Paragraphs>  WARNING  Possible Loss,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-RN-003.pdf</filepath>
+        <Paragraphs>   WARNING     This equipment holds high pressure and care must be taken to </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-RR-012.pdf</filepath>
+        <Paragraphs>    251 2011 Aker Solutions Please be aware of the extended warning text:  WARNING          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs>rovisions       WARNING   This section is intended to serve as  safety guideless and not to  be used as an all   inclusive list  It is not intended to</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.001\831-CD-001-A.docx</filepath>
+        <Paragraphs>L PRESSURE HIGH WARNING ALARM                     Worker No      Worker Name    Remarks    N A                Symptom    Code    HIGH DIFFERENTIAL PRE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.003\831-CD-001-C.docx</filepath>
+        <Paragraphs>L PRESSURE HIGH WARNING ALARM                     Worker No      Worker Name    Remarks    N A                Symptom    Code    HIGH DIFFERENTIAL PRE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.004\831-CD-001-D.docx</filepath>
+        <Paragraphs>L PRESSURE HIGH WARNING ALARM                     Worker No      Worker Name    Remarks    N A                Symptom    Code    HIGH DIFFERENTIAL PRE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.005\831-CD-001-E.docx</filepath>
+        <Paragraphs>DEVIATION ALARM WARNING FOR     CYLINDER    N A    Cause    Code        STUCKED FUEL INJECTOR AND OUT OF INJECTOR PUSH ROD    N A    Repair Detail    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.008\831-CD-001-H.docx</filepath>
+        <Paragraphs>L PRESSURE HIGH WARNING ALARM                     Worker No      Worker Name    Remarks    N A                Symptom    Code    HIGH DIFFERENTIAL PRE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>    WARNING   If weather conditions are forecasted to deteriorate so that the Transit environmental </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>WARNING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>PAINTED WITH WARNING COLORS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\18 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>COVER  PAINTED WITH WARNING CODE COLORS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\26 Oxy-Acet Cylinders Store.pdf</filepath>
+        <Paragraphs>WARNING SAFETY SIGNS IN PLACE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\20 Derrick finger deck.pdf</filepath>
+        <Paragraphs> WINCH CABLE W/OUT WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\29 Derrick .pdf</filepath>
+        <Paragraphs>WINCH CABLE W/OUT WARNING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>  WARNING    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\INSTRUCTION MANUAL FOR CENTRIFUGAL PUMPS.pdf</filepath>
+        <Paragraphs>Megger) WARNING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs> death or serious injury.  WARNING WARNING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs> death or serious injury.  WARNING WARNING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>  WARNING    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>  WARNING    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>769915-EH-U05.028-EA06LIGHTINGAIRCRAFT WARNING LIGHT1DERRICK TOP / Zone 2TranbergDenmarkTEF 2430 160NEMKO 03ATEX064Exed IIB T5C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>Ultima256 XIR PROPANE 2.1% with RELAYS and WARNING LED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-blue-plus-detergents-us-ghs-sds.pdf</filepath>
+        <Paragraphs>Elements        WARNING       Causes skin irritation     C auses serious eye  irritation       Prevention   Wash thoroughly after handling     Wear pr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Banana Gas 32 Gas Mixture Mixture of C2H4 and CO2 Safety Data Sheet SDS P4818.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Compressed gas nos Nitrogen Silane Mixture of N2 and SiH4 Safety Data Sheet SDS P196399.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 218 Perfluoropropane C3F8 Safety Data Sheet SDS P4640.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 218 Perfluoropropane C3F8 Safety Data Sheet SDS P4640_001.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon C318 C4F8 Safety Data Sheet SDS P4671.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Kimcare_Naturally_Tuff_Orange_8 Liter_91045_msds.pdf</filepath>
+        <Paragraphs>Hazardous Products Act (WHMIS). GHS Classification:  Flammable Liquid Category 4. GHS Labeling:  WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Kimcare_Naturally_Tuff_Orange_gallon_91057_msds.pdf</filepath>
+        <Paragraphs>Hazardous Products Act (WHMIS). GHS Classification:  Flammable Liquid Category 4. GHS Labeling:  WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Kimcare_Sani-Tuff_Super_Duty_wGrit_91386_msds.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Kimcare_Super_Duty_Cleanser_wGrit_3.5 Liter_91757_msds.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Kimcare_Super_Duty_Cleanser_wGrit_8 Liter_91748_msds.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Kimcare_Super_Duty_wGrit_91388_msds.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\KLEENEX_Luxury_Foam_Antibacterial_Skin_Cleanser_91554_msds.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\lava-bar-ghs-sds.pdf</filepath>
+        <Paragraphs>                WARNING       Causes serious eye irritation      Prevention   Rinse hands thoroughly after use     Response   IF IN EYES  Rinse ca uti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\lava-bar-professional-ghs-sds.pdf</filepath>
+        <Paragraphs>                WARNING       Causes serious eye irritation      Prevention   Rinse hands thoroughly after use     Response   IF IN E YES  Rinse cauti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied gas n o s octafluorotetrahydrofuran C4F8O Safety Data Sheet SDS P6268.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied gas n o s octafluorotetrahydrofuran C4F8O Safety Data Sheet SDS P6268_001.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-3-en-uno-tecnico-silicone.pdf</filepath>
+        <Paragraphs>ncy Overview    WARNING      Extremely f lammable   aerosol     Contents under pressure    Harmful o r   fat al if   swallowed    Combustible Liquid  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Clear_Cleaner_28oz_CL-12_msds.pdf</filepath>
+        <Paragraphs>ightly sour     WARNING OVERVIEW    Irritating to eyes  Use with adequate ventilation  Avoid breathing mist or dust   Keep container closed when not i</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Lysol_Pine_Cleaner_02814_msds.pdf</filepath>
+        <Paragraphs>WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-WD40_3_In_1_Penetrant_10140_msds.pdf</filepath>
+        <Paragraphs>ncy Overview    WARNING    Fla mmable   Contents under pressure   Harmful or fatal is swallowed   Combustible  Liquid and Vapor  If swallowed  may be </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Chlorosilane A19 SiHCl3 Safety Data Sheet SDS P4823.pdf</filepath>
+        <Paragraphs>ll a physician  WARNING   To avoid possible  chemical burns  the rescuer should avoid breathing any exhaled air from the victim    First   aid measure</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\REC-78915.pdf</filepath>
+        <Paragraphs>WARNING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-pet-aerosol-ghs-us-sds.pdf</filepath>
+        <Paragraphs>ts              WARNING       Contains gas under  pressure  may exp lode if heated    Storage   P rotect from sunlight  Do not expose to temperatures </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sulfur Hexafluoride SF6 Safety Data Sheet SDS P4657.pdf</filepath>
+        <Paragraphs>GHS   US        WARNING   Hazard statements  GHS   US        H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-11047-MSDS-BABA_KIMCARE INDUSTRIE NTO.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91045-04-MSDS-BABA_SCOTT Naturally Tuff Orange Skin Cleanser with Grit.pdf</filepath>
+        <Paragraphs>2/6 SAFETY DATA SHEETSCOTT* Naturally Tuff Orange Skin Cleanser w/Grit  WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91298-MSDS-BABA Scott Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs>CFR 372):  Chronic Health California Proposition 65:  WARNING This product contains a chemical known to the </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91388-05-MSDS-BABA_SCOTT Super Duty Skin Cleanser with Grit.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91547-MSDS-BABA KLEENEX Antibacterial Skin Cleanser.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-BABA.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.na.kccustomerportal.com-91554-MSDS-BABA_KLEENEX Antibacterial Foam Skin Cleanser_0.5 Triclosan_KIMCARE.pdf</filepath>
+        <Paragraphs> WARNING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>Operator accident-prevention standards.  WARNING !</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>General ManagerBeth Custom Hose Assemblies and Hose Fittings 3 WARNING FAILURE OR IMPROPER SELECTION OR IMPROPER USE OF HOSE, TUBING, FITTINGS, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>3. Use a cleaning rod to check for a Bullet in the Bore.(picture 12) Picture 12  Picture 3  Picture 1  WARNING IF A BULLET IS STUCK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>WARNING safety notes MUST be followed carefully. Failure </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>  ! WARNING ! WARNING ! WARNING !   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Aker Telescopic Joint\Clip Riser Telescopic Joint Operation Manual.pdf</filepath>
+        <Paragraphs>WARNING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>WARNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142.PS014 Formato Trabajos en Altura\142.PS014.F01 Lista de Verificacion Arneses - Harness Check List (22-Ago-14).doc</filepath>
+        <Paragraphs>CACION ARNESES  HARNESS CHECK LIST DEPARTAMENTO DE SSPA  HSE DEPARTMENT     FECHA  DATE   Elaborado Por  Elaborate By    Nombre  Name   Puesto  Positi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\23 Starboard Crane.pdf</filepath>
+        <Paragraphs>PASILLOS LIBRES Y  LIMPIOS HARNESS STOWED WRONG (CORRECTED)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>CHOOSING   YOUR HARNESS Look for quality in these features when  selecting your harness                                     DORSAL CONNECTION The fall</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>HARNESS Back D-rings, hip pad and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>HARNESS This type typically includes extra </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>for the rescuer to go to the fallen worker is not required.  þ  hook. Comes with nylon storage bag. ATTACHING REMOTE HOOK TO HARNESS  en-US en-US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>beam grips and dead-weight anchor...). BFULL BODY HARNESS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>WEAR HARNESS FOR PREVENTING FR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB023 - Install Landing Joint (in Trip Saver Mode) R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>MUST USE SAFETY HARNESS AND MUST BE TIED OFF TO BASKET     Have the Driller start picking joint up when personnel are clear of man basket     ENSURE A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEMARNAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEMARNAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\13 SSyPA - HSE\ENGLISH\Procedures\142.PS002 Procedimiento Manejo, Almacenamie Final de los Residuos No Peligrosos (25-Jun-13) ENG.docx</filepath>
+        <Paragraphs>e normativities SEMARNAT as         NOM     SEMARNAT      Norma Oficial Mexicana que establece las caracter sticas de los residuos peligrosos  el list</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMARNAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>vo emitido por  SEMARNAT  S G P A    DGIRA DGIRA DEI         Proyecto Inte gral Marino de la Regi n Norte               SEGURIDAD INDUSTRIAL Y PROTECC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMARNAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>ivo emitido por SEMARNAT    En todas las operaciones de Perforaci n  Reparaci n y Terminaci n de Po zos de la Regi n Norte    se  deber n tomar todas </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\13 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>SAFETY WARNINGS CONTENEDORES DE RESIDUOS ESPECIALES SIN IDENTIFICACION EN ALMACEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs> ORDER CODE     WARNINGS Read the following warnings before installing  connecting or using the device </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>COMPLIANCE WITH SAFETY WARNINGS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>Modular  Repeating  Rifles  IMPORTANT!READ  ALL  WARNINGS AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>FAILURE TO OBSERVE THE WARNINGS AND NOTES OF </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARNINGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs> WARNINGS are concerned with injury to personnel and call attention to potentially hazardous </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CARNAZA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CARNAZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\15 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>GUANTE DE CARNAZA COLOCADO SOBRE TABLERO ELEC-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\06 Jun  Drilling Equipment Store.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   DRILLING EQUIPMENT STORE 22:00 HRS JUN 06th 2014 PFD222s STORED ALONG WITH SAFETY HARNESSES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ENTS F ULL BODY HARNESSES        BELTS  WORKSEATS   ACCESSORIES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>1191434  X-Large PRO231  CONSTRUCTION HARNESSES  PRO231 VEST-STYLE HARNESSESPRO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HARNESSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>ULL BODY HARNESSES þ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARNESES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARNESES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\06 Jun  Drilling Equipment Store.pdf</filepath>
+        <Paragraphs>CON ARNESES DE SEGURIDAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ARNESES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>ENERALES DE LOS ARNESES o actividades similares  La argolla pectoral </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARNESS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\23 Starboard Crane.pdf</filepath>
+        <Paragraphs>ARNESS MAL ACOMODADO (CORREGIDO) OPERATOR CABIN  CLEAN AND ORGAN-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ARNESS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARNES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARNES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\05 fire station #1.pdf</filepath>
+        <Paragraphs>DEJAN EL ARNES PRESURIZADO AL TERMINO DE LAS PRAC-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ARNES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\tra &amp; documents for permit to work\018 limpieza de PRESAS de lodos( esp. confin).docx</filepath>
+        <Paragraphs>MANENTE  USO DE ARNES AL BAJAR Y SUBIR ESCALERAS   USO DE EPP ADECUADO ACUDIR A REVISION MEDICA  ANTES DE ENTRAR       A    M    M            ORDEN Y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GUARNIZIONI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GUARNIZIONI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>GUARNIZIONI MONTATE SUL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GUARNIZIONI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>GUARNIZIONI MONTATE SUL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GUARNIZIONI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>GUARNIZIONI MONTATE SUL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>Winch WARN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WARN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-atbc-blue-plus-fragrance-us-ghs-sds.pdf</filepath>
+        <Paragraphs>l Elements      WARN ING       Causes skin irritation     May cause an allergic skin reaction     Causes serious eye irritation      Prevention   Avoi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGMachinery</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGMachinery</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>personal injury or death.  WARNINGMachinery or environmental risk: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGNote</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGNote</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>vibration absorber.  WARNINGNote that in case of a sleeve breakage, the flowing liquid </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGIn</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGIn</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>a plug, which can be opened to check for sleeve failure.  WARNINGIn case of a sleeve failure, slight leakage will occur through </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGDo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGDo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>sswise  Fig     WARNINGDo not fasten actuator or any part of it to the support       OPERATION     First use Larox valves are normally delivered fully</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGControl</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGControl</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>into the environment.  6.2 Changing the valve sleeve  WARNINGControl the valve functions (see 2.3) and follow the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GUARNIZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GUARNIZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>  38 GUARNIZIONE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>              W ARNING      D ISCLAIMER   All rights reserved   This manual and the programs referred to herein are copyrighted  works of Zetechtics L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>ARNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRECT-TO-HARNESS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRECT-TO-HARNESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ring harnesses  DIRECT TO HARNESS CONNECTION     INSTALLS DIRECTLY TO WEBBING ON MOST HARNESSES  Leaves D ring open for other equipment  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSESPRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSESPRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>1191434  X-Large PRO231  CONSTRUCTION HARNESSES  PRO231 VEST-STYLE HARNESSESPRO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSBack</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSBack</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>HARNESSBack D-ring, pass-thru </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CARNAZACarnaza</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CARNAZACarnaza</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>y ribete.    PROTECCIÓN MANUAL  www.capitalsafety.com · www.arseg.com.co84 2019GUANTE EN CARNAZACarnaza curtida en cromo.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSLook</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSLook</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>YOUR HARNESSLook for quality in these features when </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARNESSES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARNESSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>ARNESSES  A front-mounted D-ring </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSES291113573</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSES291113573</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>S AND HARNESSES291113573 þCC   þEE X þOFITOFIT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSES1110842</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSES1110842</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>and with Kevlar256 037ber pass-thru body belt. EXOFIT XP ARC FLASH HARNESSES1110842 þCC   þEE X þOFITOFIT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARNESSES39</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARNESSES39</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs> FULL BODY HARNESSES39 1110578 þCCþDELTADELTA   þCONSTR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>en-USHARNESSen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>en-USHARNESSen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>by no more than 2 people. en-USANCHORAGE en-USHARNESSen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>overviewWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>overviewWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ammonia-Free-Glass-Cleaner-Concentrate-English-MSDS-ZU1052.pdf</filepath>
+        <Paragraphs>ation Emergency overviewWARNING  FLAMMABLE LIQUID AND VAPOR   CAUSES EYE IRRITATION  Hazard Determination System  HDS   Health  Flammability  Reactivi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>overviewWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>ation Emergency overviewWARNING  CAUSES EYE AND SKIN IRRITATION  Hazard Determination System  HDS   Health  Flammability  ReactivityAcute Effects Eyes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>overviewWARNINGCAUSES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>overviewWARNINGCAUSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\High-Trafiic-Floor-Polish-English-MSDS-ZUHTFF.pdf</filepath>
+        <Paragraphs>ation Emergency overviewWARNINGCAUSES EYE AND SKIN IRRITATION  Hazard Determination System  HDS   Health  Flammability  Reactivity  Acute Effects</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>overviewWARNINGCAUSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Zep-All-in-1-Premium-Pressure-Washing-Cleaner.pdf</filepath>
+        <Paragraphs>ation Emergency overviewWARNINGCAUSES EYE AND SKIN IRRITATION  Hazard Determination System  HDS   Health  Flammability  ReactivityAcute Effects Eyes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGDischarging</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGDischarging</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>  LEAD EXPOSURE WARNINGDischarging firearms in poorly ventilated areas  cleaning firearms or handling ammunition may result in expo </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RifleWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RifleWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>Rifle325s Firing Chamber.Unloading Your RifleWARNING        ALWAYS KEEP THE MUZZLE POINTED IN A SAFE DIRECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TechniquesWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TechniquesWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>according to the techniques described below.Detailed Cleaning TechniquesWARNING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARNINGChildren</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARNINGChildren</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>  Company  Inc  WARNINGChildren  are  attracted  to  and  can  operate </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HousingWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HousingWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>LOAD. 4.0    Operation and Maintenance Operator222s Manual Diverter System  PAGE4- 2 4.3Diverter HousingWARNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AssemblyWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AssemblyWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>20.Function test the hydraulic stabs. Operator222s Manual Diverter System PAGE4- 9 4.4FS Diverter AssemblyWARNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SelectorWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SelectorWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>ING PARTS. Operator222s Manual Diverter System PAGE4- 17 4.5Flow SelectorWARNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ToolWARNING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ToolWARNING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>ToolWARNING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

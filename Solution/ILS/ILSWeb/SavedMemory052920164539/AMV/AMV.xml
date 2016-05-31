@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>00AMV9610052SC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>00AMV9610052SC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CODENOTEQ.t 4422 ROTATING GROUP 00AMV9610052SC 508401336_METRIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>00AMV9610052SC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CODENOTEQ.t 4422 ROTATING GROUP 00AMV9610052SC 508401336_METRIC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>00AMV5068344</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>00AMV5068344</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>SS   NPT     LB   AMV            NUT M   INOX   A  C            SCREW M  x   UNI      INOX   A  C                    METRIC PROTECTOR COVER VESSEL ASS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>00AMV5068344</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>SS   NPT     LB   AMV            NUT M   INOX   A  C            SCREW M  x   UNI      INOX   A  C                    METRIC PROTECTOR COVER VESSEL ASS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

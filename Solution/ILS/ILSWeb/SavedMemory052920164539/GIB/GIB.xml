@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SEMISUMERGIBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142.IS002.F01 Lista de Verificacion Andamios - Scaffold Check List R.00 (22-Ago-14).doc</filepath>
+        <Paragraphs>C V  PLATAFORMA SEMISUMERGIBLE DE PERFORACI N LA MURALLA IV LISTA DE VERIFICACION ANDAMIOS  SCAFFOLD CHECK LIST DEPARTAMENTO DE SSPA  HSE DEPARTMENT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\145.PS027.F01 Lista de Verificacion Equipo de Oxicorte - Oxycutting Equipment Check List (22-Ago-14).doc</filepath>
+        <Paragraphs>C V  PLATAFORMA SEMISUMERGIBLE DE PERFORACI N LA MURALLA IV LISTA DE VERIFICACION EQUIPO DE OXICORTE  OXYCUTTING EQUIPMENT CHECK LIST DEPARTAMENTO DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142.PS014 Formato Trabajos en Altura\142.PS014.F01 Lista de Verificacion Arneses - Harness Check List (22-Ago-14).doc</filepath>
+        <Paragraphs>C V  PLATAFORMA SEMISUMERGIBLE DE PERFORACI N LA MURALLA IV LISTA DE VERIFICACION ARNESES  HARNESS CHECK LIST DEPARTAMENTO DE SSPA  HSE DEPARTMENT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142.PS014 Formato Trabajos en Altura\142.PS014.F02 Lista de Verificacion Escaleras Portatiles - Portable Staris Check List (22-Ago-14).doc</filepath>
+        <Paragraphs>C V  PLATAFORMA SEMISUMERGIBLE DE PERFORACI N LA MURALLA IV LISTA DE VERIFICACION ESCALERAS PORTATILES  PORTABLE STAIRS CHECK LIST DEPARTAMENTO DE SSP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-002 Service Air.pdf</filepath>
+        <Paragraphs>o    PLATAFORMA SEMISUMERGIBLE DE PERFORACION LA MURALLA IV  CON   OESTE  GOLFO DE MEXICO    Calle      Colonia                                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-003 Bulk Air.pdf</filepath>
+        <Paragraphs>o    PLATAFORMA SEMISUMERGIBLE DE PERFORACION LA MURALLA IV  CON   OESTE  GOLFO DE MEXICO    Calle      Colonia                                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEMISUMERGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-004 Control.pdf</filepath>
+        <Paragraphs>o    PLATAFORMA SEMISUMERGIBLE DE PERFORACION LA MURALLA IV  CON   OESTE  GOLFO DE MEXICO    Calle      Colonia                                       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ILEGIBLEES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ILEGIBLEES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\13 Navigation deck.pdf</filepath>
+        <Paragraphs>ILEGIBLEES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEMISUMERGIBLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEMISUMERGIBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs> N MARINA TIPO  SEMISUMERGIBLES DE POSICIONAMIENTO DIN MICO   GO   PP   TC                 GU A   OPERATIVA PARA EL DISE O DE POZOS APLICANDO LA METOD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TERMOENCOGIBLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TERMOENCOGIBLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>CI323N  TUBOS TERMOENCOGIBLES N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEGLIGIBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEGLIGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>NEGLIGIBLE BHP 6200 PSI RETURNS  012015015012</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEGLIGIBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEGLIGIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Mechanic\145.PS019 Procedimiento Valoración de Riesgo (11-Marzo-13).doc</filepath>
+        <Paragraphs>DIUM     HIGH     NEGLIGIBLE     SLIGHT     MODERATE     HIGH     VERY HIGH     Likelihood     of Occurrence     L     Very Unlikely     LOW     LOW  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>REVUELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REVUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\03 cement room .pdf</filepath>
+        <Paragraphs>BASURA REVUELTA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REVUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\07 SHAKER ROOM.pdf</filepath>
+        <Paragraphs>h        BASURA REVUELTA Y FUERA DE CONTENEDOR CORRESPONDIENTE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VUELTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VUELTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>y  VUELTA  T351cnico Inspector en </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ULTRAVUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ULTRAVUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>ULTRAVUE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ULTRAVUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>V   A M   SCARA ULTRAVUE El respirador Ultravue es una m   scara de rostro completo de  una v   a  conexi   n rosca para c   nister  Estos c   nisters</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENVUELTAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENVUELTAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>BOTE CON 100 TOALLITAS ENVUELTAS INDIVIDUALMENTE PN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

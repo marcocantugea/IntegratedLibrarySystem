@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GZR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GZR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Use adapter GZR or swivel connector</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GZGZR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GZGZR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>GZGZR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GZRSwivel</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GZRSwivel</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Stainless Steel71GZ16S71VIT  I DIN fittings I43Catalogue 4100-7/UK GZRSwivel reducerEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>KDMFGHTRYKKPUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KDMFGHTRYKKPUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>KDMFGHTRYKKPUMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HTR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Prolex HTR-260 MSDS English.pdf</filepath>
+        <Paragraphs>HTR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

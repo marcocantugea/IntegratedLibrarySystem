@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MAXON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAXON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>                MAXON PL                              SP      Series  SP            SL   W                   SP      Series  CP      Series           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AXOrganic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AXOrganic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>AXOrganic gases and vapours</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

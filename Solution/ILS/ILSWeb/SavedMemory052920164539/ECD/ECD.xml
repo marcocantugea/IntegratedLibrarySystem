@@ -1,0 +1,798 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ECDIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>Processor Unit for Main ECDIS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>ECDIS Maint(1M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Two (2) ECDIS Display units </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L06 Lista de Verificacion de DP para Abandonar el Campo - Field Departure DP Checklist (11-Abr-13).docx</filepath>
+        <Paragraphs> Set passage on ECDIS   Fijar traves a en sistema ECDIS            Vessel Stability calculated for transit draught   if de  ballasting   Estabilidad d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08.L06 Lista de Verificación de DP para Abandonar el Campo - Field Departure DP Checklist (14-Ago-13).docx</filepath>
+        <Paragraphs> Set passage on ECDIS   Fijar traves a en sistema ECDIS            Vessel Stability calculated for transit draught   if de  ballasting   Estabilidad d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L06 Field Departure DP Checklist.docx</filepath>
+        <Paragraphs> Set passage on ECDIS   Fijar traves a en sistema ECDIS            Vessel Stability calculated for transit draught   if de  ballasting   Estabilidad d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>        Two     ECDIS Display units        Echo sounder  Skipper GDS     transducer in each HIPAP room of pontoon          Doppler speed log  Skipper </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT035 - Instalación-actualización bases de datos de ECDIS (11-Abr-12)\Instalación-actualización bases de datos de ECDIS (11-Abr-12).docx</filepath>
+        <Paragraphs>para el sistema ECDIS  que la base de datos deber  ser actualizada o reinstalada por una versi n actualizada y o mejoras en las cartas actuales  Este </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT033 - Uso de la K-ECDIS y estación de planeación (11-Abr-12).docx</filepath>
+        <Paragraphs> operaci n de K ECDIS y estaci n de planeaci n   Pantalla Electr nica de Gr ficos y Sistema de Informaci n   ECDIS                ALCANCE         Este</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT035 - Instalación-actualización bases de datos de ECDIS (11-Abr-12).docx</filepath>
+        <Paragraphs>para el sistema ECDIS que la Base de datos de cartas tendr  que reinstalarse o actualizarse puesto que hay nuevas y mejores cartas disponibles   Este </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT053 - Procedimiento de tránsito (11-Apr-12).docx</filepath>
+        <Paragraphs> y los puertos  ECDIS      Direcciones de navegaci n    Normas portuarias actualizadas    Tablas de mareas     Condici n del calado  asiento y estiba </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ECDISProcessor</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECDISProcessor</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>Processor Unit for Main ECDISProcessor Unit for Main ECDIS ManualCallendar</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>K-ECDIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>K-ECDIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT033 - Uso de la K-ECDIS y estación de planeación (11-Abr-12).docx</filepath>
+        <Paragraphs> y operaci n de K ECDIS y estaci n de planeaci n   Pantalla Electr nica de Gr ficos y Sistema de Informaci n   ECDIS                ALCANCE         Es</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ECD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\During_a_killing_operation_the_choke_operator_notices_that_both_the_DP_and_Casing_pressure_are_falling_slowly.docx</filepath>
+        <Paragraphs>pg  What is the ECD     Well kill procedures require all rig personnel to be speaking the same language  What does the abbreviation TVD stand for     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>ECD @ Vertical Depth12.0212.0312.0412.0412.0512.0612.0612.0712.0812.0912.10</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>ECD    o oppg     Formulas and Calculations Decimal equivalent                   PO                 bbVstk x      PO                bbllstk Formula   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs> ft + 12.5 ppp  ECD  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>S  Drillstring  ECD  Equivalent circulating density  Eff  Efficiency  EMW  Equivalent mud weight  EOB  End of build  FCP  Final circulating pressure  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OECD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLAIROL PROFESSIONAL FLARE PERMANENT CREAM (CREME PERMANENTE) MEDIUM INTENSE VIOLET RED 96636462_NA PGNA EN 11-29-13.pdf</filepath>
+        <Paragraphs>oethanol        OECD      shake flask method  pH         and    C     Methyl p phenylenediamine hemisulphate        Phenol        hydroxyethyl amino  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLAIROL_PROFESSIONAL_COLOR_RADIANCE_SHAMPOO_EN_96376970A_24-June-2013.pdf</filepath>
+        <Paragraphs>nal Approach in OECD Guideline       VOC Content  Products comply with US state and federal regulations for VOC content in consumer  products   Oxidiz</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_2RRV_98864863_PROF_NA_EN_28-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_3RRV_98864862_PROF_NA_EN_29-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_4GN_99732088_PROF_NA_EN_29-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_8N,88N_99314334_PROF_NA_EN_2-SEP-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanente_9NN_Light_Ultra_Riche_Neutral_Blonde_99732087_PROF_NA_EN_29-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Permanent_3AA,57D_98858003_PROF_NA_EN_2-SEP-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Perm_HL_12A,HL-V_01138384_PROF_NA_EN_28-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Perm_HL_12AA-BV_99313482_PROF_NA_EN_28-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clairol_Professional_SOY4PLEX_Liquicolor_Perm_HL_12GHL-G_01138390_PROF_NA_EN_27-AUG-2014.pdf</filepath>
+        <Paragraphs>bw  Similar  to OECD      standard  acute method  rat         mg kg bw  Similar  to OECD      standard  acute method  rabbit               mg L air   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest Pro Health For Me Minty Breeze and Rockin Mint 99315052  10-JUL-2014.pdf</filepath>
+        <Paragraphs> pyrophosphate  OECD      and EU Method B    bis  rat          mg kg bw  OECD      and EU Method B     standard acute method   rat          mg L air  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest_Pro-Health_HD_Step_2_peroxide_gel_99740299_25-AUG-2014.pdf</filepath>
+        <Paragraphs>      mg kg bw  OECD       standard acute  method          mg kg bw   Guideline  US EPA  Toxic Substance Health  Effects Test Guideline   standard acu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest_Pro-Health_Tartar_Protection_with_Fluoride_97025588_06-NOV-2014.pdf</filepath>
+        <Paragraphs>      mg kg bw  OECD       standard acute  method  rat           mg kg bw   Rabbit         mg L air  Similar to  OECD      standard  acute method  rat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest_Pro_Health_Minty_Breeze_and_Rockin_Mint_99315052_10-JUL-2014.pdf</filepath>
+        <Paragraphs> pyrophosphate  OECD      and EU Method B    bis  rat          mg kg bw  OECD      and EU Method B     standard acute method   rat          mg L air  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Magma_by_Blondor_Post_Treatment_99661109_24-JUN-2014.pdf</filepath>
+        <Paragraphs>      mg kg bw  OECD      and EU Method B     standard acute method   rat  based on active  ingredient       mg kg bw  Read  across data on  Quaternar</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_24oz_13012_msds.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_5 Gal_13006_msds.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_55 Gal_13008_msds.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Conc_Gal_13005_msds.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Disinfect_Gal_30128_msds.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Simple_Green_Disinf_6 Qts_30032_msds.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_AllPurposeCleanerFoam.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_AllWheelCleaner.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated Classification System for Human health    Environmental   hazards of Chemical Substances   Mixtures     Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_AntiSpatter.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated  Classification System for Human health   Environmental hazards of Chemical Substances   Mixtures     Carci</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_BikeCleanerNonAerosol.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND ASSESSMENT Number        Carcinogens    T his product contains  trace amounts of Diethanolamine   IARC  B a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CarpetCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CarpetCleanerSpotStainRemover.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CarWash.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CB-AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>in    days  per OECD    D       Additional information can be found in Section      REGULATORY INFORMATION        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CB-BathroomCleaner.pdf</filepath>
+        <Paragraphs>Readily biodegradable, 73.8% in 28 days (per OECD 301D). </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Crystal.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CrystalFoam.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Degreaser.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ExtremeAircraftPrecision.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated Classification System for Human health    Environmental   hazards of Chemical Substances   Mixtures     Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ExtremeAircraftPrecisionTrigger.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated Classification System for Human health    Environmental   hazards of Chemical Substances   Mixtures     Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ExtremeMotorsports.pdf</filepath>
+        <Paragraphs> Calculated via OECD   Harmonized Integrated Classification System for Human health   Environmental hazards of Chemical Substances   Mixtures     Carc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_GolfClubGrip.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_HandGelCleaner.pdf</filepath>
+        <Paragraphs>ta from similar formulas.   Acute Toxicity: Oral LD50 (rat) &gt;5 g/kg body weight* *Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_HeavyDutyTowels.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_LemonAllPurposeCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_LimeScaleRemover.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures       Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-Bathroom.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-BathroomCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-Carpet.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-CarpetCare.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-Dilutable.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-Dish.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-GlassSurface.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-Hand.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-MultiSurface.pdf</filepath>
+        <Paragraphs>Calculation from OECD series on testing and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_Naturals-MultiSurfaceCare.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PetOxyDog.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PG-AllInOne.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PG-HouseSiding.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PP-BrushRollerGel.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PP-MoldMildewRemover.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ProHD.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated Classification System for Human health    Environmental   hazards of Chemical Substances   Mixtures     Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ProM.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PS-Glass.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PS-Max.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PS-MaxMetal.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PWC-ConcreteDriveway.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND ASSESSMENT Number        Carcinogens  No ingredients are listed by OSHA  IARC  or NTP as known or suspected</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PWC-DeckFence.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND ASSESSMENT Number        Carcinogens  No ingredients are listed by OSHA  IARC  or NTP as known or suspected</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PWC-HeavyDuty.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PWC-HeavyDutyCleanerDegreaser.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND ASSESSMENT Number        Carcinogens  No ingredients are listed by OSHA  IARC  or NTP as known or suspected</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PWC-HouseSiding.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND  ASSESSMENT Number        Carcinogens  No ingredients are listed by OSHA  IARC  or NTP as known or suspecte</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_PWC-MultiPurpose.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND  ASSESSMENT Number        Carcinogens  No ingredients are listed by OSHA  IARC  or NTP as known or suspecte</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_RTU-BathroomCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_RTU-CarpetCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_RTU-MutiSurfaceCleaner.pdf</filepath>
+        <Paragraphs>redients using  OECD SERIES ON TESTING AND ASSESSMENT Number        Carcinogens  No ingredients are listed by OSHA  IARC  or NTP as known or suspected</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_RTU-PreWash.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SafetyFoam.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SafetyTowels.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_ScrubbingPad.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenAllPurposeCleaner.pdf</filepath>
+        <Paragraphs> Low  based on  OECD                 Microtox   EC    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBbqGrillCleanerAerosol.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBbqGrillCleanerNonAerosol.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures       Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>calculated via  OECD Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures      Carci</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenCarWash.pdf</filepath>
+        <Paragraphs>calculated via  OECD Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures     Carcin</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenCrystal.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures       Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenCrystalFoam.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenHandCleanerGel.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures       Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenLaundryFreeClear.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures       Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenLaundrySunshineFresh.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures       Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenLemonAllPurposeCleaner.pdf</filepath>
+        <Paragraphs> Low  based on  OECD                 Microtox   EC    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenSafetyTowels.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenWashWax.pdf</filepath>
+        <Paragraphs>calculated via  OECD Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures     Carcin</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_StainlessSteel.pdf</filepath>
+        <Paragraphs>alculated  via  OECD  Harmonized Integrated Classification System for Human Health    Environmental Hazards of Chemical Substances   Mixtures       Ca</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_StencilCleanerSolderPasteRemover.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated Classification System for Human health    Environmental   hazards of Chemical Substances   Mixtures     Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_StencilCleanerSolderPasteRemoverTrigger.pdf</filepath>
+        <Paragraphs> Calculated via OECD Harmonized Integrated Classification System for Human health    Environmental   hazards of Chemical Substances   Mixtures     Car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_StoneCleaner.pdf</filepath>
+        <Paragraphs>alculated via   OECD Harmonized Integrated Classification System for Human Health   Environmental Hazards of Chemical Substances   Mixtures     Carcin</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_StonePolish.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_Antispatter.pdf</filepath>
+        <Paragraphs>botella cerrada OECD    D      Movilidad    No hay informaci   n disponible        Bioacumulaci   n    No  aplicable       Secci   n       CONSIDERACI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>         *Cálculo de la serie OECD sobr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CarWash.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-AllPurposeCleaner.pdf</filepath>
+        <Paragraphs> Videto Q3: Biodegradabilidad inmediata, 73.8% en 28 días (según OECD 301D). </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-BathroomCleaner.pdf</filepath>
+        <Paragraphs> Videto Q3: Biodegradabilidad inmediata, 73.8% en 28 días (según OECD 301D). </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-GlassCleaner.pdf</filepath>
+        <Paragraphs> Videto EGM Biodegradabilidad inmediata según OECD 301E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_Crystal.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_ExtremeAircraftPrecision.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_HandCleanerGel.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SafetyTowels.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SimpleGreenAllPurposeCleaner.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SimpleGreenCrystal.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_WashWax.pdf</filepath>
+        <Paragraphs>OECD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NIOXIN_SCALP_RECOVERY_KT00042_09-May-2013.pdf</filepath>
+        <Paragraphs>      mg kg bw  OECD      rat          mg kg bw  EPA OPP        rat        mg L air  OECD      rat   Chronic toxicity   Corrosivity  No known effect  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Puma_Green_Man_Refreshing_Shower_Gel_96221973_NA_EN_10.16.13.pdf</filepath>
+        <Paragraphs>nal Approach in OECD Guideline       VOC Content      Products comply with US state and federal regulations for VOC content in consumer  products   Ox</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenAllPurposeCleaner.pdf</filepath>
+        <Paragraphs>  Low  based on OECD                 Microtox   EC        IC           Terrestrial    Not tested on finished formulation      Persistence and D egrada</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenCB-AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>in    days  per OECD    D      Bioaccumulative   Potential    No data available    Mobility in Soil    No data available    Other Adverse Effects    N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenCB-BathroomCleaner.pdf</filepath>
+        <Paragraphs>in    days  per OECD    D      Bioaccumulative Potential    No data available    Mobility in Soil    No data available    Other Adverse Effects    No </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenFoamingCoilCleaner.pdf</filepath>
+        <Paragraphs>odegradable per OECD    D  closed bottle test   Bioaccumulative Potential    No data available    Mobility in Soil    No data available    Other Adver</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenIndustrialCleanerDegreaser.pdf</filepath>
+        <Paragraphs>  Low  based on OECD                 Microtox   EC        IC           Terrestrial    Not tested on finished formulation      Persistence and D egrada</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenMarine.pdf</filepath>
+        <Paragraphs>  Low  based on OECD                 Microtox   EC        IC           Terrestrial    Not tested on finished formulation      Persistence and D egrada</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRigWash.pdf</filepath>
+        <Paragraphs>odegradable per OECD    D  Closed Bottle Test    Bioaccumulative potential    No data available    Mobility in soil    No data available    Other adve</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-BathroomCleaner.pdf</filepath>
+        <Paragraphs>iodegradable by OECD    B testing    Bioaccumulative Potential    No data available    Mobility in Soil    No data available    Other Adverse Effects </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-pet-aerosol-ghs-us-sds.pdf</filepath>
+        <Paragraphs>ay    in the    OECD definition since greater than     biodegradation was observed within a    day window        Page      of      Bioaccumulative Pot</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-pet-trigger-ghs-us-sds.pdf</filepath>
+        <Paragraphs>n Day    in the OECD    E study  Based on this study   PetClean Instant Carpet Stain  and Odor Eliminator    D definition since greater than      biod</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-trigger-ghs-us-sds.pdf</filepath>
+        <Paragraphs>n Day    in the OECD    E study  Based on this study   PetClean Instant Carpet Stain and  Odor Eliminator     biodegradation was observed within a    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_12A_1210_FROSTY_ASH_98995184_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Ammonia solution      mg kg  Rat           Methyl p phe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_4N_411_MEDIUM_BROWN_98998956_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>oethanol        OECD      shake flask method  pH         and    C   VOC Content  Products comply with US state and federal regulations for VOC content</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_4RG_347_DARK_AUBURN_98998210_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>oethanol        OECD      shake flask method  pH         and    C     Methyl p phenylenediamine hemisulphate       EU       Resorcinol            o c </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_5N_511_LIGHT_BROWN_98990517_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>oethanol        OECD      shake flask method  pH         and    C   VOC Content  Products comply with US state and federal regulations for VOC content</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_6G_555_HAZEL_BLONDE_98995398_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Ammonia solution      mg kg  Rat           Methyl p phe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_6N_611_DARK_BLONDE_98990681_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>oethanol        OECD      shake flask method  pH         and    C   VOC Content  Products comply with US state and federal regulations for VOC content</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_6RG_544_IGHT_COPPER_98882668_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Ammonia solution      mg kg  Rat         Chronic toxici</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_6R_RED_TERRA_COTTA_99293000_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Ammonia solution      mg kg  Rat           Naphthol    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_7R_810_RED_99293127_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Ammonia solution      mg kg  Rat              Hydroxyet</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_CHARM_LIQUID_PERMANENT_COLORANT_7WR_643_TAN_BLONDE_98998181_PGNA_EN_7-25-13.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Ammonia solution      mg kg  Rat           Methyl p phe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_COLOR_TOUCH_MIX_0_45_92333506_PGNA_EN_6-24-13].pdf</filepath>
+        <Paragraphs>      mg kg bw  OECD      rat          mg kg bw  OECD       rat            hydroxypropyl amino    nit  rophenol         mg kg bw  Guideline          E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_PROFESSIONALS_SERVICE_COLOR_STAIN_REMOVER_EN_92333702A_18-July-2013.pdf</filepath>
+        <Paragraphs>      mg kg bw  OECD       rat          mg kg bw  OECD       rat      Betaines  coco alkyldimethyl         mg kg body weight   Experimental value  no </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OECD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Wella_Professional_Color_Post_Treatment_92250435_EN_11.JUN.2013.pdf</filepath>
+        <Paragraphs>bw  similar to  OECD      rat               mg L  similar to OECD       rat  whole body    h   Chronic toxicity   Corrosivity  No known effect   Sensi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ECDppg</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECDppg</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>  Equivalent Circulating Density   (ECDppg) using Pressure Loss  ECDppg =  ft</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

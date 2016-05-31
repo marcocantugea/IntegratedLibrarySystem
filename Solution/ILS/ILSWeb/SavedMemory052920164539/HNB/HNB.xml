@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ill lines  with HNBR     degree F seals  One        psi working pressure mud booster line and two            psi working pressure Hydraulic Supply Lin</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>HNBR = hydrogenated nitrile </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>e O-Rings (RG) have HNBR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THNBRFKM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THNBRFKM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>RRS1 1/2CFRRS1 1/2A3C  DIN fittings I140Catalogue 4100-7/UK ForForO-ringO-ring WH / THWH / THNBRFKM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

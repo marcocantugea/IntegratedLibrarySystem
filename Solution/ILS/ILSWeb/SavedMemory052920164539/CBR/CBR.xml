@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CBRN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CBRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-366-sp_indpetrolera.pdf</filepath>
+        <Paragraphs>CBRN pieza facial Ultra Elite de Hycar y arn351s de kevlar Speed On, Sistema HUD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CBRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>CBRN Respirators</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CBRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>o MaXX SL UE MaXX CBRN Approval: Today222s First Responder </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AutoMaXX-AS-B-CBRN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AutoMaXX-AS-B-CBRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>AutoMaXX-AS-B-CBRN   en-USSupplied Air Respirators AirMaXX eXXtremeAirMaXX eXXtreme</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>non-CBRN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>non-CBRN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>hazardous conditions.  þ   þ  en-USMillenniumen-US256.en-US.  þ  en-USchemical cartridges for non-CBRN use.en-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

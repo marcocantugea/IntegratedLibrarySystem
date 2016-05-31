@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EQCOLUMNALLTOWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EQCOLUMNALLTOWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>EQCOLUMNALLTOWING BRIDLE ASSEMBLY EA                                    OD     A  APCPCWM         WP        WP        APCPCWM         WP        WP    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTEQConfidential</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTEQConfidential</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>Baker Hughes INTEQConfidential </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BakerHughesINTEQConfidential</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BakerHughesINTEQConfidential</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>BakerHughesINTEQConfidential  80270H Rev. B/ December 1995 Table of Contents</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTEQConfidential80270H</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTEQConfidential80270H</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>Baker Hughes INTEQConfidential80270H Rev. B / December 1995 Drilling Fluids And Hydraulics</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTEQC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTEQC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>conglomerate formation on five different wells. INTEQC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

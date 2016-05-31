@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EMERGENZAEMERGENCY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMERGENZAEMERGENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CARTER EMERGENZAEMERGENCY 6HL1White MODULO DI EMERGENZAEMERGENCY RELAY M1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENZAEMERGENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CARTER EMERGENZAEMERGENCY 6HL1White MODULO DI EMERGENZAEMERGENCY RELAY M1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENZAEMERGENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>right cover N/C LIMIT #19.10 PRESENZA LINEAPOWER ON MODULO DI EMERGENZAEMERGENCY RELAY EMERGENZAEMERGENCY 8.3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AREAEMBARKATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AREAEMBARKATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>804961-MAC-07-020ADDR. CALLPOINT. WATERPROOF SAFETY OUTDOOR-EMBARKATION AREAEMBARKATION AREAUPPER DECK3026DA961E015F571TYCOMEDC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AR005AEMONOGAFA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AR005AEMONOGAFA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>Antiempañante  AR005AEMONOGAFA CLARA ÉLITE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIRECTAAR006AEMONOGAFA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIRECTAAR006AEMONOGAFA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>CON VENTILACIÓN DIRECTAAR006AEMONOGAFA CLARA ÉLITE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

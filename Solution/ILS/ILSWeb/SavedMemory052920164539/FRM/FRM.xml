@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>821FRMultipurpose</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>821FRMultipurpose</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>H    LO  kK        FRMultipurpose     Fire Resistant CoverAvailable Cover Colors  Part </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Shell FRM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

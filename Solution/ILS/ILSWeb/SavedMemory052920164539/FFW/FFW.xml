@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HOL-SCAFFWRET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOL-SCAFFWRET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>HOL-SCAFFWRET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FFWR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFWR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> FFWR method with trivalent chromate passivation on zinc plating of carbon steel components without lubrication Seal LokTorque Conversion Equivalents</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SizemminchNmFFWR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SizemminchNmFFWR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SizemminchNmFFWR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

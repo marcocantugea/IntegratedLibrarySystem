@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>A-34BXX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A-34BXX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AX                                      A-34BXX                                   A-34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>22648HydraulicBXX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>22648HydraulicBXX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>22648HydraulicBXX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BXXDesigned</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BXXDesigned</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> J       USCG H BXXDesigned as a   wire braided option for selected pressure temperature ranges   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BXXHydraulicSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BXXHydraulicSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>Fittings: HY Series - pg. B-126. BXXHydraulicSAE J1942 / USCG H Part </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BXX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BXX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> Hydraulic Hose: AX, BXX þ  Hydraulic Industry Standard þ  Catalog 4400 USA-34  HYDRAULI þcC  þ   þ   þ   þ   þ   þ   þ  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

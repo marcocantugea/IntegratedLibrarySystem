@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>drillingplatformspecification101EDPinplanning</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>drillingplatformspecification101EDPinplanning</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>drillingplatformspecification101EDPinplanning</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>EDP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>EDP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>EDP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\64. Tecnico Electronico Instrumentista.pdf</filepath>
+        <Paragraphs>i n del sistema EDP de acuerdo con las instrucciones especificadas por el Departamento de EDP y  Tecnolog a de la Informaci n       Ayudar con los sis</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EDP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Marina\46. Radio Operador.pdf</filepath>
+        <Paragraphs>rador de la red EDP y dar mantenimiento o reparar todo el hardware y software de los servidores  y las computadoras a bordo       Asegurar que se siga</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OHJDEFFJEAFOICEDPEDGCIEBFFMHLNKJFKMIBENKEBBJMIBKN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OHJDEFFJEAFOICEDPEDGCIEBFFMHLNKJFKMIBENKEBBJMIBKN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>OHJDEFFJEAFOICEDPEDGCIEBFFMHLNKJFKMIBENKEBBJMIBKN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EDPHOT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EDPHOT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>                EDPHOT         Contenedores para transporte de herramienta          Figura          Esquema del cabezal del pozo Vetco Gray  SMS      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLOUREDPOWDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLOUREDPOWDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder.pdf</filepath>
+        <Paragraphs> WHITE OR CREAM COLOUREDPOWDER Solubility  water  SOLUBLE Odour ODOURLESS Specific Gravity      pH         solution    Volatiles NOT AVAILABLE Vapour </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COLOUREDPOWDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder_001.pdf</filepath>
+        <Paragraphs> WHITE OR CREAM COLOUREDPOWDER Solubility  water  SOLUBLE Odour ODOURLESS Specific Gravity      pH         solution    Volatiles NOT AVAILABLE Vapour </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

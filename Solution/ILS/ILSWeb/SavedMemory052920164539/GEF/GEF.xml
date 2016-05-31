@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MERGEFORMAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MERGEFORMAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L05 Lista de Verificacion de la Informacion del Nuevo Cabezal - New Wellhead Information Checklist (11-Abr-12).doc</filepath>
+        <Paragraphs>  COMMENTS      MERGEFORMAT  Ft   FORMTEXT         M  Maximum required mud weight  Densidad Maxima de Lodo Requerido   FORMTEXT         Ppg  Anticipat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MERGEFORMAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08.L05 Lista de Verificación de la Información del Nuevo Cabezal - New Well Info Checklist (14-Ago-13).doc</filepath>
+        <Paragraphs>  COMMENTS      MERGEFORMAT  ft   FORMTEXT         m  Maximum required mud weight  Densidad Maxima de Lodo Requerido   FORMTEXT         ppg  Anticipat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MERGEFORMAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L05 New Well Info Checklist.doc</filepath>
+        <Paragraphs>  COMMENTS      MERGEFORMAT  ft   FORMTEXT         m  Maximum required mud weight  Densidad Maxima de Lodo Requerido   FORMTEXT         ppg  Anticipat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MERGEFORMAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\29 - SpeedClean Pump\Speed Clean Pump.doc</filepath>
+        <Paragraphs>      PAGE      MERGEFORMAT        Web  http   www aquablast co uk Email  sales aquablast co uk Fax                        AQUABLAST LTD South Denes R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>HHAOEBFHDLAIOMJCBGNNDHJJEOLIOCFPNMGEFDPFJLFHFCDLN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGEFREE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGEFREE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>7 FREE PAGEFREE PAGE FIRMA F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GEFRAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GEFRAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>FE  ITALY00F17F12079.000F17F12079.0 GEFRAN 1 2 3 4 5 6 10 11</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VEGEFLEX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VEGEFLEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>VEGEFLEX FX62.CX***H*** and VEGEFLEX FX65.CX***H*** for which</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

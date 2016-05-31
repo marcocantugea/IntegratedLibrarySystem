@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COEFFICIENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COEFFICIENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>PEN        WHAT COEFFICIENT IS USED IN THE FORMULA FOR CALCULATING HYDROSTAIC PRESSURE  OF SEAWATER           X WATER DEPTH         X WATER DEPTH     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COEFFICIENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>COEFFICIENT Figure 5-1. Matrix stress coefficient chart.  192 Formulas and Calculations 5. Determine fracture gradient, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COEFFICIENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>COEFFICIENT - </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hds_glp_v082013.pdf</filepath>
+        <Paragraphs> tel   fono de  COE LIPIGAS  AL                           seg   n  protocolo de respuesta a emergencias    y a organismos de emergencias tales como   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Bldg. 6-1 Propulsion COE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

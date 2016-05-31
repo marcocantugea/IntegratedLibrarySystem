@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HYBRID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HYBRID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ty and comfort  HYBRID COMFORT PADDING   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HYBRID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>HYBRID </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

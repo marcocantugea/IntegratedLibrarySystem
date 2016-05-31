@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FF-S1FFMSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FF-S1FFMSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>1 FF-S1FFMSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FF-S2FFMSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FF-S2FFMSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>2 FF-S2FFMSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMS375</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMS375</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>No Yes  Yes     FMS                            No  Yes  Yes      KS                          Yes Yes  Yes      TW                          Yes  Yes  Y</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FMS375</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>No Yes  Yes     FMS                            No  Yes  Yes      KS                          Yes Yes  Yes      TW                          Yes  Yes  Y</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>FMS (Flush Mounted Spider). Compact, it </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>200930-10FMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>200930-10FMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>Body Part number 200930-10FMS 375, Flush Mounted Slip Flush Mounted </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10001814000FMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10001814000FMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>10001814000FMS Adapter Plates Brand P/N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

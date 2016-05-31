@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BOYA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOYA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0171\Quotation\Cot. TORMAGE\45-2014 LIGHT SMOKE SIGNAL-GRUPO R..pdf</filepath>
+        <Paragraphs>         Pza    BOYA FLOTANTE DE SE AL DE  EMERGENCI A DE LUZ Y HUMO MK     MANOVERBOARD Mk   No  DE PARTE           APROBADO   SOLAS                 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POORBOY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POORBOY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>POORBOY DEGASSER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Lista de Modificações e Dúvidas a Serem Tiradas Modificada.docx</filepath>
+        <Paragraphs>APS PARA O POOR BOY DEGASSER PARA ATENDER CONTRATO PETROBRAS     C O P sob responsabilidade do gerente  da  sonda Gil Vicente                    BOMBA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

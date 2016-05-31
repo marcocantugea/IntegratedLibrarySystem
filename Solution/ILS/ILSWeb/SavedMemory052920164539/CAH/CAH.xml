@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CAH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CAH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CAH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CAH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADCAH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADCAH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>ADCAH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ADCAH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>ADCAH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FCAHOUSTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCAHOUSTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 FINAL PYMT INVOICE.pdf</filepath>
+        <Paragraphs>        COLLECT FCAHOUSTON N           PartNumber Revision Description         S                  CREDITMEMOFORINV                                  NO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCAHOUSTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 PRE PYMT INVOICE.pdf</filepath>
+        <Paragraphs>        COLLECT FCAHOUSTON N           PartNumber Revision Description         S                  CREDITMEMOFORINV                                  NO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

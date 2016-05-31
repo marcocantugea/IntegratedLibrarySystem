@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>  FPE Model </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FPE-2010-11503</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPE-2010-11503</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>FPE-2010-11503</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FPE222s</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPE222s</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs> available from FPE   s stocking area representatives or from the factory direct   Seals and composition gaskets are rated for a shelf life of one yea</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DTU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DTU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>The DTU Navigation Drilling System. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .5-81</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VENTEDFOREENDTUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VENTEDFOREENDTUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>KNOB  EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  VENTEDFOREENDTUBE MAGAZINERELEASEBUTTON MAGAZINEBOX MAGAZINEBOX SAFETY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

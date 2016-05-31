@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RECYCLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECYCLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\12 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>./GOOD PRACTICE: RECYCLING SATURATED WITH </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RecloserCYCLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RecloserCYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>RecloserCYCLE x (1 to 4) (4)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CYCLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CYCLE x (1 à 4) (4)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\expansion joints.pdf</filepath>
+        <Paragraphs>CYCLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\M872545.pdf</filepath>
+        <Paragraphs>DUTY CYCLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>xCYCLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>xCYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Recloser79Cycle xCYCLE (1 to 4) (3)CYCLE (1 à 4) (3)Reclosing successfulCLEAR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECYCLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>is equal to or greater than 12.5)  RECYCLE  CONTAINER    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CYCLOMETHICONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CYCLOMETHICONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>CYCLOMETHICONE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYCLOMETHICONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>CYCLOMETHICONE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CYCLOMETHICONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>CYCLOMETHICONE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CYCLONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CYCLONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Cyclone MSDS English.pdf</filepath>
+        <Paragraphs>CYCLONE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CYCLOBUTANATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CYCLOBUTANATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze Car Vent Clip - Vanilla and Cream_Fluffy Vanilla_Sun Baked MSDS Nov 2014.pdf</filepath>
+        <Paragraphs>quid  n o s     CYCLOBUTANATE        III  Limited Quantity     Marine Water Transport  IMDG    UN      Environmentally Hazardous Substance  liquid  n </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUTYLCYCLOHEXYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUTYLCYCLOHEXYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Set_Refresh_Winter_Frost.pdf</filepath>
+        <Paragraphs>s        TERT   BUTYLCYCLOHEXYL ACETATE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OCTAFLUOROCYCLOBUTANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OCTAFLUOROCYCLOBUTANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon C318 C4F8 Safety Data Sheet SDS P4671.pdf</filepath>
+        <Paragraphs>ification       OCTAFLUOROCYCLOBUTANE  REFRIGERANT GAS RC                 Relevant identified uses of the substance or mixture and uses advised agains</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DECAMETHYLCYCLOPENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECAMETHYLCYCLOPENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Lady Speed Stick SOY PKO AP-Powder Fresh.pdf</filepath>
+        <Paragraphs>Print Date 07/21/2010    2 / 6  DECAMETHYLCYCLOPENT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DECAMETHYLCYCLOPENTASILOXANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECAMETHYLCYCLOPENTASILOXANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Lady Speed Stick SOY PKO AP-Powder Fresh.pdf</filepath>
+        <Paragraphs>  DECAMETHYLCYCLOPENTASILOXANE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECYCLED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECYCLED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>SUSTAINABLE FOREST CERTIFICATIONISO RECYCLED CONTENT Santos  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,703 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BULLETINS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULLETINS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>HSE (SAFETY) BULLETINS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULKHEADS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEADS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>BULKHEADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULKHEADS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BULKHEADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULKHEADSTransverse</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEADSTransverse</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>BULKHEADSTransverse</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULKHEADSLongitudinal</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEADSLongitudinal</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>BULKHEADSLongitudinal</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>335321BULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>335321BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>335321BULK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>327322BULKAIRSYSTEMPneumatic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>327322BULKAIRSYSTEMPneumatic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>system  327322BULKAIRSYSTEMPneumatic</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>BULK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>the valve PSV 3172 after calibration was placed in BULK STORAGE TANK-B. ready to use.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  ACCESS TRUNK  60P   BULK TANK  ROOM 40P   10</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>BULK TANK 753-VX0001A (Room 38P)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>BULK STORAGE TANK, BARITE / BENTONITE753-VX0001C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\09 Jun Bulk Tanks Top Deck.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   BULK TANK ROOM (CEMENTING UNI TOP DECK) 22:00 HRS JUN 09 SUPERSACK STORED WRONG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>821 m 3DRY BULK  6,740 ft. 3 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>430m263 DRY BULK  14,151 FT263 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>430m263 DRY BULK  14,151 FT263 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>430m263 DRY BULK  14,151 FT263 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>430m263 DRY BULK  14,151 FT263 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>528 m 3 DRY BULK  8,369 ft. 3  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP811.pdf</filepath>
+        <Paragraphs>961-TSH-13-001 BULK TANK ROOM 38P COLUMN F220</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>8 Fluid Description BULK BARITE/BENTONITEPROCESS 9Design PressureBarg5.5CONDITIONS10Design Temperature0C50</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-003 Bulk Air.pdf</filepath>
+        <Paragraphs>                BULK AIR RESERVOIR   El n mero de serie o  nico de identificaci n     la clave del equipo o n mero de TAG      TAG          VL        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLAIROL PROFESSIONAL FLARE PERMANENT CREAM (CREME PERMANENTE) MEDIUM INTENSE VIOLET RED 96636462_NA PGNA EN 11-29-13.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper Shipping Name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\COVERGIRL_CGSMOOTHERS_BB_CREAM-_FAIR_TO_LIGHT_96575480_PGNA_EN_9-30-13.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\COVER_GIRL_EYE_ENHANCERS_-_BLAZING_WHITE_92081317_PGNA_EN_9-20-13.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  SOLID  N O S  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HERBAL_ESSENCES_COLOR_ME_VIBRANT_HAIR_COLOR_KIT_KT00047_KIT_EN_4-25-13[1].pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport     Material Safety Data Sheet  Issuing Date        Apr       Revision Date        Apr       Versio</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Vani-Sol_Bulk_Disinfectant_00294_msds.pdf</filepath>
+        <Paragraphs>PROFESSIONAL VANI-SOL256 BULK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice n Easy Root Touch Up Extra Light Blonde 92332257_NA EN 5.MAR.2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice n Easy Root Touch Up Medium Auburn, Reddish Brown 01133226_NA EN 4.MAR.2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice n Easy Root Touch Up Shade 4R Dark Auburn, Reddish Brown 96645449_NA EN 24-APR-2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice n Easy Root Touch Up Shade 5R Medium Auburn Redding Brown 96645453_NA EN 24-APR-2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice n Easy Root Touch Up Shade 6R Light Auburn, Reddish Brown 96645457_NA EN 24-APR-2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice_n_Easy_Root_Touch_Up_Black_01143827_NA_EN_4.MAR.2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice_n_Easy_Root_Touch_Up_Medium_Auburn,_Reddish_Brown_01133226_NA_EN_4.MAR.2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nice_n_Easy_Root_Touch_Up_Shade_6R_Light_Auburn,_Reddish_Brown_96645457_NA_EN_24-APR-2014.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NIOXIN_SCALP_RECOVERY_KT00042_09-May-2013.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   Synonyms  This kit is composed of the following components  Nioxin Scalp Recovery Soothing Serum </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_KOLESTON_CREME_HAIR_COLOR_SHADE_121_EXTRA_ASH_BLONDE_99374575_NA_PGNA_EN_10-30-13.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport       TOXICOLOGICAL INFORMATION  Product Information   Acute toxicity   Risk of serious damage to e</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\WELLA_PROFESSIONALS_SERVICE_COLOR_STAIN_REMOVER_EN_92333702A_18-July-2013.pdf</filepath>
+        <Paragraphs> shipped in NON BULK packaging by ground transport   TDG   UN ID no  UN      Proper shipping name  ENVIRONMENTALLY HAZARDOUS SUBSTANCE  LIQUID  N O S </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TUBULAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TUBULAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>TUBULAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TUBULAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>R               TUBULAR FEEDING MACHINE              KNUCKLE BOOM CRANE FOR CASING PIPE HANDLING              RISER HANDLING SYSTEM                Ris</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TUBULAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> during a fall  TUBULAR STYLE  SHOCK ABSORBING  LANYARDS These lanyards feature an internal  shock absorber that dissipates  the energy of a fall  Thi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>345343POWERPACKSFORPIPEITUBULAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>345343POWERPACKSFORPIPEITUBULAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>345343POWERPACKSFORPIPEITUBULAR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULKHEAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BULKHEAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULKHEAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>BULKHEAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULKHEAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>MOTOR PEDESTAL or BULKHEAD BRACKET, is </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULKHEAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>MOTOR PEDESTAL or BULKHEAD BRACKET, is </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULKHEADS511ENAMEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEADS511ENAMEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BULKHEADS511ENAMEL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULKHEADSINPONTOONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULKHEADSINPONTOONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BULKHEADSINPONTOONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULLETIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-AHC-005.pdf</filepath>
+        <Paragraphs>BULLETIN LEVEL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-032.pdf</filepath>
+        <Paragraphs>THIS BULLETIN REPLACES PB-DDM-026. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DR-020.pdf</filepath>
+        <Paragraphs> applicable     BULLETIN LEVEL         Action needed         Available product version upgrade       X   Information only   EXECUTIVE SUMMARY   Equipm</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DR-021.pdf</filepath>
+        <Paragraphs> applicable     BULLETIN LEVEL         X   Action needed         Available  product version upgrade         Information only   EXECUTIVE SUMMARY   Equ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DW-009-signed.pdf</filepath>
+        <Paragraphs> applicable     BULLETIN LEVEL       Action needed         Available product version upgrade       X   Information only   EXECUTIVE SUMMARY   Equipmen</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-022.pdf</filepath>
+        <Paragraphs>BULLETIN LEVEL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-023.pdf</filepath>
+        <Paragraphs>BULLETIN LEVEL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-024.pdf</filepath>
+        <Paragraphs>BULLETIN LEVEL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-059.pdf</filepath>
+        <Paragraphs>BULLETIN LEVEL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-RN-004.pdf</filepath>
+        <Paragraphs>BULLETIN LEVEL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ACCORDING TO THE METHODS PRESCRIBED IN BULLETIN 4480-T18-US.  JK HOSE HAS A 2:1 DESIGN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULLETIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>PARTS BULLETIN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0439OO-BUL-000-00</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0439OO-BUL-000-00</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DV-001.pdf</filepath>
+        <Paragraphs>0439OO-BUL-000-00</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\08 Galley dry store .pdf</filepath>
+        <Paragraphs>LIGHT BULBS OUT OF SERVICE I ALL 4 FREEZERS   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\17. Botes Salvavidas (Life Boats)\17.3 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\SRV727.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.1 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.2 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.4 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.5 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.6 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.7 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.8 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.9 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0096 NOV Derrick\Sales Order Acknowledgement 706623KRS ~07252011022502.pdf</filepath>
+        <Paragraphs>BULB high pressure sodium 150w</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\17. Botes Salvavidas (Life Boats)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\life boat\37 WO.pdf</filepath>
+        <Paragraphs>SPARE BULB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>38PBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>38PBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>38PBULK TANK ROOMBULK TANK ROOM 38PCOLUMN3026DA961E012F220TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>38PBULK TANK ROOMBULK TANK ROOM 38PCOLUMN3026DA961E012F220TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>40PBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>40PBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>40PBULK TANK ROOMBULK TANK ROOM 40PCOLUMN3026DA961E012F220TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>46PBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>46PBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>46PBULK TANK ROOMBULK TANK ROOM 46PCOLUMN3026DA961E012F220TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>48PBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>48PBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>48PBULK TANK ROOMBULK TANK ROOM 48PCOLUMN3026DA961E012F220TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>38SBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>38SBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>38SBULK TANK ROOMBULK TANK ROOM 38SCOLUMN3026DA961E012F218TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>40SBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>40SBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>40SBULK TANK ROOMBULK TANK ROOM 40SCOLUMN3026DA961E012F218TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>48SBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>48SBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>48SBULK TANK ROOMBULK TANK ROOM 48SCOLUMN3026DA961E012F218TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>46SBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>46SBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>46SBULK TANK ROOMBULK TANK ROOM 46SCOLUMN3026DA961E012F218TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ServiceBULK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ServiceBULK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>2 ServiceBULK CEMENT STORAGE TANKS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TUBULARES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TUBULARES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>       ESLINGAS TUBULARES CON ABSORBEDOR DE CHOQUE PROTECCI N CONTRA CA DAS    www capitalsafety com   www arseg com co ADAPTADORES DE ANCLAJE PORT TI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>existing accessories or tool rig and easily attach/detach OPEN BOLT &amp; BULL PIN BAG 1. Accessories have a female clip that attaches and locks </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BULL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>SARTA    CON    BULL    NOSE         CON     AMPLIADOR                    PAG                DE          Proyecto Pozo NOBILIS                        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FABULOSO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FABULOSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs> FABULOSO MULTI SPRAY ALL PURPOSE CLEANER LIQUID LAVENDER   This industrial Material Safety Data Sheet is not intended for consumers and does not addr</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FABULOSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53042.pdf</filepath>
+        <Paragraphs> FABULOSO ALL PURPOSE CLEANER LIQUID OCEAN PARADISE   This industrial Material Safety Data Sheet is not intended for consumers and does not address co</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FABULOSOALLPURPOSECLEANERLIQUID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FABULOSOALLPURPOSECLEANERLIQUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>N Productname   FABULOSOALLPURPOSECLEANERLIQUID   LAVENDER MSDSNumber              CAS   No    Notapplicable   productisamixture GeneralUse   Aformula</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FABULOSOALLPURPOSECLEANERLIQUID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>N Productname   FABULOSOALLPURPOSECLEANERLIQUID   LAVENDER MSDSNumber              CAS   No    Notapplicable   productisamixture GeneralUse   Aformula</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBULLICI323N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBULLICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\aire.pdf</filepath>
+        <Paragraphs> SICAS PUNTO DE EBULLICI   N    atm             F            C  DENSIDAD DEL L   QUIDO AL PUNTO DE EBULLICI   N     atm        lb pie  PRESI   N DE VA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EBULLICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\oxido_nitroso.pdf</filepath>
+        <Paragraphs>PUNTO DE EBULLICI323N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBULLICION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBULLICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs>ISICAS PUNTO DE EBULLICION    atm             F            C  DENSIDAD DEL LIQUIDO AL PUNTO DE EBULLICION     atm        lb pie          kg lt  PRESIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULLSEYE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULLSEYE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Bullseye MSDS English.pdf</filepath>
+        <Paragraphs>BULLSEYE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBULLICI356N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBULLICI356N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cloro.pdf</filepath>
+        <Paragraphs>PUNTO DE EBULLICI356N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FABULOSO-LAVENDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FABULOSO-LAVENDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>FABULOSO-LAVENDER This industrial Material Safety Data </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BULLET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BULLET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>3. Use a cleaning rod to check for a Bullet in the Bore.(picture 12) Picture 12  Picture 3  Picture 1  WARNING IF A BULLET IS STUCK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TUBULARS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TUBULARS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Drilling\BLANC TRA\BLANC_FORMAT - Copy.docx</filepath>
+        <Paragraphs>tion     RABBIT TUBULARS FROM DERRICK         Page       OF          TASK     JOB STEPS     HAZARD    HAZARD EFFECT  DESCRIPTION     INITIAL RISK     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TUBULARS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Drilling\BLANC TRA\BLANC_FORMAT.docx</filepath>
+        <Paragraphs>tion     RABBIT TUBULARS FROM DERRICK         Page       OF          TASK     JOB STEPS     HAZARD    HAZARD EFFECT  DESCRIPTION     INITIAL RISK     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AVR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AVR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\5. Generadores Principales (Main Generators)\5.1 Work Orders.pdf</filepath>
+        <Paragraphs>WO3027-14-00550Page 6 of 11  Maintenance Work OrderSERV161 AVR Panels Maintenance</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\5. Generadores Principales (Main Generators)\5.7 Work Order.pdf</filepath>
+        <Paragraphs>Page 2 of 10     Maintenance Work OrderSRV161 AVR Panels Maintenance (6M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\wo faltantes\SRV161.pdf</filepath>
+        <Paragraphs>AVR Panel 1 911-EC-001-A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\main generator\9-wo.pdf</filepath>
+        <Paragraphs>WO3027-14-00550Page 6 of 11  Maintenance Work OrderSERV161 AVR Panels Maintenance</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IVAVR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IVAVR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\wo faltantes\SRV161.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVAVR Panels Maintenance (6M)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

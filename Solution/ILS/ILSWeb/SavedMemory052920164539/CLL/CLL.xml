@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLLAU301</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLLAU301</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLLAU301.pdf</filepath>
+        <Paragraphs>CLLAU301</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>StableCLLAU301</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>StableCLLAU301</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLLAU301.pdf</filepath>
+        <Paragraphs>StableCLLAU301</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>determinedCLLAU301</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>determinedCLLAU301</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLLAU301.pdf</filepath>
+        <Paragraphs>Not determinedCLLAU301</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>applicableCLLAU301</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>applicableCLLAU301</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLLAU301.pdf</filepath>
+        <Paragraphs>Not applicableCLLAU301</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>8CLL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8CLL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\AUTO FUEL FILTER_3609DV703M002.pdf</filepath>
+        <Paragraphs>LIST          I  CLL   KIRa t FIL  TERBAU  GJB t I Z       BI         Se eISSTR      ro    B   laEX   B      Nr  Bezeichnung  SKIZZE IDENT   NR  ZEICH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

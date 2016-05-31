@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DCR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>S CONTROL ROOM  DCR  AND LOCAL EQUIPMENT ROOM  LER               TUBULAR FEEDING MACHINE              KNUCKLE BOOM CRANE FOR CASING PIPE HANDLING     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>DCR Matrix Panels .............................................................................................. 22</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP811.pdf</filepath>
+        <Paragraphs>961-YSH-06-003 DCR M604 DRILL FLOOR F673 Page 1 of 1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LERDCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LERDCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs> -ABOVE LERDCR M604DRILL FLOOR3026DA961E018F673TYCO801PHExZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DETECTORM604DCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DETECTORM604DCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1059961-ASH-055COMBUSTIBLE GAS DETECTORM604DCR M604DCR M604DRILL FLOOR3026DA961E018F686HONEYWELL S ENSEPOINT PR O Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M604DCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M604DCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1059961-ASH-055COMBUSTIBLE GAS DETECTORM604DCR M604DCR M604DRILL FLOOR3026DA961E018F686HONEYWELL S ENSEPOINT PR O Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCROUTSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCROUTSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1455961-AU-19-002ADDRESSANLE UNIT-OUTSIDE DCROUTSIDE DCRDRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCRDRILL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCRDRILL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1455961-AU-19-002ADDRESSANLE UNIT-OUTSIDE DCROUTSIDE DCRDRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCRatingSlip</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCRatingSlip</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>ipe Zip DCPlain DCRatingSlip assy Dressing Kit p nInsert Load ringRam Ram Throat </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCRatingSlip</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>ipe Zip DCPlain DCRatingSlip assy Dressing Kit p nInsert Load ringRam Ram Throat </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

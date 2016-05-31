@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ppgGCMW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ppgGCMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ppgGCMW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GCMW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GCMW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>GCMW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

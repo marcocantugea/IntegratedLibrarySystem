@@ -1,0 +1,1718 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>APPARATUSITOOLS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSITOOLS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>APPARATUSITOOLS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUSES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>APPARATUSES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>504RESUSCITATIONAPPARATUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>504RESUSCITATIONAPPARATUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>                   RESUSCITATIONAPPARATUS       RETRACTOR TRAVELLINGBLOCK    REVOLUTIONDIRECTION INDICATOR see   RIDGESf AWNING   RIFLES RESCUE    RIG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs>tober           APPROVED         DATE   John Corkhill   October                                       Long   Term  Cold  Storage  Preservation  and Ma</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>APPROVED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>* NOT CE APPROVED APPLICATIONen-US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-bleach-single-and-twin-epa-us-ghs-sds-6-11-14-with-logo.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-blue-plus-bleach-epa-us-ghs-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By   I  Kowalski       Regulatory Affairs Dept                                                                               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-blue-plus-detergents-us-ghs-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I  Kowalski  Mgr  Regulatory Affairs                                         No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-all-temp-silicone-drip-oil.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY   I  Kowalski     Regu l a tory A ffairs Dept            No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-dry-lube-drip-oil-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  I  Kowalski     Regulatory Affairs Dept                                                    No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-fast-acting-penetrant-drip-oil.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I  Kowalski   Regulatory Affairs Dept                                                    No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-lock-dry-lube-ghs-sds-with-logo.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY   I  Kowalski       Regulatory Affairs Dept                          No               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-motor-oil.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I  Kowalski   Regulatory Affairs Dept                                                 No                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-multi-purpose-oil-w-telescoping-spout.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY   I  Kowalski   Re gulatory Affairs Dept                                                  No             Telescoping     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-pneumatic-tool-oil.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I Kowalski    Regulatory Dept                                                    No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-professional-garage-door-lube-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  I Kowalski   Regulatory Affairs Dept                                                                        No           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-ptfe-lubricant-drip-oil.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I  Kowalski    Regulatory Affairs Dept                                          No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\carpet-fresh-powder-multiscent-us-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                                        No       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\carpet-fresh-quick-dry-foam-apple-cinnamon-us-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                              No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\carpet-fresh-quick-dry-foam-fresh-scent-morning-rain-with-logo-ghs-us-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                                                 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\carpet-fresh-quick-dry-foam-super-pet.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                                            No   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\lava-bar-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                            No                   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\lava-bar-professional-ghs-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By  I  Kowalski     Regulatory Affairs Dept                                                          No                    No</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\lava-liquid-ghs-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By    I  Kowalski        Regulatory Affairs Dept                                                                             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs>RESPIRATION: USE NIOSH APPROVED RESPIRA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-pet-aerosol-ghs-us-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By  I  Kowalski     Regulatory Affairs Dept                  No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-pet-trigger-ghs-us-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                             No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-trigger-ghs-us-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                               No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-and-odor-eliminator-trigger-professional-ghs-us-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                                                 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-instant-carpet-stain-remover-aerosol-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski       Regulatory Affairs Dept                                              No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\spot-shot-professional-instant-carpet-stain-remover-aerosol-us-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By     I  Kowalski       Regulatory Affairs Dept                                                          No            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-multi-use-product-aerosol-low-voc-sds-us-ghs-7-20-14.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                        No              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-multi-use-product-aerosol-sds-us-ghs-7-20-14.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By   I  Kowalski     Regulatory Affairs Dept                                                        No              </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-multi-use-product-bulk-low-voc-us-ghs-7-31-14.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I  Kowalski   Regulatory Affairs Dept                                                                              No    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-multi-use-product-bulk-us-ghs-7-31-14.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY   I  Kowalski      Regulatory Affairs Dept                                                                           No   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-multi-use-product-no-mess-pen-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  i  Kowalski   Regulatory Affairs Dept                                                                                    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-multi-use-product-trigger-pro-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By  I  Kowalski     Regulatory Affairs Dept                                                                               No </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-dirt-dust-resistant-dry-lube-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  I Kowalski          Regulatory Affairs Dept                      No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-electrical-contact-cleaner-spray-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  I  Kowalski     Regulatory Affairs Dept                                                                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-long-term-corrosion-inhibitor-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski     Regulatory Affairs Dept                  No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-machine-engine-degreaser-foaming-spray-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY   I  Kowalski   Regulatory Affairs Dept                                                         No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-rust-release-penetrant-spray-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  I  Kowalski   Regulatory A ffairs Dept                                                        No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-rust-remover-soak-us-ghs.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY  I  Kowalski     Regulatory Affairs Dept                                                                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\wd-40-specialist-water-resistant-silicone-lubricant-us-ghs.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED BY  I  Kowalski                                                                           No             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-antibacterial-toilet-bowl-cleaner-with-bleach-us-ghs-sds.pdf</filepath>
+        <Paragraphs>on  CT  USA     APPROVED By   I  Kowalski       Regulatory Affairs Dept                                                                            No </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-atbc-blue-plus-fragrance-us-ghs-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY   I  Kowalski       Regulatory Affairs Dept                                                                               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-mildew-stain-remover-us-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED By  I   Kowalski     Regulatory Affairs Dept                                                                                 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-professional-mildew-stain-remover-us-sds.pdf</filepath>
+        <Paragraphs>  CT  USA       APPROVED BY   I  Kowalski      Regulatory Affairs Dept                                                                                </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs> APPROVED BY:  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>IGNORE ANY WARNINGS, USE ONLY APPROVED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\Pbc10263 - ProForma Invoice 10263-1 091710.pdf</filepath>
+        <Paragraphs>OR ON APPROVED CREDIT TERMS.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\Pbc10263 - ProForma Invoice 10263-2 102010.pdf</filepath>
+        <Paragraphs>              1   MILESTO NE 2 :  70% DUE PRIOR TO EQUIPM ENT  SHIPMENT OR ON APPROVED CREDIT TERMS.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>HEREON IS APPROVED BY HYDRIL COMPANY LP FO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\GE - Converteam\CTC_PC-2015-005.pdf</filepath>
+        <Paragraphs>APPLICATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\17a02ph.pdf</filepath>
+        <Paragraphs>PRODUCT APPLICATION &amp; DESIGN INFORMATION1.INTRODUCTIONThe 801PH/811PH optical smoke and heat detector forms part</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>RUBBER QUALITY  APPLICATION EXAMPLES  TEMPERATURE  RANGE  TYPICAL MEDIA  SBRT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>ker protection  APPLICATION SEGMENTS Multi Purpose           Cut Protection Oil Repellant             Special Purpose POLYMER SEGMENTS  Nitrile       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> I.D. SIZE TEMPERATURE APPLICATION MEDIA PRESSURE S T A M PWhen you order hose  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>E. SPACE HEATER APPLICATION (4239G2)  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>R USE IN THE APPLICATION (S) SPECIFIED.  A </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROXIMATELY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROXIMATELY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\00105 lincoln pump.pdf</filepath>
+        <Paragraphs>APPROXIMATELY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROXIMATELY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>APPROXIMATELY EACH 2 UNITS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROXIMATELY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>APPROXIMATELY ¼ REVOLUTION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAPPET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAPPET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.005\831-CD-001-E.docx</filepath>
+        <Paragraphs> TIMING   VALVE TAPPET CLEARANCE        TOTAL RUNNING ENGINE HOUR              N A    Required Spare Part                Part No     Description    Us</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLIANCES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLIANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>LIFTING APPLIANCES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 2200 hrs.pdf</filepath>
+        <Paragraphs>CLEANING APPLIANCES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>CLEANING APPLIANCES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\RECORD OF APPROVED MODU SAFETY EQUIPMENT And Solas III 4.1.1.pdf</filepath>
+        <Paragraphs>  LIFESAVING APPLIANCES  1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPENDICES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDICES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>APPENDICES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROPRIATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DOWN FLOODING ANGLES. THE OIM MUST TAKE APPROPRIATE ACTION(S) TO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>E OIM MUST TAKE APPROPRIATE ACTION S  TO ENSURE THAT THE VESSEL NEVER EXCEEDS THE MINIMUM OF THE CAPSIZE AND DOWN FLOODINGANGLES          From the hyd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\Elevator.docx</filepath>
+        <Paragraphs> L    L    WEAR APPROPRIATE PPE KEEP CLEAR OF MOVING PARTS    L    L    M                                             Inspection of rail and rack     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPENDIX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>     WP         APPENDIX D  La Muralla IV  DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>     WP         APPENDIX D  La Muralla IV  DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs>                APPENDIX A     LA MURALLA RESPONSE  AMPLITUDE OPERATORS                                                           Grupo   R   La Mural</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>Wear-resistant inner lining  178 APPENDIXES  8.1 APPENDIX A: PV- Open Body Assembled  1. Valve body 6. Allen screw </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs> APPENDIXA                                                    APPENDIX B                                                    INDEX                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>APPENDIX A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>    APPENDIX A </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPENDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\IPC - Garbage Management Manual - Rev 04-2011.12.pdf</filepath>
+        <Paragraphs>APPENDIX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>CLIENT APPR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>EQDECK BOX421FOAM APPLICATOR &amp; BOX1EA0.0900.0900.090-33.5056.52136.863421TF-EXT-APPLICATOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INAPPROPRIATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INAPPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\21 DAT's cylinders deck.pdf</filepath>
+        <Paragraphs>INAPPROPRIATE SHACKLES FOR THE L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INAPPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\26 ENE 2014 COLUMNA BABOR-.pdf</filepath>
+        <Paragraphs>INAPPROPRIATE SIGNS   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INAPPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\24 Subsea shop.pdf</filepath>
+        <Paragraphs>PPE IN  INAPPROPRIATE PLACE  BUENA SEGREGACION DE BASURA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INAPPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\04 UPPER PIPE DECK .pdf</filepath>
+        <Paragraphs>INAPPROPRIATE  WASTE SEGREGATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INAPPROPRIATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\05 HABITACIONAL CAFETERIA Y GYM.pdf</filepath>
+        <Paragraphs>INAPPROPRIATE  WASTE SEGREGATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLIED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>TORCH CUTTING, NO PAINT APPLIED UN POCO DE ORDEN Y LIMPIEZA NECESARIOS..  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>APPLIED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs>TION   MEASURES APPLIED TO  PREVENT THE SOURCE  BECOMING EFFECTIVE   IGNITION PROTECTION  USED   Static Electricity   All conduc tive parts are  prope</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>PRESSURE BEIN G APPLIED     Fittings   Due to differing customer requirements Jup iter   Subsea Control Systems are not  supplied with hydraulic fitti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>TION   MEASURES APPLIED TO  PREVENT THE SOURCE  BECOMING EFFECTIVE   IGNITION PROTECTION  USED   Static Electricity   All conduc tive parts are  prope</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>APPLIED WHEN REMOVING LOCKING RING (</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>COMPOUND MUST BE APPLIED TO THE TOOL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLIED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>3.7 A COATING SHALL BE APPLIED IN ACCORD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Hidraulic and Hp Compressor room .pdf</filepath>
+        <Paragraphs>LABELS AND SIGNS NOT APPLICABLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\02 Moonpool.pdf</filepath>
+        <Paragraphs>LABELS AND  NOT APPLICABLE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs> NOT APPLICABLE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Duracell_Alkaline_Manganese_Dioxide_Batteries_(EU_MSDS).pdf</filepath>
+        <Paragraphs>ROTECTION   NOT APPLICABLE   Finished consumer product    SECTION IX   PHYSICAL AND CHEMICAL PROPERTIES   Appearance  color  physical form  shape    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs> NOT APPLICABLE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs> NOT APPLICABLE  U/N </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs> APPLICABLE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>2. ATTACH UNIT PRICING FOR ALL PLATFORMS &amp;  LADDERS INCLUDING SUPPORT CLIPS ETC., IF APPLICABLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>INCLUCING APPLICABLE DOCUMENTS REFERENCED THEREIN.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROPRITE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROPRITE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Mud pump room.pdf</filepath>
+        <Paragraphs>TED TO A APPROPRITE PLACE AND  REMOVE PLASTIC COVER  EQUIPO DE LIMPIEZA  EN DESORDEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAPPI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAPPI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>EQUIPAGGIATI CON TAPPI  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAPPI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>EQUIPAGGIATI CON TAPPI  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAPPI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>EQUIPAGGIATI CON TAPPI  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAPPO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAPPO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>TAPPO FUSIBILE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAPPO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>TAPPO FUSIBILE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAPPO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>SOSTITUZIONE DEL TAPPO FUSIBILE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAPPO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>  75 TAPPO / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROVAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs>CATE OF  FIRE   APPROVAL                                                                                          A    SINGLE LEAF  DOOR   WITH VISION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\MR 3027-14-0007.pdf</filepath>
+        <Paragraphs>SOLICITADO POR / REQUESTED BYAPRUEBA / APPROVAL Jose Juan Leza Mendoza Van Bussel, Stephanus Maria 02/01/2014 03/01/2014  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\MR 3027-14-0927.pdf</filepath>
+        <Paragraphs>APPROVAL Gregory</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\MR 3027-14-0940.pdf</filepath>
+        <Paragraphs>APPROVAL Gregory</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\OC 3027-14-0940 APROBADA.pdf</filepath>
+        <Paragraphs>APPROVAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970\Procurement Document\MR 3027-14-0970.pdf</filepath>
+        <Paragraphs>APPROVAL Gregory</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\MR 3027-14-0970A.pdf</filepath>
+        <Paragraphs>APPROVAL AUTORIZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\MR 3027-14-1009.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\MR 3027-14-1010.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\MR 3027-14-1011.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Procurement Document\MR 3027-14-1012.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\MR 3027-14-1014.pdf</filepath>
+        <Paragraphs>APPROVAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\MR 3027-14-1015.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\MR 3027-14-1016.pdf</filepath>
+        <Paragraphs>APPROVAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017\Procurement Document\MR 3027-14-1017.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\MR 3027-14-1017A.pdf</filepath>
+        <Paragraphs>APPROVAL Fco</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\MR 3027-14-1017B.pdf</filepath>
+        <Paragraphs>APPROVAL Fco</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\MR 3027-14-1018.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\MR 3027-14-1018A.pdf</filepath>
+        <Paragraphs>APPROVAL AUTORIZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\MR 3027-14-1018C.pdf</filepath>
+        <Paragraphs>APPROVAL AUTORIZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\MR 3027-14-1020.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\MR 3027-14-1030.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\MR 3027-14-1031.pdf</filepath>
+        <Paragraphs>APPROVAL Van</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\MR 3027-15-0019.pdf</filepath>
+        <Paragraphs>ED BY APRUEBA   APPROVAL AUTORIZA   AUTHORIZED SUPTE AREA AUTORIZA   AUTHORIZED FOR QUOTES Fco Javier Montes Panayeta            Van Bussel  Stephanus</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\MR 3027-15-0479.pdf</filepath>
+        <Paragraphs>      APRUEBA   APPROVAL Van Bussel  Stephanus Maria            AUTORIZA   AUTHORIZED SUPTE AREA Fernando Lugo Maldonado            AUTORIZA   AUTHORI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\MR 3027-15-0651.pdf</filepath>
+        <Paragraphs>      APRUEBA   APPROVAL Van Bussel  Stephanus Maria            AUTORIZA   AUTHORIZED SUPTE AREA Fernando Lugo Maldonado            AUTORIZA   AUTHORI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\MR 3027-15-0733.pdf</filepath>
+        <Paragraphs>      APRUEBA   APPROVAL Steinar Larsen            AUTORIZA   AUTHORIZED SUPTE AREA Raul Romero            AUTORIZA   AUTHORIZED FOR QUOTES Carlo Punt</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\MR 3027-15-0834.pdf</filepath>
+        <Paragraphs>      APRUEBA   APPROVAL Van Bussel  Stephanus Maria            AUTORIZA   AUTHORIZED SUPTE AREA Raul Romero            AUTORIZA   AUTHORIZED FOR QUOT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>WRITTEN APPROVAL FROM THIS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>IFICATE OF TYPE APPROVAL                                                                                                A    SINGLE LEAF  DOOR     CER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>OUT PRIOR TESTING AND APPROVAL BY HYDRIL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\P&amp;ID HP Manifolds and Manifold Valves\HP Manifold Valve Data 170227-R-BS101-SA02-0100_01.pdf</filepath>
+        <Paragraphs>     ISSUED FOR APPROVAL            DAW MM PRB  Acceptance code  Norsok     Code    Accepted  This document and all information and data herein or her</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>RY   POS        APPROX </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Barren_RTU_Herbicide_55_Gallon_3320-5_msds.pdf</filepath>
+        <Paragraphs>  APPROX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Eliminator_Non-Selective_Herbicide_145-5_msds.pdf</filepath>
+        <Paragraphs>APPROX </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Triple_Threat_Selective_363-5_msds.pdf</filepath>
+        <Paragraphs>APPROX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Turf_King_Herbicide_Non-Select_322-5_msds.pdf</filepath>
+        <Paragraphs>  APPROX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Zap-It_Concentrate_Non-Select_155-1_msds.pdf</filepath>
+        <Paragraphs>APPROX </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>APPROX 3 In. (76mm)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>4" CLEAN-OUT PLUG10' APPROX INSPECTION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>APPROX 4.0" REQUIRED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPEAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>. e  THIS REQUISITION NUMBER MUST APPEAR I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\MR 3027-14-0105.pdf</filepath>
+        <Paragraphs>ION NUMBER MUST APPEAR IN ALL YOUR QUOTATlONS  INVOICES  REMISSIONS  SHIPMENTS  PACKAGES AND RELATED DOCUMENTATION  EL NUMERO DE SOLICITUD DEBE FIGURA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0107\Procurement Document\MR 3027-14-0107.pdf</filepath>
+        <Paragraphs>ION NUMBER MUST APPEAR IN ALL YOUR QUOTATlONS  INVOICES  REMISSIONS  SHIPMENTS  PACKAGES AND RELATED DOCUMENTATION  EL NUMERO DE SOLICITUD DEBE FIGURA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\MR 3027-14-0365.pdf</filepath>
+        <Paragraphs>PLACE: 23/04/2014 THIS REQUISITION NUMBER MUST APPEAR IN ALL YOUR QUOTATlONS, INVOICES, REMISSIONS, SHIPMENTS, PACKAGES AND RELATED DOCUMENTATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\MR 3027-14-0732.pdf</filepath>
+        <Paragraphs>APPEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\MR 3027-14-0739.pdf</filepath>
+        <Paragraphs>APPEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+        <Paragraphs>APPEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+        <Paragraphs>HE PAYMENT THAT APPEAR IN THE ATTACHED FILE BECAUSE I DO N        T KNOW HOW MANY DAYS     DURING  THE SERVICE          PLEASE CONFIRM    IF WITH THIS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROXIMATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROXIMATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS PRECIO.pdf</filepath>
+        <Paragraphs>     TOLD ME AN APPROXIMATE THE HOURS THAT YOU NEED FOR REALIZE THE SERVICE  BECAUSE WE  PUT   HORS IN THE PURCHASE     AND WHEN YOU FINISH THE WORK W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROXIMATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> A              APPROXIMATE WEB SRL WEIGHT     lbs       kg      lbs       kg      lbs       kg      lbs       kg  APPROXIMATE DEPTH           cm     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROVALS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROVALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\OC 3027-14-0940 APROBADA.pdf</filepath>
+        <Paragraphs>APPROVALS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\PO 3027-14-0940.pdf</filepath>
+        <Paragraphs>APPROVALS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>1.8CERTIFICATES AND APPROVALS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPROVALS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>CSA/CGA þ  Assemblies must be made at Davenport IowaKEY TO UNDERSTANDING AGENCY APPROVALS FOR BUILDING HOSE ASSEMBLIES E-15 B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT035 - Instalación-actualización bases de datos de ECDIS (11-Abr-12).docx</filepath>
+        <Paragraphs>rrado    Oprima APPLY CHANGES dos veces     Reinicie la computadora     Abra el men  de sistema   Shutdown  apagar      Oprima RESTART COMPUTER dos ve</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC663.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC664.pdf</filepath>
+        <Paragraphs>APPLY TO:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST604.pdf</filepath>
+        <Paragraphs>APPLY TO:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.1 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.2 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.4 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.7 Work Order.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.8 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\terms-and-conditions-of-sale-usa.pdf</filepath>
+        <Paragraphs>LIMITATION WILL APPLY   NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED   REMEDY     In no case will  Zep  Zep   by  Customer   for  t</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>APPLY TO EVERY RIG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Black Jak Torque Master.pdf</filepath>
+        <Paragraphs>APPLY TORQUE TO THE LOCKIN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>APPLY LUBRICANT TO ALL PILOTS INCLUDING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>RTICLE    SHALL APPLY TO ANY CLAIM S  LOSSES OR DAMAGES WITHOUT REGARD TO THE CAUSE S  THEREOF  INCLUDINGBUT NOT LIMITED TO PRE EXISTING CONDITIONS  W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>RTICLE    SHALL APPLY TO ANY CLAIM S  LOSSES OR DAMAGES WITHOUT REGARD TO THE CAUSE S  THEREOF  INCLUDINGBUT NOT LIMITED TO PRE EXISTING CONDITIONS  W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\6. Sistema de Propulsores (Thrusters System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\thruster\43 WO.pdf</filepath>
+        <Paragraphs>GROWTH. CLOSE VALVE (429/422), OPEN VALVE (429/423) AND APPLY COMPRESSED AIR TO THE SEA CHEST FOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\FEBRERO\WO TEST604.pdf</filepath>
+        <Paragraphs>APPLY TO:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICALBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICALBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>OVER TOOLS  NOT APPLICALBE TO SEMI SUBMERSIBLES                                                                                                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICALBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>OVER TOOLS  NOT APPLICALBE TO SEMI SUBMERSIBLES                                                                                                       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPENDIXES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDIXES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>Wear-resistant inner lining  178 APPENDIXES  8.1 APPENDIX A: PV- Open Body Assembled  1. Valve body 6. Allen screw </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FMAPPROVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FMAPPROVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\hmi_mp377_mp377pro_operating_instructions_en-US_en-US.pdf</filepath>
+        <Paragraphs> FMAPPROVED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WRAPPED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WRAPPED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>BLE  SHOULD BE  WRAPPED   IN  PROTECTIVE PACKAGING   WHEN NOT IN USE       DO   NOT   DROP    BEND   OR   F ORCE   CAPACITOR   MODULES       General S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUSCOMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSCOMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18510-XX-0209DRILLINGDFMA ANTENNE1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUSCOMPL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSCOMPL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18610-XX-0217DRILLINGHRN ANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUSCOM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSCOM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18710-XX-0785DRILLINGOCB ANTENNA 11DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUSCOMPLETE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSCOMPLETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18910-XX-0791DRILLINGANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMPLETE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUSC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUSC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>19410-XX-1217DRILLINGSTB HRN ANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>9APPROVAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>9APPROVAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>L 7 8 9APPROVAL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>APPLICATIONS Part No. Product Speci$cs 10144486 2455.5323 (14.61 cm) x 17323 (43.2 cm) x .04323 (1.02mm)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>STEEL I BEAM    APPLICATIONS This lightweight and extremely easy to install engineered fall protection system is ideal for steel construction  Single </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>IDEAL APPLICATIONS       maintenance work    cartons and packaging     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>    SAFETY EYEWEAR MARKINGS: HOW TO IDENTIFY APPLICATIONS AND PERFORMANCE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLICATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>APPLICATIONS Serv</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLIANCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLIANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>  WOOD    PAPER APPLIANCE MFG  PG  PowerFlex                 Multi Purpose    Heavy        Hycron               Multi Purpose    Heavy      M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>our group. 11  THE NEW MOBILE APP ADDS FLEXIBILITY,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-sika-manto-app-sika-manto-pro-app-monterplas-app.pdf</filepath>
+        <Paragraphs>S   Sika Manto  APP     Sika Manto PRO   APP  Monterplas APP   APP  Monterplas       Fecha de elaboraci n    Fecha de  ltima actualizaci n            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Manto SBS y APP, varios espesores y colores.pdf</filepath>
+        <Paragraphs>Butadieno- estireno) y APP (Polipropileno Atactico ) de 3.5 mm  y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>APPRO þX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROVALen-USAll</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROVALen-USAll</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs> en USSTANDARDS APPROVALen USAll eyewear contained within this catalogue is certi   ed to AS NZS      Medium Impact Protection  en USEye Protection   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICATIONen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICATIONen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>* NOT CE APPROVED APPLICATIONen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>APPA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPARATUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPARATUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>AIR256 SIMPLE, ROBUST AND RELIABLE ASSISTED BREATHING APPARATUS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPARATUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>LIFTING APPARATUS FOR DIVERTER HANDLING TOOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPEARANCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>CAL PROPERTIES  APPEARANCE Dark viscous oily liquid  does not mix with water  PHYSICAL PROPERTIES Liquid  Does not mix with water  Sinks in water  Sta</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Barren_RTU_Herbicide_55_Gallon_3320-5_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Eliminator_Non-Selective_Herbicide_145-5_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Triple_Threat_Selective_363-5_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Turf_King_Herbicide_Non-Select_322-5_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Zap-It_Concentrate_Non-Select_155-1_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>floor cleaning    SECTION  9  --  PHYSICAL  AND  CHEMICAL  PROPERTIES   APPEARANCE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLO-69150.pdf</filepath>
+        <Paragraphs> VAPOR PRESSURE APPEARANCE AND ODOR             C      mmHg at        C SECTION      HANDLING  AND  STORAGE Wash with soap and water after contact  PR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia_Shine_Aerosol_SS1_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs>APPEARANCE AND ODOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs>100% APPEARANCE AND ODOR    SECTION IV </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sani-Fresh_Hand_Cream_09031_msds.pdf</filepath>
+        <Paragraphs>are recommended as good industrial hygiene practice.9. Physical and Chemical Properties APPEARANCE AND ODOR:Viscous, Yellow lotion with Almond Odor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs>CAL PROPERTIES  APPEARANCE Clear odourless liquid  mixes with water  PHYSICAL PROPERTIES Liquid  Mixes with water  State Liquid Molecular Weight Not A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPEARANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>CAL PROPERTIES  APPEARANCE White crystals with disagreeable odour  soluble in cold water  decomposed by hot water  Strong oxidising agent  Highly unst</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004361_Glade_Aerosol_Apple_Cinnamon.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  GLADE® AEROSOL - APPLE CINNAMON Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004450_Glade_PlugIns_Scented_Oil_Apple_Cinnamon_12-08-10.pdf</filepath>
+        <Paragraphs>OIL   APPLE CINNAMON Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000014775_Glade_Solid_Gel_Apple_Cinnamon_12-17-10.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1226  GLADE® SOLID GEL - APPLE CINNAMON Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000014840_Glade_Automatic_Spray_Apple_Cinnamon_12-14-10.pdf</filepath>
+        <Paragraphs>RAY - APPLE CINNAMON Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000015172_Glade_Soy_Candle_Apple_Cinnamon_04-19-10.pdf</filepath>
+        <Paragraphs> - APPLE CINNAMON Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPEARANC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPEARANC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methanol UCAR HTF Heat Treating Fluid CH3OH Safety Data Sheet SDS P4672.pdf</filepath>
+        <Paragraphs> Properties     APPEARANC E    Colorless  liquid   ODOR      Alcohol   like   odor   ODOR THRESHOLD    Not available     PHYSICAL STATE     Liquid   a</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPROPRIATENESS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPROPRIATENESS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ammonia_Sun_Brite_AMMONIA_msds.pdf</filepath>
+        <Paragraphs>INDEPENDENT JUDGEMENT IN DETERMINING ITS APPROPRIATENESS FOR A PARTICULAR PURPOSE.  ACCORDINGLY, CHAMPION  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOURCESAPPROX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOURCESAPPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>           DATA SOURCESAPPROX SCALE          A Camp lease supplied by Santos</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPRAISAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPRAISAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_Basin_Newsletter_4_Dec2010.pdf</filepath>
+        <Paragraphs>ATION     YEARS APPRAISAL     YEARS DEVELOPMENT    PRODUCTION       YEARS DECOMMISSIONING ONGOING ONGOING SITE REHABILITATION AND MAINTENANCE FIELD DE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Gunnedah_MSDS_SAPP_Halliburton.pdf</filepath>
+        <Paragraphs>SAPP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>applicableSAPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>applicableSAPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Gunnedah_MSDS_SAPP_Halliburton.pdf</filepath>
+        <Paragraphs>Sodium acid pyrophosphate7758-16-960 - 100%Not applicableNot applicableSAPP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ApplicableSAPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ApplicableSAPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Gunnedah_MSDS_SAPP_Halliburton.pdf</filepath>
+        <Paragraphs>Not ApplicableSAPP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPEARS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPEARS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB032 - Controlled Hang Off &amp; Emergency Disconnect Tubulars R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>ED STATUS ALARM APPEARS THE DRILLER WILL IMMEDIATELY confirm with DPO and INITIATE EDS          Activity   Dynamic Position Alarm Status Red        Up</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPVD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPVD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2 - Pilot ignition\LMIV-Pilot ignition, Procedure Ra, Jun 2013.pdf</filepath>
+        <Paragraphs>HYDRAULIC. DATE BY APPVD SHEET  10/06/13 A.G.A. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPVD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2 - Pilot ignition\LMIV-Pilot ignition, Procedure.Ra.pdf</filepath>
+        <Paragraphs>    DATE   BY   APPVD   SHEET              A G A    Rig  Sup  Captain       of         Document No    REV   LMIV   BH   IGN   PROC         A     OBJE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAPPED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAPPED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs> CASE CANNOT BE TAPPED OUT WITH THE CLEANING ROD TAKE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLYING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>C) in an oven.  ApplyFIG. 14.  APPLYING GREASE TO DRIVE261END</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>APPLYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs> AVOID APPLYING HYDRAULIC PRESSURE TO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPENDIXA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPENDIXA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs> APPENDIXA                                                    APPENDIX B                                                    INDEX                     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>timingAPPLICATIONSApplied</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>timingAPPLICATIONSApplied</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>Easy axial and angular adjustment and timingAPPLICATIONSApplied wherever self-centering action and good concentricity of </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAPACITYAPPLICABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAPACITYAPPLICABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>6 1/4,61/2,63/4TONGJAW CAPACITYAPPLICABLE API</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPEKDIX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPEKDIX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Hydraulics.224 SPE Paper No. 3530. New Orleans. La.. 1971.  APPEKDIX  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>APPLICA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HAPPEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HAPPEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>BACK FROM LINER FACE. (THIS SHOULD HAPPEN QUICKLY). HYDRA-CEL (#7) CAN NOW BE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RE-APPLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RE-APPLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>. RE-APPLY TORQUE PER STEP 1 OF PG. 3 .    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>24APPROX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>24APPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>Figure 24APPROX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COVERAAPPROX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COVERAAPPROX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>COVERAAPPROX 1/2 OF HEIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>gradesAPPLICATIONSJET-LUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>gradesAPPLICATIONSJET-LUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\17 - DRILL PIPE GREASE OIM\Graxa Para Drill Pipe.pdf</filepath>
+        <Paragraphs> is available in Arctic and Thermal gradesAPPLICATIONSJET-LUBE Z-50 ME </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAPPING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAPPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>WALL MAPPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAPPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>WALL MAPPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAPPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>WALL MAPPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAPPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>WALL MAPPING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAPPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>WALL MAPPING  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICABILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICABILITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\IPC - Garbage Management Manual - Rev 04-2011.12.pdf</filepath>
+        <Paragraphs>APPLICABILITY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APPLICABILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APPLICABILITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\IPC - Garbage Management Manual - Rev 04-2011.12.pdf</filepath>
+        <Paragraphs>APPLICABILITY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>lAPP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>lAPP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>lAPP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEBLANCAPPROVED23SEP09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEBLANCAPPROVED23SEP09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>J. LEBLANCAPPROVED23SEP09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEBLANCAPPROVED09JUL09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEBLANCAPPROVED09JUL09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>J. LEBLANCAPPROVED09JUL09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MISCELLANEOUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>MISCELLANEOUS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>MISCELLANEOUS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>MISCELLANEOUS SUBTOTAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>MISCELLANEOUS SUBTOTAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>am lock buckle  MISCELLANEOUS          O ring replacement  hose hood     pack          Comfort belt          Cartridge receptacle cover          Shoul</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>ANDSYSTEMS341MISCELLANEOUSEQUIPMENTFORPIPEITUBULARHANDLINGMiscellaneous</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>flMISCELLANEOUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>flMISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>flMISCELLANEOUS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROTECTIONOFMISCELLANEOUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONOFMISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PROTECTIONOFMISCELLANEOUS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRANEOUTSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRANEOUTSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>781961-MAC-07-001FADDR. CALLPOINT. WATERPROOF SAFETY OUTDOOR -OUTSIDE KNUCKLE CRANEOUTSIDE KNUCKLE CRANEDRILL FLOOR3026DA961E01</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ISCELLANEOUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ISCELLANEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs> PPENDIX      M ISCELLANEOUS  R EFERENCE  D RAWINGS                                                                            A PPENDIX      E LECTRO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPONTANEOUSLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPONTANEOUSLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Phosphine PH3 Safety Data Sheet SDS P4643.pdf</filepath>
+        <Paragraphs>   CATCHES FIRE SPONTANEOUSLY IF EXPOSED TO AIR   H         CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPONTANEOUSLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Chlorosilane A19 SiHCl3 Safety Data Sheet SDS P4823.pdf</filepath>
+        <Paragraphs>ICH MAY IGNITE  SPONTANEOUSLY   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         HARMFUL IF INHALED   CGA   HG        MAY FORM EXPLOSIVE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SPONTANEOUSLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Silane SiH4 Safety Data Sheet SDS P4649.pdf</filepath>
+        <Paragraphs>   CATCHES FIRE SPONTANEOUSLY IF EXPOSED TO AIR   H         CONTAINS GAS UND ER PRESSURE  MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   Preca</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CARBONACEOUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CARBONACEOUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Fracseal_Rheochem.pdf</filepath>
+        <Paragraphs>BLE   EXPLOSIVE CARBONACEOUS DUST  Carbonaceous organic dusts have the potential  withdispersion  to present an explosion hazard if an ignition source</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2013-03-15MISCELLANEOUS27</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2013-03-15MISCELLANEOUS27</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>2013-03-15MISCELLANEOUS27</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2012-10-15MISCELLANEOUS6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2012-10-15MISCELLANEOUS6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>2012-10-15MISCELLANEOUS6</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WELFARE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELFARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Forms\Formato 12 preguntas (Si-Si) esp-eng.docx</filepath>
+        <Paragraphs>ETY   MY FAMILY WELFARE ARE FIRST              ANTES DE QUE INICIES UN TRABAJO  DETENTE Y RESPONDE LAS SIGUIENTES PREGUNTAS    BEFORE YOU START UP AN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WELFARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\12 PREGUNTAS\12 preguntas (Si-Si) esp-eng.docx</filepath>
+        <Paragraphs>ETY   MY FAMILY WELFARE ARE FIRST              ANTES DE QUE INICIES UN TRABAJO  DETENTE Y RESPONDE LAS SIGUIENTES PREGUNTAS    BEFORE YOU START UP AN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAROS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>CARACTER315STICAS710001 FAROS AUXILIARES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAFARI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAFARI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>ARB10800472 42 lts.  El SAFARI SNORKEL asegura la entrada de aire limpio y seco </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LDLAdBFFRLSDFFART</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LDLAdBFFRLSDFFART</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>LDLAdBFFRLSDFFART</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LDLAdBFFRLSDFFART</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>LDLAdBFFRLSDFFART</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LDLAdBFFRLSDFFART</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>LDLAdBFFRLSDFFART</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ICPRFARofTDH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ICPRFARofTDH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>ICPRFARofTDH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ICPRFARofTDH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>ICPRFARofTDH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ICPRFARofTDH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>ICPRFARofTDH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FARMAC311UTICO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FARMAC311UTICO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>P. 94SECTORES FARMAC311UTICO Y ELECTR323NICO SECTORES FARMAC311UTICO Y ELECTR323NICO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FARMAC311UTICA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FARMAC311UTICA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>200 Gesti363n de residuos P301GINA 115ELECTR323NICA Y FARMAC311UTICA 200 Aplicaciones en laboratorios </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WARFARE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WARFARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>WARFARE  AGENTS Surface acoustic wave (SAW) Low false positives and false alarms, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

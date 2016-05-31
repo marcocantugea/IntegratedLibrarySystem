@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>KML</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs> KML   m   Is the distance from the keel to the longitudinal metacenter of the rig   KMT   m   Is the distance from the keel to the transverse metacen</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  3   C.3 Hydrostatic Table Draft   Displ LCB TCB VCB WPA LCF   TPcm MTcm KML KMT  (m) (ton) (m) (m) (m) (m2) (m) (ton/cm)   (ton-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ble values      KML      m      Is the distance from the keel to the longitudinal metacenter of the rig      KMT      m      Is the distance from the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KMLTCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KMLTCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>KMLTCG 226 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KML-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KML-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Calculate the differences KML-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KML-VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KML-VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>the differences KML VCG and KMT VCG  i e  line        line      to obtain GML and GMT respectively   Enter these values     Line         Enter FSM  L </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

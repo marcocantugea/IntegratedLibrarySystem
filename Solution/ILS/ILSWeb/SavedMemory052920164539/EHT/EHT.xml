@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ALASEHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALASEHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>Premio ALASEHT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EHTYLENEDIAMINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EHTYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>TRISODIUM EHTYLENEDIAMINE DISUCCINATE 178949821 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EHTYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>TRISODIUM EHTYLENEDIAMINE DISUCCINATE 178949821 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EHTYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>TRISODIUM EHTYLENEDIAMINE DISUCCINATE 178949821 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

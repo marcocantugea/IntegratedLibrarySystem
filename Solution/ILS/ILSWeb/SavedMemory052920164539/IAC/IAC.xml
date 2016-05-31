@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DESVIACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DESVIACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\04 Dangerous residues area.pdf</filepath>
+        <Paragraphs>NINGUNA DESVIACION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PONTIAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PONTIAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>PONTIAC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXPLOIACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXPLOIACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>\111  \  DI &lt; 11,\11  \l  h EXPLOIACION Y l'llOllUCCION  Reporte </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CULIACAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Invoicing\Factura de clientes 19013.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN  Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Invoicing\Factura de clientes 19014.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Invoicing\Factura de clientes 19015.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Invoicing\Factura de clientes 19019.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Invoicing\Factura de clientes 19017.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Invoicing\Factura de clientes 19018.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CULIACAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>ENTRE CALLE CULIACAN Y VILLAHERMOSA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMT for IEC, IEEE and IAC curves(timer hold)0; 0.05 to 300 sMT10527IDMT (3)0.5 to 20 s Characteristic times</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>IAC inverseDefinite time or IDMT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\10000932772 -PDC-000 Manual Riser telescopic Joint.pdf</filepath>
+        <Paragraphs>IAC </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>curvesIAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>curvesIAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>MT10540IEEE curvesIAC curvesMT10528</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>curvesIAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>DE50870IEEE curvesIAC curvesMT10206</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LoadTRIAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LoadTRIAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>LoadTRIAC ! Generic user-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASOCIACIONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASOCIACIONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>L CAPACIDADES Y ASOCIACIONES MUNDIALES L   DER MUNDIAL EN PROTECCI   N BARRERA   CAT   LOGO DE SOLUCIONES DE PROTECCI   N C   MO UTILIZAR ESTA GU   A </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RADIACTIVA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RADIACTIVA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs> 205 CONTAMINACI323N RADIACTIVA + RADIACI323N IONIZANTE Guantes que protegen del contacto directo con </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RADIACI323N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RADIACI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs> 205 CONTAMINACI323N RADIACTIVA + RADIACI323N IONIZANTE Guantes que protegen del contacto directo con </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRIACETATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRIACETATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>TRIACETATE SCREENS: IMPROVED RESISTANCE TO CHEMICAL PRODUCTS, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NITRILOTRIACETATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NITRILOTRIACETATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01031.pdf</filepath>
+        <Paragraphs>      TRISODIUM NITRILOTRIACETATE           FORMALDEHYDE     New Jersey Right   To   Know List        WATER        MURPHY OIL SOAP WOOD CLEANER SPRAY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NITRILOTRIACETATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01131.pdf</filepath>
+        <Paragraphs>      TRISODIUM NITRILOTRIACETATE     New Jersey Right   To   Know List        WATER           SODIUM HYDROXIDE             Sodium tallate     Pennsyl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NITRILOTRIACETATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01163.pdf</filepath>
+        <Paragraphs>      TRISODIUM NITRILOTRIACETATE     New Jersey Right   To   Know List        WATER           SODIUM HYDROXIDE             Sodium tallate     Pennsyl</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABREVIACIONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABREVIACIONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\648346001-s.pdf</filepath>
+        <Paragraphs>ABREVIACIONES  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WHEATGERMAMPHODIACETATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WHEATGERMAMPHODIACETATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs> DISODIUM WHEATGERMAMPHODIACETATE            977169304       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RADIACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RADIACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\22 JULY 2014 UPPER DECK.pdf</filepath>
+        <Paragraphs>LA RADIACION SOLAR  DURANTE VARIAS HORAS, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

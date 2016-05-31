@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BASEEFA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BASEEFA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs>AS DETECTOR     BASEEFA    ATEX     X     Certificate  Number BaseefaO ATEXOO  X      Description  of  Equipment  or  Protective  System The  Xgard  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BASEEFA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs>KCD2-SR-EX2 BASEEFA 06 ATEX 0092 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BASEEFA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>KCD2-SR-EX2 BASEEFA 06 ATEX 0092 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>B2A2A2B87EEF030124E33C42F8A8F062F</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>B2A2A2B87EEF030124E33C42F8A8F062F</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Invoicing\Factura de clientes 19019.pdf</filepath>
+        <Paragraphs>B2A2A2B87EEF030124E33C42F8A8F062F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

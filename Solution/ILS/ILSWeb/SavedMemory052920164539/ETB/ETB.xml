@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SETBACK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SETBACK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  SETBACK LOADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SETBACK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  SETBACK LOADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESETBUTTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESETBUTTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>RESETBUTTON</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETBody</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETBody</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>Vautex Elite ETBody Protection [Gastight Chemical Protective Suits] 96</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OUTLETBypass</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OUTLETBypass</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>OUTLETBypass</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PROHIBITION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROHIBITION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DW-004.pdf</filepath>
+        <Paragraphs>ibed below      PROHIBITION  actions or information   An icon in a red circle with a strike through      WARNING  actions or information   An icon in </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXHIBIDOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXHIBIDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>EX0146 EXHIBIDOR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXHIBICI323N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1012\Invoicing\Factura de clientes 19014.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Invoicing\Factura de clientes 19015.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Invoicing\Factura de clientes 19019.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Invoicing\Factura de clientes 19017.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Invoicing\Factura de clientes 19018.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EXHIBICI323N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICI323N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXHIBICION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXHIBICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>PAGO EN UNA SOLA EXHIBICION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INHIBITDEMARRAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INHIBITDEMARRAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>START INHIBITDEMARRAGE INHIBE8</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INHIBITDEMARRAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Starts per hour66START INHIBITDEMARRAGE INHIBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INHIBE8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INHIBE8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>START INHIBITDEMARRAGE INHIBE8</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NHIBITDEMARRAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NHIBITDEMARRAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>NHIBITDEMARRAGE INHIBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INHIBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INHIBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>NHIBITDEMARRAGE INHIBE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INHIBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Orange-Heavy-Duty-Hand-Cleaner-Spanish-MSDS-ZU0991.pdf</filepath>
+        <Paragraphs>INHIBE LA COMBUSITIBILIDAD DEL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INHIBITOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INHIBITOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Potassium_Chloride_Rheochem.pdf</filepath>
+        <Paragraphs>   FERTILISER   INHIBITOR Use s  Synonym s  KCL   SYLVITE   POTASH   MURIATE OF POTASH MSDS Date    July      NOT CLASSIFIED AS HAZARDOUS ACCORDING TO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROHIBICION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROHIBICION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\2.- CAFERERIA UP DECK D.pdf</filepath>
+        <Paragraphs>PROHIBICION DE ABRIR LA FABRICA DE HIELO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

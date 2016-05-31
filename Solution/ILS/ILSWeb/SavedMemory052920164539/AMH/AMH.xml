@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AMH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>Use Care AMH recommends to use thread compound contain-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAMRAMHighTempShearingBlindRamBladeandSidePackers</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAMRAMHighTempShearingBlindRamBladeandSidePackers</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Cameron Spare Parts Catalogue.pdf</filepath>
+        <Paragraphs>      NotShown  CAMRAMHighTempShearingBlindRamBladeandSidePackers ItemDescription             and      psi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

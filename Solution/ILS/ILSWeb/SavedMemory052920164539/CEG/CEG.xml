@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CLEARANCEGround</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLEARANCEGround</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>321Safety at Height FALL CLEARANCEGround and </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CEGEO16SMA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CEGEO16SMA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc yellow platedA3CEGEO16SMA3CNBR  DIN fittings I58Catalogue 4100-7/UK D1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CEGE16SMEDA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CEGE16SMEDA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFEGE16SMEDCFNBR Steel, zinc yellow platedA3CEGE16SMEDA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>platedA3CEGE16SREDA3CNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>platedA3CEGE16SREDA3CNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated, chrome6-freeCFEGE16SREDCFNBR Steel, zinc yellow platedA3CEGE16SREDA3CNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

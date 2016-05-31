@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HGG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>HGG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>HGG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>rated capacity of 350 tons. The HGG handles </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HGGItemDescriptionQty</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HGGItemDescriptionQty</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>S LIST MGG  GG  HGGItemDescriptionQty</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HGGItemDescriptionQty</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>S LIST MGG  GG  HGGItemDescriptionQty</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GGAQtyHGG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GGAQtyHGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>and GAQtyGG and GGAQtyHGG     Hex head capscrew            C             C             C      Flexloc lock nut         C         C         C    Trigge</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GGAQtyHGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>and GAQtyGG and GGAQtyHGG     Hex head capscrew            C             C             C      Flexloc lock nut         C         C         C    Trigge</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HGGA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HGGA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>HGGA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HGG-500</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HGG-500</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>HGG-500 Elevator 5-1/</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

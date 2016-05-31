@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AUV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AUV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>iento geof sico AUV de alta resoluci n y un  programa de muestreo geot cnico y de an lisis de laboratorio para proporcionar una caracterizaci n  compl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AUV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>iento geof sico AUV  de alta resoluci n  un program a de muestreo geot cnico y an lisis de laboratorio para proporcionar una  caracterizaci n m s comp</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

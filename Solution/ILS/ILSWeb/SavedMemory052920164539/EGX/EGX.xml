@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EGX100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EGX100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>E   CA ACE   CC EGX    EGX    ECI    To supervisor Physical interface   RS     port    port    wire RS       port    wire RS       Ethernet port      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EGX300</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EGX300</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>ACE   CC EGX    EGX    ECI    To supervisor Physical interface   RS     port    port    wire RS       port    wire RS       Ethernet port        base </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EGX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EGX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>ample: EGX gateways or ECI850 servers </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

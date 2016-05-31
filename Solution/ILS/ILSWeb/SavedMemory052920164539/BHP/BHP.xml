@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BHP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>SMI/Brunvoll FU-80 CPP, 1000 BHP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>ON CLASS        BHP AHTS FLAG  United States SOLAS  Full USCG  USCG Sub L  OSV  ABS  A  AMS  Solas YEAR BUILT       OFFICIAL NUMBER          RADIO CAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>BHP - - (ft </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs> pressure reduction  BHP  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>psi BHP = 5200 psi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>BHP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BHPpsi</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BHPpsi</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs> BHPpsi  while   Circulating on the Choke  BHPpsi   Hydrostatic Pressurepsi Mud in Drillstring   SIDPP  Equivalent Mud Weight  EMWppg  at Bottom Hole </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

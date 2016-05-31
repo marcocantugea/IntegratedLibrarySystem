@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HEBILLAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEBILLAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\04 FEB 2014   .pdf</filepath>
+        <Paragraphs>HERRAMIENTAS DE MANO SIN BASE) HEBILLAS MAL INSTALADAS ERA MAL ALMACENADO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEBILLAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>CON SOPORTE LUMBAR Y HEBILLAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THEBELLOWWILLSOON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THEBELLOWWILLSOON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>THEBELLOWWILLSOON</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>volumenHEB3501Nombre</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>volumenHEB3501Nombre</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HEB3501_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>a de ventas por volumenHEB    Nombre de la empresaInternational Paint LLC     Antoine DriveHouston Texas      EmergenciaCHEMTREC  EE  UU              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>volumenHEB3502Nombre</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>volumenHEB3502Nombre</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HEB3502_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>a de ventas por volumenHEB    Nombre de la empresaInternational Paint LLC     Antoine DriveHouston Texas      EmergenciaCHEMTREC  EE  UU              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

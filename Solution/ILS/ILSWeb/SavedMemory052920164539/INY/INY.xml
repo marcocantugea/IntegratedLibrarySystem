@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>INYECCION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INYECCION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\31 ENE 2014 CTO. BOMBAS.pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR                               cuarto de bombas                  31 Enero del 2014  ESTACION PARA INYECCION DE GASES PARA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POLYVINYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POLYVINYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>AL RUBBER LATEX POLYVINYL ALCOHOL LAMINATED FILM PVC NITRILE BUTYL NEOPRENE VITON  BUTYL   E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

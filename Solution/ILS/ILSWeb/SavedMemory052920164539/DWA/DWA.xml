@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MOTORflFEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOTORflFEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>MOTORflFEEDWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FOR FEEDWATER PUMPS,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRIMARYFEEDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRIMARYFEEDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PRIMARYFEEDWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PRIMARYFEEDWATERSYSTEM756PRIMARYREDUCEDPRESSURESYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DWA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DWA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>Welding rod specifications: ELGA DWA 55L flux cored wire or SMAW electrode 7018</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOARDWALK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOARDWALK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-342-12.pdf</filepath>
+        <Paragraphs>Av              BOARDWALK  ALL PURPOSE CLEANER     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BOARDWALK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-342-A.pdf</filepath>
+        <Paragraphs>:  BOARDWALK </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HANDWASH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDWASH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gojo_Luxury_Foam_Hand_Wash_5161-03_msds.pdf</filepath>
+        <Paragraphs>JO  LUXURY FOAM HANDWASH   Company Name   Address      GOJO Industries  Inc    One GOJO Plaza  Suite       Akron  OH           Emergency Phone        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COLDWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COLDWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Tide_Coldwater_-_Fresh_Scent_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>  ULTRA  TIDE   COLDWATER   (ALL SCENTS: FRESH SCENT)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMPLIEDWARRANTIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMPLIEDWARRANTIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>R DISCLAIMS THE IMPLIEDWARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE    CHANGESSeller expressly reserves the right to change  dis</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IMPLIEDWARRANTIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>R DISCLAIMS THE IMPLIEDWARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE    CHANGESSeller expressly reserves the right to change  dis</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HARDWARE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HARDWARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>KEYS, AND ALL OTHER HARDWARE TO ADAPT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

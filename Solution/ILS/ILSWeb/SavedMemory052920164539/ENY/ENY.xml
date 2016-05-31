@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENYESADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENYESADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>R   A ALICATADO ENYESADO Y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>P-PHENYLENEDIAMINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>P-PHENYLENEDIAMINE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>P-PHENYLENEDIAMINE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>P-PHENYLENEDIAMINE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>P-PHENYLENEDIAMINE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>P-PHENYLENEDIAMINE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>P-PHENYLENEDIAMINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2-NITRO-P-PHENYLENEDIAMINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2-NITRO-P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>2-NITRO-P-PHENYLENEDIAMINE 5307142 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>2-NITRO-P-PHENYLENEDIAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>2-NITRO-P-PHENYLENEDIAMINE 5307142 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>O-PHENYLPHENOL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>O-PHENYLPHENOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Bravo_Hospital_Disinfectant_2100_msds.pdf</filepath>
+        <Paragraphs>o           d   O PHENYLPHENOL         Yes NE NE e WARNING  This product contains a ch</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DL-PANTHENYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DL-PANTHENYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs>-PANTHENOL, DL-PANTHENYL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

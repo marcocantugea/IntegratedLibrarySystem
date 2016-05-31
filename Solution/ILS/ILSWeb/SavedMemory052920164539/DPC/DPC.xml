@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DPC-System</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC-System</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+        <Paragraphs>DPC-System in service only,  page 19.3.2. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC1X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC1X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPC1X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10DPC2X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10DPC2X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>TMC1X2017.8M 10DPC2X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC3X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC3X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPC3X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>12DPC4X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>12DPC4X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>TMC4X2319.8M 12DPC4X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC5X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC5X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPC5X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC6X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC6X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPC6X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC7X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC7X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPC7X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC8X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC8X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPC8X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>DPC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPCap</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPCap</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>DPCap</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BFOU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BFOU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>C0004 BFOU 4G16 NEK 606</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BFOU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0046CABLE BFOU (C) 1X2X1,5MM²</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BFOU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>C0004 BFOU 4G16 NEK 606</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

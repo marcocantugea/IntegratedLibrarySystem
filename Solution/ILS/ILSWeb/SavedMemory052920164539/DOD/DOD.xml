@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DODGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DODGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>DODGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DODECYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs>tion     SODIUM DODECYL  BENZENE SULFONATE                                          FABULOSO MULTI SPRAY ALL PURPOSE CLEANER LIQUID LAVENDER   This in</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46106.pdf</filepath>
+        <Paragraphs>tion     SODIUM DODECYL  BENZENE SULFONATE   LINEAR                                               Lauroylamidopropyl  betaine                         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53042.pdf</filepath>
+        <Paragraphs>tion     SODIUM DODECYL  BENZENE SULFONATE   LINEAR                                            FABULOSO ALL PURPOSE CLEANER LIQUID OCEAN PARADISE   Th</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Cleansing Powder - Regular.pdf</filepath>
+        <Paragraphs>         SODIUM DODECYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Scouring Creme- CCG Design for the Environment.pdf</filepath>
+        <Paragraphs>         SODIUM DODECYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>1569-01-3  1.00 - 5.00  SODIUM DODECYL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SODIUMDODECYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SODIUMDODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs> Concentration  SODIUMDODECYL BENZENESULFONATE  LINEAR                              Allconcentrationsarepresentbyweightunlessingredientisagas Gasconce</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SODIUMDODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs> Concentration  SODIUMDODECYL BENZENESULFONATE  LINEAR                              Allconcentrationsarepresentbyweightunlessingredientisagas Gasconce</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SODIUMDODECYLBENZENESULFONATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SODIUMDODECYLBENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>ity         lbs SODIUMDODECYLBENZENESULFONATE  LINEAR  METHANOL CleanAirAct CleanAirAct   Standardsof PerformanceforNewStationary Sources   POLYETHYLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SODIUMDODECYLBENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>ity         lbs SODIUMDODECYLBENZENESULFONATE  LINEAR  METHANOL CleanAirAct CleanAirAct   Standardsof PerformanceforNewStationary Sources   POLYETHYLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

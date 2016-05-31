@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CGB100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGB100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CGB100</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGB100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMPS TYPES.pdf</filepath>
+        <Paragraphs>2 10 841-PA-004 A to H Thruster Fresh Water Cooling Pump CGB100 V48 FAN  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGB100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>2  10 841-PA-004 A to H Thruster Fresh Water Cooling Pump CGB100 V48 FAN  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>offCGB100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>offCGB100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>offCGB100</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CGB100V48FAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGB100V48FAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CGB100V48FAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CGB1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGB1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CGB1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

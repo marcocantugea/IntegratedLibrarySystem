@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DIECISEIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIECISEIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Invoicing\CALO820702TX3_317_FAC_20150119.pdf</filepath>
+        <Paragraphs>RTE CON LETRA   DIECISEIS MIL DOSCIENTOS CUARENTA PESOS         MXN SUBTOTAL              IVA IVA                     Retenci n RETENCION    IVA      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEIS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEIS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Invoicing\Factura de clientes 19011.pdf</filepath>
+        <Paragraphs>CINCUENTA Y SEIS MIL SETECIENTOS VEINTICUATRO PESOS 0/100 M.N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EISO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EISO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Male stud standardDIN 3852 T11, type EISO 6149-2/3ISO 6149-2/3 ISO 9974-2DIN 3852 T3, type F</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAEISO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAEISO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SAEISO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CEISA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CEISA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\15 area de Residuos.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   AREA DE RESIDUOS    22:00 HRS JULY 15th  2014CONTENEDOR DE CEISA UBICADO  CON EL ACCESO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

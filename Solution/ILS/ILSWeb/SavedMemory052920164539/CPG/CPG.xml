@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CPG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Orvus_WA_Surfactant_Paste_02531_msds.pdf</filepath>
+        <Paragraphs>CPG TN 6 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Spic_&amp;_Span_wBleach_02010_msds.pdf</filepath>
+        <Paragraphs>CPG  TN 6 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PGC-02001.pdf</filepath>
+        <Paragraphs>Commercial Products Group CPG TN 6 2 Procter &amp; Gamble Plaza Cincinnati, OH  45202 HMIS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PGC-02364.pdf</filepath>
+        <Paragraphs>   CPG TN 6 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PGC-312402.pdf</filepath>
+        <Paragraphs>Commercial Products Group CPG TN 6 2 Procter &amp; Gamble Plaza Cincinnati, OH  45202 HMIS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

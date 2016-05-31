@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Heater Resistor ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSPAH019-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSPAH019-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>  CSPAH019-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSPAH019-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSPAH019-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>CSPAH019-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZUCSPDC128</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZUCSPDC128</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CleanStone-Plus-Cleaner-Degreaser-Concentrate-English-MSDS-ZUCSPDC128.pdf</filepath>
+        <Paragraphs>ConcentrateProduct codeZUCSPDC128 Supersedes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUCSPDC128</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUCSPDC128</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CleanStone-Plus-Cleaner-Degreaser-Concentrate-English-MSDS-ZUCSPDC128.pdf</filepath>
+        <Paragraphs>ZUCSPDC128 Closed cup: 70°C (158°F)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUCSPDC128Canada</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUCSPDC128Canada</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CleanStone-Plus-Cleaner-Degreaser-Concentrate-English-MSDS-ZUCSPDC128.pdf</filepath>
+        <Paragraphs>ZUCSPDC128Canada WHMIS (Canada)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZUCSPD32</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZUCSPD32</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CleanStone-Plus-Cleaner-Degreaser-English-MSDS-ZUCSPD32.pdf</filepath>
+        <Paragraphs>Product nameCleanStoneTM Plus Cleaner + DegreaserProduct codeZUCSPD32 Supersedes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUCSPD32</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUCSPD32</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CleanStone-Plus-Cleaner-Degreaser-English-MSDS-ZUCSPD32.pdf</filepath>
+        <Paragraphs>ZUCSPD32 Closed cup: &gt;93.3°C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUCSPD32Waste</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUCSPD32Waste</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CleanStone-Plus-Cleaner-Degreaser-English-MSDS-ZUCSPD32.pdf</filepath>
+        <Paragraphs>ZUCSPD32Waste Information</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RFCSPECIALTYLOCKING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RFCSPECIALTYLOCKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs> RFCSPECIALTYLOCKING DEVICESRINGFEDER CORPORATIONW       RINGFEDER Products are available from MARYLAND METRICS P O  Box       Owings Mills  MD       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

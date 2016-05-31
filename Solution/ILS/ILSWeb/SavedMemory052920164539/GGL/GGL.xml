@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TOGGLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOGGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\00105 lincoln pump.pdf</filepath>
+        <Paragraphs>TOGGLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GOGGLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GOGGLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\1 Almacen-Warehouse\755.PW08 Formatos Almacen\755.PW08.F04 - Formato Vale de entrada.docx</filepath>
+        <Paragraphs>        WELDING GOGGLES    MM    M ODEL NUMBER  GS     N                                              ACETYLENE CUTTING MODEL     G     MARK VICTOR B </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GOGGLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>GOGGLES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GOGGLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>GOGGLES / FACE SHIELD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GOGGLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GOGGLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>in order to comply with the applicable standards of the products in the assembly.  GOGGLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DGGLWLRQ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DGGLWLRQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>UH VXSSRUWHG  Q DGGLWLRQ WKH QHZ  DEHO ULWHU    IRXU LQFK ZLGH ODEHO SULQWHU DQG WKH  DEHO DQDJHU   DQG  DEHO DQDJHU  Q  ODEHO PDNHUV DUH QRZ VXSSRUWH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DGGLWLRQ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>UH VXSSRUWHG  Q DGGLWLRQ WKH QHZ  DEHO ULWHU    IRXU LQFK ZLGH ODEHO SULQWHU DQG WKH  DEHO DQDJHU   DQG  DEHO DQDJHU  Q  ODEHO PDNHUV DUH QRZ VXSSRUWH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

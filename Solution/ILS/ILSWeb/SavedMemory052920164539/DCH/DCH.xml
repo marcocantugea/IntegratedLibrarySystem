@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DCHEC710</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCHEC710</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Main Cranes\Main Cranes 2013\18.2 Work Orders feb.pdf</filepath>
+        <Paragraphs>DCHEC710</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCHEC710</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Main Cranes\Main Cranes 2013\18.3 Work Orders March.pdf</filepath>
+        <Paragraphs>DCHEC710</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCHEC413</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCHEC413</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>DCHEC413</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SECTION9--PHYSICALANDCHEMICALPROPERTIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SECTION9--PHYSICALANDCHEMICALPROPERTIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\02-10 Critical Care.pdf</filepath>
+        <Paragraphs>eofthisproduct  SECTION   PHYSICALANDCHEMICALPROPERTIES Appearance                                                  Clear colorlessliquidBoilingPoint </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CHV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CHV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>864191-PDSL-321CHVAC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>864191-PDSL-321CHVAC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>864191-PDSL-321CHVAC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

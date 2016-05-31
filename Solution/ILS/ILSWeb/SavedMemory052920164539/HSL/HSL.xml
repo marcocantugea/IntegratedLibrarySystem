@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HSLHydraulic</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSLHydraulic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>The Varco BJ HSLHydraulic Elevator/Spider is designed to handle flush </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSLHydraulic</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>The Varco BJ HSLHydraulic Elevator/Spider is designed to handle flush </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

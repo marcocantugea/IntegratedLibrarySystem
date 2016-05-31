@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ULTRATWIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ULTRATWIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>V   A M   SCARA ULTRATWIN El respirador de rostro completo Ultra Twin  tiene un labio  virado hacia adentro alrededor del borde  que proporciona  un s</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIHATWA1000</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIHATWA1000</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Scotchguard_Cleaner_1019_msds.pdf</filepath>
+        <Paragraphs>AIHATWA1000  ppm </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AlcoholOSHATWA1000</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AlcoholOSHATWA1000</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Scotchguard_Cleaner_1019_msds.pdf</filepath>
+        <Paragraphs>Ethyl AlcoholOSHATWA1000  ppm Table Z-1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

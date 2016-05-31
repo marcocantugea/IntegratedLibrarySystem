@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AFLOAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFLOAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>AFLOAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>LOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>FOR LOAD CELL DDM.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>WEIGHT &amp; LOAD DEF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  VARIABLE LOAD EXCEPT BALLAST</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542 PT012 F01 - Lista de Verificación Diaria Grua Articulada - Daily Checklist  (9-Jun-15).doc</filepath>
+        <Paragraphs>ECARGA     OVER LOAD PROTECTION SYSTEM IS ON                Secci n B  Section B   TODOS LOS DA OS  PROBLEMAS O MAL FUNCIONES DEBER N SER REPORTADAS I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Formatos ROV\077.PR003.F01  - Lars Load Test Certificate (18-Mar-14).docx</filepath>
+        <Paragraphs> LOAD TEST    COMPLETION CERTIFICATE            The A frame  Winch and Umbilical have been function tested as described in the relevant Umbilical Load</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>       WEIGHT   LOAD DEFINITIONS              Lightship              Variable loads                 General                Variable deck   column load</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\22 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>SIGN ADVISING HEAVY LOAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs> LOAD ARRESTOR Inertia activated shock absorbing brake with indicator button  Maximum load    is     lbs       kg   length of cable is    ft        m </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>STACIC LOAD DIAGRAM (COa) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB034 - Removing DATs Load Ring from Telescopic Joint R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>ING BELT IF THE LOAD RING IS AWASH IN WAVES        The Subsea Engineer will supervise the lowering of the Assistant Subsea Engineer down to the Load r</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB041 - Unlatch BOPs from Well Head R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>D   THE MAXIMUM LOAD ON CMC WHEN HYDRAULICALLY LOCKED IS           LBS   OPERATING MAXIMUM IS     OR         LBS         THE BUOYED WEIGHT OF THE BOPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>are loaded into Magazine.CAUTION: Safe Firearms Handling dictates that you ONLY LOAD LIVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      RUN FOR 2 MINUTE AT NO LOAD @ 41HZ AND 572V LINE, APROX 800 RPM           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>HOOK LOAD CHART (2ND LAYER)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>LOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>5. LOAD HINGES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs> AS A TRUCK LOAD BECOMES READY NOTIFY JOSE RIBAMAR AT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs> AS A TRUCK LOAD BECOMES READY NOTIFY JOSE RIBAMAR AT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0017 Gulf Coast Oilfield Hybrid Cement Head with Remote Control\ODR-NB11-POR-0017.docx</filepath>
+        <Paragraphs>D WITH COMBINED LOAD AND PRESSURE RATING IS     MT          PSI   SWIVEL RING TO HAVE     EACH      ADAPTERS   TOP SUB        FH BOX       EACH BALL D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE, CARTRIDGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>SEALKIT LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>LOAD BOLT,1000 TON DUAL 4-20</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712381 - 1 ~05162011051054.pdf</filepath>
+        <Paragraphs>SEAL KIT COMPL FOR LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712735 -  ~05242011031204.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0004 NOV Spare Parts\Sales Order Acknowledgement 715274 ~07142011020911.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712381KRS ~07042011073909.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE, DUAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712735 ~07042011074251.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0017 NOV Spare Parts\Sales Order Acknowledgement 712887 ~07042011073533.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0074 NOV Riser Granty Crane\ODN2-11-0074 714006KRS REV 1 PART NUNBER.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0139 NOV Mousehole Spare Parts\Sales Order Acknowledgement 716190 ~08222011070656.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0144 NOV Powered Mousehole\Sales Quote Acknowledgement 716190 - 1 ~08032011114427.pdf</filepath>
+        <Paragraphs>LOAD CONTROL VALVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>LOAD READING AT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADLlNE-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADLlNE-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>LOADLlNE-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>OVERLOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>White 9HL1THERMAL OVERLOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>White 9HL1THERMAL OVERLOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>OVERLOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>OVERLOAD 6-9 AMP.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0033 NOV Spare parts\Sales Order Acknowledgement 714535 ~06292011040103.pdf</filepath>
+        <Paragraphs>OVERLOAD 6-9 AMP.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>STABILITY &amp; LOADING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>    STABILITY   LOADING            DEFINITIONS   REFERENCES            STABILITY CRITERIA              Intact stability            GUIDANCE FOR MAINTA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\25 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>PAINTED RAGS BAGS NEED TO BE ORGANIZED WALKWAY CLEAR AND CLEAN         DESIGNATED AREA FOR LOADING         ONE CARGO ELEVATOR CAR GATE  IS MISSING </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>READ THIS INSTRUCTION MANUAL PRIOR TO LOADING AND FIRING THIS FIREARM. FOLLOW </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\F.O. Bunkering.docx</filepath>
+        <Paragraphs> BUNKERING  S T LOADING  STATION    Page   P gina          OF  De          TASK  Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CHANGING VARIABLE LOADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  DERRICK/DRILL FLOOR LEVEL LOADS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>TO HOLD LOADS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\29 Mayo Welding Shop.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   WELDING SHOP          22:00 HRS MAY 29th 2014EARPLUGS STATION LOADED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>LOADED DRAFT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>3 m LOADED DRAFT  16.4 ft. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>NEVER CLEAN A LOADED FIREARM.  BEFORE CLEANING,COMPLETELY UNLOAD THE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DOWNLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DOWNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\MR 3027-14-0820.pdf</filepath>
+        <Paragraphs>DOWNLOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DOWNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+        <Paragraphs>DOWNLOAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DOWNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+        <Paragraphs>DOWNLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLOATING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLOATING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\SUB_SEA_QUESTIONNAIRE_MASTER.docx</filepath>
+        <Paragraphs>TE VALVE WITH A FLOATING GATE     ROTATE HAND WHEEL TO RIGHT UNTIL IT WILL GO NO FURTHER    ROTATE HAND WHEEL TO LEFT UNTIL IT WILL GO NO FURTHER    R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5713NewOVERLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5713NewOVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>5713NewOVERLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5799NewOVERLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5799NewOVERLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>5799NewOVERLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NLOADING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NLOADING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>E  R EDUCING  U NLOADING  V ALVE  A RRANGEMENT                                               F IGURE        T YPICAL  NG    M INI  P ROPORTIONAL  P RE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NECUILOA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NECUILOA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\11010.pdf</filepath>
+        <Paragraphs>  NECUILOA SOAP PERFUME </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNLOADED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNLOADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>ifle completely UNLOADED  and the bolt locked open  check to see that there isNO EXCESSIVE OIL  in the Bore If there is  swab it out with a patch and </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RELOADED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RELOADED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>Look for dents, scratches, and other signs of damage.DO NOT USE DAMAGED OR RELOADED  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>NEVER CLEAN A LOADED FIREARM.  BEFORE CLEANING,COMPLETELY UNLOAD THE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOANED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOANED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>THIS DOCUMENT CONTAINS PROPRIETARY AND CONFIDENTIAL INFORMATION, WHICH BELONGS TO NATIONAL OILWELL VARCO.  IT IS LOANED FOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOANED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs> IS LOANED FOR LIMITED PURPOSES ONLY AND REMAINS THE PROPE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEEDLOADSPEEDLOADSPEEDLOADSPEEDLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLOAT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLOAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>     X      NP  1000 psi      X  4 = FLOAT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FLOAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>     X      NP  1000 psi      X  4 = FLOAT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FLOAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>095030075RGBB75RGB4800  FLOAT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FLOAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>095030075RGBB75RGB4800  FLOAT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FLOAT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>VALVE BLOCK, ELEVATOR ROTATE + FLOAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>223FLOAT224</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>223FLOAT224</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs> Verify the manual 223FLOAT224 function when BX elevator is opened  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>223FLOAT224</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs> Verify the manual 223FLOAT224 function when BX elevator is opened  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>TO BE RETURNED TO NOV UPON REQUEST OR UPON COMPLETION OF THE USE FOR WHICH IT WAS LOA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>ESTIMATED LOA DATE: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>5. LOAN HINGES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0675281NC50BB44RGB4RFLOAT48OL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0675281NC50BB44RGB4RFLOAT48OL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>0675281NC50BB44RGB4RFLOAT48OL  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>0675281NC50BB44RGB4RFLOAT48OL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>0675281NC50BB44RGB4RFLOAT48OL  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADBOLT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADBOLT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>LOADBOLT 4900kN,  Dual 4-20mA,STRAIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOADCELL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOADCELL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\ODN2-11-0100 714982 REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>LOADCELL 200 kN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADCELL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0100 NOV Riser Gantry Crane\Sales Order Acknowledgement 714982 ~07252011021415.pdf</filepath>
+        <Paragraphs>LOADCELL 200 kN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LOADCELL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0118 NOV Powered Mousehole ET\Sales Order Acknowledgement 714848 ~07252011015619.pdf</filepath>
+        <Paragraphs>LOADCELL 25 TONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CERTIFICATESLOAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CERTIFICATESLOAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>CERTIFICATESLOAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PASILLOA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PASILLOA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\07 SHAKER ROOM.pdf</filepath>
+        <Paragraphs>PASILLOA LIBRES Y LIMPIOS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOAD-CARRYING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOAD-CARRYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>MINOR LOAD-CARRYING COMP. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

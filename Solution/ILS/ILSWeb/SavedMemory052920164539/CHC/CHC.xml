@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CHClF2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHClF2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 22 CHCIF2 Safety Data Sheet SDS P4667.pdf</filepath>
+        <Paragraphs>  Formula       CHClF    Other means of identification       CHLORODIFLUOROMETHANE  REFRIGERANT GAS R                Relevant   identified uses of the</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WRENCHCarrier</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WRENCHCarrier</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>WRENCHCarrier With Gripping</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>CYLINDER TOP 50/32 CM 250 CHCH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

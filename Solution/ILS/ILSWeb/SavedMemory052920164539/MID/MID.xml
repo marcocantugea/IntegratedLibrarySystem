@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DEHUMIDIFICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEHUMIDIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS FWD/PORT COLUMN &amp; PONTOON DEHUMIDIFICATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEHUMIDIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>OLUMN   PONTOON DEHUMIDIFICATION  SYSTEM                    Ventilation System    serves the following areas located at various decks     M       EL  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MIDDLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MIDDLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\26 Cement room.pdf</filepath>
+        <Paragraphs>STOOL IN THE MIDDLE OF PASSWAY(CORRECTED) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MIDDLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>MIDDLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMIDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\23 MAYO 2014 Helipuerto .pdf</filepath>
+        <Paragraphs>RESI9DUOS DE COMIDA TIRADA FALTA PONER CADENA DE  ACORDONAMIENTO Y </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\March 2014\06 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>COMIDA FUERA DE LUGAR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONFORMIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFORMIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\merinos\Requerimiento para enviar material a tierra a disposición o resguardo.pdf</filepath>
+        <Paragraphs>CONFORMIDAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONFORMIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>selecci363n. CONFORMIDAD CON LA DIRECTIVA PPE: 89/686/CEE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPRIMIDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPRIMIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Quotation\81-2014 GRUPOP R  (2).pdf</filepath>
+        <Paragraphs>INDRO PARA AIRE COMPRIMIDO  DE    LITROS Y     BAR  MARCA  NORRIS CON VALVULA CGA     Y  CAPUCHO DE PROTECCION                              Condicione</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPRIMIDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\aire.pdf</filepath>
+        <Paragraphs>ATERIALES  AIRE COMPRIMIDO NFPA RIESGOS A LA SALUD   RIESGOS ESPECIFICOS     INFLAMABILIDAD   REACTIVIDAD          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2POLYAMID686</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2POLYAMID686</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>2POLYAMID686</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WASHER2POLYAMID686MOTORPEDESTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WASHER2POLYAMID686MOTORPEDESTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>WASHER2POLYAMID686MOTORPEDESTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MIDLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MIDLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs> BASERTE MIDLER BENYTTES. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\HD Protection Panels.pdf</filepath>
+        <Paragraphs>5  001-11219  GUARD,PORT MID LOWER,HD1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mid-Court MSDS English.pdf</filepath>
+        <Paragraphs>MID</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>ion        am   MID   NIGHT  MEAL   Meat   Salad   Plate   Warm Option   Meat   Salad  Roll   Wrap Sandwi ch   Warm Option     Burger  Chicken Steak  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>MATERIAL IS READY TO BE COLLECTED AND DELIVERED IN MID TO  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2MIDLAND-ACSThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2MIDLAND-ACSThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1Navigation deck / Zone 2MIDLAND-ACSThe Netherlands6834LBaseefa 07ATEX0136X&lt;Ex&gt; II 2G EEx d IIC T6Component</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MIDLAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MIDLAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>                MIDLAND                                                                                                                               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MIDDL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MIDDL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Capital_Safety_Produktekatalog.pdf</filepath>
+        <Paragraphs>.   00 800 999 55500       www.capitalsafety.eu EUROP þeE , MIDDL þeE  EAST &amp;  þAA FRICA   þFF rance </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POLYAMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POLYAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>POLYAMIDE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARAMID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARAMID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ARAMID</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ARAMID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0064 NOV Spare Parts\Sales Order Invoice 47619 ~07142011074430.pdf</filepath>
+        <Paragraphs>BELT, ARAMID FIBER, 10FT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PARA-ARAMID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PARA-ARAMID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>PARA-ARAMID  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAURAMIDOPROPYLDIME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01031.pdf</filepath>
+        <Paragraphs>ncentration     LAURAMIDOPROPYLDIME THYLAMINE OXIDE                         All concentrations are present by weight unless ingredient is a gas  Gas c</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01903.pdf</filepath>
+        <Paragraphs>                LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                         All concentrations are present by weight unless ingredient</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01904.pdf</filepath>
+        <Paragraphs>                LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                         All concentrations are present by weight unless ingredient</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\20848.pdf</filepath>
+        <Paragraphs>ncentration     LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                           PALMOLIVE TRADITIONAL DISHWASHING HAND LIQUID ORIGINAL  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\26254.pdf</filepath>
+        <Paragraphs>                LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                         All concentrations are present by weight unless ingredient</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46112.pdf</filepath>
+        <Paragraphs>ncentration     LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                           PALMOLIVE ULTRA DISHWASHING HAND LIQUID ORIGINAL   This </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46118.pdf</filepath>
+        <Paragraphs>ncentration     LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                           PALMOLIVE ULTRA DISHWASHING HAND LIQUID ORIGINAL   This </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AJAX DSH 30F CS SP LEMON_44624.pdf</filepath>
+        <Paragraphs>                LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                         All concentrations are present by weight unless ingredient</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Palmolive Regular Orange.pdf</filepath>
+        <Paragraphs>at a concentration of &gt; or = 1%)  Chemical Name  CAS-No.  Concentration *  LAURAMIDOPROPYLDIME</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\POL DSH 14F CS SP R D ORANGE - 04930.pdf</filepath>
+        <Paragraphs>                LAURAMIDOPROPYLDIME THYLAMINE OXIDE                                         All concentrations are present by weight unless ingredient</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ULTRA PALMOLIVE ORIGINAL.pdf</filepath>
+        <Paragraphs>Print Date 03/30/2010    2 / 8  LAURAMIDOPROPYLDIME</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Vel Traditional Rose.pdf</filepath>
+        <Paragraphs>  5.00 - 10.00  LAURAMIDOPROPYLDIME</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COCAMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01903.pdf</filepath>
+        <Paragraphs>ORIDE           COCAMIDE MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Pennsylvania Right   To   Know List        WATER           GLYCERIN     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01904.pdf</filepath>
+        <Paragraphs>ORIDE           COCAMIDE MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Pennsylvania Right   To   Know List        WATER           GLYCERIN     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\26254.pdf</filepath>
+        <Paragraphs>ORIDE           COCAMIDE MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Pennsylvania Right   To   Know List        WATER           GLYCERIN     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>COCAMIDE MEA         68140001 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>COCAMIDE MEA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>COCAMIDE DEA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs>GLYCOL DISTEARATE, CETYL ALCOHOL, COCAMIDE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>COCAMIDE DEA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAURAMIDOPROPYLDIMETHYLAMINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01903.pdf</filepath>
+        <Paragraphs>E MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Pennsylvania Right   To   Know List        WATER           GLYCERIN         Canada       Canadi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\01904.pdf</filepath>
+        <Paragraphs>E MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Pennsylvania Right   To   Know List        WATER           GLYCERIN         Canada       Canadi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\20848.pdf</filepath>
+        <Paragraphs>ORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE        PALMOLIVE TRADITIONAL DISHWASHING HAND LIQUID ORIGINAL   This industrial Material Safety Dat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\26254.pdf</filepath>
+        <Paragraphs>E MEA           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE     Pennsylvania Right   To   Know List        WATER           GLYCERIN         Canada       Canadi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46112.pdf</filepath>
+        <Paragraphs>ORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           Oxirane      methyl     polymer with oxirane           C     C      EO Ammonium Sulfate  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46118.pdf</filepath>
+        <Paragraphs>ORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           Oxirane      methyl     polymer with oxirane           C     C      EO Ammonium Sulfate  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AJAX DSH 30F CS SP LEMON_44624.pdf</filepath>
+        <Paragraphs>ORIDE           LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           C     C      EO Ammonium Sulfate     Pennsylvania Right   To   Know List        WATER    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Palmolive Regular Orange.pdf</filepath>
+        <Paragraphs>  LAURAMIDOPROPYLDIMETHYLAMINE OXIDE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\POL DSH 14F CS SP R D ORANGE - 04930.pdf</filepath>
+        <Paragraphs>                LAURAMIDOPROPYLDIMETHYLAMINE OXIDE           C     C      EO Ammonium Sulfate     Pennsylvania Right   To   Know List        WATER    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ULTRA PALMOLIVE ORIGINAL.pdf</filepath>
+        <Paragraphs>  LAURAMIDOPROPYLDIMETHYLAMINE OXIDE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDOPROPYLDIMETHYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Vel Traditional Rose.pdf</filepath>
+        <Paragraphs>  LAURAMIDOPROPYLDIMETHYLAMINE OXIDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIMETHYLIMIDAZOLIDINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-bleach-single-and-twin-epa-us-ghs-sds-6-11-14-with-logo.pdf</filepath>
+        <Paragraphs>ICHLORO         DIMETHYLIMIDAZOLIDINE         DIONE              III   Marine Pollutant   ICAO Shipping Description   UN      OXIDIZING SOLID  CORROSI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-blue-plus-bleach-epa-us-ghs-sds.pdf</filepath>
+        <Paragraphs>HLORO           DIMETHYLIMIDAZOLIDINE           DIONE            III  Marine Pollutant   ICAO Shipping Description  UN      OXIDIZING SOLID  CORROSIVE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\2000-flushes-msds-20056312479.pdf</filepath>
+        <Paragraphs>ICHLORO         DIMETHYLIMIDAZOLIDINE         DIONE           III            Regulatory Information   US REGULATIONS   Hazard Category For Section    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIMETHYLIMIDAZOLIDINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\x-14-antibacterial-toilet-bowl-cleaner-with-bleach-us-ghs-sds.pdf</filepath>
+        <Paragraphs>ICHLORO         DIMETHYLIMIDAZOLIDINE         DIONE            III  Ltd  Qty    Note  Shipping Papers are not required for Limited Quantities unless  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MYRISTAMIDOPROPYLAMI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MYRISTAMIDOPROPYLAMI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46112.pdf</filepath>
+        <Paragraphs>                MYRISTAMIDOPROPYLAMI NE OXIDE                                         All concentrations are present by weight unless ingredient is a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MYRISTAMIDOPROPYLAMI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46118.pdf</filepath>
+        <Paragraphs>                MYRISTAMIDOPROPYLAMI NE OXIDE                                         All concentrations are present by weight unless ingredient is a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MYRISTAMIDOPROPYLAMI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Palmolive Regular Orange.pdf</filepath>
+        <Paragraphs>10034-99-8  1.00 - 5.00  MYRISTAMIDOPROPYLAMI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MYRISTAMIDOPROPYLAMI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ULTRA PALMOLIVE ORIGINAL.pdf</filepath>
+        <Paragraphs>61792-31-2  1.00 - 5.00  MYRISTAMIDOPROPYLAMI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Born_Blonde_Toner.pdf</filepath>
+        <Paragraphs>PEG-50 TALLOW AMIDE 8051636 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Glorious_Grays.pdf</filepath>
+        <Paragraphs>PEG-50 TALLOW AMIDE 8051636 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Silk_&amp;_Silver_Shades.pdf</filepath>
+        <Paragraphs>PEG-50 TALLOW AMIDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLEAMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>OLEAMIDE MIPA           111057 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Long_Lasting_Semi-Permanent.pdf</filepath>
+        <Paragraphs>OLEAMIDE MIPA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>OLEAMIDE MIPA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>OLEAMIDE MIPA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>OLEAMIDE MIPA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>OLEAMIDE MIPA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LINOLEAMIDOPROPYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LINOLEAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>LINOLEAMIDOPROPYL DIMETHYLAMINE DIMER DILINOLEATE    125804106 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STEARAMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STEARAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BW_Creme_Lightener.pdf</filepath>
+        <Paragraphs>STEARAMIDE MEA          111579 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COCAMIDOPROPYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Permanent.pdf</filepath>
+        <Paragraphs>COCAMIDOPROPYL BETAINE 61789400 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Creme_Toner.pdf</filepath>
+        <Paragraphs>COCAMIDOPROPYL BETAINE 61789400 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\IRISH SPRING BODYWASH ORIGINAL - 27609.pdf</filepath>
+        <Paragraphs>68585-34-2  5.00 - 10.00  COCAMIDOPROPYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>COCAMIDOPROPYL BETAINE 61789400 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Cucumber Melon Liquid Hand Soap.pdf</filepath>
+        <Paragraphs>68585-34-2  5.00 - 10.00  COCAMIDOPROPYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Coconut Lime - 29269.pdf</filepath>
+        <Paragraphs>                COCAMIDOPROPYL                                          SOFTSOAP FOAMING HAND SOAP COCONUT LIME   This industrial Material Safety Data</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Hand Soap Radiant Raspberry.pdf</filepath>
+        <Paragraphs>68585-34-2  5.00 - 10.00  GLYCERIN 56-81-5  1.00 - 5.00  COCAMIDOPROPYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Foaming Hand Soap Tangerine Treat.pdf</filepath>
+        <Paragraphs>68585-34-2  5.00 - 10.00  GLYCERIN 56-81-5  1.00 - 5.00  COCAMIDOPROPYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SS BW Pom and Mango- 28914.pdf</filepath>
+        <Paragraphs>ncentration     COCAMIDOPROPYL  BETAINE                                           SOFTSOAP  POMEGRANATE   MANGO   BODY WASH   This industrial Material</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COCAMIDOPROPYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Summer_Blonde.pdf</filepath>
+        <Paragraphs>COCAMIDOPROPYL BETAINE 61789400 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIOLEOYLAMIDOETHYLMONIUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIOLEOYLAMIDOETHYLMONIUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>PEG-3 DIOLEOYLAMIDOETHYLMONIUM METHOSULFATE 98000176 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAURAMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAURAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>LAURAMIDE DEA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Silk_&amp;_Silver_Shades.pdf</filepath>
+        <Paragraphs>LAURAMIDE DEA            120401  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Antibacterial liquid hand soap light moisturizers.pdf</filepath>
+        <Paragraphs>Print Date 03/14/2010    2 / 7  LAURAMIDE DEA 120-40-1  1.00 - 5.00  * All concentrations are present by weight unless ingredient </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Softsoap Liquid Hand Soap Lavender &amp; Chamomile.pdf</filepath>
+        <Paragraphs>68439-57-6  5.00 - 10.00  LAURAMIDE DEA 120-40-1  1.00 - 5.00  * All concentrations are present by weight unless ingredient </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAURAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultress_2.pdf</filepath>
+        <Paragraphs>LAURAMIDE DEA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LINOLEAMIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LINOLEAMIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MC_Gel.pdf</filepath>
+        <Paragraphs>LINOLEAMIDE DEA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MYRISTAMIDOPROPYLAMINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MYRISTAMIDOPROPYLAMINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Palmolive Regular Orange.pdf</filepath>
+        <Paragraphs>  MYRISTAMIDOPROPYLAMINE OXIDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXTREMIDADE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXTREMIDADE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\20 - Cabo Para Perfilagem\caboluc.pdf</filepath>
+        <Paragraphs>UMA EXTREMIDADE CARGA TRABALHO  7,58 TON   73.12.10.90 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FUERZA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUERZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs> TONGS LLAVE DE FUERZA               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUERZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>fm CABALLOS  DE FUERZA SISTEMA DE  PURIFICACION REVOLUCION X MIN  ENTREGA DE  AIRE LIBRE                                                              </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>materialesINTERZONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>materialesINTERZONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\EAY999_MEX-SPA_SPA_B1.pdf</filepath>
+        <Paragraphs>eguridad de los materialesINTERZONE     PRETO N  Pedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja de</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>productoINTERZONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>productoINTERZONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\EAY999_MEX-SPA_SPA_B1.pdf</filepath>
+        <Paragraphs>toIdentidad del productoINTERZONE     PRETO N  N     de referencia de ventas por volumenEAY        Usos pertinentes conocidos de la sustancia o de la </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>materialesINTERZINC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>materialesINTERZINC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\QHA027_MEX-SPA_SPA_A8.pdf</filepath>
+        <Paragraphs>eguridad de los materialesINTERZINC            PO DE ZINCOPedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de l</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>productoINTERZINC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>productoINTERZINC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\QHA027_MEX-SPA_SPA_A8.pdf</filepath>
+        <Paragraphs>toIdentidad del productoINTERZINC            PO DE ZINCON     de referencia de ventas por volumenQHA        Usos pertinentes conocidos de la sustancia</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FILTERKERZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FILTERKERZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\AUTO FUEL FILTER_3609DV703M002.pdf</filepath>
+        <Paragraphs>                FILTERKERZE rl          f      I FILTER  ELEMENT            JM                                  JM                               ERSAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

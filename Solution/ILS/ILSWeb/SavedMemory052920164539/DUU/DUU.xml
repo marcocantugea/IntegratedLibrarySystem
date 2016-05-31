@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DUURZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DUURZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>DWHG E  D JUHHQ DUURZ DQG LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER ZLWK  HIW  ROO VHOHFWHG  QWHOOLJHQW  DLO    DUFRGH  KH  QWHOOLJHQW  DLO EDUFRGH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DUURZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>DWHG E  D JUHHQ DUURZ DQG LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER ZLWK  HIW  ROO VHOHFWHG  XSSRUWHG  DEHO  ULQWHUV  RVW  DEHO ULWHU  VHULHV SULQWH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FDUULDJH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FDUULDJH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ WKH WH W  I WKH WH W FRQWDLQV QR EODQN OLQHV </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FDUULDJH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ WKH WH W  I WKH WH W FRQWDLQV QR EODQN OLQHV </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

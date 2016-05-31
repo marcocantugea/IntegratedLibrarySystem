@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>1EMERSONAmericaDPI-EUL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1EMERSONAmericaDPI-EUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>KER ROOM   ZONE  EMERSONAmericaDPI EUL EN               SIMPLE APPARATUSCOMPLETE ASSY N A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EUL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EUL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>EUL EN50020:2002,§5.4SIMPLE APPARATUSCOMPLETE ASSY.N/A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEULINGGASSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0048 WOM Valve Mud\Order  Confirmation L43571  ODN2-11-0048.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0049 WOM Valve Mud\Order Confirmation L43573_ODN2-11-0049.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0050 WOM Valve Mud\Order confirmation L43581  ODN2-11-0050.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0051 WOM Gate Valve\Order Confirmation L43575_ODN2-11-0051.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0052 WOM Vlalve Mud\Order Confirmation L43556  ODN2-11-0052.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0053 WOM Valve Mud\order Confirmation L43580  ODN2-11-0053.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0054 WOM Gate Valve\L43572  ODN2-11-0054  Order Confirmation REV2.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NEULINGGASSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0054 WOM Gate Valve\Order confirmation L43572_ODN2-11-0054.pdf</filepath>
+        <Paragraphs>NEULINGGASSE 28/18 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

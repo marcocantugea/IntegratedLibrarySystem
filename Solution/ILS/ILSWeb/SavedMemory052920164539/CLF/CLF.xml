@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SHAKERSCLFL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHAKERSCLFL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>PSI SHAKERSCLFL MEASUREMENT PUMPING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOPCLFL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOPCLFL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DRILL PIPECHOKE MANIFOLD SUBSEA BOPCLFL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLFL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLFL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>CLFL @ 4 bbl/min = 200 psi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLFPpsi</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLFPpsi</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>i   SICPpsi     CLFPpsi  Where     CLFP   Choke Line Friction Pressure  psi   Initial Circulating Pressure  ICPpsi   ICPpsi   SIDPPpsi   SPPpsi throug</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLFP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLFP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>i   SICPpsi     CLFPpsi  Where     CLFP   Choke Line Friction Pressure  psi   Initial Circulating Pressure  ICPpsi   ICPpsi   SIDPPpsi   SPPpsi throug</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

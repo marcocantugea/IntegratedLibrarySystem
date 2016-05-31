@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\1 Butene C4H8 Safety Data Sheet SDS P6214.pdf</filepath>
+        <Paragraphs>t             C TCC       Critical temperature              C   Auto   ignition temperature            C       Decomposition temperature       No data</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-dry-lube-drip-oil-ghs-sds.pdf</filepath>
+        <Paragraphs>  F          C  TCC   Autoignition  Temperature    Not established   E vaporation Rate    Not established   Decomposition  Temperature    Not establis</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3-in-one-ptfe-lubricant-drip-oil.pdf</filepath>
+        <Paragraphs>   F         C  TCC   Aut oignition  Not established      Page      of      Temperature    Evaporation Rate    Not established   Decomposition  Temper</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AMR-R800-4.pdf</filepath>
+        <Paragraphs>None  TCC </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butane C4H10 Safety Data Sheet SDS P4572.pdf</filepath>
+        <Paragraphs>t             C TCC       Critical temperature              C      Butane n     Safety Data Sheet   P            according to U S  Code   of Federal R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-341-12.pdf</filepath>
+        <Paragraphs>hod           F TCC   Hazardous Combustion Products     N  Av        Section      Reactivity Data   Che mical Stability       YES       X        NO   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-341-4.pdf</filepath>
+        <Paragraphs>hod           F TCC   Hazardous Combustion Products     N  Av        Section      Reactivity Data   Chem ical Stability       YES       X        NO   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-341-A.pdf</filepath>
+        <Paragraphs>hod           F TCC   Hazardous Combustion Products     N  Av        Section      Reactivity Data   Chem ical Stability       YES       X        NO   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-342-12.pdf</filepath>
+        <Paragraphs>thod          C TCC   Hazardous Combustion Produ cts     Oxides of Carbon       Section     Reactivity Data   Chemical Stability  YES       X        N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethane C2H6 Safety Data Sheet SDS P4592.pdf</filepath>
+        <Paragraphs>              C TCC       Critical tem perature             C   Auto   ignition temperature            C       Decomposition temperature       No data</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethylene C2H4 Safety Data Sheet SDS P4598.pdf</filepath>
+        <Paragraphs>             C  TCC       Critical temperature            C   Auto   ignition temperature            C       Decomposition temperature       No data a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethylene C2H4 Safety Data Sheet SDS P4598_001.pdf</filepath>
+        <Paragraphs>             C  TCC       Critical temperature            C   Auto   ignition temperature            C       Decomposition temperature       No data a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied Petroleum Gas C3H8 Safety Data Sheet SDS P4646.pdf</filepath>
+        <Paragraphs>              C TCC       Critical temperature             C   Auto   ignition temperature            C       Decomposi tion temperature       No data</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methanol UCAR HTF Heat Treating Fluid CH3OH Safety Data Sheet SDS P4672.pdf</filepath>
+        <Paragraphs>     F       C  TCC   EVAPORATION RATE    Butyl Acetate              High   FLAMMABILITY    Flammable   FLAMMABLE LIMITS IN AIR     by volume     LOWE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sebreeze_Citrus_Breeze_5139_msds.pdf</filepath>
+        <Paragraphs>                TCC            EXTINGUISHING MEDIA     Water  carbon dioxide  dry chemical or foam  Class A  BC or ABC Fire Extinguishers   SPECIAL FI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Oxygen MediPure Gas O2 Safety Data Sheet SDS P4638.pdf</filepath>
+        <Paragraphs>              C TCC ASTM D         Critical temperature                C   Auto   ignition temperature       Not applicable        Decomposition tempe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PGC-02001.pdf</filepath>
+        <Paragraphs>:  130°F TCC Explosive Limits</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarFlame C Cutting Fuel Safety Data Sheet SDS P196378.pdf</filepath>
+        <Paragraphs>Melting point : -188 °C   Freezing point : -187.69 °C   Boiling point : -42.04 °C   Flash point : -104 °C TCC   Critical temperature : 96.7 °C </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\trans 2 Butene C4H8 Safety Data Sheet SDS P4578.pdf</filepath>
+        <Paragraphs>t             C TCC       Critical temperature              C   Auto   ignition temperature            C       Decomposition temperature       No data</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\trans 2 Butene C4H8 Safety Data Sheet SDS P4578_001.pdf</filepath>
+        <Paragraphs>t             C TCC       Critical temperature              C   Auto   ignition temperature            C       Decomposition temperature       No data</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>787TCCompared</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>787TCCompared</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>se     STA    A    TCCompared with conventional spiral hose  Parker   s Compact SpiralTM    TC Hose  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>797TCCompared</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>797TCCompared</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>    TC STA    A    TCCompared with conventional spiral hose  Parker   s Compact SpiralTM    TC Hose  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

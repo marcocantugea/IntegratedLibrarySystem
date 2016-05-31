@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>A328LOBBYLOBBY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A328LOBBYLOBBY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A328LOBBYLOBBY A328UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-LOBBYLOBBYLOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-LOBBYLOBBYLOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>-LOBBYLOBBYLOWER DECK3026DA961E013F326TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A240LOBBYLOBBY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A240LOBBYLOBBY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A240LOBBYLOBBY A240TWEEN DECK3026DA961E014F447TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-LOBBYLOBBYTWEEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-LOBBYLOBBYTWEEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>772961-MAC-05-008AADDR. CALLPOINT. INDOOR -LOBBYLOBBYTWEEN DECK3026DA961E014F447TYCOCP820MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

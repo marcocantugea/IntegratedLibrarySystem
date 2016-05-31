@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WILCOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WILCOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>EOCENO INFERIOR WILCOX      OBJETIVO                                                                                                     EOCENO INFERI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WILCOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>EOCENO INFERIOR WILCOX OBJETIVO                                                                                                             EOCENO INF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

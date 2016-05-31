@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CREME-CCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CREME-CCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Scouring Creme- CCG Design for the Environment.pdf</filepath>
+        <Paragraphs>  AJAX SCOURING CREME-CCG DE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>CCG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

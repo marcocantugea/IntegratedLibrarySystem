@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HSNO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - BE-9.pdf</filepath>
+        <Paragraphs>HSNO Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - Choline Chloride_Clay Control.pdf</filepath>
+        <Paragraphs>HSNO Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLBCREAU81.pdf</filepath>
+        <Paragraphs>HSNO Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLLAU301.pdf</filepath>
+        <Paragraphs>HSNO Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLSAU352.pdf</filepath>
+        <Paragraphs>HSNO Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSNO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Halliburton MSDS - CLWGAU421.pdf</filepath>
+        <Paragraphs>HSNO Classification</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

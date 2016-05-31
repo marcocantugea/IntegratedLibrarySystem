@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EBL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT033 - Uso de la K-ECDIS y estación de planeación (11-Abr-12).docx</filepath>
+        <Paragraphs>    Encienda el EBL VRM ajuste la distancia a     nm  apoyo       bot n      Desplace el EBL VRM  arrastre y suelte      Genere dos l neas paralelas d</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NIEBLA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NIEBLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT053 - Procedimiento de tránsito (11-Apr-12).docx</filepath>
+        <Paragraphs>                NIEBLA O VISIBILIDAD REDUCIDA        En caso de visibilidad reducida  el oficial en guardia deber        Trazar todo el tr nsito      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INMUEBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INMUEBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\2813208250 infonavit.pdf</filepath>
+        <Paragraphs>Y UBICACI N DEL INMUEBLE HIPOTECADO  NOMBRE DEL ACREDITADO  CALLE  COLONIA  ESTADO  C P   DIAZ GAMEZ FERNANDO JUAN ESCUTIA       F NI OS HEROES TAMAUL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEBLINAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEBLINAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>Y NEBLINAS Protección adicional contra polvo de cal, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SPEEDTORQUEBLOCKHOOKBLOCKHOOKBLOCKHOOKBLOCKHOOK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLOSEBLOCKOPEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLOSEBLOCKOPEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>VENT  psi KEY CLOSEBLOCKOPEN MIX WATER TANK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEBLANCAPPROVED23SEP09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEBLANCAPPROVED23SEP09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>J. LEBLANCAPPROVED23SEP09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEBLANCCHECKED23SEP09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEBLANCCHECKED23SEP09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>J. LEBLANCCHECKED23SEP09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEBLANCAPPROVED09JUL09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEBLANCAPPROVED09JUL09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>J. LEBLANCAPPROVED09JUL09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

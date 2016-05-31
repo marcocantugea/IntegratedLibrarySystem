@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FLP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>type 5P, with an accuracy-limit factor FLP </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KOREASUE-EHL001EX07FLP111Exd</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KOREASUE-EHL001EX07FLP111Exd</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>215171-HRN-002AF&amp;GHORN &amp; BEACON FOR CO21M317 PAINT LOCKER / ZONE 2SEUN SOUTH KOREASUE-EHL001EX07FLP111Exd IIB T5COMPLETE ASSY.N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>X07FLP111Exd</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>X07FLP111Exd</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>X07FLP111Exd IIB T5COMPLETE ASSY.N/A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EX07FLP111Exd</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EX07FLP111Exd</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>229176-HRN-010BF&amp;GHORN &amp; BEACON FOR INERGEN EX PROOF1M223 Mud Pit Room / ZONE 2SEUNSOUTH KOREASUE-EHL001KIMM EX07FLP111Exd IIB </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFLPS353050</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFLPS353050</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>P/N   SFLPS353050    L355nea temporal en acero galvanizado de 5/16 de 50 pies.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

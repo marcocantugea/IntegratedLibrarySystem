@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AEAPN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEAPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>MDIPE   VCDSE   AEAPN           PROGRAMA DE PERFORACI N   DISE O DEL POZO EXPLORATORIO     EXPLORATUS     DL             DICIEMBRE   DE               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AEAPN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Requerimientos de la SDC para la movilización de Mirus-1 a Exploratus 1-DL ENG.docx</filepath>
+        <Paragraphs>     Oficio del AEAPN a RCMN con las coordenadas oficiales   AEAPN PEP      Letter from AEAPN to RCMM with the official coordinates   AEAON PEP       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LINEAPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LINEAPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>right cover N/C LIMIT #19.10 PRESENZA LINEAPOWER ON MODULO DI EMERGENZAEMERGENCY RELAY EMERGENZAEMERGENCY 8.3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEAP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEAP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>MDIPE   VCDSE   AEAP           PROGRAMA DE PERFORACI N   PROYECTO POZO   NOBILIS         Noble             OCTUBRE   DE                    SUBDIRECCI </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EAP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EAP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>In INTEQ logging units, a DrillByte EAP program provides a range of pipe </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PRESENZA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRESENZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>PRESENZA TENSIONE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PRESENZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>PRESENZA TENSIONE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PRESENZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>PRESENZA TENSIONE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMERGENZA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMERGENZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>EMERGENZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>EMERGENZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENZA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>EMERGENZA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>POTENZAPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>POTENZAPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>7.0A PE POTENZAPOWER Vibra switch * M1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>POTENZAPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>7.0A PE POTENZAPOWER Vibra switch * M1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMERGENZAEMERGENCY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMERGENZAEMERGENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CARTER EMERGENZAEMERGENCY 6HL1White MODULO DI EMERGENZAEMERGENCY RELAY M1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENZAEMERGENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CARTER EMERGENZAEMERGENCY 6HL1White MODULO DI EMERGENZAEMERGENCY RELAY M1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMERGENZAEMERGENCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>right cover N/C LIMIT #19.10 PRESENZA LINEAPOWER ON MODULO DI EMERGENZAEMERGENCY RELAY EMERGENZAEMERGENCY 8.3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MANUTENZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANUTENZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>MANUTENZIONE AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MANUTENZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>MANUTENZIONE AND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MANUTENZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>MANUTENZIONE AND </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ATTENZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATTENZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>   ATTENZIONE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATTENZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>   ATTENZIONE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ATTENZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>   ATTENZIONE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BENZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MERCEDES-BENZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MERCEDES-BENZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>MERCEDES-BENZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LENZING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LENZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>LENZING FR es una marca registrada comercial de Lenzing Aktiengellschaft.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZENE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs>SODIUM DODECYL  BENZENE SULFONATE                                          FABULOSO MULTI SPRAY ALL PURPOSE CLEANER LIQUID LAVENDER   This industrial </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46106.pdf</filepath>
+        <Paragraphs>SODIUM DODECYL  BENZENE SULFONATE   LINEAR                                               Lauroylamidopropyl  betaine                                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53042.pdf</filepath>
+        <Paragraphs>SODIUM DODECYL  BENZENE SULFONATE   LINEAR                                            FABULOSO ALL PURPOSE CLEANER LIQUID OCEAN PARADISE   This indust</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Cleansing Powder - Regular.pdf</filepath>
+        <Paragraphs>BENZENE SULFONATE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Scouring Creme- CCG Design for the Environment.pdf</filepath>
+        <Paragraphs>BENZENE SULFONATE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>BENZENE SULFONATE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs>SODIUM DODECYL  BENZENE SULFONATE                                          FABULOSO MULTI SPRAY ALL PURPOSE CLEANER LIQUID LAVENDER   This industrial </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004769_Fantastik_Antibacterial_Heavy_Duty_All_Purpose.pdf</filepath>
+        <Paragraphs>BENZYL AMMONIUM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Born_Blonde_Toner.pdf</filepath>
+        <Paragraphs>BENZYL ALCOHOL 100516 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Glorious_Grays.pdf</filepath>
+        <Paragraphs>BENZYL ALCOHOL 100516 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>       DIMETHYL BENZYL                     AMMONIUM CHLORIDE DIHYDRATE                      QUATERNARY AMMONIUM COMPOUND   MYRISTALKONIUM CHLORIDE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pampers_and_Luvs_Baby_Wipes_SDS.pdf</filepath>
+        <Paragraphs>BENZYL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZENESULFONATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>  SODIUMDODECYL BENZENESULFONATE  LINEAR                              Allconcentrationsarepresentbyweightunlessingredientisagas Gasconcentrationsarein</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>  SODIUMDODECYL BENZENESULFONATE  LINEAR                              Allconcentrationsarepresentbyweightunlessingredientisagas Gasconcentrationsarein</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SODIUMDODECYLBENZENESULFONATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SODIUMDODECYLBENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>ity         lbs SODIUMDODECYLBENZENESULFONATE  LINEAR  METHANOL CleanAirAct CleanAirAct   Standardsof PerformanceforNewStationary Sources   POLYETHYLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SODIUMDODECYLBENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>ity         lbs SODIUMDODECYLBENZENESULFONATE  LINEAR  METHANOL CleanAirAct CleanAirAct   Standardsof PerformanceforNewStationary Sources   POLYETHYLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>  SODIUM DODECYL BENZE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZOATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZOATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Lady Speed Stick SOY PKO AP-Powder Fresh.pdf</filepath>
+        <Paragraphs>  C12-15 ALKYL BENZOATE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENZOATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SS BW Pom and Mango- 28914.pdf</filepath>
+        <Paragraphs>         SODIUM BENZOATE        SOFTSOAP  POMEGRANATE   MANGO   BODY WASH   This industrial Material Safety Data Sheet is not intended for consumers a</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENZYME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>PROTEASE ENZYME </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-12CD.pdf</filepath>
+        <Paragraphs>UMPING GBW   CD ENZYME GBW   CD   HEMICELLULASE ENZYME    May      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  SDS Date P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-12CD_001.pdf</filepath>
+        <Paragraphs>UMPING GBW   CD ENZYME GBW   CD   HEMICELLULASE ENZYME    May      Fax Supplier Name Address Telephone Emergency Web Site Synonym s  Use s  SDS Date P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert.pdf</filepath>
+        <Paragraphs>  CDPRODUCT NAMEENZYME Use s  Synonym s GBW   CD   HEMICELLULASE ENZYME MSDS Date   June     CLASSIFIED AS HAZARDOUS ACCORDING TO THE CRITERIA IN THE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert_001.pdf</filepath>
+        <Paragraphs>  CDPRODUCT NAMEENZYME Use s  Synonym s GBW   CD   HEMICELLULASE ENZYME MSDS Date   June     CLASSIFIED AS HAZARDOUS ACCORDING TO THE CRITERIA IN THE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALKYLBENZENE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALKYLBENZENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>SODIUM ALKYLBENZENE SULFONATE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALKYLDIMETHYLBENZYLAMMONIUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALKYLDIMETHYLBENZYLAMMONIUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Vani-Sol_Bulk_Disinfectant_00294_msds.pdf</filepath>
+        <Paragraphs>1) ALKYLDIMETHYLBENZYLAMMONIUM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENZOIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENZOIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SS BW Pom and Mango- 28914.pdf</filepath>
+        <Paragraphs>ources          BENZOIC ACID           FORMALDEHYDE           GLYCERIN               PHENOXYETHANOL           SODIUM BENZOATE        SOFTSOAP  POMEGRA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NAMEENZYME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NAMEENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert.pdf</filepath>
+        <Paragraphs>GBW   CDPRODUCT NAMEENZYME Use s  Synonym s GBW   CD   HEMICELLULASE ENZYME MSDS Date   June     CLASSIFIED AS HAZARDOUS ACCORDING TO THE CRITERIA IN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NAMEENZYME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert_001.pdf</filepath>
+        <Paragraphs>GBW   CDPRODUCT NAMEENZYME Use s  Synonym s GBW   CD   HEMICELLULASE ENZYME MSDS Date   June     CLASSIFIED AS HAZARDOUS ACCORDING TO THE CRITERIA IN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

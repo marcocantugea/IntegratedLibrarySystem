@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FOB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019 APROBADA.pdf</filepath>
+        <Paragraphs>FOB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019.pdf</filepath>
+        <Paragraphs>FOB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\terms-and-conditions-of-sale-usa.pdf</filepath>
+        <Paragraphs>will be shipped FOB at the shipping point indicated on the invoice  using a carrier  approved   by Zep   Unless otherwise indicated on the invoice  th</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\20 - Cabo Para Perfilagem\Fragoso.pdf</filepath>
+        <Paragraphs>  CIF  ( x )   FOB (  ) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\7261060368-ODEBRECHT revised.pdf</filepath>
+        <Paragraphs>This quotation does not include GST. Please be advise that the FOB and</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

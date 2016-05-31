@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DAW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for High pressure manifold package BS101).pdf</filepath>
+        <Paragraphs>oval            DAW PRB SJY  Acceptance code  Norsok     Code    Accepted  This document and all information and data herein or herewith </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\P&amp;ID HP Manifolds and Manifold Valves\HP Manifold Valve Data 170227-R-BS101-SA02-0100_01.pdf</filepath>
+        <Paragraphs>OVAL            DAW MM PRB  Acceptance code  Norsok     Code    Accepted  This document and all information and data herein or herewith </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dawn_Blue_Liq_Dish_Soap_08536_msds.pdf</filepath>
+        <Paragraphs>ULTRA DAWN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Proctor&amp;Gamble_Dawn_Detergent_08536.pdf</filepath>
+        <Paragraphs>ergent  Brands  DAWN Manual Pot and Pan Detergent  Professional Line   Hazard Rating     Health         EXTREME    Flammability        HIGH    Reactiv</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

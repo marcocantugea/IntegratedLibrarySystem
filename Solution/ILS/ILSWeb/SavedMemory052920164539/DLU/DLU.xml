@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>153FUELANDLUBE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>153FUELANDLUBE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>153FUELANDLUBE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROADLUCES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROADLUCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>            OFF ROADLUCES LED RIGID   Rigid Industries ha revolucionado el mundo de la iluminaci   n mediante la combinaci   n de </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DLUBE117</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DLUBE117</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO LUBE117.pdf</filepath>
+        <Paragraphs>DLUBE117</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

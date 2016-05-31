@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ESCALATORS561PERSONNELNET503</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESCALATORS561PERSONNELNET503</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ESCALATORS561PERSONNELNET503</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOTORELNOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOTORELNOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>MOTORELNOR Exde 3</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOTORELNOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>MOTORELNOR Exde 3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CITRUGELNatural</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CITRUGELNatural</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Fiber_Pro_CITRUGEL_416_msds.pdf</filepath>
+        <Paragraphs>Green Earth Fiber Pro CITRUGELNatural Gum and Grease Remover</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CITRUGELNatural</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Spotter Kit MSDS.pdf</filepath>
+        <Paragraphs>Page  Fiber Pro CITRUGELNatural Gum and Grease Remover</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

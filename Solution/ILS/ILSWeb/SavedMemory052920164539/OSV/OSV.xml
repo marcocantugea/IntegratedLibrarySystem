@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OSV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT021 - Descarga a granel de los silos de columna (11-Abr-12).docx</filepath>
+        <Paragraphs>MODU como de la OSV             Alcance    Este procedimiento aplica para las operaciones de transferencia de Barita o Cemento  Descarga  de los tanqu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT032 - Operaciones de Embarcaciones de Suministro R.01  (17-May-14).docx</filepath>
+        <Paragraphs>rcaci n como el OSV  Buque de Suministro para Instalaciones Mar timas           Alcance         El procedimiento aplica a todas las operaciones de car</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT034 - Silencio de radio (11-Abr-12).docx</filepath>
+        <Paragraphs>idad de que los OSV o Helic pteros que se acerquen a la Plataforma no est n al tanto del Silencio de Radio      Cualquier carencia en las comunicacion</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPUESTOSVisera</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPUESTOSVisera</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>Disponible en color balnco hueso. PARTES Y REPUESTOSVisera o rodachispas:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REPUESTOSVisor</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REPUESTOSVisor</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>y protectores faciales.PARTES Y REPUESTOSVisor o lente:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NORWAY-MOSVOLD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NORWAY-MOSVOLD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs> NATIONAL OILWELL VARCO NORWAY-MOSVOLD I  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>-CLCL3RD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-CLCL3RD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs> -CLCL3RD ACCOM.3026DA961E017F777TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLCF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLCF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>DOWN CHOKE LINE CLCF = 200 PSI 200</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

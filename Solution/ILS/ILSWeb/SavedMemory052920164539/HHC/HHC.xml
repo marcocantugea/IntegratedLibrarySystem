@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>1579NewHHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1579NewHHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>1579NewHHCS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>150NewHHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>150NewHHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>150NewHHCS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>25PNewHHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>25PNewHHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>25PNewHHCS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>50PNewHHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>50PNewHHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>50PNewHHCS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>(4) HHCS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

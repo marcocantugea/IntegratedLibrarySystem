@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CBK019-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CBK019-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>CBK019-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CBK019-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CBK019-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>CBK019-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

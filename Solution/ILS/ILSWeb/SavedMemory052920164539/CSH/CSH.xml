@@ -1,0 +1,1358 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CSH120</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSH120</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CSH120 and CSH200 Core balance CTs 224</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSH200</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSH200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CSH120 and CSH200 Core balance CTs 224</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSH30</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSH30</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CSH30 interposing ring CT 226</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>  Connection to CSH residual </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>With CSH sensor2 A rating0.1 to 30 A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>pointCSH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>pointCSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Is0 set pointCSH core balance CT 2 A rating: 0.1 A to 30 ADefinite timeInst ; 0.05 to 300 s</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>pointCSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>to      Is  set pointCSH core balance CT    A rating     A to    ADefinite timeInst       to     s</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSHIn0</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSHIn0</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>2 A rating CSHIn0 = 2 A0.2 to 40 A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CSH280</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSH280</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs> CSH    core balance CT available in the Motorpact offer is compatible with Sepam  Characteristics CSH    CSH    Inner diameter     mm      in      mm</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HCSHCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco 256_Cleaner_306_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AC114_114_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AC114_Acid_Clnr_Delimer_114_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Acid_Free_Bathroom_Cleaner_Deo_AF79D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Disf_Det_Deod_315GE2_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Disinfectant_Deodorant_Citrus_Bouquet_AF315D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Disinfectant_Deodorant_Citrus_Bouquet_AF315G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Disinfectant_Deodorant_Citrus_Bouquet_AF315P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Disinfectant_Deodorant_Citrus_Bouquet_AF315Q_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Disinfect_Detergent_AF315G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF315_Natural_Disinfectant_Floor_Cleaner_31547-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF79_079_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF79_Acid_Free_Bathroom_Cleaner_AF79_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF79_Acid_Free_Bowl_Disinfectant_331Q_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF79_Bowl_Cleaner_4Gal Case_331G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AF79_Non-Acid_Bathroom_Cleaner_33147-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ax It_151_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ax-It_148_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS Class: Corrosive liquid.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ax-It_Plus_Heavy_Duty_No-Rinse_154P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX-IT_Plus_No-Rinse_Stripper_154D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX-IT_Plus_No-Rinse_Stripper_154P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX-IT_Plus_No-Rinse_Stripper_154_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX99_Baseboard_Stripper_AX99_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Toxic.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Bar_Glass_Detegent_257_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_HP_640_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Citrus_Bouquet_Deodorizer_236_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Citrus_Bouquet_RTU_238_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Green_Earth_Deodorizer_064_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Green_Earth_Deodorizer_532_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Green_Earth_Deodorizer_RTU_534_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Lemon_Zest_226_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Lemon_Zest_RTU_Odor_Eliminator_233_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Ocean_Breeze_23147-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Ocean_Breeze_Odor_Eliminator_LB24_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Ocean_Breeze_Odor_Elminator_235_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Smoke_and_Odor_Eliminator_234_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scrub_Fastdraw_67147-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scrub_Fast_Draw_671_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scrub_High_Performance_Cleaner_670P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scrub_High_Performance_Cleaner_670_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scrub_Maint_Cleaner_670P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Betstone_Penetrating_Sealer_669_msds.pdf</filepath>
+        <Paragraphs>3//20 anufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid IIIA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Catalyst_666_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Cirtusolv_Spray_Cleaner_&amp;_Degreaser_CT21_msds.pdf</filepath>
+        <Paragraphs>Validation Date6/16/20106/16/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Flammable aerosol.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Citrus_Chisel_167D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Citrus_Chisel_167P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Citrus_Chisel_167Q_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Citrus_Chisel_167_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Citrus_Chise_Non-Butyl_Degreaserl_16747-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Classic_DB_565_msds.pdf</filepath>
+        <Paragraphs>Validation Date5/23/20085/23/2008 Manufacturer/ SupplierTSCA HCSHCS CLASS: Oxidizer.  HCS CLASS:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Classic_Premium_LD_555_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_183_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_192_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_Concentrate_299_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_Glass_Cleaner_19947-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_Nonammoniated_299Q_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_RTU_192_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Daily_Disinfect_316C_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Daily_Disinfect_SC_325C_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Aerosol_090_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Conc_Glass_Cleaner_18147-00_msds.pdf</filepath>
+        <Paragraphs>Validation Date6/17/20096/17/2009 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_&amp;_Surface_Cleaner_108G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_&amp;_Surface_Cleaner_108_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_Cleaner_09023-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_Cleaner_Conc_281Q_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Freeze_132_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS Class: Flammable liquid having a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Disf_Det_Deo_Citrus_Bouq_PH7_AF315Q_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Disinfectant_Cleaner_Detergent_350D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Disinfectant_Cleaner_Detergent_350P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_DM120_120_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid IIIB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Dry_Foam_Carpet_Upholstry_401D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Duet_L_Laundry_475_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Dust_Mop_Treatment_035_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS Class: Flammable aerosol.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Dust_Mop_Treatment_Oil_Based_120P5_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid IIIB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Easy_Task_Spray_Buff_608G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Easy_Task_Spray_Buff_608_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Es-Steam_Extraction_Cleaner_402P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Express_Floor_Finish_1.25Gal_65859-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Express_Floor_Finish_4Gal_658_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Express_Floor_Finish_5gl_658P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Express_Floor_Finish_658_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Express_One_Step_61847-00_msds.pdf</filepath>
+        <Paragraphs>Validation Date11/3/200811/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Express_One_Step_Floor_Restorer_618G_msds.pdf</filepath>
+        <Paragraphs>Validation Date11/3/200811/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_No-Rinse_Stripper_184D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_No-Rinse_Stripper_184P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_No-Rinse_Stripper_184_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_EZ_Gym_Coat_N_Seal_675_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_CS_1291_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_HP_Industrial_Cleaner_193D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_HP_Industrial_Cleaner_193P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_HP_Industrial_Cleaner_193_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_SC_Industrial_Cleaner_171D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Factory_Formula_SC_Industrial_Cleaner_171P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fastdraw_Deep_Blue_Concentrated_Glass_Cleaner_18147-00_msds.pdf</filepath>
+        <Paragraphs>Validation Date6/17/20096/17/2009 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_FiberPRO_Bonbet_Liquid_Dry_Carpet_Cleaner_408_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_FiberPRO_CFP_Carpet_&amp;_Fabric_Protector_410_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_FiberPRO_Dry_Foam_Carpet_&amp;_Upholstery_Shampoo_401_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_FiberPRO_ES-Steam_Low_foam_Extraction_Cleaner_402_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_FiberPRO_Extraction_Cleaner_412_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_FiberPRO_Red_Stain_Tannin_Treatment_419_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fiber_Pro_Alkaline_Conditioner_415_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fiber_Pro_Enzyme_Deodorizer_418_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fiber_Pro_POG_417_msds.pdf</filepath>
+        <Paragraphs>3/3/20 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fiber_Pro_Step_One_426_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS Class: Corrosive liquid. HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fiber_Pro_TLC_406_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Finish_101_696_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Finish_101_Floor_Finish_596P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Forest_5_Foaming_Cleaner_307_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Game_Time_Cleaner_697_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Glybet_Fresh_and_Clean_085_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Flammable aerosol  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted e</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Glybet_Hosp_Type_Disinf_Fresh_DD85_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Flammable aerosol  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted e</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Glybet_Surface_and_Air_089_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS Class: Flammable aerosol. HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Graffiti_Remover_GR15_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/2/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Flammable aerosol.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_256_Conc_Disinfect_306GE2_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Daily_Disinfectant_537_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Fastdraw_Daily_Disinfectant_Cleaner_53747-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Fastdraw_Daily_Floor_Cleaner_53647-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Fastdraw_Natural_All_Purpose_Cleaner_19847-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Fiber_Pro_CITRUGEL_416_msds.pdf</filepath>
+        <Paragraphs>Validation Date12/9/200812/9/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid IIIA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Floor_Finish_54239-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Floor_Finish_542_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Natural_APC_2L_19847-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Natural_Degreaser_MB_588_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Nat_APC_4 Gal_19804_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Neutral_pH_Ultra_178GE2_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Prelude_Floor_Finish_and_Sealer_547_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_GT_Cleaner_695_msds.pdf</filepath>
+        <Paragraphs>3/3/20 Manufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid having</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_GT_Cleaner_Wood_Floor_695_msds.pdf</filepath>
+        <Paragraphs>3/3/20 Manufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid having</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hard_As_Nails_Floor_Finish_1.25gal_65959-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hard_as_Nails_Floor_Finish_659P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hard_As_Nails_Floor_Finish_659_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_High_Performance_Floor_Finish_640D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_High_Power_Fast_Acting_No-Rinse_184D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_HP_Gym_Coat_Wood_Coating_Water-Based_655G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_HP_Gym_Coat_Wood_Coating_Water-Based_655P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_HP_Satin_Coat_683_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hybrid_25_Finish_1.25 Gal_66059-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hybrid_25_Optically_Energizerd_Floor_Finish_660G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hybrid_25_Optically_Energizerd_Floor_Finish_660P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hybrid_X_676_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hydroline_Gloss_682_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Hydroseal_656_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Instant_Mildew_Remover_Bathroom_Cleaner_321_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Knuckle_Under_Barrier_Cream_769_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lemon_Disinfectant_Deodorant_313D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lemon_Disinfectant_Deodorant_313P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lemon_Disinfectant_Deodorant_313_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lemon_Disinfect_Deodorant_313P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lemon_Oil_Furniture_Polish_FP60_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Liquid_Chisel_Max_Cleaner_Degreaser_145D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Liquid_Chisel_Max_Cleaner_Degreaser_145P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Liquid_Chisel_Max_Ultra_Strength_non-butyl_Degreaser_14504-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Low_Foam_Extraction_Cleaner_40247-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Low_Foam_Extraction_Cleaner_402D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lubricant_Penetrant_LP40_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_LV_Finish_546_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_LV_Finish_Linoleum_Vinyl_54604-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_LV_Stripper_544_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_MAD_135_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Mad_Mild_Acid_Detergent_135_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Marathane_350_698_msds.pdf</filepath>
+        <Paragraphs>Validation Date5/7/20095/7/2009 Manufacturer/ SupplierTSCA HCSHCS Class: Flammable liquid having a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Marathane_Sealer_613_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Multi-Surface_Polish_155_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213D55_msds.pdf</filepath>
+        <Paragraphs>Validation Date12/3/200812/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid II</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213P5_msds.pdf</filepath>
+        <Paragraphs>Validation Date12/3/200812/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid II</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Neutral_Cleaner_138D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Neutral_pH7_Disinfectant_Deodorant_316D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Neutral_pH_Disinfectant_Deodorant_303D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Neutral_pH_Disinfectant_Deodorant_313D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Neutral_pH_Disinfectant_Deodorant_AF315D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Neutral_pH_Disinfectant_Deodorant_AF315P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Noil_149_msds.pdf</filepath>
+        <Paragraphs>3/23/2007 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Nonammoniated_Stripper_104D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_OMU_Sealer_350_628_msds.pdf</filepath>
+        <Paragraphs>Validation Date5/7/20095/7/2009 Manufacturer/ SupplierTSCA HCSHCS Class: Flammable liquid having a</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_One_Step_Floor_Gloss_Restorer_618G_msds.pdf</filepath>
+        <Paragraphs>Validation Date11/3/200811/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_One_Step_Floor_Gloss_Restorer_618_msds.pdf</filepath>
+        <Paragraphs>Validation Date11/3/200811/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Oxyfect_G_Peroxide_Cleaner_38204-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Oxyfect_G_Peroxide_Cleaner_38247-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Oxyfect_H_Peroxide_Cleaner_35704-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Oxyfect_H_Peroxide_Cleaner_35747-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pH7Q_Disinfectant_Deodorant_316_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_ph7Q_Ultra_Conc._Disinfectant_Detergent_Deodorant_32547-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_PH7Q_Ultra_Neutral_Cleaner_Gal_325G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pH7_Neutral_Cleaner_138P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pH7_Neutral_Cleaner_138_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pH7_Neutral_Cleaner_5 Gal_Pail_138P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pH7_Neutral_Disinfectant_316GE2_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pH7_Ultra_Concentrated_Damp_Mop_Detergent_17847-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Phenolic_Disinfectant_Cleaner_320D55_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/24/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Flammable liquid having</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Phenolic_Disinfectant_Cleaner_TB320D55_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/24/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Flammable liquid having</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_pHERFECT_533_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Photon_Max_632_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pine_Disinfectant_Deodorant_303P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pine_Odor_Disinfectant_Deodorant_303D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pine_Odor_Disinfectant_Deodorant_303P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pine_Odor_Disinfectant_Deodorant_303_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_PK_Cleaner_690_msds.pdf</filepath>
+        <Paragraphs>Validation Date7/7/20097/7/2009 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Portrait_653_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Prevent_SB_674_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pro_A_490_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pro_S_489_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Pull_California_9801_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Quat-Stat_Disinfectant_&amp;_Cleaner_350D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Quat-Stat_Disinfectant_&amp;_Cleaner_350_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Quick_Solv_Cleaning_Solvent_QS50_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Quik_Solv_051_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Quik_Solv_Energized_Electrical_Cleaner_058_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Residual_Insecticide_038_msds.pdf</filepath>
+        <Paragraphs>Validation Date6/16/20106/16/2010 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance. HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Residual_Insecticide_3601_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/24/2007 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance. HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Rest_Stop_Acid_Free_Bathroom_Cleaner_70_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Rest_Stop_Acid_Free_Bowl_Gallon_70G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Rival_673_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_RTU_Dust_Mop_Treatment_DM120_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid IIIB</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Sanding_Sealer_647_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Sanibet_Disf_Sanitizer_4 Gal_305G_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Sanibet_Disinfecftant_&amp;_Sanitizer_305P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Sanibet_Disinfect_Deodorant_305P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Scent_Smoke_and_Odor_Eliminator_062_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Silicone_Spray_Lubricant_SL45_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Flammable aerosol  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted e</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Softener_500_482_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Speedex_Industrial_Strength_Spot_Cleaner_173_msds.pdf</filepath>
+        <Paragraphs>3/3/20 Manufacturer/ SupplierTSCA HCSHCS CLASS: Toxic.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Spray_Adhesive_044_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/3/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Irritating substance.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Spray_Adhesive_SA41_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/3/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Irritating substance.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Spray_Foam_126_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_SS_275_Gym_Coat_685_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Stainless_Steel_Cleanser_&amp;_Polish_SW65_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Stix_Toilet_Bowl_Porcelain_&amp;_Shower_Tile_Cleaner_76_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Cleaner_&amp;_Degreaser_103P5_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/3/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Toxic.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Cleaner_&amp;_Degreaser_103_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/3/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Toxic.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Mega_Base_554_msds.pdf</filepath>
+        <Paragraphs>Validation Date2/13/20092/13/2009 Manufacturer/ SupplierTSCA HCSHCS CLASS: Toxic.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Thermoplastic_Floor_Gloss_Restorer_618P5_msds.pdf</filepath>
+        <Paragraphs>Validation Date11/3/200811/3/2008 Manufacturer/ SupplierTSCA HCSHCS Class: Irritating substance.  HCS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Tile_Clean_119_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Tile_Clean_Foaming_Hard_Tile_119_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Traffic_Lane_Cleaner_406_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Unlock_888_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Velocity_Non-Butyl_Degreaser_19747-00_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Velocity_Non-Butyl_Degreaser_197GE2_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Velocity_Nonbutyl_Degreaser_Gal_19704_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Very_Agressive_No-Rinse_Stripper_154D55_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Vibrance_652_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Wasp_and_Hornet_3600_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Flammable aerosol  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted e</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water-Based_Acrylic_Urethane_655P5_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS Class  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Waterless_Cleaner_5gl_WC117_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212D55_msds.pdf</filepath>
+        <Paragraphs>Validation Date12/30/200812/30/2008 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212P5_msds.pdf</filepath>
+        <Paragraphs>Validation Date12/30/200812/30/2008 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_WC117_117_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20103/3/2010 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_WC117_Waterless_Cleaner_X117_msds.pdf</filepath>
+        <Paragraphs>Validation Date3/2/20073/23/2007 Manufacturer/ SupplierTSCA HCSHCS CLASS: Combustible liquid</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Wood_Floor_Maintenance_Cleaner_175P5_msds.pdf</filepath>
+        <Paragraphs>3/3/20 Manufacturer/ SupplierTSCA HCSHCS Class: Combustible liquid having</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betoc_LSR_De_Limer_248_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Corrosive liquid  TSCA Inventory  All components listed or are exempt from listing All components listed unless noted el</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSHCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Spotter Kit MSDS.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSHCS CLASS  Irritating substance  TSCA Inventory  All components listed or are exempt from listing All components listed unless note</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

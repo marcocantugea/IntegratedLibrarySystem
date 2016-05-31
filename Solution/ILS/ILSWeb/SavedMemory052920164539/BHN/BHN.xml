@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GMBHNorwayNCB10-30-GM-40-N0-V1PTB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMBHNorwayNCB10-30-GM-40-N0-V1PTB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs> IP-ratingRemark 18010-SE-0205DRILLINGHRN SPIN SENSOR1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHNorwayNCB10-30-GM-40-N0-V1PTB 00 ATEX 2048 X&lt;Ex&gt; I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMBHNorwayNCB10-30GM40-N0-15M-PUR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMBHNorwayNCB10-30GM40-N0-15M-PUR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18110-SE-0470DRILLINGRT SPEED SENSOR1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHNorwayNCB10-30GM40-N0-15M-PUR (208595)PTB 00 ATEX </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BHN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BHN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>Hardness = 302 - 341 BHN  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BHN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODR-NB11-POR-0003.docx</filepath>
+        <Paragraphs>ess             BHN LCVN s     Ft Lbs Min Avg     Ft Lbs Min Single  Full Size         F    Edited by ERW              ALL NOV GRANT PRIDECO PRODUCTS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

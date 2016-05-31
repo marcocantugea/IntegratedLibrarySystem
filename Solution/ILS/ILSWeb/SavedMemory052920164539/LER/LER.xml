@@ -1,0 +1,2253 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ALERTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>SAFETY ALERTS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-040.pdf</filepath>
+        <Paragraphs>\BULLETINER\ONGOING ALERTS &amp; BULLETINS\300124629 - SB-PH-040\NNNNNN- BC241-RA25-0100.doc  PROJECT DOCUMENT  Client:  ALL  Project:  ALL  Equipment: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROPELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>PROPELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PROPELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PROPELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROPELLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROPELLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>PROPELLERS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROPELLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>PROPELLERS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROPELLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>R RATIO         PROPELLERS    Berg   Blade CPP RUDDERS    Yoked Fishtail AUXILIARY GENERATORS        V    Detriot Diesel EMERGENCY GENERATOR  Baylor M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>ANDGASGENERATORS646EXHAUSTGASBOILERSExhaust</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOILERSWater</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOILERSWater</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>BOILERSWater</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLER-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLER-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ROLLER-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUTLERYINGALLEYS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUTLERYINGALLEYS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>CUTLERYINGALLEYS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOILER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BOILER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUTLERy</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUTLERy</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>CUTLERy</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMALLERITEMS547</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMALLERITEMS547</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SMALLERITEMS547</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROTECTIONOFBOILER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONOFBOILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PROTECTIONOFBOILER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPRINKLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPRINKLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SPRINKLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VALVES80REMOTECONTROLOFBOILERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VALVES80REMOTECONTROLOFBOILERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VALVES80REMOTECONTROLOFBOILERS : 794</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BOILERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BOILERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BOILERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>218RULERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>218RULERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>218RULERS ;</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SCAVENGINGAIRCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCAVENGINGAIRCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SCAVENGINGAIRCOOLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AGGREGATES651SCAVENGINGAIRCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AGGREGATES651SCAVENGINGAIRCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>AGGREGATES651SCAVENGINGAIRCOOLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLERS551SOFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLERS551SOFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COOLERS551SOFT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLERS731STARTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLERS731STARTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>COOLERS731STARTING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TUMBLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TUMBLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>TUMBLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\Aj\También puede interesarte.docx</filepath>
+        <Paragraphs>P    BALANCINES ROLLER DE     HARLAND SHARP    KIT STROKER     SCAT    MUSTANG UNLTD ALERON DE CAJUELA    MUSTANG UNLTD LOUVER MEDALLON    LLANTAS TRA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>ROLLER CYL 100 MM BORE X 150 MM OD X 24 MM W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>103.75 MT. CHAIN STOPPER(S)  1 Triplex Shark Jaw 700 LT. 226 713 MT. TOWING PINS  2 x Vertical TP48 STERN ROLLER  7 ft. x 13 ft. - 500 LT.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0004SELF-ALIGNING ROLLER BEARING2.00PC206241510005COVER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>ROLLER CYL 100 MM BORE X 150 MM OD X 24 MM W</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs> ROLLER  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>ROLLER BEARING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>ROLLER DRIVE SYSTEM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>ROLLER DRIVE SYSTEM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>4KRP ROLLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>ROLLER BEARING, SPHERICAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>CONN. LINK FOR SIMPLEX  ROLLER CHAIN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>STUD TYPE TRACK ROLLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>DOLLY FOR HPS, BOGIE ROLLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALERON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\Aj\También puede interesarte.docx</filepath>
+        <Paragraphs>  MUSTANG UNLTD ALERON DE CAJUELA    MUSTANG UNLTD LOUVER MEDALLON    LLANTAS TRASERAS   X   R   MICKEY THOMPSON    SISTEMA DE FRENOS Y DISCOS HIPERVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>Controller LER           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>            DRILLERS CONTROL ROOM  DCR  AND LOCAL EQUIPMENT ROOM  LER               TUBULAR FEEDING MACHINE              KNUCKLE BOOM CRANE FOR CASING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>  Location CCR  LER  DP Back Up Room   CCR  LER DP Back UP Room         Quantity          AHU     Make Type       Hi Air Korea     Capacity   total sy</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M701TOP OF WHEEL HOUSECCR A801, LER A701WHEEL HOUSE3026DA961E019F882TYCO801PHExZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>The ESD cabinets are located one in the LER and one in LECR. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP826.pdf</filepath>
+        <Paragraphs>961-YSH-01-001 LER A701 NAVI. DECK F878</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP852.pdf</filepath>
+        <Paragraphs>COMBUSTIBLE GAS DETECTOR 961-ASH-056 HC GAS DETECTOR,ABOVE LER M606</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.7 Work Orders.pdf</filepath>
+        <Paragraphs>COMBUSTIBLE GAS DETECTOR 961-ASH-056 HC GAS DETECTOR,ABOVE LER M606</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>  Location CCR  LER  DP Back Up Room   CCR  LER DP Back UP Room         Quantity          AHU     Make Type       Hi Air Korea     Capacity   total sy</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONTROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>CONTROLLER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs> CONTROLLER AND STARTER BOX ASSEMBLY    Ref Number    Part Number    Qty    Description                      X    TUBING  NYLON  NEMA   AND           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>PROPORTIONAL VALVE CONTROLLER PAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>PROPORTIONAL VALVE CONTROLLER PAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>PROPORTIONAL VALVE CONTROLLER PAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0004 NOV Spare Parts\Sales Order Acknowledgement 715274 ~07142011020911.pdf</filepath>
+        <Paragraphs>PROPORTIONAL VALVE CONTROLLER PAD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONTROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0094 NOV X-mas Tree 150T ET\ODN2-11-0094 712463KRS REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>PROPORTIONAL VALVE CONTROLLER PAD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>for MACHINERY AREAS CHILLER RM, LOCAL ENG.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>MACHINERY AREAS CHILLER RM  LOCAL ENG  WORKSHOP  EL    INST  WORKSHOP  SYSTEM          Ventilation System    serves the following rooms      M       C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP832.pdf</filepath>
+        <Paragraphs>961-YSH-09-005 CHILLER ROOM M206 TWEEN DECK F452</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP837.pdf</filepath>
+        <Paragraphs>961-MAC-09-002 CHILLER ROOM STAIRWAY TWEEN DECK F452</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.4 Work Orders.pdf</filepath>
+        <Paragraphs>961-MAC-09-002 CHILLER ROOM STAIRWAY TWEEN DECK F452</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>961-YSH-09-005 CHILLER ROOM M206 TWEEN DECK F452</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESCALERAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\13 SSyPA - HSE\Formatos Seguridad\142.PS014 Formato Trabajos en Altura\142.PS014.F02 Lista de Verificacion Escaleras Portatiles - Portable Staris Check List (22-Ago-14).doc</filepath>
+        <Paragraphs>DE VERIFICACION ESCALERAS PORTATILES  PORTABLE STAIRS CHECK LIST DEPARTAMENTO DE SSPA  HSE DEPARTMENT     Fecha  Date   Elaborado por  Elaborated by  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\09 Heavy tool store @ drill floor.pdf</filepath>
+        <Paragraphs>ESCALERAS NECESITAS SER ASEGURADAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\06 FEB 2014 - .pdf</filepath>
+        <Paragraphs>FALTA SE321ALIZAR LAS ESCALERAS DE AC-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\07 FEB 2014 2200 .pdf</filepath>
+        <Paragraphs>ALMACENAR LAS ESCALERAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\08 FEB 2014 HELIDECK.pdf</filepath>
+        <Paragraphs>RESTRINGIDA, EN ESCALERAS DE ACCESO AL HELIPUERTO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\15 MAIN DECK PORT AFT.pdf</filepath>
+        <Paragraphs>TRAPOS DEJADOS DEBAJO DE ESCALERAS DE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\21 Port Crane.pdf</filepath>
+        <Paragraphs>PASILLOS Y ESCALERAS LIBRES Y  LIMPIOS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\24 Knucle boorm crane.pdf</filepath>
+        <Paragraphs>ESCALERAS NECESITAN ACOMODO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\03.- Upper deck AFT.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES CLEAN AND FREE  ESCALERAS EN DESORDEN(CORREGIDO) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Marine\TRA LAVADO CON ALTA PRECION.docx</filepath>
+        <Paragraphs>L    BLOQUEO DE ESCALERAS  RUTAS DE EVACUACION  CAIDAS Y RESBALONES Y LESIONES PERSONALES    M    L    L    NO BLOQUEAR LAS ESCALERAS NI RUTAS DE EVAC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRILLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRILLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ON              DRILLERS CONTROL ROOM  DCR  AND LOCAL EQUIPMENT ROOM  LER               TUBULAR FEEDING MACHINE              KNUCKLE BOOM CRANE FOR CA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRILLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB032 - Controlled Hang Off &amp; Emergency Disconnect Tubulars R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>O REMAIN IN THE DRILLERS CHAIR DURING NORMAL OPERATIONS UNLESS PROPERLY RELIEVED BY THE TOOLPUSHER OR RIG SUPERINTENDENT             PROCEDURE        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRILLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>DRILLERS CONSOLE AS SUPPLIED BY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRILLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs>NCTIONS IN DRILLERS CONSOLE AS SUPPLIED BY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>65-HB3610COOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>65-HB3610COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>65-HB3610COOLER SKID FOR CENTRAL HPU1F0.50.550.0504.545-23.23440.060716-0001</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESCALERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\11 MOON POOL.pdf</filepath>
+        <Paragraphs>SEGREGATION NOT PROPERLY (CORRECTED)  ESCALERA Y ESTROBOS NECESITAN REACOMODO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 2200 hrs.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   EMERGENCY GENERATOR ROOM 22:00 HRS 09 DE FEBRERO DE 2014          ESCALERA RECARGADA SOBRE CHAROLA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\11 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>ESCALERA MAL ESTIBADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\25 MAR 2014 pasillo babor Tween D 22 00.pdf</filepath>
+        <Paragraphs>ESCALERA ALMACENADA EN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\06 ABRIL 2014 ALL AREAS 10 00 HRS.pdf</filepath>
+        <Paragraphs>DE LA ESCALERA DE ESCAPE FALTA SEGURO PLASTICO A EXTINTOR EN ES-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\14 STORE ROOM.pdf</filepath>
+        <Paragraphs>GENCIA. ESCALERA DE TIJERA CON ELEMENTOS FLEXIONADOS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\18 Shakers rooms.pdf</filepath>
+        <Paragraphs>ESCALERA BLOQUEANDO PARTE DE PASILLO (CORREGIDO) GOOD TRASG SEGREGATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08 MUD PITS ROOM.pdf</filepath>
+        <Paragraphs>DEC 8TH   10:00 HRS  , 2014 ESCALERA SOBRE RUTA DE EVACUACION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\02 Moonpool.pdf</filepath>
+        <Paragraphs> DIDI EQUIPMENT READY AND GOOD  SIGNAGE  ESCALERA VERTICAL OBSTRUIDA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\07 Trampas de Arena Area.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     AREA DE TRAMPAS DE ARENA     22:00 HRS    SEP. 07 th  2014LOCKER BLOQUEA ESCALERA DE ESCAPE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\16.- piso de perforacion.pdf</filepath>
+        <Paragraphs>ESCALERA DE ESCAPE BLOQUEADA  EQUIPOS DE RESPIRACION BLOQUEADOS POR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\20 LOWER SHAKER ROOM.pdf</filepath>
+        <Paragraphs>MATERIAL OBSTRUYENDO ESCALERA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\27 TRIP SAVER.pdf</filepath>
+        <Paragraphs>ESCALERA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\17 Drilling utility room .pdf</filepath>
+        <Paragraphs>CLEAN AND CLEAR AISLES   ESCALERA OBSTRUYENDO PARTE DEL PASILLO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\23 JULY 2014 LOWER SHAKER ROOM .pdf</filepath>
+        <Paragraphs>DE LADO POPA  MATERIAL OBSTRUYENDO ERA Y ESCALERA DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\26 JULY 2014 PONTOON STB.pdf</filepath>
+        <Paragraphs>ESCALERA ALMACENADA EN LUGAR INADECUADO.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\29 Todas las Areas.pdf</filepath>
+        <Paragraphs>ESCALERA DE ESCAPE BLOQUEADA POR  MATERIALES LAMPARA APAGADA EN CUARTO DE MAQUINAS      LAMPARA APAGADA EN CUARTO DE MAQUINAS     LATAS  COFIAS Y GUAN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\March 2014\08 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>   10:00 HRS MARCH 8th 2014  ESCALERA IMPROVISADA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\14 Funnel house port side.pdf</filepath>
+        <Paragraphs>LERA DE ACCESO LIBRES, LA ESCALERILLA DE CABLES  SI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESCALERILLA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESCALERILLA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\14 Funnel house port side.pdf</filepath>
+        <Paragraphs>LERA DE ACCESO LIBRES, LA ESCALERILLA DE CABLES  SI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TALLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\29 ENE 2014  t. soldadura .pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR                        TALLER DE SOLDADURA                29 Enero del 2014 FALTA ORDEN Y LIMPIEZA EN GENERAL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\29 ENE 2014 Talleres.pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR                        CUARTO TALLER DE MAQUINAS                 29 Enero        FALTA SE321ALAMIENTOS DE RUTA DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   TALLER DE TORNO/LATHE WORKSHOP 2200 HRS 10 DE FEBRERO DE 2014 CONTENEDOR DE ACEITE DESTAPADO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\11 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>                TALLER DE SOLDADURA WELDING SHOP        HRS    DE FEBRERO DE              SE   ALAMIENTO DE ESTACI   N DESPACHADORA DE TAPONES AUDITIV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour                  TALLER DE TORNO/CONTRAPOZO MACHINE SHOP/MOONPOOL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\21 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>TALLER DE ELECTRICOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\01 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>TALLER DE TORNO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\18 Weld shop.pdf</filepath>
+        <Paragraphs>BUEN ORDEN Y LIMPIEZA DENTRO Y FUERA DEL TALLER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\05 Taller de Herramientas de perforacion.pdf</filepath>
+        <Paragraphs>V  Safety Tour         TALLER DE HERRAMIENTAS DE PERFORACION        22:00 HRS MAY 05th 2014EXTINTOR MAL ACOMODADO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\05 JUN 2014  MAIN DECK.pdf</filepath>
+        <Paragraphs>EN TRABAJOS DE SOLDADURA EN TALLER DE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\08 June 2014  ACCIONES CORREGIDAS.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   OBSERVACIONES CORREGIDAS            16:00 HRS JAN 08th 2014BUENA PRACTICA DE ORDEN Y LIMPIEZA EN  TALLER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\28 WELDING SHOP.pdf</filepath>
+        <Paragraphs> Tour           TALLER DE SOLDADURA   WELDING SHOP         HRS NOVEMBER   th        FALTA SEGREGACION ADECUADA DE RESIDUOS     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\11.-Machine shop.pdf</filepath>
+        <Paragraphs>TALLER TORNO    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\15.- Welding Shop.pdf</filepath>
+        <Paragraphs>V  Safety Tour            TALLER DE SOLDADURA / </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\20.-Machine shop .pdf</filepath>
+        <Paragraphs>TALLER TORNO               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>PythonSafety.com/GETPOSTERSOBTENGA M301S INFORMACI323N EN L315NEA BASE DE DATOS DEL TALLER DE HERRAMIENTASEche un vistazo a nuestra base de datos de </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\18 TALLER MECANICO-TORNO.pdf</filepath>
+        <Paragraphs>                TALLER MECANICO   TORNO        HRS SEPTIEMBRE   th   FALTA ORDEN EN LA PARTE SU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\24 TALLER ELECTRICO.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour                  TALLER ELECTICO 22:00 HRS SEPTIEMBRE 24th , 2014  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\29 WELDING WORK SHOP.pdf</filepath>
+        <Paragraphs>fety Tour       TALLER DE SOLDADURA   WELDING WORK SHOP        HRS SEPTIEMBRE   th         FALTA REUBICACION DE CILINDROS DE NITROGENO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\05 ALL AREAS.pdf</filepath>
+        <Paragraphs>CILINDROS DE NITROGENO EN TALLER DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\31.- taller de soldadura.pdf</filepath>
+        <Paragraphs>V  Safety Tour       TALLER DE SOLDADURA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\5.- taller de torno .pdf</filepath>
+        <Paragraphs>V  Safety Tour            TALLER DE TORNO  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\9.- TALLER DE SOLDADURA.pdf</filepath>
+        <Paragraphs>V  Safety Tour            TALLER DE SOLDADURA   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\12.DECEMBER\06.DRILL WORK SHOPpdf.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour           TALLER DE PERFORACION /</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\14 RIG FLOOR.pdf</filepath>
+        <Paragraphs>AREA DE TALLER DE PERFORACION EN CORRECTO ESTADO DE ORDEN Y LIMPIEZA E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\19 JULY 2014 TORNO.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   TALLER DEL TORNO        10:00 HRS JULY 19 th  2014FALTA DE ORDEN Y7 LIMPIEZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\23 JULY 2014 TALLER MECANICO.pdf</filepath>
+        <Paragraphs>                TALLER MECANICO  TORNO             HRS JULY   th       BUENA PRACTICA DE ORDEN Y LIMPIEZA EN AL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\24 Taller de soldadura.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   TALLER DE SOLDADURA 10:00 HRS JULY 24th  2014FALTA DE BASE Y LUGAR APROPIADO A  ENFRIADOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\07 CUARTO DE HERRAMIENTAS PESADAS (HEAVY TOOLS ROOM).pdf</filepath>
+        <Paragraphs>  Safety Tour   TALLER DE HERRAMIENTAS DE PERFORACION        HRS AUGOSTO    th        FALTA LETREROS DE SEGURIDAD EN LA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TABLEROS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TABLEROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014 TALLER ELECTRICO.pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR            ELECTRIC WORKSHOP               30 Enero del 2014  TABLEROS DE DISTRIBUCION ELECTRICA SIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\19 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>PRESSOR  TARJETAS 223T224 DE TABLEROS DE BOTES SIN ACTU-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLEROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\16.-DRILLING SWITCHBOARD ROOM.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour       CUARTO DE  TABLEROS DE PERFORACI323N / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TORNILLERIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TORNILLERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\31 ENE 2014 CTO. BOMBAS.pdf</filepath>
+        <Paragraphs>HERRAMIENTAS MAL ALMACENADAS TORNILLERIA MAL ALMACENADA PUERTAS ASEGURADAS, CON SE321ALAMIEN-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TORNILLERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\03 FEB 2014 COLUM. POPA ESTR .pdf</filepath>
+        <Paragraphs>DO RUTAS DE EVACUACION(TRUSTHER # 7)  FALTA TORNILLERIA DEL PISO (TRUSTHER # 7) SE OBSERVA QUE EL TUNEL  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TORNILLERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\05 ALL AREAS.pdf</filepath>
+        <Paragraphs>2014 FALTA TORNILLERIA EN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TALLERES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TALLERES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\19 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>     TALLERES NUEVOS EN CUBIERTA PRINCIPAL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLERES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\02 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>TALLERES NUEVOS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLERES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\02 JAN 2014  NUEVOS TALLERES.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   NUEVOS TALLERES MECANICOS/HIDRAULICOS        10:00 HRS JAN 02 nd 2014BUENA PRACTICA DE BARRICAR AREA DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLERES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\02 JUN 2014  NUEVOS TALLERES.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   NUEVOS TALLERES MECANICOS/HIDRAULICOS        10:00 HRS JAN 02 nd 2014BUENA PRACTICA DE BARRICAR AREA DE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLERES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\05 NEW WORK SHOPS.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour           TALLERES NUEVOS/</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TALLERES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\18.- nuevos talleres.pdf</filepath>
+        <Paragraphs>V  Safety Tour     NUEVOS TALLERES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TABLERO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\15 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>GUANTE DE CARNAZA COLOCADO SOBRE TABLERO ELEC-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\11 ABRIL 2014 POPA BABOR L-D.pdf</filepath>
+        <Paragraphs>TABLERO  ELECTRICO (UTILITY ROOM)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaker room 2200 hrs .pdf</filepath>
+        <Paragraphs>LA INFORMACI323N DEL TABLERO DEBE ACTU-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaleshakers 1000 hrs .pdf</filepath>
+        <Paragraphs>LA INFORMACI323N DEL TABLERO DEBE ACTU- </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\27 Top Deck Bridge &amp; Navigation Deck.pdf</filepath>
+        <Paragraphs>TABLERO ACTUALIZADO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\15 Jun Different Rig Areas.pdf</filepath>
+        <Paragraphs>TABLERO CON ROMBO DE SEGURIDAD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\22 Navigation deck .pdf</filepath>
+        <Paragraphs> TABLERO DE DIAS SIN ACCIDENTES AL DIA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\VISITA MURALLA IV LAKAMAY-1.pdf</filepath>
+        <Paragraphs>L NEUTRO EN EL  TABLERO PARA ALIMENATR       V     CONSIDERAR TRANSFORMADOR     Disponible para  un equipo de      V a    A de AC    Disponible para  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014TABLERO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\15 BRIDGE.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     COMMAND BRIDGE 10:00 HRS APRIL 15th 2014TABLERO (PIZARRON)  PARA APUNTES SIN TRINCAR, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>2014TABLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\02 BRIDGE.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     COMMAND BRIDGE             10:00 HRS MAY 02nd 2014TABLERO (PIZARRON)  PARA APUNTES SIN TRINCAR, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAPELERIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAPELERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\16 Jun Roustabout Office.pdf</filepath>
+        <Paragraphs>PAPELERIA ORGANIZADA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAPELERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\02 STBD Pontoon (tank 9S cleaning).pdf</filepath>
+        <Paragraphs>PAPELERIA DE PERMISO DE TRABAJO EN SU LUGAR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAPELERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\11 Upper deck PRT-FWD.pdf</filepath>
+        <Paragraphs>PROA-ESTR 22:00 HRS  OCT. 11Th, 2014  PAPELERIA DE PERMISO DE TRABAJO EN  SITIO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PAPELERIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\15 Tank 7s.pdf</filepath>
+        <Paragraphs>PAPELERIA DE PERMISO EN SITIO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONTROLLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONTROLLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\01.- Drill floor Heavy tool store.pdf</filepath>
+        <Paragraphs>REMOTE CONTROLLERS ORGANIZED  ESTANTES ORGANIZADOS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOLERANCES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOLERANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>ELECTRICAL AND MECHANICAL TOLERANCES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TOLERANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>ELECTRICAL AND MECHANICAL TOLERANCES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TOLERANCES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>INTERPRET DIMENSIONS AND TOLERANCES IAW ISO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOLERANCESElectrical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOLERANCESElectrical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>0,63  ELECTRICAL TOLERANCESElectrical tolerances in accordance with standard IEC 60034-1. Power</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TOLERANCESElectrical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>0,63  ELECTRICAL TOLERANCESElectrical tolerances in accordance with standard IEC 60034-1. Power</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOLERANCESTolerances</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOLERANCESTolerances</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>valueMECHANICAL TOLERANCESTolerances according to IEC 60072-1 are shown in the following table.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TOLERANCESTolerances</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>valueMECHANICAL TOLERANCESTolerances according to IEC 60072-1 are shown in the following table.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHRYSLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHRYSLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>CHRYSLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WRANGLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WRANGLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>7417590  18 OFF ROAD JEEP WRANGLER JK 07-15 Deluxe Bar con tubo ARB3450230</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WRANGLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Wrangler MSDS English.pdf</filepath>
+        <Paragraphs>WRANGLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIELERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIELERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>HIELERA ARB </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPOILER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPOILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>di341metro.BIKE STACKERTMWHEEL BAGTMACCESORIOS 23563FAIRING SPOILER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALERTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\12.- man over board\1.- Planeacion.doc</filepath>
+        <Paragraphs>E BROTES        ALERTA DE GAS       HOMBRE LESIONADO       COMBATE DE INCENDIO     ABANDONO DE PLATAFORMA      HOMBRE AL AGUA   X   DERRAME DE HIDROCA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\4&amp;5 Control de pozo &amp; Hombre caido\1.- Plan Control de Brote y H. caido 8.10.2015.doc</filepath>
+        <Paragraphs> BROTES   X     ALERTA DE GAS        HOMBRE LESIONADO  X     COMBATE DE INCENDIO       ABANDONO DE PLATAFORMA       HOMBRE AL AGUA        DERRAME DE H</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\6.- Hombre al Agua\1.- PLANEACION.doc</filepath>
+        <Paragraphs>E BROTES        ALERTA DE GAS       HOMBRE LESIONADO      COMBATE DE INCENDIO    ABANDONO DE PLATAFORMA     HOMBRE AL AGUA  X   DERRAME DE HIDROCARBUR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\7.- H2S\1.- Plan H2S 11.10.2015.doc</filepath>
+        <Paragraphs> BROTES         ALERTA DE GAS   X    HOMBRE LESIONADO       COMBATE DE INCENDIO       ABANDONO DE PLATAFORMA      HOMBRE AL AGUA        DERRAME DE HID</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\SEGURIDAD\10.-OCTUBRE\8,9 &amp; 10 men down, fire, abandon\1.- Planeacion colision de choper.doc</filepath>
+        <Paragraphs>E BROTES        ALERTA DE GAS       HOMBRE LESIONADO  X   COMBATE DE INCENDIO X  ABANDONO DE PLATAFORMA  X  HOMBRE AL AGUA       DERRAME DE HIDROCARBU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALERONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\1.-TRA QUEMADOR MODIFICADO.docx</filepath>
+        <Paragraphs>O DE QUEMADOR Y ALERONES  DE  ESTRIBOR     Page   P gina         OF  De         TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\1.-TRA QUEMADOR.docx</filepath>
+        <Paragraphs>O DE QUEMADOR Y ALERONES  DE BABOR Y ESTRIBOR     Page   P gina         OF  De         TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PETROLERO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PETROLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>       OBJETIVO PETROLERO DEL POZO                                                                                                                    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PETROLERO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>       OBJETIVO PETROLERO DEL POZO                                                                                                                    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOLERANCIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOLERANCIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>                TOLERANCIA AL BROTE                                                                                                                   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TOLERANCIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>                TOLERANCIA AL BROTE                                                                                                                   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DRILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Test_AD.docx</filepath>
+        <Paragraphs> DRILLER TEST        Date                               PERSONAL INFORMATION     Name         Age         Rig Name             WORK EXPERIENCE    Ment</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB021 - Retrieving the BOP Stack Assembly, Riser &amp; Diverter R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>en off      THE DRILLER SHALL ISOLATE THE ELEVATORS SO THAT THE HYDRAULIC LINES CAN BE REMOVED       With two crescent wrenches unbolt the ears on the</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DRILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB032 - Controlled Hang Off &amp; Emergency Disconnect Tubulars R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>SIBILITY OF THE DRILLER TO CARRY OUT THIS PROCEDURE IN AN EMERGENCY SITUATION WITHOUT HESITATING OR WAITING FOR FURTHER INSTRUCTIONS  The driller is o</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMPELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>IMPELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>IMPELLER is optimized for high efficiency and low NPSH. The impeller is hydraulically </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>IMPELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>IMPELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708207 -  ~04082011083338.pdf</filepath>
+        <Paragraphs>IMPELLER REMOVAL WRENCH F/MAGNUM PUMPS 20952</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>IMPELLER FOR MT 175 OBSOLETE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMPELLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMPELLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>IMPELLERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KEYFORIMPELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KEYFORIMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>KEYFORIMPELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STEELAISI31617KEYFORIMPELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STEELAISI31617KEYFORIMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STEELAISI31617KEYFORIMPELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NITRILERUBBERTETNINGSRING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NITRILERUBBERTETNINGSRING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>NITRILERUBBERTETNINGSRING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROPELLERSHAFT1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROPELLERSHAFT1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PROPELLERSHAFT1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELLERMOLYBDEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELLERMOLYBDEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ELLERMOLYBDEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIFTORVAPOURSUGEH0YDENELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIFTORVAPOURSUGEH0YDENELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LIFTORVAPOURSUGEH0YDENELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELLER-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELLER-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ELLER-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELLER-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>SUGELEDNING ELLER- INNTAK  IMPELLER SUCTION LINE OR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>Kull   SOM SM330RING M305 IKKE SILIKON, PTFE ELLER MOLYBDEN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>DELER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DELER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs> AKSEL B330YD, ROTERENDE DELER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IMPELLERDAMAGEDOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IMPELLERDAMAGEDOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>IMPELLERDAMAGEDOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIGHJIMPELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIGHJIMPELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>HIGHJIMPELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MIDLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MIDLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs> BASERTE MIDLER BENYTTES. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs> UNIT WITH AFTERCOOLER                          AFTERCOOLER     A                     BOLT                          SUPPORT  COOLERS     A            </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0027OIL COOLER FOR HYDR. POWER PACK1.00PC110425510028VALVE BLOCK GEAR SHIFT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>OIL COOLER FOR HPS GEARBOX WITHOUT MOTOR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\Maintenance cooler on Engine rooms.doc</filepath>
+        <Paragraphs>PIPE ON CENTRAL COOLER B Page   P gina   OF  De    TASK  Tarea  JOB STEPS  HAZARD  Peligro HAZARD EFFECT  DESCRIPTION    Resultado del Peligro INITIAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFTERCOOLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFTERCOOLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs>      UNIT WITH AFTERCOOLER                          AFTERCOOLER     A                     BOLT                          SUPPORT  COOLERS     A       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAILER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\17. Botes Salvavidas (Life Boats)\17.3 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\SRV727.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.1 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.2 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.4 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.5 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.6 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.7 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.8 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\17. Botes Salvavidas (Life Boats)\17.9 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\17. Botes Salvavidas (Life Boats)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\life boat\37 WO.pdf</filepath>
+        <Paragraphs>BOUYANT BAILER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>A701LERLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>A701LERLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A701LERLER A701NAVI. DECK3026DA961E019F878TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LERDCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LERDCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs> -ABOVE LERDCR M604DRILL FLOOR3026DA961E018F673TYCO801PHExZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M703LER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M703LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs> -BESIDE FAN ROOM M703LER A701NAVI. DECK3026DA961E019F882TYCO801PHExZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M606LERLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M606LERLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M606LERLER M606DRILL FLOOR3026DA961E018F673TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M206CHILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M206CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M206CHILLER ROOMCHILLER ROOM M206TWEEN DECK3026DA961E014F452TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMCHILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMCHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M206CHILLER ROOMCHILLER ROOM M206TWEEN DECK3026DA961E014F452TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M604DRILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M604DRILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M604DRILLER CABINDRILLER CABIN M604DRILL FLOOR3026DA961E018F686TYCO801PHExZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CABINDRILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CABINDRILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M604DRILLER CABINDRILLER CABIN M604DRILL FLOOR3026DA961E018F686TYCO801PHExZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INDOORA701LERLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INDOORA701LERLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>716961-MAC-01-001ADDR. CALLPOINT. INDOORA701LERLER A701NAVI. DECK3026DA961E019F878TYCOCP820MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INDOORM606LER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INDOORM606LER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>777961-MAC-07-001BADDRESSABLE MANUAL CALL POINT, INDOORM606LER  L.E.R M606DRILL FLOOR3026DA961E018F673TYCOCP820MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOF-CHILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOF-CHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>816961-MAC-09-002ADDR. CALLPOINT. WATERPROOF-CHILLER ROOM STAIRWAYCHILLER ROOM STAIRWAYTWEEN DECK3026DA961E014F452TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STAIRWAYCHILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STAIRWAYCHILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>816961-MAC-09-002ADDR. CALLPOINT. WATERPROOF-CHILLER ROOM STAIRWAYCHILLER ROOM STAIRWAYTWEEN DECK3026DA961E014F452TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HANDLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Tech Dive 2015\TR´-1499 LALA MURALLA lV TR-1499.pdf</filepath>
+        <Paragraphs>PIPE HANDLERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SCULLERY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SCULLERY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP830.pdf</filepath>
+        <Paragraphs>961-YSH-04-040 SCULLERY A218 TWEEN DECK F458</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AUTODRILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AUTODRILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>Rev.1  Page 3 of 3B0025911_Parts_List.xls    GEARBOX 3 SPEED WITH AUTODRILLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PULLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PULLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>2 276 INCH PULLER DISC </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PULLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0017 Gulf Coast Oilfield Hybrid Cement Head with Remote Control\ODR-NB11-POR-0017.docx</filepath>
+        <Paragraphs>       EACH PIN PULLERS       EACH LEVER FLAG TATTLE TAIL   DOUBLE DART CAGE          DNV CERTIFICATION        REMOTE SYSTEM   INCLUDES CONTROL PANEL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>IDLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLER1M320</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLER1M320</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>12210-HY-0177DRILLINGCFM SECURE ROLLER1M320 ABOVE / ZONE1DANFOSSNorwayEXPIRED--157B4218EX PVEONEMKO 02ATEX459X&lt;Ex&gt; II 2 G EEx m</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALBA321ILER315A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALBA321ILER315A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>N  APLICACIONES ALBA   ILER   A ALICATADO ENYESADO Y </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HANDLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>AND HANDLER S  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CREMALLERA9013RRODACHISPAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CREMALLERA9013RRODACHISPAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>CON AJUSTE TIPO CREMALLERA9013RRODACHISPAS Y CABEZAL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>TROLLER .Provides safe, automatic controlled descent from overhead cranes, towers, buildings or other heights.  þ   þ  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KILLERen-USMSA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KILLERen-USMSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>nting en USWASP KILLERen USMSA  Wasp Killer is an insect spray designed to clear areas of stinging insects and spiders  Wasp Killer en US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALERT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>ALERT (red) status conditions. en-US en-US</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder.pdf</filepath>
+        <Paragraphs>ull Report CHEM ALERT REPORT    IDENTIFICATION OF THE MATERIAL AND SUPPLIER   Ward Road  East Rockingham  WA  AUSTRALIA                               </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALERT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder_001.pdf</filepath>
+        <Paragraphs>ull Report CHEM ALERT REPORT    IDENTIFICATION OF THE MATERIAL AND SUPPLIER   Ward Road  East Rockingham  WA  AUSTRALIA                               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRAILER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRAILER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>nicas deseadas  TRAILER M   VIL COMPRESORES Respiradores dise   ados para mantener una ligera presi   n  positiva dentro de la careta  Esto ayuda a pr</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HYPOALLERGENIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HYPOALLERGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>AIR MORE ENVIRONMENTALLY FRIENDLY AND HYPOALLERGENIC </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>IONTM R7 OFFS     B  MILLER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TECHNOLOGYMILLER256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TECHNOLOGYMILLER256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>B : Snap hook PATENTED TECHNOLOGYMILLER256 This new system is particularly recommended in the 037elds </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>demandMILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>demandMILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>so available on demandMILLER SAFESCAPE    ELITE Rescue and Descent device for emergency situations  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENEFITSMILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENEFITSMILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>373Safety at Height  Rescue &amp; Evacuation  FEATURES &amp; BENEFITSMILLER SAFESCAPE256 ELITE EVACUATION KIT FEATURES &amp; BENEFITS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MANHANDLER256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANHANDLER256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>MN20 MANHANDLER256 WORK WINCH FEATURES &amp; BENEFITS FEATURES &amp; BENEFITS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ILLER R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>OLLER Bene037ts: Prevent tools from dropping that </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELEREofW01</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELEREofW01</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>ELEREofW01</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALLERG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALLERG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003606_Pledge_Dust_%26_Allergen_Outdoor_Fresh.pdf</filepath>
+        <Paragraphs>DUST &amp; ALLERG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALLERGEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALLERGEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003606_Pledge_Dust_%26_Allergen_Outdoor_Fresh.pdf</filepath>
+        <Paragraphs>POLISH - DUST &amp; ALLERGEN - </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003895_Raid_Flea_Killer_Plus_Carpet_%26_Room_Spray_2-22-11.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1226  RAID® FLEA KILLER PLUS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003935_Raid_Flea_Killer_Plus_Fogger_2-23-11.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1226  RAID® FLEA KILLER PLUS FOGGER Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000009774_Raid_Ant_Killer_16_Unscented.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1226  RAID® ANT KILLER 16 - UNSCENTED Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000010777_Raid_Wasp_%26_Hornet_Killer_33.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  RAID® WASP &amp; HORNET KILLER 33 Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011472_Raid_Ant___Roach_Killer_17_Fragrance_Free.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  RAID® ANT &amp; ROACH KILLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011476_Raid_Ant___Roach_Killer_17_Lemon.pdf</filepath>
+        <Paragraphs>Trade name : RAID® ANT &amp; ROACH KILLER 17 - LEMON SCENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000012540_Earth_Options_by_Raid_House_%26_Garden_Insect_Killer_10-20-09.pdf</filepath>
+        <Paragraphs>E &amp; GARDEN INSECT KILLER Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000014693_Raid_Max_Spider_%26_Scorpion_Killer.pdf</filepath>
+        <Paragraphs>SCORPION KILLER Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Raid_Ant_&amp;_Roach_Killer_94400_msds.pdf</filepath>
+        <Paragraphs>Trade name : RAID® ANT &amp; ROACH KILLER 17 - LEMON SCENT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\RAID%c2%ae+HOUSE+%26+GARDEN+BUG+KILLER+FORMULA+7.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1200  RAID® HOUSE &amp; GARDEN BUG KILLER FORMULA 7 Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALLERGIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALLERGIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butchers_Bathmate_Command_Center_Cleaner_4304150_msds.pdf</filepath>
+        <Paragraphs>TACT  MAY CAUSE ALLERGIC REACTIONS IN SOME INDIVIDUALS       FIRE FIGHTING MEASURES  Call a poison control center or doctor immediately for treatment </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ALLERGIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Septic-System-and-Cesspool-Treatment-Liquid-English-MSDS-ZLST.pdf</filepath>
+        <Paragraphs>SWALLOWED. MAY CAUSE ALLERGIC SKIN REACTION.*Hazard Determination System (HDS): Health, Flammability, ReactivityAcute Effects Eyes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SALVAESCALERASCondicionesComponentesAsiento</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SALVAESCALERASCondicionesComponentesAsiento</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CAPITULO3.pdf</filepath>
+        <Paragraphs>    cm C SILLAS SALVAESCALERASCondicionesComponentesAsiento con respaldo reposabrazos y reposapiest cnicasPendiente ngulo m ximo    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEALER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEALER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NVA800_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>sAQUAGUARD      SEALER PART BPedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja deDatos de Seguridad d</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEALER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NVA801_MEX-SPA_SPA_A0.pdf</filepath>
+        <Paragraphs>sAQUAGUARD      SEALER CLEAR PART APedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja deDatos de Segur</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALERGIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALERGIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Septic-System-and-Cesspool-Treatment-Liquid-Spanish-MSDS-ZLST.pdf</filepath>
+        <Paragraphs>INGESTIÓN. PUEDE PROVOCAR UNA ALERGIA EN LA PIEL.*Hazard Determination System (HDS): Health, Flammability, ReactivityEfectos agudos Ojos</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CLERICAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CLERICAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\terms-and-conditions-of-sale-usa.pdf</filepath>
+        <Paragraphs>rder            CLERICAL ERRORS     All stenographic and clerical errors are subject to correction          HEADINGS   The headings used throu ghout a</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELER002Y</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELER002Y</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\wo faltantes\CHAN126.pdf</filepath>
+        <Paragraphs>ELER002Y 1 3. Issued System Administrator</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3ROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>3ROLLER BEARING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>34ROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>34ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>34ROLLER BEARING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>ROLLERS AND OUTER RACE.  E26127159.  Horizontal Drill Motor, Model 5GEB22, GEK26191696C  19FIG. 18.  DRIVE261END BEARING PILOT AND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>SSW 30 PIVOT ARMS, CYLINDER, BEAMS AND PRESSURE ROLLERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>SSW 30 PIVOT ARMS, CYLINDER, BEAMS AND PRESSURE ROLLERS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>NEW ROLLERS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FILLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>of LEAD or FILLER cement required: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FILLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Determine the number of sacks of LEAD or FILLER cement required:  Sacks </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLERSItem</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLERSItem</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>MS AND PRESSURE ROLLERSItem</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROLLERSItem</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>MS AND PRESSURE ROLLERSItem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDPROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDPROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>Less Rollers3653369270947-BD3637 HDPROLLER KELLYBUSHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDPROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>Less Rollers3653369270947-BD3637 HDPROLLER KELLYBUSHING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XHDPROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XHDPROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>27 XHDPROLLER KELLYBUSHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>XHDPROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>27 XHDPROLLER KELLYBUSHING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MDPROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MDPROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>* Sleeve bearings are standard, for roller bearings add R at end of P/N MDPROLLER KELLYBUSHING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MDPROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>* Sleeve bearings are standard, for roller bearings add R at end of P/N MDPROLLER KELLYBUSHING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INSTALLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INSTALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>ON UNTIL THE INSTALLER HAS READ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMALLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National Oilwell 14P-220 Manual 80-600-209.pdf</filepath>
+        <Paragraphs>ON LINERS SMALLER THAN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>V-ROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>V-ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>V-ROLLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NUTSROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NUTSROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>TOP NUTSROLLER ASSY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLERIndexed</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLERIndexed</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>ROLLERIndexed Kelly</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1312V-ROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1312V-ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>1312V-ROLLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROLLERReplacement</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROLLERReplacement</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>FLAT ROLLERReplacement parts,roller kelly bushings</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>52184KRBMV-ROLLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>52184KRBMV-ROLLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>BEARING 52184KRBMV-ROLLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>OLE REMEDY AND  SELLER s ONLYOBLIGATION WITH REGARD TO NON CONFORMING EQUIPMENT  PARTS OR SERVICES  EXCEPT AS OTHERWISE EXPRESSLY PROVIDED PURSUANT TO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>OLE REMEDY AND  SELLER s ONLYOBLIGATION WITH REGARD TO NON CONFORMING EQUIPMENT  PARTS OR SERVICES  EXCEPT AS OTHERWISE EXPRESSLY PROVIDED PURSUANT TO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OFSELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFSELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs> RESPONSIBILITY OFSELLER CONCERNING PATENT INFRINGEMENT      REGULATORY COMPLIANCEBy acceptance of delivery of this order  Buyer warrants it has compl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFSELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs> RESPONSIBILITY OFSELLER CONCERNING PATENT INFRINGEMENT      REGULATORY COMPLIANCEBy acceptance of delivery of this order  Buyer warrants it has compl</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PULLERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PULLERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0017 Gulf Coast Oilfield Hybrid Cement Head with Remote Control\ODR-NB11-POR-0017.docx</filepath>
+        <Paragraphs>       EACH PIN PULLERS       EACH LEVER FLAG TATTLE TAIL   DOUBLE DART CAGE          DNV CERTIFICATION        REMOTE SYSTEM   INCLUDES CONTROL PANEL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOELLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708518 - 1 ~03312011111718.pdf</filepath>
+        <Paragraphs>AUXILARY CONTACT MOELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710677 - 1 ~04062011032649.pdf</filepath>
+        <Paragraphs>AUXILARY CONTACT MOELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710692 - 1 ~04062011052029.pdf</filepath>
+        <Paragraphs>AUXILARY CONTACT MOELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710700 - 1 ~04062011075339.pdf</filepath>
+        <Paragraphs>AUXILARY CONTACT MOELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0004 NOV Spare Parts\Sales Order Acknowledgement 715274 ~07142011020911.pdf</filepath>
+        <Paragraphs>AUXILARY CONTACT MOELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0093 NOV HPU &amp; AHC ET\Commercial Invoice 48982 ~08192011031736.pdf</filepath>
+        <Paragraphs>MINI CONTACTOR RELAY 230VAC MOELLER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MOELLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0094 NOV X-mas Tree 150T ET\ODN2-11-0094 712463KRS REV 1 PARTS NUMBER.pdf</filepath>
+        <Paragraphs>AUXILARY CONTACT MOELLER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLEROS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLEROS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\18 Electric room M204 &amp; M205 .pdf</filepath>
+        <Paragraphs>BLEROS ELECTRICOS Y TRANSFORMADOR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014ESCALERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014ESCALERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\13 Ponton Babor.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   PONTON BABOR    22:00 HRS JULY 13 th  2014ESCALERA ALMACENADA EN SITIO NO DESTINADO PARA ESTE USO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2014TALLER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2014TALLER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\27 MACHINE SHOP .pdf</filepath>
+        <Paragraphs>             22:00 HRS AUGUST 27TH, 2014TALLER PRESENTA BUEBNA ILUMINACION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

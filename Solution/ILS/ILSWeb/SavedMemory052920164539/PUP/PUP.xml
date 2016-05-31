@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WELDSHOPUPPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELDSHOPUPPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>791961-MAC-07-010ADDR. CALLPOINT. WATERPROOF SAFETY OUTDOOR-OUTSIDE WELDSHOPOUTSIDE WELDSHOPUPPER DECK3026DA961E015F593TYCOMEDC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>INTEGRAL PUP JOINT  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>INTEGRAL PUP JOINT  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

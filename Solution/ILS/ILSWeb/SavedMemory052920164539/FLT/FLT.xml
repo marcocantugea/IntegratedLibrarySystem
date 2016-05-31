@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FLTR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLTR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>FLTR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLTRS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLTRS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>FLTRS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

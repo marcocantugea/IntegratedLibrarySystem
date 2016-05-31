@@ -5,6 +5,35 @@ Imports System.IO
 Namespace ilscore.lib.file
     Public Class XMLControler
 
+        Private _filenamea As String
+        Private _Dictionaryy As DictionaryWords
+        Public WriteOnly Property Dictionaryy() As DictionaryWords
+            Set(ByVal value As DictionaryWords)
+                _Dictionaryy = value
+            End Set
+        End Property
+        Public WriteOnly Property Filename() As String
+            Set(ByVal value As String)
+                _filenamea = value
+            End Set
+        End Property
+
+        Public Sub CreateXML()
+            Dim fil As New System.IO.FileInfo(_filenamea)
+            Try
+                If Not System.IO.File.Exists(_filenamea) Then
+                    CreateXML(_filenamea, _Dictionaryy)
+
+                    Console.WriteLine("File Created : " & fil.Name)
+                End If
+
+
+            Catch ex As Exception
+                Console.WriteLine("Warning : File " & fil.Name & " message:" & ex.Message)
+            End Try
+
+        End Sub
+
         Public Sub CreateXML(ByVal filename As String, ByVal Dictionary As DictionaryWords)
             Dim writer As New Xml.XmlTextWriter(filename, System.Text.Encoding.UTF8)
             writer.WriteStartDocument(True)

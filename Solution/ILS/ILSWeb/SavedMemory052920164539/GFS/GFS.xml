@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GFS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>GFS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFS-G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFS-G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>GFS-G </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFS-N</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFS-N</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>GFS-N </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS-B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS-B </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS-S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS-S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS-S </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFSSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFSSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series GFSSAE Straight flange adapterSAE Flange         EO   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFS-GSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFS-GSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10 O-ring faceFlat face GFS-GSAE Straight flange adapterSAE Flange       / BSPP 60</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFS-NSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFS-NSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>207207 M26Catalogue 4100-7/UK SAE Flange adapters Nom. flange size 3000 PSI Series GFS-NSAE Flange adapters straightSAE Flange       / Male NPT thread</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS-BSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS-BSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series PGFS BSAE Straight   bolt counter flange  butt weld SAE Counter flange   Butt weld tube end</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS401B38</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS401B38</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS401B38</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS401B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS401B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS401B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS402B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS402B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS402B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS403B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS403B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS403B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS404B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS404B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS404B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS405B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS405B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS405B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS406B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS406B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS406B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS407B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS407B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS407B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS408B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS408B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS408B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>dippedSPGFS080BSMPGFS080BSUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>dippedSPGFS080BSMPGFS080BSUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>and materialwith metr. threadswith UNC threads(no additional suffix needed) Steel, blanc oil dippedSPGFS080BSMPGFS080BSUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>steelSSPGFS080BSSMPGFS080BSSUVIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>steelSSPGFS080BSSMPGFS080BSSUVIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Stainless steelSSPGFS080BSSMPGFS080BSSUVIT Weight</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS080B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS080B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS080B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS100B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS100B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS100B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS102B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS102B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS102B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS104B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS104B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS104B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS106B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS106B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS106B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS108B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS108B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS108B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS110B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS110B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS110B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS112B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS112B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS112B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS114B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS114B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS114B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS116B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS116B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS116B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS118B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS118B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS118B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS-SSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS-SSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series PGFS SSAE Straight counter   bolt flange  socket weld SAE Counter flange   Socket weld tube end</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS406S61</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS406S61</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS406S61</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS108S61</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS108S61</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS108S61</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS114S103</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS114S103</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS114S103</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PGFS118S142</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PGFS118S142</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PGFS118S142</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

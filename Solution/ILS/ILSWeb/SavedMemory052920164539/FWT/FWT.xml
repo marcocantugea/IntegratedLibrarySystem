@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FWTK18P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWTK18P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FWTK18P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWTK18P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>FWTK18P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWTK18S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWTK18S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FWTK18S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWTK18S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>FWTK18S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWTK22P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWTK22P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FWTK22P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWTK22P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>FWTK22P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWTK22S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWTK22S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FWTK22S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWTK22S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>FWTK22S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWTK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWTK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>FWTK 18P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWTK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>FWTK 18P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

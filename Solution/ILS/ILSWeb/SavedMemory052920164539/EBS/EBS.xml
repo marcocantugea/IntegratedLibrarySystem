@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WEBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WEBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542.PT009\542.PT009.F02 Lista de Verificación Bandas de Fibra - Fiber Webs Checklist (06-Abr-15).doc</filepath>
+        <Paragraphs>DE FIBRA  FIBER WEBS CHECKLIST DEPARTAMENTO DE SSPA  HSE DEPARMENT       Revis   Check  Nombre  Name   Puesto  Position  Fecha  Date  Aprob   Approval</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WEBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>WEBS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBSPMetric</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBSPMetric</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EBSPMetric S: Mates with EO 223S224 Series Fittings.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBSP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBSP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EBSP / BanjoAM Banjo Bolt w/DIN Metric Thread Part  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

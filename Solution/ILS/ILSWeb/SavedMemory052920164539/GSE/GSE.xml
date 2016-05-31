@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TETNINGSEDEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TETNINGSEDEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TETNINGSEDEL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TYPECGSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPECGSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TYPECGSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>The GOOSE inputs are divided between the 2 GSE virtual modules with 16 logic inputs.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

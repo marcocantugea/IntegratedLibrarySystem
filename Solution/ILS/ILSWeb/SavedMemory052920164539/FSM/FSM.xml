@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>m  always       FSM  T    ton   m   is transverse free surface moment of liquid tank    FSM  L    ton   m   is longitudinal free surface moment of liq</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs> PLANE AREA m   FSM FREE SURFACE MOMENT AT ACTUAL TANK LEVEL tm   A PCPCWM         WP        WP        APCPCWM         WP        WP            GRUPO R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>lways           FSM  T       ton m      is transverse free surface moment of liquid tank        FSM  L       ton m      is longitudinal free surface m</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\VISITA MURALLA IV LAKAMAY-1.pdf</filepath>
+        <Paragraphs>   de  Araujo   FSM      E A  Deep   Water     Aforo    Faraujo slb com                           Ren    G lvez Flores   EICTS   rflores  slb com     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>767001MFSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>767001MFSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>- 767001MFSM en-USInstinct i-wear - Z4 Premium- Graduation </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

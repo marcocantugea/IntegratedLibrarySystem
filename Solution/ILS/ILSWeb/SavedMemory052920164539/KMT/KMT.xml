@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>KMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>er of the rig   KMT   m   Is the distance from the keel to the transverse metacenter of the rig    GML   m   Is the longitudinal metacentric height of</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  3   C.3 Hydrostatic Table Draft   Displ LCB TCB VCB WPA LCF   TPcm MTcm KML KMT  (m) (ton) (m) (m) (m) (m2) (m) (ton/cm)   (ton-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>of the rig      KMT      m      Is the distance from the keel to the transverse metacenter of the rig       GML      m      Is the longitudinal metace</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>KMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>  VCG = KMT - GM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KMT-VCG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KMT-VCG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ces KML VCG and KMT VCG  i e  line        line      to obtain GML and GMT respectively   Enter these values     Line         Enter FSM  L  and FSM  T </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

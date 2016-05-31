@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>gp88408DYNAMICPOSITIONINGPLANTSystem</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>gp88408DYNAMICPOSITIONINGPLANTSystem</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>s.gpin ;...... gp88408DYNAMICPOSITIONINGPLANTSystem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPL077-LG-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPL077-LG-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>GPL077-LG-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GPL077-LG-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GPL077-LG-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>GPL077-LG-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

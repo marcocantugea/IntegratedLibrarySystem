@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PHAC2GBUILDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHAC2GBUILDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PHAC2GBUILDS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GBU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Charmin_Wipes.pdf</filepath>
+        <Paragraphs>Family Care GBU </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GBU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Aker Telescopic Joint\Clip Riser Telescopic Joint Operation Manual.pdf</filepath>
+        <Paragraphs>Kl374ber Staburags GBU 132 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INCLUDINGBUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INCLUDINGBUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>USE S  THEREOF  INCLUDINGBUT NOT LIMITED TO PRE EXISTING CONDITIONS  WHETHER SUCH CONDITIONS BEPATENT OR LATENT  THE UNSEAWORTHINESS OF ANY VESSEL OR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INCLUDINGBUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>USE S  THEREOF  INCLUDINGBUT NOT LIMITED TO PRE EXISTING CONDITIONS  WHETHER SUCH CONDITIONS BEPATENT OR LATENT  THE UNSEAWORTHINESS OF ANY VESSEL OR </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOUSEKEEPINGBUEBNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOUSEKEEPINGBUEBNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\29 Laundry.pdf</filepath>
+        <Paragraphs>GOOD HOUSEKEEPINGBUEBNA ILUMINACION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ATTENUATIONCOMFORTCOMPATIBILITY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ATTENUATIONCOMFORTCOMPATIBILITY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>11 SPECIFIC REQUIREMENTSCOMMUNICATIONSIZENOISE ATTENUATIONCOMFORTCOMPATIBILITY WITH OTHER PPEHYGIENE  As each job has different </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RENUNCIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RENUNCIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\648346001-s.pdf</filepath>
+        <Paragraphs>RENUNCIA A RESPONSABILIDAD CIVIL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RENUNCIAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RENUNCIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>RENUNCIAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RENUNCIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-BathroomCleaner.pdf</filepath>
+        <Paragraphs>RENUNCIAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RENUNCIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-CarpetCleaner.pdf</filepath>
+        <Paragraphs>RENUNCIAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RENUNCIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CB-GlassCleaner.pdf</filepath>
+        <Paragraphs>RENUNCIAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RENU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RENU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Renu MSDS English.pdf</filepath>
+        <Paragraphs>RENU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

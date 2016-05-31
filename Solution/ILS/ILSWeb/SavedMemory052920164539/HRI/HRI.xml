@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SHRINK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHRINK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0040HEAT SHRINK SLEEVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PERMETHRIN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PERMETHRIN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000009774_Raid_Ant_Killer_16_Unscented.pdf</filepath>
+        <Paragraphs>                PERMETHRIN                           PYRETHRINS                               FIRST AID MEASURES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PYRETHRINS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PYRETHRINS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000009774_Raid_Ant_Killer_16_Unscented.pdf</filepath>
+        <Paragraphs>                PYRETHRINS                               FIRST AID MEASURES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

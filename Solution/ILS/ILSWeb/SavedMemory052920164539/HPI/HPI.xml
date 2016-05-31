@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>3B3018025X3MM4018025X3MLHPInch</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3B3018025X3MM4018025X3MLHPInch</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>3B3018025X3MM4018025X3MLHPInch tube Tube sizeFlange pinFlange die</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WASHPIPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WASHPIPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\NOV Deublin Washpipe Installation Procedure.pdf</filepath>
+        <Paragraphs>LARGE BORE WASHPIPE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPIpsi</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPIpsi</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>HPIpsi =  hole</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>HPI x     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

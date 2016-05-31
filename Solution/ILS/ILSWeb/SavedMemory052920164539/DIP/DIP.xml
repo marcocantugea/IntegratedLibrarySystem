@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DIP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-DSC-005.pdf</filepath>
+        <Paragraphs>HOT DIP GALV. IMPACT 42/-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2DIP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2DIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>II  2DIP 65   T150260C, T135260C, T100260CD5A 226 D5B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>2DIP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>II  2DIP 65   T150260C, T135260C, T100260CD5A 226 D5B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMDIPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMDIPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>hibido    UPAP  GMDIPE   VCDSE   AEAPN           PROGRAMA DE PERFORACI N   DISE O DEL POZO EXPLORATORIO     EXPLORATUS     DL             DICIEMBRE   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GMDIPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>          UPAP  GMDIPE   VCDSE   AEAP      Informaci n propiedad de Petr leos Mexicanos  su uso total o parcial sin autorizaci n previa est  estrictam</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIPSTICK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIPSTICK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0016MAGNET AND DIPSTICK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DIPROPYLENE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DIPROPYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs>WATER           DIPROPYLENE GLYCOL BUTYL ETHER           ETHANOL  ETHYL ALCOHOL              SODIUM DODECYL BENZENE SULFONATE  LINEAR        Pennsylva</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DIPROPYLENE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Lysol_Disinf_Tub_Tile_04685_msds.pdf</filepath>
+        <Paragraphs>n Ingredients   DIPROPYLENE GLYCOL N BUTYL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MDIPE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MDIPE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>bido    UPAP  G MDIPE   VCDSE   AEAP           PROGRAMA DE PERFORACI N   PROYECTO POZO   NOBILIS         Noble             OCTUBRE   DE               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

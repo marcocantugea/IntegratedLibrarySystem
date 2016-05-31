@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FPM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>FPM = fluorine rubber </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VFPM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VFPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>VFPM seals, filter suitable for rapidly biodegradable oils and phosphate ester (HFD-R)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FPMLBSFPMLBSFPMLBSFPMLBS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPMLBSFPMLBSFPMLBSFPMLBS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>FPMLBSFPMLBSFPMLBSFPMLBS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PTFETF12752</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PTFETF12752</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>PTFETF12752</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PTFETF12752</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>PTFETF12752</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PTFETF12755</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PTFETF12755</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>PTFETF12755</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PTFETF12755</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>PTFETF12755</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOL-TAPERETFUNDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOL-TAPERETFUNDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>HOL-TAPERETFUNDAS PARA CINTA M311TRICA N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ETFE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETFE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SAFETY-CANS-CONTAINERS-English.pdf</filepath>
+        <Paragraphs>OD 0.0625 in hard wall ETFE tubing compression 037ttings with ferrules (package of six - blue)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

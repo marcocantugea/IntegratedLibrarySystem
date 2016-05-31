@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ARBEIDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARBEIDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>   PUMPEN ARBEIDER EN STUND,  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EIDT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EIDT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IAC: I, VI, EIDT or IDMT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EIDT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>IAC: I, VI, EIDT or IDMT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDONEIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDONEIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Cat Spanish Cat Pgs 23-44.pdf</filepath>
+        <Paragraphs>seleccionado sea apropiado para el uso propuesto. JUSTRITE NO OFRECE GARANT315A, EXPRESA O IMPL315CITA, SOBRE SU COMERCIABILIDAD O IDONEIDAD PARA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDONEIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs>DEL DICTAMEN DE IDONEIDAD T CNICA  DIT  ORIGINALES  POR   PARA USO CON TINACO  AUNQUE LA VERDAD ES DE QUE AL NO PASAR LAS PRUEBAS QUE LA CONUEE HA EST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>assemblyEOMATSCHNEIDRX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>assemblyEOMATSCHNEIDRX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>or PSR DPR EO   assemblyEOMATSCHNEIDRX     Flaring fixture for Triple Lok EOMATBOERDELBX EOMAT II promotion leaflet UK     UK EOMAT II promotion leafl</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

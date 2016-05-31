@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FCSL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCSL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>L  Fritz Culver FCSL    W    W LINE PULL      LT  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FCS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>received. Alignment errorsA counter that increments each time a received frame has an FCS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IFCSVibration</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IFCSVibration</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>switches  IFC   IFCSVibration switch  INV   INVRPoles          Nominal current  A                        b  Push button panels and signallers CS  Seri</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PSFCSquare</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PSFCSquare</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>om  flange size PSFCSquare flange clampISO      Please add the suffixes below according</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RFCSPECIALTYLOCKING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RFCSPECIALTYLOCKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs> RFCSPECIALTYLOCKING DEVICESRINGFEDER CORPORATIONW       RINGFEDER Products are available from MARYLAND METRICS P O  Box       Owings Mills  MD       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

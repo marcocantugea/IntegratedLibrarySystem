@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>ONNAGE GRT  1,243 tons NRT  413 tons MACHINERYMAIN ENGINES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>    m   TONNAGE GRT        tons NRT      tons MACHINERY MAIN ENGINES    EMD        G A BRAKE HORSEPOWER       REDUCTION GEARS    Reintjes Double Reduc</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13910-HY-0470DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13910-HY-0470DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>13910-HY-0470DRILLINGRT FREE ROTATION1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d IIC T3C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14010-HY-0473DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14010-HY-0473DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>14010-HY-0473DRILLINGRT SUPPLY FOR LUBRICATION1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>15310-HYH-0472DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15310-HYH-0472DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15310-HYH-0472DRILLINGRT GEAR LOCK OFF1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0711-M 24DC NG6  EXDCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>15710-HYL-0472DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15710-HYL-0472DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>15710-HYL-0472DRILLINGRT GEAR LOCK ON1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0711-M 24DC NG6  EXDCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>18110-SE-0470DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>18110-SE-0470DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18110-SE-0470DRILLINGRT SPEED SENSOR1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHNorwayNCB10-30GM40-N0-15M-PUR (208595)PTB 00 ATEX </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>18310-TT-0479DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>18310-TT-0479DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18310-TT-0479DRILLINGRT LUBE OIL TEMP1DF DRILL FLOOR / ZONE2DITTMERNorway21003950DEMKO 03 ATEX 135011X&lt;Ex&gt; II 1 G EEx ia IIB T4</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>18410-WT-0471DRILLINGRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>18410-WT-0471DRILLINGRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18410-WT-0471DRILLINGRT TORQUE PRESSURE1DF DRILL FLOOR / ZONE2FISHER - ROSEMOUNT ASNorway2088G-4-S-22-A-1-K6-Q4-B4, 0-275 BARBA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

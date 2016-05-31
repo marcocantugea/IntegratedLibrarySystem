@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MGO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\542.IT01\542.IT02.F01 Formato Reporte Diario de Posición - Daily Position Report (11-Oct-12).docx</filepath>
+        <Paragraphs>    Consumption MGO            m      Consumo del MGO      Remaining MGO     m     Restante del  MGO     Bunker required  ordered     mT     Requerido</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(01) Start Voyage Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO        CM    Consumo del MGO     Remaining MGO            CM    Restante del MGO     Bunker required          CM    Requeridos    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(02) 24.03.15 (0600) Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(03) 24.03.15 (1800) Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(04) 25.03.15 (0600) Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO       CM    Consumo del MGO    Remaining MGO             CM    Restante del MGO    Bunker required          CM    Requeridos    Co</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(05) 25.03.15 (1800) Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO     Bunker required          CM    Requeridos  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(06) 26.03.15 (0600) Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO     Bunker required          CM    Requeridos  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\First Voyage 03-24-15 to 03-26-15\(07) End of Passage Report 26.03.15 (0830).docx</filepath>
+        <Paragraphs>    Consumption MGO          CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(01) Start Voyage Daily Position Report (DPR) Tuxpan to Mirus 1.doc</filepath>
+        <Paragraphs>    Consumption MGO        CM Consumo del MGO Remaining MGO            CM Restante del MGO Bunker required          CM Requeridos  Consumption Lub  Oi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(02) 29-03-2015 (0600) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(03) 29-03-2015 (1800) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(04) 30-03-2015 (0600) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO     Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(05) 30-03-2015 (1800) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO     Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(06) 31-03-2015 (0600) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO     Remaining MGO            CM    Restante del MGO     Bunker required          CM    Requeridos </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(07) 31-03-2015 (1800) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(08) 01-04-2015 (0600) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO     Remaining MGO            CM    Restante del MGO     Bunker required          CM    Requeridos </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(09) 01-04-2015 (1800) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO     Remaining MGO            CM    Restante del MGO     Bunker required          CM    Requeridos </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(10) 02-04-2015 (0600) Daily Position Report (DPR) Tuxpan to Mirus 1.docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(11) 02-04-2015 (1800) Daily Position Report (DPR) Tuxpan to Mirus 1.doc</filepath>
+        <Paragraphs>    Consumption MGO           CM Consumo del MGO Remaining MGO            CM Restante del MGO Bunker required          CM Requeridos  Consumption Lub </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\01 Reporte viaje HEM-1 to MIRUS-1\Second Voyage 03-28-15 to\(12)End of Passage Report 02.04.15 (2331Hrs.).doc</filepath>
+        <Paragraphs>    Consumption MGO          CM Consumo del MGO Remaining MGO            CM Restante del MGO Bunker required          CM Requeridos  Consumption Lub  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MGO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\02 Reporte viaje MIRUS-1 to EXPLORATUS-1DL\19-07-15\(02) End of Passage Daily Position Report (DPR).docx</filepath>
+        <Paragraphs>    Consumption MGO           CM    Consumo del MGO    Remaining MGO            CM    Restante del MGO    Bunker required          CM    Requeridos   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CGD200</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGD200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CGD200</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGD200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMPS TYPES.pdf</filepath>
+        <Paragraphs>CGD200 V84 FAN HD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGD200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>CGD200 V84 FAN HD </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CGD250</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGD250</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>CGD250</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGD250</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMPS TYPES.pdf</filepath>
+        <Paragraphs>2 9 841-PA-002 A to D Central Fresh Cooling Water Pump, AFT CGD250 V48 FAN HD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CGD250</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>2  9 841-PA-002 A to D Central Fresh Cooling Water Pump, AFT CGD250 V48 FAN HD </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWDCGD200</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWDCGD200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMPS TYPES.pdf</filepath>
+        <Paragraphs>ing Water Pump  FWDCGD    V   FAN HD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FWDCGD200</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>SOH221 W G11E-HS/12 2  8 841-PA-001 A to D Central Fresh Cooling Water Pump, FWDCGD200 V48 FAN HD </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

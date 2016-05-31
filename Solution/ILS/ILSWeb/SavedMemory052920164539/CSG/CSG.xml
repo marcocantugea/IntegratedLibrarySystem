@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>  O D DP   DC   CSG Head      Kg           Lbs  for    to          O D         to     OD Casing Head        Kg           Lbs  for     to       O D    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_Basin_Newsletter_4_Dec2010.pdf</filepath>
+        <Paragraphs>ation sessions  CSG is a new business in NSW  and it is important to us that as many  people as possible get information about our business directly f</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>  O D DP   DC   CSG Head      Kg           Lbs  for    to          O D         to     OD Casing Head        Kg           Lbs  for     to       O D    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>The CSG and LCSG have the same basic thread design. The threads have a </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA New Format Drilling\Rig Floor\Running Casing.docx</filepath>
+        <Paragraphs>ailure dropping CSG and pinch points    Personal injury down time if we lose the string of CSG    M    M    M    Get the rotary area clear of objects </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LCSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LCSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>The CSG and LCSG have the same basic thread design. The threads have a </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>XCSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>XCSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>The XCSG (Extremeline) couplings are different from the other three </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

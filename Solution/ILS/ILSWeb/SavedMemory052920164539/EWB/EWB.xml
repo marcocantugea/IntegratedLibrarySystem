@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>NEWBerm</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEWBerm</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\SPILL-CONTROL-ENVIRONMENTAL-English.pdf</filepath>
+        <Paragraphs>round Mat       NEWBerm Repair KitsRepair lightly damaged berms Use to repair berms having small holes  abrasion points  and small tears  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEWBUILDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEWBUILDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>NEWBUILDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>EWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BIG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs> BIG COUNTRY/GO RHINOEmpresa 100% mexicana</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge Pump MP_NR120_r1_manual.pdf</filepath>
+        <Paragraphs>/ BIG HOSE CLAMP 01 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Big_Blue_Bowl_Cleaner_ABC_msds.pdf</filepath>
+        <Paragraphs>BIG BLUE BOWL CLEANER Product Numbers  ABC Section   Composition Information on Ingredients Nonyl phenol ethoxylate C A S                  Sodium carb</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>BIG LAKE, TX   PHONE:  915/884-2556 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>BIG LAKE, TX   PHONE:  915/884-2556 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

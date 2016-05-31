@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>314C6A46-1AFB-4FF3-9634-2B0E307D49F6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>314C6A46-1AFB-4FF3-9634-2B0E307D49F6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Invoicing\CALO820702TX3_317_FAC_20150119.pdf</filepath>
+        <Paragraphs> FISCAL  UUID      C A    AFB  FF        B E   D  F  NO  DE SERIE DEL CERTIFICADO DEL SAT                       NO  DE SERIE DEL CERTIFICADO DEL EMISO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2501AFB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2501AFB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs> P/N 2501AFB       Brown</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AFB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

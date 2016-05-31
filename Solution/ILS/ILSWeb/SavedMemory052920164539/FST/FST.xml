@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PROTECTIONOFSTEERING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROTECTIONOFSTEERING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>PROTECTIONOFSTEERING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FST</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>r slack tanks   FST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>lack tanks      FST      m      Is the transverse free surface correction for slack tanks      GoML      m      Is the longitudinal metacentric height</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FST</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>3.   þ  Insert tail of FSC clamp into FST clamping tool.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GULFSTREAM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GULFSTREAM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NVA807_MEX-SPA_SPA_A1.pdf</filepath>
+        <Paragraphs>sAQUAGUARD      GULFSTREAM BLUE PART APedido deventas   SalesOrd N     de referencia de ventas porvolumen Fecha de revisi   n de la Hoja deDatos de Se</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FST-711617</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FST-711617</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>on hose sizes with a 2224 maximum O.D.FST Clamp ToolPart Number: FST-711617 Used to </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ORFSTube</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ORFSTube</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SAE 52M0115ISO 8434-3 BRSL(*Parts delivered oil dipped finish only Ð steel) ORFSTube O.D.Weight</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FSTANDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSTANDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>FSTANDA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

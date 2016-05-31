@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ASNT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASNT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>LEVEL ASNT II 3.1Structural welding code AWS d1.1/DI.IM:2004 Structural Welding Code - Steel.                                   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASNT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>LEVEL ASNT II 3.1Structural welding code AWS d1.1/DI.IM:2004 Structural Welding Code - Steel.                                   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASNT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>LEVEL ASNT II 3.1Structural welding code AWS d1.1/DI.IM:2004 Structural Welding Code - Steel.                                   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASNT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>pector RA NII   ASNT Level    NDT Supervisor               Per Man      Hr  Day          x Rope Access SPRAT   ASNT NDT Level   Tech                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ASNT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Quotation\VER-389-15.Rev.0-SIS-LGI-NDT-MURALLA IV.pdf</filepath>
+        <Paragraphs>or   RA NII     ASNT Level      NDT   Supervisor      Per Man      Hr  Day                  x  Rope Access SPRAT   ASNT NDT Level   Tech   Per Man    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>18510-XX-0209DRILLINGDFMA ANTENNE1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SIMPLE APPARATUSCOMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs> IP-ratingRemark 164710-XX-0055DRILLINGRISER FEEDING MACHINE ANTENNA1DRILL FLOOR / ZONE2MICRO CONTROL ASNorwayCOMANT450DDNV-2003-OSL-ATEX-0087SI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

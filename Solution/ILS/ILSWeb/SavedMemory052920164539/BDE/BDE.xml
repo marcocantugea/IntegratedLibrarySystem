@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ORMOLYBDEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ORMOLYBDEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ORMOLYBDEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELLERMOLYBDEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELLERMOLYBDEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ELLERMOLYBDEN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOLYBDEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOLYBDEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs> DO NOT USE SILICONE, PTFE OR MOLYBDEN BASED LUBRICANTS. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1190175-HS-001BDELUGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1190175-HS-001BDELUGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1190175-HS-001BDELUGE STATION -OUTSIDE WELL TEST EQUIPMENT AREAWELL TEST EQUIPMENT AREAUPPER DECK3026DA961E015-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1192175-HS-002BDELUGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1192175-HS-002BDELUGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1192175-HS-002BDELUGE STATION -CELLAR DECKCELLAR DECKLOWER DECK3026DA961E013-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1195175-HS-004BDELUGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1195175-HS-004BDELUGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1195175-HS-004BDELUGE STATION -EMBARKATION AREAAFT LIFE BOATUPPER DECK3026DA961E015-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1197175-HS-005BDELUGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1197175-HS-005BDELUGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1197175-HS-005BDELUGE STATION -DRILL FLOORDRILL FLOORDRILL FLOOR3026DA961E018-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1199175-HS-006BDELUGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1199175-HS-006BDELUGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1199175-HS-006BDELUGE STATION -FWD LIFE BOATFWD LIFE BOATUPPER DECK3026DA961E015-MEDCPBEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BDEMKO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BDEMKO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>BDEMKO 02 ATEX 132033XEEx ia IIC T6COMPLETE ASSY.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

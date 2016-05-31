@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HOL-SCAFFWRET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOL-SCAFFWRET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>HOL-SCAFFWRET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUDFWRespiratoria</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUDFWRespiratoria</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Deck-and-Fence-Cleaner-Concentrate-Spanish-MSDS-ZUDFW.pdf</filepath>
+        <Paragraphs>ZUDFWRespiratoria</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FFWR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFWR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> FFWR method with trivalent chromate passivation on zinc plating of carbon steel components without lubrication Seal LokTorque Conversion Equivalents</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SizemminchNmFFWR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SizemminchNmFFWR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SizemminchNmFFWR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FWR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FWR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>FWR format and it usually uses a 223canned224 selection of </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

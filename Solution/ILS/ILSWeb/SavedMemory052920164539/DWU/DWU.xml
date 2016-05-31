@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DWU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DWU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>p) See DWU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DWU-Well</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DWU-Well</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>e Manual    See DWU Well Control Manual              BLOWOUTS   GAS RELEASE     Once the driller experiences an abnormality with the drilling operatio</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

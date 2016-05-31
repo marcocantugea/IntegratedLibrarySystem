@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WCCU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WCCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>SERV537 WCCU Maintenance (3M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WCCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs> WCCU Maintenance   M RCU     HE    ARemote Condensing Unit Amos   Enterprise Management  Printed By AMOS DB Build Team Printed                     Wo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WCCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\194.022\16 CM  LCP in WCCU for CCR LER BCR.docx</filepath>
+        <Paragraphs>O No            WCCU Control Panel in Fan Room Accom  Nav  Deck M           Status   Pending        Type    CM    Priority  Critical    Requestor  Agu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WCCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\Repair discharge valve for WCCU (191-HE-321A).docx</filepath>
+        <Paragraphs>harge valve for WCCU      HE     A      Page   P gina         OF  De         TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WCC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WCC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Lakach - Rig Assessment Rev 01 Comp  2.pdf</filepath>
+        <Paragraphs>    and   for   WCC     tubing  hanger    gaskets    shear   pins   etc     is required               Appendix    No       Muralla IV  Rig Contacts   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

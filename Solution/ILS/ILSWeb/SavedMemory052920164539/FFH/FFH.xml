@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FFHand</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFHand</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Winning_Hands_Foaming_Hand_Sanitizer_FF_754_msds.pdf</filepath>
+        <Paragraphs>Sanitizer FFHand Sanitizer</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFFHS32CFonly</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFFHS32CFonly</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>surface and material Steel, zinc plated, chrome6-freeCFFHS32CFonly flange half Steel, zinc yellow platedA3CFHS32A3CXonly flange half</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCFFHSF32CFonly</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCFFHSF32CFonly</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>surface and material Steel, zinc plated, chrome6-freeCFFHSF32CFonly flange half Steel, zinc yellow platedA3CFHSF32A3Conly flange half</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>DRINKINGWATERSYSTEMSANDCOOLERSSeparate</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>SYSTEMSFORMACHINERYINPONTOONSANDCOLUMNSElectrical</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>1049961-ASH-046DCOMBUSTIBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>1049961-ASH-046DCOMBUSTIBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1049961-ASH-046DCOMBUSTIBLE GAS DETECTOR-CEMENT ENCLOSURECEMENT ENCLOSUREUPPER DECK3026DA961E015F586HONEYWELL S ENSEPOINT PR O Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCOMM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCOMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs>  Red Battery needs replacement  COMM 0 Off Flashes when communications are active   Green   DCOMM Off User configured co</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DCOMM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>  Red Battery needs replacement  COMM 0 Off Flashes when communications are active   Green   DCOMM Off User configured co</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SECTION1--CHEMICALPRODUCTANDCOMPANYIDENTIFICATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SECTION1--CHEMICALPRODUCTANDCOMPANYIDENTIFICATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\02-10 Critical Care.pdf</filepath>
+        <Paragraphs>afetyDataSheet  SECTION   CHEMICALPRODUCTANDCOMPANYIDENTIFICATION ProductName CriticalCare EPARegNo               IssueDate         DateRevised       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Best_Scent_Conc_Malodor_Neutral_226_msds.pdf</filepath>
+        <Paragraphs>DBO5 et DCO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OILFIELDCORPORATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OILFIELDCORPORATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\17 - DRILL PIPE GREASE OIM\Graxa Para Drill Pipe.pdf</filepath>
+        <Paragraphs>www.jetlube.comOILFIELD OILFIELD OILFIELD OILFIELD OILFIELDCORPORATE LOCA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

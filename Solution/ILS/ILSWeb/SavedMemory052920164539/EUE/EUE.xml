@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EUE-2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EUE-2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>LP-0, NUE-1, EUE-2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EUE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EUE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>/A EUE 05</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OFFSHORE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs>            OEG OFFSHORE       DNV                A   ZONE      ATEX CAT       ENGINEERING   CABIN         Section      Design Standards     Section  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>OEG OFFSHORE    TW          HSCOPYRIGHT THIS DRAWING REMAINS THE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>OEG OFFSHORE    TW          HSCOPYRIGHT THIS DRAWING REMAINS THE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OFFSHORE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>OFFSHORE RIGS) 1. 10,000 psi gate valves.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REGISTEROFSHIPPING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REGISTEROFSHIPPING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>REGISTEROFSHIPPING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FFSH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FFSH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>FFSH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

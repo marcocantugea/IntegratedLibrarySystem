@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FRProduct</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRProduct</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>ts PROSHIELD    FRProduct detailColour Reference Model CHF   White with orange seams     PFR CHF  S WH   SIZE  M to XXXL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRPSOHWH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRPSOHWH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>G  H ILOH IRU D FRPSOHWH OLVW RI VXSSRUWHG SULQWHUV  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FRPSOHWH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>G  H ILOH IRU D FRPSOHWH OLVW RI VXSSRUWHG SULQWHUV  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRPSXWHU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRPSXWHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>VWDOOHG RQ  RXU FRPSXWHU DUH GLVSOD HG  RZHYHU RQO  WKH SULQWHUV WKDW FDQ SULQW WKH FXUUHQWO  VHOHFWHG ODEHO W SH DUH DYDLODEOH   HOHFW WKH SULQWHU WK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FRPSXWHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>VWDOOHG RQ  RXU FRPSXWHU DUH GLVSOD HG  RZHYHU RQO  WKH SULQWHUV WKDW FDQ SULQW WKH FXUUHQWO  VHOHFWHG ODEHO W SH DUH DYDLODEOH   HOHFW WKH SULQWHU WK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

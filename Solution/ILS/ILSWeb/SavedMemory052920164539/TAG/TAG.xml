@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STAGES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STAGES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>STAGES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ITAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ITAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-033.pdf</filepath>
+        <Paragraphs>BA5199994  BA0013409 ITAG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ITAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 710827 - 1 ~04272011053449.pdf</filepath>
+        <Paragraphs>ITAG KELLY-VALVE 15000 PSI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-039.pdf</filepath>
+        <Paragraphs>VOLTAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\WM-GL-EN-016.pdf</filepath>
+        <Paragraphs>VOLTAGE TEST AREA224) is suitable. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\01 MAR 2014 2200.pdf</filepath>
+        <Paragraphs> NO HIGH VOLTAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\04 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   ENGINE ROOMS, ENGINE WORKSHOP, SHALESHAKERS, LV ROOM 10:00 HRS MARCH 4TH 2014 LOW VOLTAGE PANEL WITH HIGH VOLTAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\25 Ventilation Room Fwd Stbd.pdf</filepath>
+        <Paragraphs>SE321ALIZACI323N DE ALTO VOLTAGE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\20 Low voltage rooms M151 &amp; M154.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     LOW VOLTAGE ROOMS M151 &amp; M154 22:00 HRS JUN 20thCLEAR AND FREE AISLES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>VOLTAGE AND FREQUENCY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1163176-HS-021LOCAL MANUAL RELEASE BOX /INERGENM112 -HIGH VOLTAGE ROOM M117LOWER DECK3026DA961E013-TYCO-Z</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP824.pdf</filepath>
+        <Paragraphs>961-MAC-12-007A HIGH VOLTAGE ROOM M119 LOWER DECK F323 Page 1 of 1 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>VOLTAGE AND FREQUENCY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>VOLTAGE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>NG DEPL OYED AS VOLTAGE  IS PRESENT ON CONNEC TORS WHEN SYSTEM POW ER IS APPLIED     Power  Supply   Typica lly Jupiter   Subsea Control Systems are p</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>NOTE: THE DUCT HEATER FOR THAT ROOM IS NEXT: ROOM A216 GALLEY TAG NO. 194-FT-502JAmos 2 Enterprise Management</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>TAG No.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>TAG NO.EQUIPMENT DESCRIPTIONQ'TY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PUMP - TAG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>  ITEM 1: BALLAST PUMP - TAG NO. 162-PA-001-A TO H   Fluid/Density/Temp :   Sea water / 1025 kg/m263 / 32 272 C  No. Off </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>O               TAG NO       HCV </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>TAG [10 sheets of 42 labels]   10065875  þ  TA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Monochlorosilane ClH3Si Safety Data Sheet SDS P196401.pdf</filepath>
+        <Paragraphs>t             C TAG CC ASTM D         Critical temperature              C   Auto   ignition temperature       No data available       Decomposition te</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\TOP DRIVE MAINTENANCE.pdf</filepath>
+        <Paragraphs>MAIN TAG NUMBER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\02 Cement room .pdf</filepath>
+        <Paragraphs>TAG FROM KOREA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\11 Mud pump room.pdf</filepath>
+        <Paragraphs>EQUIPMENT LOCKOUT WITHOUT TAG OUT   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>DSME TAG NO.WEIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\11 DATS'skid Starboard side.pdf</filepath>
+        <Paragraphs>ION TAGS &amp; SAFETY PINS IN PLACE) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>LANGE  OPENING  TAGS  AUXILIARIES  PV   open </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VANTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VANTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>OFF ROADPOWER SPORTS ATV OFF ROAD PRO VANTAGE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STAG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COOLINGPUMP-TAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COOLINGPUMP-TAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COOLINGPUMP-TAG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STAGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OVERVOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OVERVOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Overvoltage OVERVOLTAGE (3)TENSION &gt;&gt; (3)10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERVOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERVOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Undervoltage UNDERVOLTAGE (3)TENSION &lt;&lt; (3)11</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Undervoltage27UNDERVOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Undervoltage27UNDERVOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Undervoltage27UNDERVOLTAGE (1)TENSION &lt;&lt; (1)Positive sequence undervoltage27DPositive sequence undervoltageUNDERVOLTAGE.PS TENSION Vd &lt;&lt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Overvoltage59OVERVOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Overvoltage59OVERVOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Overvoltage59OVERVOLTAGE (1)TENSION &gt;&gt; (1)Neutral voltage displacement59NVo FAULT DEFAUT Vo </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SMONTAGGIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SMONTAGGIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>SMONTAGGIO DEL GIUNTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Heater Resistor ValuesVOLTAGEDCorACSPACEHEATERRESISTOROHM           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADVANTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADVANTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>factor of respirator          Air-Purifying Respirators 14 Facepiece Accessories*Also requires RD40 Adapter P/N 10065330 ADVANTAGE 420 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ADVANTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs> ADVANTAGE     LS  TALLA M  RESPIRADOR ADVANTAGE     LS DISE   O LIVIANO Y ULTRAPLANO  PROTECCI   N RESPIRATORIA      M   scaras M   scaras     PROTEC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAGLINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGLINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>   REMOTE POWER TAGLINE SYSTEM Ideal for use in applications where bridge cranes or other   temporary overhead obstructions exist and fall protection </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAGLINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>TAGLINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VAQUETAGuante</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VAQUETAGuante</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>abrasión y mayor suavidad al contacto.2012GUANTE EN VAQUETAGuante en vaqueta combinada con </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAGwriter</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGwriter</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>TAGwriter</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TAGwriter</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>TAGwriter alphaHUD in Ultra Elite maskalphaHUDUsing a non-distracting LED display at the perimeter of your field of</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>alphaTAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>alphaTAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>using through the alphaTAG identi037cation tag. alphaTAG222s are </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>alphaTAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>the alphaTAG identification tag. alphaTA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>alphaTAG222s</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>alphaTAG222s</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>using through the alphaTAG identi037cation tag. alphaTAG222s are </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADVANTAGE256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADVANTAGE256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>SAI Global      ADVANTAGE        SERIES An important characteristic of the Advantage        is user friendliness  The innovative patent pending single</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10065873alphaTAG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10065873alphaTAG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>ent  set of             alphaTAG  set of            Labels for alphaTAG     sheets of    labels          TAGwriter  including USB cable  Leaflet      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10065875TAGwriter</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10065875TAGwriter</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>s of    labels          TAGwriter  including USB cable  Leaflet        alphaSCOUT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAGOUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>boxes LOCKOUT   TAGOUT     Honeywell Safety Productswww honeywellsafety com TRAININGHoneywell Safety Products supports a positive program to deliver w</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AVANTAGES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AVANTAGES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> FLEX SEAL256 CHARACTERISTICS &amp; AVANTAGES </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADVANTAGES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADVANTAGES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>ADVANTAGES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ADVANTAGES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI description.pdf</filepath>
+        <Paragraphs>SE &amp; ADVANTAGES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ADVANTAGES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI Spec Tec.pdf</filepath>
+        <Paragraphs>  2.   BACKGROUND, PURPOSE AND ADVANTAGES  1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAGMEX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAGMEX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>TAGMEX N 979</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EFFECTSMUTAGENIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EFFECTSMUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Destainer_300_477_msds.pdf</filepath>
+        <Paragraphs> CARCINOGENIC EFFECTSMUTAGENIC EFFECTSTERATOGENIC EFFECTSDEVELOPMENTAL TOXICITY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MUTAGENIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\document(1).pdf</filepath>
+        <Paragraphs>mal   by ACGIH  MUTAGENIC EFFECTS  Mutagenicfor mammalian somatic cells  Non mutagenic for bacteria and or yeast  TERATOGENIC EFFECTS  Not available D</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fekkai_Apple_Cider_Shampoo_96288047_EN_6.JUN.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fekkai_Essential_Shea_Shampoo_96174060_EN_6.JUN.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\FEKKAI_PRX_REPARATIVES_MENDING_ELIXIR_EN_96245344_13-June-2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gillette_Cool_Wave_Power_Beads_Clear_Gel_Antiperspirant_Deodorant_99883647_EN_16.APR.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Gillette_Wild_Rain_Clear_Gel_Deodorant_99844681_EN_16.APR.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HERBAL_ESSENCES_COLOR_ME_VIBRANT_HAIR_COLOR_KIT_KT00047_KIT_EN_4-25-13[1].pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HERBAL_ESSENCES_FLEXIBLE_HOLD_SPRITZER_96309073_EN_6-5-13.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Herbal_Essences_TeaLightfully_Clean_Refreshing_Conditioner_96385193_2-May-2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Miss_Clairol_Root_Touch_Up_Shade_5_Light_Brown_95409237_EN_15.AUG.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\NIOXIN_SCALP_RECOVERY_KT00042_09-May-2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity                                    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Olay_Fresh_Effects_Out_of_This_Swirled_Deep_pore_clean_plus_exfoliating_scrub_essence_of_green_apple_and_jasmine_96419347A_30_May_2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Olay_Regenerist_Regenerating_Night_Recovery_Cream_99594484_EN_30.APR.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Olay_Regenerist_Regenerating_Serum_Fragrance_Free_99495467_EN_30.APR.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\OLD_SPICE_FIJI_2IN1_SHAMPOO_AND_CONDITIONER_MTR_PGNA_EN_06-06-2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PANTENE_PRO-V_ANTI-BREAKAGE_WITH_VITAMIN_E_2IN1_SHAMPOO_&amp;_CONDITIONER_92324581_31-May-2103.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Anti-Breakage_with_Vitamin_E_Shampoo_92357382_03Jun2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Aqua_Light_Conditioner_96327054_6-3-13.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Color_Preserve_Shine_Shampoo_92359187B_03Jun2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Damage_Detox_Weekly_Rehab_Creme_96329866_EN_25.APR.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Everlasting_Ends_Shampoo_92376325_03Jun2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Heat_Shield_Shampoo_96288506_04JUN2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Ice_Shine_2in1_Shampoo_&amp;_Conditioner_92376674_31-May-2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Truly_Natural_Deep_Conditioner_96327004_6-3-13.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUTAGENIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Secret_Brazil_Rainforest_Mist_Invisible_Solid_96301493_EN_13.AUG.2013.pdf</filepath>
+        <Paragraphs> into account   MUTAGENIC EFFECTS  There are no known mutagenic chemicals in this product   Developmental Toxicity  No known effect   Teratogenicity  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TAPERADVANTAGESElimination</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TAPERADVANTAGESElimination</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SERIES 303 and 306 Ð SINGLE TAPERADVANTAGESElimination of keys, keyways or splines and fitting costs</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

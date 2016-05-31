@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ABBREVI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABBREVI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>2.2 ABBREVI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>2.2 ABBREVI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABBREVIATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs> 2.2 ABBREVIATIONS  Symbol  Description  Unit  S.G(Rho) SPECIFIC GRAVITY t/ m3  RED STEEL REDUCTION %  VNET NET VOLUME OF COMPARTM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs> 2.2 ABBREVIATIONS  Symbol  Description  Unit  S.G(Rho) SPECIFIC GRAVITY t/ m3  RED STEEL REDUCTION %  VNET NET VOLUME OF COMPARTM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>                ABBREVIATIONS                                                                                                                         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>ABBREVIATIONS ............................................................................................................. 5</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\10000932772 -PDC-000 Manual Riser telescopic Joint.pdf</filepath>
+        <Paragraphs>ABBREVIATIONS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs>1.4 ABBREVIATIONS .............................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BBREVIATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BBREVIATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\15 ROV - VOR\Procedimiento\Anexos Procedimiento 077.PR001\KS-R-MA-001_R3 ROV Ops Manual (1).pdf</filepath>
+        <Paragraphs>               ABBREVIATIONS                                                                                                                          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>767002BLBBRM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>767002BLBBRM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>767002BLBBRM Premium  Black/ Dark Classic </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABBREVIATI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABBREVIATI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Clear_Cleaner_28oz_CL-12_msds.pdf</filepath>
+        <Paragraphs>equired    MSDS ABBREVIATI ONS    N  A     Not Applicable     N  D     Not Determined     N E     Not Established     C    Ceiling Limit     HAP    Ha</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

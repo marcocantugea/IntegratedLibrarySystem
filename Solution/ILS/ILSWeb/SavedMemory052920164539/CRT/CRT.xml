@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>CRT 500 CASING RUNNING TOOL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>CRT 500 CASING RUNNING TOOL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>Casing Running ToolCRT-14Designed for running casing, the type CRT 14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ToolCRT-14Designed</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ToolCRT-14Designed</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco.pdf</filepath>
+        <Paragraphs>Casing Running ToolCRT-14Designed for running casing, the type CRT 14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

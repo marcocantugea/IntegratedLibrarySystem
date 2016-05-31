@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BRT02SBK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRT02SBK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BRT02SBK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRT09BXK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRT09BXK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BRT09BXK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRT09CCK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRT09CCK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BRT09CCK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PageSBRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PageSBRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>PageSBRT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SBRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SBRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>31 Model NumberPVE125AKU6-603LX, SBRT  32</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WBRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WBRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>meti  Jet Sub   WBRT con NSP  colocandolo   en su posici n y sac   a la superficie  baj  barren a de               PAG                 DE          Pro</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NBRTemperature</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NBRTemperature</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>NBRTemperature range </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>depth reference. The abbreviation BRT (below rotary table) and RKB </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\10 Cement room .pdf</filepath>
+        <Paragraphs>LACK OR EQUIPMENT ORGANIZATION  CUBETAS CDE LUBRICANTES EN DESORDEN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AB CDE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABCDEF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABCDEF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>CI   N ABCD ABC ABCDEF XYZ  Producto estrella   Nuevo producto  EXPLICACI   N DE LOS ICONOS EXPLICACI   N DE LOS ICONOS Agricultura y viticultura </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABCDEFGHIJKL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABCDEFGHIJKL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>Servicios de limpieza  Sol-Knit256, Hycare256, Econohands256 Plus, Conform256 + 64CAT301LOGO DE SOLUCIONES DE PROTECCI323N ABCDEFGHIJKL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OCDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OCDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_Antispatter.pdf</filepath>
+        <Paragraphs>rmonizado de la OCDE de clasificaci   n de riesgos para la salud humana y el medio ambiente producidos por m ezclas y  sustancias qu   micas      Carc</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OCDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SimpleGreenAllPurposeCleaner.pdf</filepath>
+        <Paragraphs>OCDE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OCDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SimpleGreenCrystal.pdf</filepath>
+        <Paragraphs>OCDE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

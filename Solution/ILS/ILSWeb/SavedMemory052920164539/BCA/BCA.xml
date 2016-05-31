@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CBCA-LAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CBCA-LAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-005.pdf</filepath>
+        <Paragraphs>lve CBCA-LAN BA0053579  2 Test point </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>63F12AA1E594B7192EC180BCABB5A660C</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>63F12AA1E594B7192EC180BCABB5A660C</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Invoicing\Factura de clientes 19012.pdf</filepath>
+        <Paragraphs>63F12AA1E594B7192EC180BCABB5A660C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUMPBCAVITIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMPBCAVITIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PUMPBCAVITIES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs> All the buildings will be fitted with smoke detectors and fire extinguishers to comply with BCA standards.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>can1040LUBCAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>can1040LUBCAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Complete device including Combination dies and pin Tool lubricant 0.1L can1040LUBCAN Features, advantages and benefits1.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUBSSLUBCAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUBSSLUBCAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>ting surfaces or seal materials. LUBSSLUBCAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

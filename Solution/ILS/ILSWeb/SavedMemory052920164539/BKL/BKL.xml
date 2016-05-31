@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SHL1009060BKL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHL1009060BKL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\brochure-msa.pdf</filepath>
+        <Paragraphs>N  SRCC    P N  SHL       BKL    L   nea temporal cuerda negra de      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BKL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>BKL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

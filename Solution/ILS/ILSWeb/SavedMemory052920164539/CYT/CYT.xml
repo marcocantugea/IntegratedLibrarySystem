@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FREQUENCYThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREQUENCYThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs> L  VOLTAGE AND FREQUENCYThe motors described in this catalogue  if not otherwise specified  are designed to operate under feeding voltage of    V    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREQUENCYThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs> L  VOLTAGE AND FREQUENCYThe motors described in this catalogue  if not otherwise specified  are designed to operate under feeding voltage of    V    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EFFICIENCYThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EFFICIENCYThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>CONVENIENCE AND EFFICIENCYThe i-Safe 3.1 mobile app can be used with devices such as </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

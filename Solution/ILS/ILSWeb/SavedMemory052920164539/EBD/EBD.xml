@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EEBDs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EEBDs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\SOLAS TRAINING MANUAL REV 3.docx</filepath>
+        <Paragraphs>s               EEBDs y capuchas de escape                Practica segura contraincendio                Equipo de Deteccion y extinction de incendios </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBDs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\NORMAS PANAMA\IMO 1432.pdf</filepath>
+        <Paragraphs>check EEBDs according to maker's instructions. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\SOLAS TRAINING MANUAL REV 3.docx</filepath>
+        <Paragraphs>               EEBDs y capuchas de escape                Practica segura contraincendio                Equipo de Deteccion y extinction de incendios  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EEBD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\SOLAS TRAINING MANUAL REV 3.docx</filepath>
+        <Paragraphs>s               EEBDs y capuchas de escape                Practica segura contraincendio                Equipo de Deteccion y extinction de incendios </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\NORMAS PANAMA\55-3 REGULACION 2011.pdf</filepath>
+        <Paragraphs>EEBD ´s shall be examined at least annually by suitably qualified ship´ staff, or by </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\NORMAS PANAMA\IMO 1432.pdf</filepath>
+        <Paragraphs>all breathing apparatus and EEBD cylinder gauges to confirm they ar</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\NORMAS PANAMA\MMC-281August2013.pdf</filepath>
+        <Paragraphs>athing Devices  EEBDs    g      MSC   Circ          Guidelines f or Performance  and T esting Criteria a nd  Surveys  o f Medium   expansion Concentra</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\MR 3027-14-1025.pdf</filepath>
+        <Paragraphs>EEBD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025 APROBADA.pdf</filepath>
+        <Paragraphs>EEBD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EEBD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025.pdf</filepath>
+        <Paragraphs>EEBD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OBSTRUYEBDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OBSTRUYEBDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\02 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>NEW SHOPS MANGUERA OBSTRUYEBDO PASILLO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EBDC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EBDC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>                EBDC   JCCR   Rev     Reviewed on             Reviewed By  S  Duguid   Quality Manager     e   blast  Ltd  QUALITY ASSURANCE COATING R</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

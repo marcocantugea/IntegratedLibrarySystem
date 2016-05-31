@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>23MACHTM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>23MACHTM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>SNR 32 V1 SNR 30 V3 SNR 32 Mach 1 SNR 23MACHTM 1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HTMANUALTONGSUNIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTMANUALTONGSUNIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>  iv SECTION    HTMANUALTONGSUNIT DIMENSIONS  DIMENSIONAL DATA                                                                                        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HTMANUALTONGSUNIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>  iv SECTION    HTMANUALTONGSUNIT DIMENSIONS  DIMENSIONAL DATA                                                                                        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

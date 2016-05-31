@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HFD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>HFC and HFD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HFD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>fortypes HFC: for HFD types; FKM seals are necessary).</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

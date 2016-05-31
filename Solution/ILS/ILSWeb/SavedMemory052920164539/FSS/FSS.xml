@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>experienced personnel. FSS may use risk based criteria that</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>sleeve with FSS sealant and allow to dry.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>FSS SPOOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GFSSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GFSSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series GFSSAE Straight flange adapterSAE Flange         EO   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WFSSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WFSSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series WFSSAE   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AFTLifeboat</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFTLifeboat</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>Lifeboat Station PORT AFTLifeboat Station ManualCallendar</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LUFTLEKKASJE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LUFTLEKKASJE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>LUFTLEKKASJE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LUFTLEKKASJE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>     LUFTLEKKASJE I AKSELTETNING, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M109LIFTLIFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M109LIFTLIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M109LIFTLIFT M109WHEEL HOUSE3026DA961E019F346TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M113LIFTLIFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M113LIFTLIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M113LIFTLIFT M113UPPER DECK3026DA961E015F344TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

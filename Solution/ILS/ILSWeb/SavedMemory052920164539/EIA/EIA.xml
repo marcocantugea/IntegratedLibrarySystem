@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>Cl2EIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Cl2EIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>0.2 ppm NO2; ; 0.01 ppm Cl2EIA 364-65AIIIA42 days; 75% RH; 30°C (86°F); </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>erface Standard EIA   wire RS     differential Distributed power supply External     V DC or    V DC      Power consumption    mA in receiving mode   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>DESCRIPTION:  EIA 19 Inches Server Racks(OFE)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\ODR-NB08-POR-0016.docx</filepath>
+        <Paragraphs>   x D          EIA Standard type                                                       Ea          RU Server Racks  W     x H     x D           EIA S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Cl2EIA364-65AIIIA42</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Cl2EIA364-65AIIIA42</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>0.2 ppm NO2; 0.01 ppm Cl2EIA364-65AIIIA42 days ; 75% RH ; 30 °C (86 °F) ;</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

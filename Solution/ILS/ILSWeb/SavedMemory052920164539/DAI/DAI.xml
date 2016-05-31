@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>serviceDAILY-SERVICEBRIDGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>serviceDAILY-SERVICEBRIDGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs> doc      Daily serviceDAILY SERVICEBRIDGE CRANE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAILY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>4.4.8 DAILY STABILITY CALCULATION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>                      cumulative VM CUM. (m) equals or exceeds M.  DAILY STABILITY REPORT should then</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>d by using the  DAILY STABILITY REPORT   based on detail knowledge of lightship weight  the center of gravity  and the distribution of variable loads </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\16 Jun Roustabout Office.pdf</filepath>
+        <Paragraphs>DAILY CRANE CHECKLIST WELL PROTECTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>        ITEMS   DAILY   WEEKLY   FORTNIGHTLY   AS REQUIRED   Make beds  clean toilets  showers  sweep and mop  all bedrooms  x  on    hour rig     mor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>    DAILY  CHECKED  A1 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>DAILY  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-DAILY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  La Muralla IV  DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>-DAILY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>  La Muralla IV  DAILY STABILITY REPORT    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HYUNDAI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HYUNDAI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>HYUNDAI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXTENDAIRE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXTENDAIRE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>EXTENDAIRE I</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

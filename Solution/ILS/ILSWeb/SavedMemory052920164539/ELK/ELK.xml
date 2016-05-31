@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ELK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>ELK CITY, OK   PHONE:  405/225-7150 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>ELK CITY, OK   PHONE:  405/225-7150 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

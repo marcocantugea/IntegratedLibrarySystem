@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EQDECK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EQDECK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>EQDECK BOX421FOAM APPLICATOR &amp; BOX1EA0.0900.0900.090-33.5056.52136.863421TF-EXT-APPLICATOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INTEQDrilling</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INTEQDrilling</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>Baker Hughes INTEQDrilling Engineering </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

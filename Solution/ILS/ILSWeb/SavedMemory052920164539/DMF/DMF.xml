@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>KDMFGHTRYKKPUMP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KDMFGHTRYKKPUMP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>KDMFGHTRYKKPUMP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ABCDMF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABCDMF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ABCDMF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DMFGH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMFGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>DMFGH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DMF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene in DMF Trailer Cylinder Gas C2H2 Safety Data Sheet SDS P6201.pdf</filepath>
+        <Paragraphs>e  dissolved in DMF   Safety Data Sheet   P            according to U S  Code   of Federal Regulations    CFR            Hazard Communication    Date </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

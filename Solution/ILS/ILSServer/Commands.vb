@@ -1,10 +1,25 @@
 ﻿Imports ILSCore.ilscore.lib.entities
 Imports System.IO
 
+
 Namespace ilsserver.server
 
-
     Public Class Commands
+        Public hilo As System.Threading.Thread
+        Private _files As FileShowedCollection
+        Private _path As String
+
+        Public WriteOnly Property SetPath() As String
+            Set(ByVal value As String)
+                _path = value
+            End Set
+        End Property
+
+        Public WriteOnly Property SetFiles() As FileShowedCollection
+            Set(ByVal value As FileShowedCollection)
+                _files = value
+            End Set
+        End Property
 
         Public Sub AddPathToSearch(ByVal path As String)
 
@@ -35,8 +50,13 @@ Namespace ilsserver.server
             For Each item As String In l_paths
                 Console.WriteLine("Lookin in " & item & " .....")
                 Dim values() As String = item.Split("?")
-                ProcessDirectory(FilesCollected, values(1))
+                _files = FilesCollected
+                _path = values(1)
+                hilo = New Threading.Thread(AddressOf ProcessDirectory)
+                hilo.Start()
             Next
+            hilo.Join()
+            Console.WriteLine("Files Found :" & _files.Count.ToString)
         End Sub
 
         Public Sub StopManualSearch()
@@ -67,6 +87,10 @@ Namespace ilsserver.server
 
         End Sub
 
+        Private Sub ProcessDirectory()
+            ProcessDirectory(_files, _path)
+        End Sub
+
         Private Sub ProcessDirectory(ByVal FilesCollected As FileShowedCollection, ByVal path As String)
             Try
                 Dim FilesEntries() As String = Directory.GetFiles(path)
@@ -87,7 +111,7 @@ Namespace ilsserver.server
                         filefound.Setfile(item)
                         FilesCollected.Add(filefound)
                     End If
-                
+
                 Next
 
                 Dim subdirectoryEntries() As String = Directory.GetDirectories(path)
@@ -113,6 +137,7 @@ Namespace ilsserver.server
                         newobj.FileRelated = New FileShowed
                         newobj.FileRelated.Setfile(i.FileRelated.GetFullActualPath)
                         newobj.Word = i.Word
+                        newobj.Paragraphs = i.Paragraphs
                         WordsCollected.Add(newobj)
                     Next
                 End If
@@ -124,6 +149,7 @@ Namespace ilsserver.server
                         s_newobj.FileRelated = New FileShowed
                         s_newobj.FileRelated.Setfile(i_item.FileRelated.GetFullActualPath)
                         s_newobj.Word = word
+                        s_newobj.Paragraphs = i_item.Paragraphs
                         WordsCollected.Add(s_newobj)
                     End If
                 Next
@@ -138,7 +164,7 @@ Namespace ilsserver.server
             Catch ex As Exception
                 Throw ex
             End Try
-            
+
 
         End Sub
 
@@ -192,7 +218,7 @@ Namespace ilsserver.server
                             Console.SetCursorPosition(Console.CursorLeft - 6, Console.CursorTop)
                         End If
                     Catch ex As Exception
-                        Console.WriteLine("Error on file " & item.GetFullActualPath & " Error: " & ex.Message.ToString)
+                        'Console.WriteLine("Error on file " & item.GetFullActualPath & " Error: " & ex.Message.ToString)
                     End Try
 
 

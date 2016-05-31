@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FJAER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FJAER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FJAER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FJAERSTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FJAERSTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FJAERSTAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

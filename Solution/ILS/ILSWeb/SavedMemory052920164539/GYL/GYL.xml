@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GYLON256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYLON256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\1stEngineer\Garlock-Gasket-Tech-Manual-GSK3-1.pdf</filepath>
+        <Paragraphs> GYLON256</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYLONGarlock</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYLONGarlock</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\1stEngineer\Garlock-Gasket-Tech-Manual-GSK3-1.pdf</filepath>
+        <Paragraphs> Chemical Resistance of Garlock Compressed Sheet and GYLONGarlock Style Number </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GYLON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GYLON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\1stEngineer\Garlock-Gasket-Tech-Manual-GSK3-1.pdf</filepath>
+        <Paragraphs>C-29 Chemical Resistance of Garlock Compressed Sheet and GYLON</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TECHNOLOGYLight</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TECHNOLOGYLight</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>Diamond Ref.        DYNEEMA256 DIAMOND TECHNOLOGYDYNEEMA256 DIAMOND TECHNOLOGYLight Task Plus 4 Ref.   EN 388 EN 420 Ref.Name</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

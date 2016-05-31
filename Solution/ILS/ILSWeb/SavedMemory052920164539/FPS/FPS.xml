@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FPSO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\2013 Bourbon Opale Español.pdf</filepath>
+        <Paragraphs>TRO     T ipo   FPSO  Floating  production  Storage and  Offloading   D P    Fletante      Fecha de entrega             Constructor         Langs ten </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FPSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\2013 ECO III - Español.pdf</filepath>
+        <Paragraphs>IFICACI N       FPSO  Floating  pro duction  Storage and Offloading  DP       A  o de  construcci n            Se al    COC       Clasificaci n      M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Hydac Nitrogen Charging Kit.pdf</filepath>
+        <Paragraphs>FPS 600 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\ProLEX FPS-510 MSDS English.pdf</filepath>
+        <Paragraphs>FPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PSFPSquare</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PSFPSquare</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>om  flange size PSFPSquare flange plugISO      Please add the suffixes below according</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

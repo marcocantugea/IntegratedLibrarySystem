@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RESERVOIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESERVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-048.pdf</filepath>
+        <Paragraphs> SWIVEL RESERVOIR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESERVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-002 Service Air.pdf</filepath>
+        <Paragraphs>  SERVICE   AIR RESERVOIR    El n mero de serie o  nico de identificaci n     la clave del equipo o n mero de TAG      TAG          VL          N S   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESERVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-003 Bulk Air.pdf</filepath>
+        <Paragraphs>       BULK AIR RESERVOIR   El n mero de serie o  nico de identificaci n     la clave del equipo o n mero de TAG      TAG          VL           N S   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESERVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00 - Pre Arranque\845-VL-004 Control.pdf</filepath>
+        <Paragraphs>    CONTROL AIR RESERVOIR    El n mero de serie o  nico de identificaci n     la clave del equipo o n mero de TAG      TAG          VL           N S  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESERVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs> HYDRAULIC PUMP AND  PRESSURE RELEASE VALVE TO REMAIN OPEN .  (IF RESERVOIR OF HYDRAULIC PUMP IS FULL, RAM (#3)  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RESERVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>RESERVOIR  012015015012</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AVOID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\JSA\ajimenez\00105 lincoln pump.pdf</filepath>
+        <Paragraphs>AVOID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>VERY GOOD PRACTICE, WE AVOID RISKS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>       CONDITIONS  TO  AVOID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>CONDITIONS TO AVOID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>PATABILITIES TO AVOID  STRONG OXIDIZING AGENTS                    HAZARDOUS POLYMERIZATION WILL NOT OCCUR                    CONDITIONS TO AVOID  CONT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>CONDITIONS TO AVOID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs>CONDITIONS TO AVOID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs>CONDITIONS TO AVOID </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Swiffer WetJet Wood Cleaner MSDS Nov 2014.pdf</filepath>
+        <Paragraphs>    SIDE PANEL  AVOID  ACCIDENTS  KEEP OUT OF REACH OF CHILDREN  In case of eye contact  flush with  water to  reduce irritation   If irritation persi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Swiffer_Dry_Sheets_and_Dusters_MSDS_Final.pdf</filepath>
+        <Paragraphs>REN AND PETS TO AVOID ACCIDENTAL INGESTION      SECTION V      FIRE FIGHTING INFORMATIO N    Flash Point  Method Used    N K   Flammable Properties   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Swiffer_Wet_MSDS_Final.pdf</filepath>
+        <Paragraphs>wing precautionary statement: AVOID ACCIDENTS: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB041 - Unlatch BOPs from Well Head R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>OPs          TO AVOID UNNECESSRY  LOAD AND DAMAGE TO THE CMC      of Maximum load on the CMC when hydraulically locked is         lbs  THE CROWN BLOCK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs> AVOID APPLYING HYDRAULIC PRESSURE TO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AVOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>CAPING PRESSURE TO AVOID INJURY.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID 50P</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\17 Jun Void Tank 50S.pdf</filepath>
+        <Paragraphs>V  Safety Tour          VOID TANK 50S     10:00 HRS Jun 17thACCESS AND ROUTES KEPT CLEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\29.VOID SPACE 50Spdf.pdf</filepath>
+        <Paragraphs>VOID SPACE 50 S   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\INSP810.pdf</filepath>
+        <Paragraphs>961-YSH-13-003 VOID 50P COLUMN F217</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\24.VOID SPACE 56P.pdf</filepath>
+        <Paragraphs>VOID SPACE 56P   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>VOID THE STANDARD WARRANTY OF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID25P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID25P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID25P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID25P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID25P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID25S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID25S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID25S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID25S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID25S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID27P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID27P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID27P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID27P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID27P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID27S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID27S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID27S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID27S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID27S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID29P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID29P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID29P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID29P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID29P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID29S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID29S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID29S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID29S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID29S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID31P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID31P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID31P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID31P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID31P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID31S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID31S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID31S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID31S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID31S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID50S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID50S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID50S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID50S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID50S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID52S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID52S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID52S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID52S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID52S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID54P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID54P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID54P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID54P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID54P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID54S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID54S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID54S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID54S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID54S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID56P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID56P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID56P .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID56P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID56P .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOID56S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOID56S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>VOID56S .......................................................................................................................</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOID56S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>VOID56S .......................................................................................................................</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INVOICE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>0 1 21000286 DAP/21000286 INVOICE  Page 1  12-10-2013  Advance payment  SO 574081  Pos Customer reference: Rig:  S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Invoicing\44143 - Rev 1.pdf</filepath>
+        <Paragraphs>law             INVOICE Questions   disputes should be directed to Maris Accounts receivable at ar maris no with reference to the invoice no  Produkt </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Quotation\R-023.pdf</filepath>
+        <Paragraphs>rantia    TOTAL INVOICE USD           Para cualquier reclamacion el cliente tien   dias para reportarlo al proveedor Facturas no pgadas en tiempo son </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 FINAL PYMT INVOICE.pdf</filepath>
+        <Paragraphs>r B O Ship Page INVOICE INV D INVOICE InvoiceNo                  WhenRemitting HALLIBURTONSERVICES P O DRAWER     ATTENTION ACCTSPAYABLE DUNCANOK     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 PRE PYMT INVOICE.pdf</filepath>
+        <Paragraphs>r B O Ship Page INVOICE INV D INVOICE InvoiceNo                  WhenRemitting HALLIBURTONSERVICES P O DRAWER     ATTENTION ACCTSPAYABLE DUNCANOK     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>-70% NET 30 DAYS FROM INVOICE DATE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>-70% NET 30 DAYS FROM INVOICE DATE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>-70% NET 30 DAYS FROM INVOICE DATE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>-70% NET 30 DAYS FROM INVOICE DATE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>-70% NET 30 DAYS FROM INVOICE DATE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0066 JLC SERVICES Casing Bushing\Commercial Invoice ODN21166.pdf</filepath>
+        <Paragraphs>                INVOICE     July     th                                   INVOICE NR   ODN               ODN I GmbH   Leonhardgasse       D           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0066 JLC SERVICES Casing Bushing\Invoice .pdf</filepath>
+        <Paragraphs>                INVOICE     July     th                                   INVOICE NR   ODN               ODN I GmbH   Leonhardgasse       D           </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INVOICING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>nado   Suppte   INVOICING ADDRESS       PLACE OF SURVEY Cd  del Carmen DATE OF WORK DATE REQ  RECEIVED OUR REF  CDC ACACER N     P        REFERENCE TO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>PARTIAL INVOICING IS ACCEPTABLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>PARTIAL INVOICING IS ACCEPTABLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>PARTIAL INVOICING IS ACCEPTABLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>PARTIAL INVOICING IS ACCEPTABLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>PARTIAL INVOICING IS ACCEPTABLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>PARTIAL INVOICING IS ACCEPTABLE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\ODR-NB08-POR-0016.docx</filepath>
+        <Paragraphs> CONDITIONS AND INVOICING INSTRUCTIONS            All prices and rates detailed herein are fixed for the duration of this Purchase Order and not subje</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INVOICED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INVOICED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Quotation\NSF-GOR-0915-137.pdf</filepath>
+        <Paragraphs>SERVICE WILL BE INVOICED  ESTIMATED COST                TOTAL           T rminos de Entrega Refacciones  Cuauhtemoc  Veracruz  Instalaciones del clien</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>THAT IS COMPLETED THIS YEAR WILL BE INVOICED AND HELD AT  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>50PVOID-UPPER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>50PVOID-UPPER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>50PVOID-UPPER DECK3026DA961E015-JNC-Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>52SVOID-COLUMN3026DA961E012-JNC-Z</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>52SVOID-COLUMN3026DA961E012-JNC-Z</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>52SVOID-COLUMN3026DA961E012-JNC-Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VOI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VOI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\CALCULATIONS FOR DRILLING &amp; WORKOVER.pdf</filepath>
+        <Paragraphs>VOI = 32.0bbl Step 3 Total </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VOI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs> original liquid   VOI  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESEVOIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESEVOIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>RESEVOIR CONCENTRATE AIR &amp; ELECTRIC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INVOICES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INVOICES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>-ALL INVOICES SHALL BE ISSUED AND BILLED TO THE ADDRESS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>-ALL INVOICES SHALL BE ISSUED AND BILLED TO THE ADDRESS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>-ALL INVOICES SHALL BE ISSUED AND BILLED TO THE ADDRESS  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INVOICES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\7261060368-ODEBRECHT revised.pdf</filepath>
+        <Paragraphs>SCBLSGSG 6BatteryRoad#23-00( CASH INVOICES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-INVOICING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>-INVOICING AS PER PURCHASE ORDER 5.6 THRU 5.13  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>-INVOICING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0006 Grant Prideco DS BHA\Order Confirmatio ODR-NB11-POR-0006.pdf</filepath>
+        <Paragraphs>-INVOICING AS PER PURCHASE ORDER 5.6 THRU 5.13  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

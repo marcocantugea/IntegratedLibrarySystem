@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ROADPOWER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROADPOWER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>OFF ROADPOWER SPORTS ATV OFF ROAD PRO VANTAGE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5210NewADPTR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5210NewADPTR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>5210NewADPTR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADP019-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADP019-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>ADP019-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ADP019-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ADP019-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>ADP019-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2766829ADP14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2766829ADP14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>2766829ADP14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGURIDADPERSONAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGURIDADPERSONAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\14.- Proa Estribor.pdf</filepath>
+        <Paragraphs>PAREDES PARA DIFUSION DE TEMAS DE SEGURIDADPERSONAL TOMA MATERIALES DEL SPILL KIT, SIN  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>APLICACIONESRACKS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APLICACIONESRACKS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>6 92 ACCESORIOSDE VIAJE Y BICICLETAS GU315A DE APLICACIONESRACKS THULE Modelo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESRI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESRI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>ESRI ArcView Interface</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ESRI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>ESRI ArcView Interface</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ESR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ESR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Translator\PLEASE4.pdf</filepath>
+        <Paragraphs>Monitor Each 1.00 1,844.82 1,844.82 ESR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ISSUESRead</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ISSUESRead</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>2.0  SAFETY ISSUESRead all instructions,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEVICESRINGFEDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEVICESRINGFEDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>PECIALTYLOCKING DEVICESRINGFEDER CORPORATIONW       RINGFEDER Products are available from MARYLAND METRICS P O  Box       Owings Mills  MD       USA  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEVICESRequest</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEVICESRequest</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>AFT HUB LOCKING DEVICESRequest Separate Catalogs LOCKING ELEMENTS    Internal Locking Devices LOCKING ASSEMBLIES    Internal Locking Devices SHRINK DI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROCEDURESREPAIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROCEDURESREPAIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>PROCEDURESREPAIR INSTRUCTIONS  Baker </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROCEDURESREPAI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROCEDURESREPAI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Mud_Line_Gate_Valves.pdf</filepath>
+        <Paragraphs>PROCEDURESREPAI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LATCHESRETRACT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LATCHESRETRACT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>RETRACT (UNLOCK) LATCHESRETRACT (DISENGAGE) STABS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

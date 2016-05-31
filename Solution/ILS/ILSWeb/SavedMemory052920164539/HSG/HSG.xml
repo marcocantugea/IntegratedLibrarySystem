@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HSG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-029.pdf</filepath>
+        <Paragraphs>Required parts:  Description  Qty  Unit  P/N for 330100mm bushing P/N for 33090mm bushing  HSG Bearing </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>BEARING HSG SPLIT WASHER SP.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>BEARING HSG SPLIT WASHER SP.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>HSG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HSG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>1013106943 MOUNTING PLATE FS DIV HSG CYL  2.00EA D </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

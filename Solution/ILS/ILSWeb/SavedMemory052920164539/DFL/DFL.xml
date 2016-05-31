@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HANDFLARE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HANDFLARE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Quotation\PA-00743 LA MURALLA IV  Insp. Balsas (1er. Lote) 3027-14-1017.pdf</filepath>
+        <Paragraphs>       PZA  RED HANDFLARE   COMET                                                                                          R       PZA  CUBIERTA PLAST</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>PHEFFPFPCIFLHEDGAFPALOOHFPFIMEHJPDFLEMNDAMFJNAPHE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DFLConform256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DFLConform256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>DFLConform256 +69-1400</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WORKSHOPHIGH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WORKSHOPHIGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1303176-YB-021ABEACON FOR INERGEN/CO2M120LOCAL ENG. WORKSHOPHIGH VOLT. ROOM M117LOWER DECK3026DA961E013-TYCOSU-RL8411Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHILOSOPHY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHILOSOPHY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>FAIL SAFE PHILOSOPHY ................................................................................................. 7</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PHILOSOPHY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>         DESIGN PHILOSOPHY                                                                                                                            </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>dPHI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>dPHI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>out-of-sync, cause dPHI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PHILIPPINES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PHILIPPINES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Clear_Cleaner_28oz_CL-12_msds.pdf</filepath>
+        <Paragraphs>NDSL     NO     PHILIPPINES   YES     STATES RIGHT TO KNOW    California  New Jersey  Pennsylvania  Minnesota  Massachusetts  and  Wisconsin   None   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

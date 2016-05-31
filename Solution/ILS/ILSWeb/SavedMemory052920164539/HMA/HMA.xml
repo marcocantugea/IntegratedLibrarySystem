@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>WATHMAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATHMAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\10 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>FIRE WATHMAN  AWAY FROM FIRE EXTINGUISHER FALTA PLACA PARA EVITAR CAIDAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BENCHMARK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BENCHMARK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>BENCHMARK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BENCHMARK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>HE BENCHMARK FOR PERFORMANCE AND COMFORT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

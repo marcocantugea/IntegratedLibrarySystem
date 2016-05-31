@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CAIGA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAIGA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\01 ABRIL 2014 POPA  22 00.pdf</filepath>
+        <Paragraphs>EVITA  QUE LA GRASA CAIGA EN LA CUBIERTA E </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STRAIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>STRAIGHT BEAM TRANS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>STRAIGHT BEAM TRANS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>STRAIGHT BEAM TRANS.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Black Jak Torque Master.pdf</filepath>
+        <Paragraphs>STRAIGHT UP TO REMOVE. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>CROSSOVER SUB STRAIGHT OD  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>CROSSOVER SUB STRAIGHT OD  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0010STRAIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0010STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0010STRAIGHT PIN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDPSTRAIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDPSTRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>HDPSTRAIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUB-STRAIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUB-STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>CROSSOVER SUB-STRAIGHT OD CUSTOMER SPECIFICATION:NONE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUB-STRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>CROSSOVER SUB-STRAIGHT OD CUSTOMER SPECIFICATION:NONE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

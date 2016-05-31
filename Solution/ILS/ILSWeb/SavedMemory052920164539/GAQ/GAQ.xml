@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GAQtyGG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GAQtyGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>ptionQtyMGG and GAQtyGG and GGAQtyHGG     Hex head capscrew            C             C             C      Flexloc lock nut         C         C        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GAQtyGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>ptionQtyMGG and GAQtyGG and GGAQtyHGG     Hex head capscrew            C             C             C      Flexloc lock nut         C         C        </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GGAQtyHGG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GGAQtyHGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>and GAQtyGG and GGAQtyHGG     Hex head capscrew            C             C             C      Flexloc lock nut         C         C         C    Trigge</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GGAQtyHGG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>and GAQtyGG and GGAQtyHGG     Hex head capscrew            C             C             C      Flexloc lock nut         C         C         C    Trigge</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

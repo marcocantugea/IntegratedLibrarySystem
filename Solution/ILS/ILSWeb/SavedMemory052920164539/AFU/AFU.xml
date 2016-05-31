@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AFUERAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFUERAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\20 Pontoon.pdf</filepath>
+        <Paragraphs>CLEAN FLOOR  AFUERAS DEL TANQUE LIMPIA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFUERA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFUERA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\30 TFM and Wire line deck.pdf</filepath>
+        <Paragraphs>BASURA DENTRO DE CHAROLA ECOLOGICA Y MEZCLADA AFUERA DE UNIDAD DE REGISTRO OIL LEAK UNDER TFM AND DRAINING DOWN TO UPPER PIPE DECK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

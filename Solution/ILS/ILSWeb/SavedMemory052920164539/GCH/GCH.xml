@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>11310-HS-0758DRILLINGCHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>11310-HS-0758DRILLINGCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>11310-HS-0758DRILLINGCHA WINCH EMERGENCY STOP1DRILL FLOOR / ZONE2CEAGGermanyP 411PTB 00 ATEX 3117&lt;Ex&gt; II 2 G EEx de IIC T6COMPL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13310-HY-0273DRILLINGCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13310-HY-0273DRILLINGCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>13310-HY-0273DRILLINGCH SHUT OFF VALVE1DF DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d IIC T3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13410-HY-0274DRILLINGCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13410-HY-0274DRILLINGCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>13410-HY-0274DRILLINGCH MAKE UP SOLENOID VALVE1DF DRILL FLOOR / ZONE2HAWEGermanyHWD7709 050-G24/ATEXTUV-A 02ATEX0007X&lt;Ex&gt; II 2 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>13510-HY-0275DRILLINGCH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>13510-HY-0275DRILLINGCH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs> IP-ratingRemark 13510-HY-0275DRILLINGCH BRAKE OUT SOLENOID VALVE1DF DRILL FLOOR / ZONE2HAWEGermanyHWD7709 050-G24/ATEXTUV-A 02ATEX0007X&lt;Ex&gt; II </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14310-HY-0751DRILLINGCHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14310-HY-0751DRILLINGCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>14310-HY-0751DRILLINGCHA ELEVATOR SHUT OFF1DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d IIC T</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14410-HY-0755DRILLINGCHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14410-HY-0755DRILLINGCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>14410-HY-0755DRILLINGCHA ELEVATOR ROTATOR OPEN1DRILL FLOOR / ZONE2DANFOSSNorwayEXPIRED--157B4218EX PVEONEMKO 02ATEX459X&lt;Ex&gt; II </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>14510-HY-0758DRILLINGCHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>14510-HY-0758DRILLINGCHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>14510-HY-0758DRILLINGCHA WINCH SHUT OFF1DRILL FLOOR / ZONE2ATOSItalyDHA-0631/2-M 24DCCESI 02 ATEX 014&lt;Ex&gt; II 2 G EEx d IIC T3CO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GCHapter</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GCHapter</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Frame 5 Elev..pdf</filepath>
+        <Paragraphs>GCHapter Specifications updated</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

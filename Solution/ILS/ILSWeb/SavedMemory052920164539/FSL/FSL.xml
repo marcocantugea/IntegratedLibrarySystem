@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>ce correction   FSL   m   Is the longitudinal free surface correction for slack tanks   FST </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FSL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>correction      FSL      m      Is the longitudinal free surface correction for slack tanks      FST      m      Is the transverse free surface correc</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>codeZUFSLR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>codeZUFSLR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>Product nameStain Resistant Floor SealerProduct codeZUFSLR Supersedes Emergency Telephone Numbers</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUFSLRSpill</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUFSLRSpill</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>ZUFSLRSpill Clean up Put on appropriate personal protective equipment (see section 8). Stop leak if without risk.  Move containers</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUFSLR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUFSLR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>ZUFSLR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ZUFSLR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stain Resistant Floor Sealer.pdf</filepath>
+        <Paragraphs>ZUFSLR Estado físico</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>productoZUFSLR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>productoZUFSLR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stain Resistant Floor Sealer.pdf</filepath>
+        <Paragraphs>Nombre del productoStain Resistant Floor SealerCódigo del productoZUFSLR Sustituya</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUFSLRContacto</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUFSLRContacto</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stain Resistant Floor Sealer.pdf</filepath>
+        <Paragraphs>ZUFSLRContacto con </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUFSLRRegulaciones</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUFSLRRegulaciones</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stain Resistant Floor Sealer.pdf</filepath>
+        <Paragraphs>ZUFSLRRegulaciones Federales de </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FSL-3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSL-3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\Cot. Technip 01-Nov-12\46B101-D-USA-R-12 V1_V1.pdf</filepath>
+        <Paragraphs> this  API   C  FSL    FLEXIBLE SPECIFICATION LEVEL    Last Edition  specification  including arduous destructive testing and fire testing  We entrust</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ABNADONADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABNADONADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\30 ENE 2014 cubierta.pdf</filepath>
+        <Paragraphs>LONA ABNADONADA POR PINTORES AL TER-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>AALJBNFNBNAMFGLBFLMBMNANENAGODNEALNOBAHMAMEMBJFOF </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>      SARTA CON BNA                                                                                                                                   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUEBNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUEBNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\27 MACHINE SHOP .pdf</filepath>
+        <Paragraphs>             22:00 HRS AUGUST 27TH, 2014TALLER PRESENTA BUEBNA ILUMINACION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOUSEKEEPINGBUEBNA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOUSEKEEPINGBUEBNA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\29 Laundry.pdf</filepath>
+        <Paragraphs>GOOD HOUSEKEEPINGBUEBNA ILUMINACION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

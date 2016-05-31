@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FCTFE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCTFE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>DE de 2 y 3 mm con f351rulas FCTFE correspondientes para la conexi363n a compresi363n de la </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CERTIFCTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CERTIFCTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>0QP1000061 Q-PLAN, GENERIC RQTS CERTIFCTS  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TELB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TELB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs> AS   JYN   F   TELB     Quantity            Capacity           persons    Locations  fore  aft  port  stbd        Fore    Aft    Fire protection     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELBOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>ELBOW</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>ELBOW</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs> ELBOW  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>ELBOW  2.000  90 DEG  VBE  ELAST  SPCL INV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 712760 -  ~05242011050539.pdf</filepath>
+        <Paragraphs>ELBOW CONN.  6-1/8"NPTF,316 B/O</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0032 NOV Spare Parts\Commercial Invoice 48995 ~08192011051644.pdf</filepath>
+        <Paragraphs>ELBOW  2.000  90 DEG  VBE  ELAST  SPCL INV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0032 NOV Spare Parts\Sales Order Acknowledgement 714540 ~06292011055630.pdf</filepath>
+        <Paragraphs>ELBOW  2.000  90 DEG  VBE  ELAST  SPCL INV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\ODN2-11-0037 NOV Spare Parts\Sales Order 716187a.pdf</filepath>
+        <Paragraphs>ELBOW CONN.  6-1/8"NPTF,316 B/O</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STEEL8ELBOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STEEL8ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>STEEL8ELBOW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRASS11ELBOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRASS11ELBOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>BRASS11ELBOW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>ELB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>pinEOMATBOERDELBX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>pinEOMATBOERDELBX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>  incl  Flaring pinEOMATBOERDELBX Foot switch for use with long tubesEOMATIIIFUSSX EOMAT III promotion leaflet UK       UK EOMAT III promotion leaflet</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ELBORACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELBORACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\10 JULY 2014 ROV..pdf</filepath>
+        <Paragraphs>BUENA PRACTICA EN CORRECTA ELBORACION DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

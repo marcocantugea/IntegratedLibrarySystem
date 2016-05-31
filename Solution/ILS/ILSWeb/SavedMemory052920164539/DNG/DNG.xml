@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DNGW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNGW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>F) Type/Frame size Standard stainless screws DNGW-071.V to DNGW-132.V 8.8 A470 DNGW</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DNGW-160ML-02A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DNGW-160ML-02A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>DNGW-160ML-02A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

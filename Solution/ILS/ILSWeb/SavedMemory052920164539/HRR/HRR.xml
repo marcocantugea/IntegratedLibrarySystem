@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HRRICANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HRRICANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1145176-HS-005LOCAL MANUAL RELEASE BOX /INERGEN -OUTSIDE HRRICANE GENERATOR ROOM M309HRRICANE GENERATOR ROOM M309UPPER DECK3026</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M309HRRICANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M309HRRICANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1145176-HS-005LOCAL MANUAL RELEASE BOX /INERGEN -OUTSIDE HRRICANE GENERATOR ROOM M309HRRICANE GENERATOR ROOM M309UPPER DECK3026</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEACONM309HRRICANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEACONM309HRRICANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1214176-HRN-005INERGEN HORN &amp; BEACONM309HRRICANE GENERATOR ROOMHRRICANE GENERATOR ROOM M309UPPER DECK3026DA961E015-TYCOSUBL106Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMHRRICANE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMHRRICANE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1214176-HRN-005INERGEN HORN &amp; BEACONM309HRRICANE GENERATOR ROOMHRRICANE GENERATOR ROOM M309UPPER DECK3026DA961E015-TYCOSUBL106Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHRR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHRR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>All hazards in the SHRR shall be reviewed periodically to ensure</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHRRshall</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHRRshall</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>The SHRRshall undergo a review every five years.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

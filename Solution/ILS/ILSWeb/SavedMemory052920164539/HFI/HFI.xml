@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HFISO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFISO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>HFISO 3862-1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HFISO18752-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFISO18752-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>HFISO18752-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

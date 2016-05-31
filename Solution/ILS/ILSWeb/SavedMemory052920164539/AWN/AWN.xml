@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DRAWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DRAWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs>OPERTY OF       DRAWN BY                                         DATE   REVISION       A    Engineering Bulletin     EB      D     Page      of       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAWN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dawn_Blue_Liq_Dish_Soap_08536_msds.pdf</filepath>
+        <Paragraphs>ULTRA DAWN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAWN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Proctor&amp;Gamble_Dawn_Detergent_08536.pdf</filepath>
+        <Paragraphs>ergent  Brands  DAWN Manual Pot and Pan Detergent  Professional Line   Hazard Rating     Health         EXTREME    Flammability        HIGH    Reactiv</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

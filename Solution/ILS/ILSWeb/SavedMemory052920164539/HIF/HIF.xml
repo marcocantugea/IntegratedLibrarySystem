@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SHIFT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SHIFT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>4.4.4 SHIFT WEIGHT ON BOARD </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08 L03 Lista de Verificación - Supply Boat Checklist R.01 (23-Jun-14).doc</filepath>
+        <Paragraphs>MKS    RADIO IN SHIFT RADIO EN TURNO  RADIO SHIFT OFF  RADIO QUE FINALIZA  ELABORATED SIGN  FIRMA DE ELABORADO APPROVED SIGN  FIRMA DE APROVADO       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\DP setup Marine Checklist.docx</filepath>
+        <Paragraphs>igned by the ON SHIFT Engineer PRIOR to signing off the sections below   Engineering DP Trials checklist shall be attached to this checklist and recor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>DR  SCHEME GEAR SHIFT   LUBRICATION    PC    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\hmi_mp377_mp377pro_operating_instructions_en-US_en-US.pdf</filepath>
+        <Paragraphs> TAB  SHIFT  TAB </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Drilling\Drillfloor\Tripping in Hole with manual slips and wireline across slips.docx</filepath>
+        <Paragraphs>  L    L        SHIFT CHANGE    Incident due to inadequate hand over    equipment damaged    M    M    M    New crew s coming on tour are to have thei</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHIFTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHIFTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>SHIFTING WEIGHT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SHIFTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\30 MAIN DECK.pdf</filepath>
+        <Paragraphs>TOOLS THAT CAN FALL WITH RIG SHIFTING  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\2012 05 29 -  IADC Index 2015 drilling.docx</filepath>
+        <Paragraphs>i   Air Korea   HIF     GNS     Capacity   T S  Fan Capacity    Cooling Coil Capacity        Cubic Meters   Hour     Location         Low Voltage Room</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HIF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2012 05 29 -  IADC Index 2015.docx</filepath>
+        <Paragraphs>i   Air Korea   HIF     GNS     Capacity   T S  Fan Capacity    Cooling Coil Capacity        Cubic Meters   Hour     Location         Low Voltage Room</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BSResilient</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BSResilient</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Ausgleichscheibe BSResilient preloading ring, NDE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BSRes</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BSRes</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Ausgleichscheibe BSRes</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BSR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BSR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>tive today for more information. Drill Collars 48 Care And MaintenanceBending Strength RatiosSizes below six inches should have a BSR of 2.25:1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

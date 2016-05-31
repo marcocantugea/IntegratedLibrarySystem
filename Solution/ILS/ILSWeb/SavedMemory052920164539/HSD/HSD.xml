@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>3UHSDULQJ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3UHSDULQJ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\Manuals\AMOS2 Suite Vrs. 6.4.00 MMP User Guide.pdf</filepath>
+        <Paragraphs>       Z     X   UHSDULQJ  QG  HQGLQJ  DLO z         v    o  v       lP      v l v     ZX dZ   Pv      v v P Z    P Z  v  o    U   uv    X  Z  u      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RR-002.pdf</filepath>
+        <Paragraphs>Certain installed HSD valves (Aker MH part no. BA0057024) may be of a bad quality batch.  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VHSDUDWH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VHSDUDWH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>SULQWHU OLVW DV VHSDUDWH SULQWHUV  KH ODEHO UROO WKDW  RX ZLOO SULQW WR LV LQGLFDWHG E  D JUHHQ DUURZ DQG LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VHSDUDWH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>SULQWHU OLVW DV VHSDUDWH SULQWHUV  KH ODEHO UROO WKDW  RX ZLOO SULQW WR LV LQGLFDWHG E  D JUHHQ DUURZ DQG LV ERUGHUHG LQ EOXH   RU H DPSOH  ZLQ  XUER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VHSDUDWHG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VHSDUDWHG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs>U HDFK ODEHO LV VHSDUDWHG E  HLWKHU D VLQJOH EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>VHSDUDWHG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>U HDFK ODEHO LV VHSDUDWHG E  HLWKHU D VLQJOH EODQN OLQH RU D FDUULDJH UHWXUQOLQH IHHG  PDUW  DVWH EHJLQV D QHZ ODEHO ZKHUHYHU D EODQN OLQH DSSHDUV LQ </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

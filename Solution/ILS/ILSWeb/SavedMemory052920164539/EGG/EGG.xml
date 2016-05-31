@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MEGGER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MEGGER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>MOTOR MEGGER 1000 M OHMS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MEGGER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>ION EQUIPMENT   MEGGER MIT       SERIAL NO                 CALIBRATION DATE                    OEG     Rev     CABLE  NO   CABLE ROUTE   CABLE DETAILS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LEGGED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LEGGED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\1 Almacen-Warehouse\755.PW08 Formatos Almacen\755.PW08.F06 - Formato Vale de resguardo.docx</filepath>
+        <Paragraphs>E ROPE SLING    LEGGED BRIDLE     EAX  M X    MM DI AM                               C W THIMBLE EYES BOTH ENDS   TO MASTER LINK ASSEMBLY MT         E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGGREGATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGGREGATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\24 Subsea shop.pdf</filepath>
+        <Paragraphs>GOOD TRASH SEGGREGATION  EQUIPO SIN USO  EN LUGAR INAPROPIADO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BCI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BCI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>BCI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>3011BCI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3011BCI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>3011BCI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>9Q3011BCI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>9Q3011BCI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>9Q3011BCI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>4ATJBCI00A46</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>4ATJBCI00A46</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>4ATJBCI00A46 - Size 110X60</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

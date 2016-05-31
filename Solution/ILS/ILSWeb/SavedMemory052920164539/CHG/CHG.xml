@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CHG403</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHG403</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHG403.pdf</filepath>
+        <Paragraphs>CHG403</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHG508</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHG508</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHG508.pdf</filepath>
+        <Paragraphs>CHG508</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHG614</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHG614</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHG614.pdf</filepath>
+        <Paragraphs>CHG614</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHG615</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHG615</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHG615.pdf</filepath>
+        <Paragraphs>CHG615</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

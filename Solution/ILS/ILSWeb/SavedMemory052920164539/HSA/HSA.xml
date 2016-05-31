@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OHSAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OHSAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>in accordance with ISO 9001, 14001 &amp; OHSAS 18001 standards and CE 11B certi037cation.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OHSAPermissible</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OHSAPermissible</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CLO-01593.pdf</filepath>
+        <Paragraphs>osure LimitPEL  OHSAPermissible Exposure Limit</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OHSA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Disinfecting_Wipes_15949_msds.pdf</filepath>
+        <Paragraphs>STEL- Short Term Exposure Limit 2PEL- OHSA Permissible Exposure Limit </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Disinfecting_Wipes_Fresh_Scent_01571_msds.pdf</filepath>
+        <Paragraphs>STEL- Short Term Exposure Limit 2PEL- OHSA Permissible Exposure Limit </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Clorox_Disinfecting_Wipe_Lemon_15948_msds.pdf</filepath>
+        <Paragraphs>STEL- Short Term Exposure Limit 2PEL- OHSA Permissible Exposure Limit </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\F091871 Master LWW Kit with pH Meter.pdf</filepath>
+        <Paragraphs> ACGIH TLV  NA  OHSA PEL  NA   Water   purified  CAS                   ACGIH TLV  NA  OSHA PEL    NA     Engineering Measures  General Hygiene     Nor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\F091876 Master LWW Kit without pH Meter.pdf</filepath>
+        <Paragraphs> ACGIH TLV  NA  OHSA PEL  NA   Water   purified  CAS                   ACGIH TLV  NA  OSHA PEL    NA     Engineering Measures  General Hygiene     Nor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\F091881 LWW Test Kit For Sales Use.pdf</filepath>
+        <Paragraphs> ACGIH TLV  NA  OHSA PEL  NA   Water   purified  CAS                   ACGIH TLV  NA  OSHA PEL    NA     Engineering Measures  General Hygiene     Nor</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FHSA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Clear_Cleaner_28oz_CL-12_msds.pdf</filepath>
+        <Paragraphs>accordance with FHSA   CPSC Guidelines    SKIN    Not a primary dermal irritant in accordance with FHSA   CPSC Guidelines    EYE    Irritant in accord</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleaner.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is a  green  liquid with a n added  sassafras  odor  No hazards expected from typical use    Refe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleanerAppleFresh.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is a  green  liquid with a n added apple odor  No hazards expected from typical use    Refer to S</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleanerCoconutLime.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is a  bright g reen  liquid with a n added  coconut lime  odor  No hazards expected from typical </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleanerFreeClear.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is a  clear  liquid with  no added odor   No hazards expected from typical use    Refer to Sectio</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleanerLavenderBreeze.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is a  purple  liquid with a n added  lavender  odor  No hazards expected from typical use    Refe</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleanerLemonScent.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is a  yellow  liquid with a n added  lemon  odor  No hazards expected from typical use    Refer t</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AllPurposeCleanerOrangeScent.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is an orange  liquid with a n added  orange  odor  No hazards expected from typical use    Refer </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-AutoGlassCleaner.pdf</filepath>
+        <Paragraphs>Known      CPSC FHSA    Emergency Overview      Caution  M ild eye irritant   This is a blue liquid with a   characteristic  alcohol  scent     Refer </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-BathroomCleaner.pdf</filepath>
+        <Paragraphs>Known      CPSC FHSA    Emergency Overview      Caution  Irritant   May Irritate eyes  This is a clear  liquid with an added  wintergreen  fragrance  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-CarpetCleaner.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      Caution  Irritant  May irritate eyes  This is a hazy colorless liquid with an added citrus odor    Ref</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-FloorCleaner.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      Caution  Irritant  May irritate eyes  This is a hazy colorless liquid with an added citrus odor    Ref</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-GlassCleaner.pdf</filepath>
+        <Paragraphs>Known      CPSC FHSA    Emergency Overview      Caution  Irritant  May Irritate eyes  This is a blue liquid with an added citrus fragrance    Refer to</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-MultiPurposeCleanerOrangeFresh.pdf</filepath>
+        <Paragraphs> Known     CPSC FHSA    Emergency Overview      This is an orange  liquid with a n added  orange  odor  No hazards expected from typical use    Refer </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SDS_EN-US_SimpleGreenRTU-SurfacePrep.pdf</filepath>
+        <Paragraphs>FHSA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2OHSA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2OHSA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Clorox_Bleach_24oz_02450_msds.pdf</filepath>
+        <Paragraphs> 2OHSA Permissible Exposure Limit (PEL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs> HSAE DN 13</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

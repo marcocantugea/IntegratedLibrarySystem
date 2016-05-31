@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SEWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SEWING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MANUFACTUREDANDTESTEDINACCORDANCEWITH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MANUFACTUREDANDTESTEDINACCORDANCEWITH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>MANUFACTUREDANDTESTEDINACCORDANCEWITH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PUMPSAREMANUFACTUREDANDTESTEDINACCORDANCEWITH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PUMPSAREMANUFACTUREDANDTESTEDINACCORDANCEWITH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PUMPSAREMANUFACTUREDANDTESTEDINACCORDANCEWITH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SLEWING1DF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SLEWING1DF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>    DRILLINGLGA SLEWING DF DRILL FLOOR   ZONE SCANDINAVIAN CONSTRUCTION COMP  A S DenmarkNCB     GM   N    M PUR         PTB    ATEX      X Ex  II   G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SLEWING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SLEWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>5410-GS-0324DRILLINGLGA SLEWING RESET1DF DRILL FLOOR / ZONE2PEPPERL+FUCHS GMBHGermanyNCB10-30GM40-N0-15M-PUR (208595)PTB 00 ATE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SLEWING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>ASSY DRAWING OF SLEWING BRG. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ZUMILDEWIngestion</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ZUMILDEWIngestion</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Mold-and-Mildew-Stain-Remover-English-MSDS-ZUMILDEW.pdf</filepath>
+        <Paragraphs>ZUMILDEWIngestion</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REWIND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REWIND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>EMBLY REWIND KIT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NEWINCORRECT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NEWINCORRECT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>NEWINCORRECT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

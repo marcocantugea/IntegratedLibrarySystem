@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ELGA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ELGA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-046.pdf</filepath>
+        <Paragraphs>Welding rod specifications: ELGA DWA 55L flux cored wire or SMAW electrode 7018</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLATEDSTEELGREASENIPPEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLATEDSTEELGREASENIPPEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>PLATEDSTEELGREASENIPPEL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MKLTYPEOFVESSELGrupo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MKLTYPEOFVESSELGrupo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>MKLTYPEOFVESSELGrupo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OFVESSELGrupo</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OFVESSELGrupo</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>OFVESSELGrupo</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELGEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELGEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs> DA BELGEN ETTER KORT TID SUGER SEG FAST TIL    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DELGADA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DELGADA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>CORREA DESPLEGABLES DELGADA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STEELGALVAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STEELGALVAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>STEELGALVAN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BELGIUM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BELGIUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>Atealaan 71, B2200; Herentals, BELGIUM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELGIUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>Atealaan 71, B2200; Herentals, BELGIUM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELGIUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>Atealaan 71, B2200; Herentals, BELGIUM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BELGIUM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>Atealaan 71, B2200; Herentals, BELGIUM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WELGermany</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WELGermany</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS HALLIBURTON\www.santos.com-Gunnedah_MSDS_Mud_Flush_III_Halliburton.pdf</filepath>
+        <Paragraphs>PERCENTEINECSUK WELGermany</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

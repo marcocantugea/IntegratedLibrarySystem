@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CSO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT07\Formatos del ISPS\MGT07.F02 INCIDENT REPORT FORM.docx</filepath>
+        <Paragraphs>mpleted sent to CSO     Cuando sea Llenado enviar a CSO  Oficial de Seguridad de la Plataforma  OPB          To  Ship Security Officer    Para  Oficia</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CSO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>                    205205205205205205205205205205205205205205205205205205205...205 250 psi (1.73 MPa) on CSO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HCSOxidizer</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HCSOxidizer</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Color_Safe_Destainer_330_478_msds.pdf</filepath>
+        <Paragraphs>r  SupplierTSCA HCSOxidizer TSCA Inventory  All components listed or are exempt from listing All components listed unless noted elsewhere on this MSDS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HCSOxidizer</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Green_Earth_Duet_S_474_msds.pdf</filepath>
+        <Paragraphs>Validation Date10/27/201010/27/2010 Manufacturer/ SupplierTSCA HCSOxidizer</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

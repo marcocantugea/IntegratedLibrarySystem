@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HFNatural</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFNatural</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_High_Flash_Natural_Solvent_Degreaser_214D55_msds.pdf</filepath>
+        <Paragraphs>CitruSolv HFNatural Degreaser Deodorizer - High Flash</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HFNatural</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_High_Flash_Natural_Solvent_Degreaser_214P5_msds.pdf</filepath>
+        <Paragraphs>CitruSolv HFNatural Degreaser Deodorizer - High Flash</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FKHFN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FKHFN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs>YDULDEOH REMHFW FKHFN ER  DQG WKHQ FOLFN      KH VHOHFWHG REMHFW LV QRZ D YDULDEOH  H W REMHFW  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

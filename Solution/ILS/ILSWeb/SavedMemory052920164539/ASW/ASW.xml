@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>---00ASW10377</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>---00ASW10377</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>---00ASW10377</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>---00ASW10377</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>---00ASW10377</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GASWe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GASWe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs> 7 OIL AND GASWe were the 037rst to bring 223retractable224 lifeline technology to the world in the </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>O-ringASWAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>O-ringASWAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>end weld nipple O ringASWAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

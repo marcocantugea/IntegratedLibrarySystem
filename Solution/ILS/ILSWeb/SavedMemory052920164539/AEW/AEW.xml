@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DAEWOO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  DAEWOO SHIPBUILDING &amp; MARINE  ENGINEERING CO., LTD.      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>     PURCHASER  DAEWOO SHIPBUILDING   MARINE ENG G CO  LTD   CLIENT  Grupo R  PROJECT NAME  Grupo R GVA      DP Semi  Drilling Rig Project  PO  NO    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\VALVULAS DE MARIPOSA.pdf</filepath>
+        <Paragraphs>SHIP YARD : DAEWOO SHIPBUILDING &amp; MARINE ENGINEERING CO. LTD    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Builder Certificate\3027-DWO-GRO-L-0268_Att 03 - 2011.08.18 - H3027 Builder's Certificate, Rev. 0.doc</filepath>
+        <Paragraphs>to certify that DAEWOO SHIPBUILDING   MARINE ENGINEERING CO   LTD   a corporation organized and existing under the laws of the Republic of Korea and h</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DAEWOO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>  i  Page  DAEWOO FS 21 X 60 DIVERTER SYSTEM: DIVERTER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEWF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEWF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEWF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FlangeThreadAEWF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FlangeThreadAEWF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>FlangeThreadAEWF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAEWOO-H302623SEP09</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAEWOO-H302623SEP09</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>DAEWOO-H302623SEP09</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

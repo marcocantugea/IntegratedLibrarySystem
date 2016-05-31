@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>LDAGiving</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LDAGiving</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs> Full Hood LDAGiving a higher degree of protection to the neck,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PWDAGear</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PWDAGear</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs> Female BSPP thread PWDAGear pump flange 90</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

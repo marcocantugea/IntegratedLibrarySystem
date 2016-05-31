@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DMS-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMS-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>TSS DMS-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DMS-10</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMS-10</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>it  VRU     TSS DMS             RS            N        TSS  format    Gyrocompass    TSS Meridian Standard         RS            N        NMEA       H</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EVT08LOMDMSAdjustable</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EVT08LOMDMSAdjustable</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>EVT08LOMDMSAdjustable standpipe branch tee,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSSV16SOMDMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSSV16SOMDMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSSV16SOMDMS  I DIN fittings I23Catalogue 4100-7/UK WSVBulkhead elbowEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSWSV18LOMDMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSWSV18LOMDMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSWSV18LOMDMS  DIN fittings I24Catalogue 4100-7/UK D1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSEVW16SOMDMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSEVW16SOMDMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSEVW16SOMDMS  I DIN fittings I29Catalogue 4100-7/UK EVTStandpipe branch teeEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSEVT18LOMDMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSEVT18LOMDMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSEVT18LOMDMS  DIN fittings I30Catalogue 4100-7/UK EVLstandpipe run teeEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSEVL18LOMDMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSEVL18LOMDMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSEVL18LOMDMS  I DIN fittings I31Catalogue 4100-7/UK DADistance piece adapterEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSDA16SOMDMSNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSDA16SOMDMSNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSDA16SOMDMSNBR  DIN fittings I32Catalogue 4100-7/UK REDTube end reducerEO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSGE18LREDOMDMSNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSGE18LREDOMDMSNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSGE18LREDOMDMSNBR  DIN fittings I48Catalogue 4100-7/UK GE-R-EDMale stud connectorMale BSPP thread Ð ED-seal (ISO 1179) / EO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSGE16SREDOMDMSNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSGE16SREDOMDMSNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSGE16SREDOMDMSNBR  I DIN fittings I49Catalogue 4100-7/UK GE-RMale stud connectorMale BSPP thread Ð metal sealing edge (ISO 1179) / EO 24</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSEVGE16SREDMSNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSEVGE16SREDMSNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSEVGE16SREDMSNBR Pre-assembled nut and ring.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSWH18LROMDMSNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSWH18LROMDMSNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSWH18LROMDMSNBR  I DIN fittings I97Catalogue 4100-7/UK D1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BrassMSMAV10SROMDMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BrassMSMAV10SROMDMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>BrassMSMAV10SROMDMS  DIN fittings I124Catalogue 4100-7/UK D1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

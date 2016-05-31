@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TEMBLORINASFALTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TEMBLORINASFALTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\06 ABRIL 2014 ALL AREAS 10 00 HRS.pdf</filepath>
+        <Paragraphs>DE COLAPSAR EN TEMBLORINASFALTA UN SOCKET A PRUEBA DE EXPLOCION EN ES- </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TRASFERENCIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TRASFERENCIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\27.-FUEL TRANSFER AREA.pdf</filepath>
+        <Paragraphs>V  Safety Tour                    AREA DE TRASFERENCIA DE COMBUSTIBLE / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASFIXIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASFIXIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\argon.pdf</filepath>
+        <Paragraphs> PARA EVITAR LA ASFIXIA DE LOS TRABAJADORES DE RESCATE   Si la v   ctima no esta respirando bien   debe suministrarse respiraci   n artificial o bien </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ASFlange</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ASFlange</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>Flanschlagerschild  ASFlange shield, DE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

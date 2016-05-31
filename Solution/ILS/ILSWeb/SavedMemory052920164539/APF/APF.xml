@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>OELAPF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OELAPF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>NPF x OELAPF x OEL44</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>APF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>APF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>protection prefilters For gases and vapours, NPF 50 - APF 10</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

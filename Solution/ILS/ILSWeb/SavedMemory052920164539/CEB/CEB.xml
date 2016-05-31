@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ICEBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ICEBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ICEBOX : 551CABINET,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>152VICEBENCHESWITHVICES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>152VICEBENCHESWITHVICES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>152VICEBENCHESWITHVICES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>serviceDAILY-SERVICEBRIDGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>serviceDAILY-SERVICEBRIDGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs> doc      Daily serviceDAILY SERVICEBRIDGE CRANE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Monthly-serviceMONTHLY-SERVICEBRIDGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Monthly-serviceMONTHLY-SERVICEBRIDGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>v     doc       Monthly serviceMONTHLY SERVICEBRIDGE CRANE General </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MONTHLY-SERVICEBRIDGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MONTHLY-SERVICEBRIDGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>nthly  Service  MONTHLY SERVICEBRIDGE CRANE General </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>-ServiceANNUAL-SERVICEBRIDGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>-ServiceANNUAL-SERVICEBRIDGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>doc      Annual  ServiceANNUAL SERVICEBRIDGE CRANE General </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>YEARLY-SERVICEBRIDGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>YEARLY-SERVICEBRIDGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SB-PH-014A.pdf</filepath>
+        <Paragraphs>Yearly Service  YEARLY SERVICEBRIDGE CRANE General</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPLIANCEBy</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPLIANCEBy</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>     REGULATORY COMPLIANCEBy acceptance of delivery of this order  Buyer warrants it has complied with all applicablegovernmental  statutory and regul</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPLIANCEBy</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>     REGULATORY COMPLIANCEBy acceptance of delivery of this order  Buyer warrants it has complied with all applicablegovernmental  statutory and regul</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

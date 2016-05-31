@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SFIGROUPSYSTEMINTRODUCnON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMINTRODUCnON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\0 Introduction and Guide.pdf</filepath>
+        <Paragraphs>contactman.0.4   SFIGROUPSYSTEMINTRODUCnON</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFtGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFtGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>    SFtGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM13PROVISIONAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM13PROVISIONAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>537 MAY91SFIGROUPSYSTEM13PROVISIONAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFJGROUPSYSTEMMAY9115</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFJGROUPSYSTEMMAY9115</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>trimming142 SFJGROUPSYSTEMMAY9115</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>488 MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>4892.8 MAY91 29 SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM26</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>.  SFIGROUPSYSTEM26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>278 SFIGROUPSYSTEMMAY 91 2.14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM34</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM34</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>342 MAY91SFIGROUPSYSTEM34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>etc.)761 SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFfGROUPSYSTEM73COMPRESSED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFfGROUPSYSTEM73COMPRESSED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>etc.761   MAY91SFfGROUPSYSTEM73COMPRESSED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM82</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM82</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ballast8018.2    MAY91SFIGROUPSYSTEM82</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM84</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM84</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>tankstodeck8218.8  MAY91SFIGROUPSYSTEM84</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUPSINGALLEY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUPSINGALLEY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>CUPSINGALLEY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>Generator861DUC-DYN PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>246FIR-FOR PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>s.gp70FUELOILHEATERS(HEATINGCOILSINF.O.TANKS)704FUELOILPIPING,seeresp.systems.gp70FOR-FUE  PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>IRONINGTABLE558INS-IRO  SFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>312MOO-MOT PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PUMPS,LUBEOILTRANSFER-711PUM-PUM PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CUPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>CUPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>SNR 26 FEATURES AND BENEFITSClarityTM EAR CUPS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>194SIG-SOL PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>442TEL-TOO PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>427TRI-TYP  SFIGROUPSYSTEM-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VAC-VIS PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Cameron\EB 951 D Rev A1.pdf</filepath>
+        <Paragraphs>e Power Supply  UPS                                                                                           Riser Spider  Running Tool Control Panel</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>UPS fan</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\DP setup Marine Checklist.docx</filepath>
+        <Paragraphs>hecked          UPS  Check of all the UPS units          Power supply            Thruster control  Both Manual and DP control           Computer and o</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>nd small power  UPS    Lights  receptacles  space heaters  control power  etc                    HELICOPTER OPERATIONS    The Vessel is equipped with </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Procedimientos para entregar\542.PT059 - Trabajo en equipos relacionados con el sistema PD (19-Nov-15).docx</filepath>
+        <Paragraphs>antenas  VRU  y UPS      Propulsores     Generadores      Sistemas auxiliares que afecten o puedan afectar los equipos arriba mencionados      Cualqui</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\Procedimientos para entregar\542.PT059 - Work on DP related equipment (19-Nov-15).docx</filepath>
+        <Paragraphs>nnas   VRU  and UPS      Thrusters     Generators     Auxiliary systems that affect or may affect all above     Any equipment deemed by the Captain  C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\25 MAYO 2014  CUARTO DE BATERIAS Y UPS.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   CUARTO DE BATERIAS Y UPS   22:00 HRS MAY 25th 2014BANDA CON GRILLETE  EN UN RINCON DEL  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Quotation\VDR.pdf</filepath>
+        <Paragraphs>       NO    B  UPS Testing   Information   I  Measure the AC input to the system in the UPS    VAC  II  Measure the Voltage across the Batteries   VD</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\542.PT059 - Trabajo en equipos relacionados con el sistema PD (11-Abr-11) ok\542.PT059 - Trabajo en equipos relacionados con el sistema PD Editable Corregido.docx</filepath>
+        <Paragraphs>antenas  VRU  y UPS      Propulsores     Generadores      Sistemas auxiliares que afecten o puedan afectar los equipos arriba mencionados      Cualqui</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\revision de procedimientos marina\Procediemientos EDITABLES\542.PT059 - Trabajo en equipos relacionados con el sistema PD (11-Abr-12).docx</filepath>
+        <Paragraphs>antenas  VRU  y UPS      Thrusters     Generadores      Sistemas auxiliares que afecten o puedan afectar los equipos arriba mencionados      Cualquier</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\DP_Questionnaire_no_anwsers.docx</filepath>
+        <Paragraphs>he purpose of a UPS                          What are potential problems issues that a DPO should be aware of  when using DGPS as a reference system i</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\DP_Questionnaire_with_answers.docx</filepath>
+        <Paragraphs>he purpose of a UPS      To keep the most critical equipment powered ON for a determined period of time  should a blackout take place         What are</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV 2015.pdf</filepath>
+        <Paragraphs>PRINCIPAL       UPS  SISTEMA ININTERRUMPIBLE POTENCIA        MAIN CRANE  GRUAS PRINCIPALES      BOP SYSTEM  SISTEMA PREVENTORES        GEN  EMERG  SHU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\1. Sistema  de Preventores (BOP System)\1.3 Work Ordes.pdf</filepath>
+        <Paragraphs>Page 10 of 23  Maintenance Work OrderCHEC940 Check BOP Control, UPS (6M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.2 Work Order List.pdf</filepath>
+        <Paragraphs>  Sistema Ininterrumpible de Potencia (Main UPS System)   AMOS   Rev. 1   Work orders list and Status   JUN - 2015                   LA MURALLA IV    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.3 Work Orders.pdf</filepath>
+        <Paragraphs> Potencia  Main UPS  System    AMOS   Rev      Work orders   JUN                    LA MURALLA IV    Maintenance Work OrderELET   Y   UPS Battery Endu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\3. Sistema de ROV (ROV System)\3.3 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M701TOP OF WHEEL HOUSEFAN ROOM M703, UPS ROOM M702WHEEL HOUSE3026DA961E019F882TYCO801PHExZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>until their individual UPS or batteries are exhausted: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP826.pdf</filepath>
+        <Paragraphs>961-YSH-01-021 UPS ROOM M702 NAVI. DECK F881</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHAN117.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVChange Batteries BOP Control UPS (36M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHAN121.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVChange BOP Control Fan UPS (60M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC343.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC940.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVCheck BOP Control, UPS (6M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CLN142.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVClean Main UPS (12M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST106.pdf</filepath>
+        <Paragraphs>1) Prior to starting the battery endurance test, ensure that the loss of power from the UPS will not result in an unsafe condit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\E0 List function UPS -Electrical Power Supply WO3027-15-12824.pdf</filepath>
+        <Paragraphs>t function Test UPS             Tag   I O Description   Interval   DNV   Range   Unit   Please put the date in that the function test was made and sig</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de cabina de control  Gas y fuego 0 to10.pdf</filepath>
+        <Paragraphs>o   socket  For UPS                 off    V   Nema socket  For UPS                 off    V   Socket BS              TS      Rev Z      December     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs>interface Relay R5 and R6 to Clients UPS and MCC for safe area equipment. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\LAKACH PRINT\Jupiter 2 control system\023-22-00-100.pdf</filepath>
+        <Paragraphs>nd or isolating UPS units should also be considered in  these envi ronments     Appendices          A PPENDIX      O BSOLETE  I NFORMATION   This sect</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>o   socket  For UPS                 off    V   Nema socket  For UPS                 off    V   Socket BS              TS      Rev Z      December     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1Outdoor (Roof on UPS Room) / SafetyDwyerAmerica1950-5-2FE62583 (UL)CL.I DIV.1 GR. C,D; CL.II GR. E,F,G; CL.IIICOMPLETE ASSY.N/</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.1 Work orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.2 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\3. Sistema de ROV (ROV System)\3.4 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.6 Work Ordes.pdf</filepath>
+        <Paragraphs>Page 10 of 23  Maintenance Work OrderCHEC940 Check BOP Control, UPS (6M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>Page 42 of 62   Maintenance Work OrderTEST106 UPS Battery Endurance Test</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.5 Work Orders.pdf</filepath>
+        <Paragraphs>Page 1 of 4  Maintenance Work OrderDTEST106 UPS Battery Endurance Test</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\16. Sistema de Paro de Emergencia General (ESD System)\16.5 Work Orders.pdf</filepath>
+        <Paragraphs>k OrderDTEST    UPS Battery Endurance Test</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.5 Work Orders List.pdf</filepath>
+        <Paragraphs>  19. Sistema Ininterrumpible de Potencia (Main UPS System)   AMOS   Rev. 1   Work orders list and Status   MAY - 2015         LA MURALLA IV    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.5 Work Orders.pdf</filepath>
+        <Paragraphs>k OrderDTEST    UPS Battery Endurance Test</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.6 Work Order List.pdf</filepath>
+        <Paragraphs>  Sistema Ininterrumpible de Potencia (Main UPS System)   AMOS   Rev. 1   Work orders list and Status   JUN - 2015                   LA MURALLA IV    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.6 Work Orders.pdf</filepath>
+        <Paragraphs> Potencia  Main UPS  System    AMOS   Rev      Work orders   JUN                    LA MURALLA IV    Maintenance Work OrderELET   Y   UPS Battery Endu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.8 Work Order List.pdf</filepath>
+        <Paragraphs> Potencia  Main UPS System    AMOS   Rev      Work orders list and Status   Ago                                                                LA MURA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\19. Sistema Ininterrumpible de Potencia (Main UPS System)\19.8 Work Orders.pdf</filepath>
+        <Paragraphs> Potencia  Main UPS  System    AMOS   Rev      Work orders   AGO                    LA MURALLA IV    Maintenance Work OrderELET   Y   UPS Battery Endu</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.1 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.5 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.6 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.7 Work Order.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.8 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\3. Sistema de ROV (ROV System)\3.9 Work Orders.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_AllPurposeCleanerFoam.pdf</filepath>
+        <Paragraphs>ORM D  ERG      UPS Air Consumer Commodity  For all sizes  ORM D AIR  ERG       Section</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_CrystalFoam.pdf</filepath>
+        <Paragraphs>ORM D  ERG      UPS Air Consumer Commodity  For all sizes  ORM D AIR  ERG       Section</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>  UPS Air</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_BikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>ORM-D  ERG 171  UPS Air Producto de Consumo [</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CrystalFoam.pdf</filepath>
+        <Paragraphs>ORM-D  ERG 171  UPS Air Producto de consumo </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\Tabla Mantto. Eq. Basicos-Criticos La Muralla-IV hasta Octubre-2014.pdf</filepath>
+        <Paragraphs> DICIEMBRE      UPS  SISTEMA ININTERRUMPIBLE POTENCIA        MAIN CRANE  GRUAS PRINCIPALES      BOP SYSTEM  SISTEMA PREVENTORES        GEN  EMERG  SHU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\19. Sistema Ininterrumpible de Potencia (Main UPS System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs> Potencia  Main UPS  System    AMOS   Rev      Work orders   Nov                                          LA MURALLA IV      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\19. Sistema Ininterrumpible de Potencia (Main UPS System)\1.3 Work Order List.pdf</filepath>
+        <Paragraphs> Potencia  Main UPS System    AMOS   Rev      Work orders list and Status   NOV                                                                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\rov\57 rov.pdf</filepath>
+        <Paragraphs>Test UPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-003  HV UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs> available AEES UPS manual and DSME Commissioning procedure    Not having the support documentation    In case the UPS throws an unknown alarm or does</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-004  DP UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs> available AEES UPS manual and DSME Commissioning procedure    Not having the support documentation    In case the UPS throws an unknown alarm or does</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-005  Main UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs>available Gutor UPS manual and     Not having the support documentation    In case an alarm on the UPS is activated or does not operate as expected   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-014  Changeover Main UPS Manual Bypass (New).docx</filepath>
+        <Paragraphs>available Gutor UPS manual and     Not having the support documentation    In case an alarm on the UPS is activated or does not operate as expected   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>46  GROUPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>46  GROUPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>17BEARINGHOUSINGBRONZE119a-RINGVITON167a-RINGVITON173HEXAGONSCREWSTAINLESSSTEEL874SOCKETCUPSCREWSTAINLESSSTEEL6 ,".:';;.- CENTRIFUGAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UPS-A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UPS-A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\1. Sistema  de Preventores (BOP System)\1.3 Work Ordes.pdf</filepath>
+        <Paragraphs>BOP Control, UPS-A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS-A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.6 Work Ordes.pdf</filepath>
+        <Paragraphs>BOP Control, UPS-A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS-A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>BOP Control, UPS-A</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UPS-B</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UPS-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\1. Sistema  de Preventores (BOP System)\1.3 Work Ordes.pdf</filepath>
+        <Paragraphs>BOP Control, UPS-B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.6 Work Ordes.pdf</filepath>
+        <Paragraphs>BOP Control, UPS-B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPS-B</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>BOP Control, UPS-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>M702UPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>M702UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M702UPS ROOMUPS ROOM M702NAVI. DECK3026DA961E019F881TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROOMUPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROOMUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>M702UPS ROOMUPS ROOM M702NAVI. DECK3026DA961E019F881TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WATERPROOFM702UPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WATERPROOFM702UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>722961-MAC-01-006ADDR. CALLPOINT. WATERPROOFM702UPS ROOMUPS ROOM M702NAVI. DECK3026DA961E019F881TYCOCP830MZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BARRIERM702UPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BARRIERM702UPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>983961-IS-06-001ZENER BARRIERM702UPS ROOMM702 UPS ROOMNAVI. DECK3026DA961E019F881TYCODX170Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IVUPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IVUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\SRV117.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVUPS Batteries Maintenance (12M)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IVUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\TEST106.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVUPS Battery Endurance Test</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UPSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UPSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>FROM DAMAGE AND / OR TURNING UPSIDE DOWN.   002003004005006007bt034013nt</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UPSET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UPSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs>are listed in the API RP 7G. TOOL JOINT PIN INTERNAL UPSET TOOL JOINT BOX WELD WELD EXTERNAL UPSET INTERNAL-EXTERNAL UPSET  4-6</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODEBRECHT 98106.pdf</filepath>
+        <Paragraphs>UPSET TYPE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODEBRECHT 97580.pdf</filepath>
+        <Paragraphs>UPSET TYPE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97341.pdf</filepath>
+        <Paragraphs>UPSET TYPE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT 97342.pdf</filepath>
+        <Paragraphs>UPSET TYPE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UPSET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>UPSET TYPE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

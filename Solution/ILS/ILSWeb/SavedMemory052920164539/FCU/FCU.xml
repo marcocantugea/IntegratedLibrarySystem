@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FCU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>CHEC540 Check FCU electric motor (6M)FCU for LV Room (FWD/Port)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>difference is that individual FCU was installed  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>that individual FCU was installed  in Lower voltage room  Trafo  and High voltage room for easy control temperature  The ducting and distribution syst</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

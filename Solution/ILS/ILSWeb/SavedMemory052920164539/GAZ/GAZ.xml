@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GAZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GAZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> þ  þ  British Standard Pipe þ  German (DIN) Metric þ  French Metric and GAZ þ  Japanese Standards (JIS)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GAZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\M872545.pdf</filepath>
+        <Paragraphs>     M872545  AA  GAZ PILOT LIGHT         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>UPPERRECEIVER( ABOVEPIVOT/ TAKEDOWNPINS) CHARGINGHANDLE TAKEDOWNPIN PIVOTPIN EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  FOREEND MAGAZINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINEBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINEBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>BUTTON  MAGAZINEBOX PISTOLGRIP FORWARDASSIST LOWERRECEIVER( BELOWPIVOT/ TAKEDOWNPINS)  STOCKASSEMBLY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINERELEASEBUTTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINERELEASEBUTTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>KNOB  EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  VENTEDFOREENDTUBE MAGAZINERELEASEBUTTON MAGAZINEBOX MAGAZINEBOX SAFETY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

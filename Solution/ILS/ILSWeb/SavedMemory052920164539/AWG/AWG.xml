@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AWG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AWG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>by tinned copper braid b Minimum cable cross-section 0.93 mm²   (AWG 18) (max. 2.5 mm², AWG 12) b Resistance per unit length &lt; 100 m</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AWG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>AWG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

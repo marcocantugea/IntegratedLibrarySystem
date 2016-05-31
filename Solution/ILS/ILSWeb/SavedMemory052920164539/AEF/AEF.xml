@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AEFB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEFB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEFB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AEFHJB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AEFHJB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>AEFHJB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

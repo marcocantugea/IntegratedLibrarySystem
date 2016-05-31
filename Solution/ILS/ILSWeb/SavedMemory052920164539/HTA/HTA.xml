@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HTA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>IGHTNING HTA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LIGHTAROMATIC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LIGHTAROMATIC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_DEFOAM-A_Rheochem.pdf</filepath>
+        <Paragraphs>HA  PETROLEUM   LIGHTAROMATIC Not Available                   SOLVENT NAPHTHA  PETROLEUM   MEDIUMALIPHATIC Not Available                   ADDITIVES N</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HTA097-Aluminium</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HTA097-Aluminium</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>HTA097-Aluminium </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>611HTA-49</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>611HTA-49</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ransportation Hose: 611HTA-49 A T þRARA NS þPORPOR T þAA T þIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>244HTA-55</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>244HTA-55</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs> þ   þ   þ   þ   þ   þ   þ   þ   Catalog 4400 US þ  Refrigerant þ  Refrigerant Hose: 244HTA-55 A A-56 N þOO TES Parkrimp (Crimp) Series</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

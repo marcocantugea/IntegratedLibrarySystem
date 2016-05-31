@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ABILITAZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ABILITAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>9.0e ABILITAZIONE POMPA MONO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ABILITAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>9.0e ABILITAZIONE POMPA MONO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CONFORMAZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CONFORMAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>        CONFORMAZIONE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONFORMAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>        CONFORMAZIONE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CONFORMAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>CONFORMAZIONE DEL GIUNTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDENTIFICAZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDENTIFICAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>IDENTIFICAZIONE   IDENTIFICATION CODE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDENTIFICAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>IDENTIFICAZIONE   IDENTIFICATION CODE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDENTIFICAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>IDENTIFICAZIONE GIUNTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AZIMUTH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>     HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENERATORS    x     VAC       kVA       kW  EMERGENCY HARBOUR GENERATOR    x     VAC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>     HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENERATORS    x     VAC       kVA       kW  EMERGENCY HARBOUR GENERATOR    x     VAC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>     HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENERATORS    x     VAC       kVA       kW  EMERGENCY HARBOUR GENERATOR    x     VAC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>     HP     kW  AZIMUTH DRIVES    x    P        HP      kW   MAIN GENERATORS    x     VAC       kVA       kW  EMERGENCY HARBOUR GENERATOR    x     VAC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+        <Paragraphs>AZIMUTH  DRIVE  Refer to Figure 5-1   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\INDICADORES JUNIO\6. Sistema de Propulsores (Thrusters System)\6.3 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\Ya Traducidas\CHEC664.pdf</filepath>
+        <Paragraphs>Approved Notes OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.1 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.4 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.5 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.6 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.7 Work Order.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.8 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\6. Sistema de Propulsores (Thrusters System)\6.9 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\6. Sistema de Propulsores (Thrusters System)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AZIMUTH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\thruster\43 WO.pdf</filepath>
+        <Paragraphs>INTERNAL Work Instruction OPEN THE AZIMUTH SEAL TEST COCKS (400/361.1, 400/361.2, 400/362.1, 400/362.2, 400/363.1, 363.2)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALIMENTAZIONE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALIMENTAZIONE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>110V ALIMENTAZIONE GENERALEPOWER SUPPLY M1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BLAZING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BLAZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\COVER_GIRL_EYE_ENHANCERS_-_BLAZING_WHITE_92081317_PGNA_EN_9-20-13.pdf</filepath>
+        <Paragraphs>Eye Enhancers   BLAZING WHITE  Product Type  Finished Product   Consumer  Retail  Use Only  Recommended use  Personal Beauty Care Product  Uses advise</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TOPAZIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TOPAZIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dolce_and_Gabbana_The_Nail_Varnish_shades_97123506_15-SEP-2014.pdf</filepath>
+        <Paragraphs> Nail Varnish   TOPAZIO  Product Type  Finished Product   Consumer  Retail  Use Only  Recommended Use  Personal Beauty Care Product  Uses advised agai</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>UPPERRECEIVER( ABOVEPIVOT/ TAKEDOWNPINS) CHARGINGHANDLE TAKEDOWNPIN PIVOTPIN EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  FOREEND MAGAZINE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINEBOX</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINEBOX</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>BUTTON  MAGAZINEBOX PISTOLGRIP FORWARDASSIST LOWERRECEIVER( BELOWPIVOT/ TAKEDOWNPINS)  STOCKASSEMBLY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAGAZINERELEASEBUTTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAGAZINERELEASEBUTTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>KNOB  EJECTIONPORTCOVER( SHOWNWITHEJECTIONPORTCOVERCLOSED)  VENTEDFOREENDTUBE MAGAZINERELEASEBUTTON MAGAZINEBOX MAGAZINEBOX SAFETY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRAZING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRAZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>metal to be separated. Horizontal Drill Motor, Model 5GEB22, GEK26191696C  15 FIG. 12.  BRAZING TONGS.  E-29740. CLAMPING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>IDMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>CEI: SIT/A, LTI/B, VIT/B, EIT/CDT or IDMT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>IDMT type A, B or C</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDMT100</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDMT100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMT100 ms </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDMT100</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>IDMT100 ms </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDMTClass</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDMTClass</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMTClass 5 or from -10 ms to +25 ms Timer hold delay T1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>IDMTClass</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>IDMTClass 5 or from -10 ms to +25 ms</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>sMT10527IDMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>sMT10527IDMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMT for IEC, IEEE and IAC curves(timer hold)0; 0.05 to 300 sMT10527IDMT (3)0.5 to 20 s Characteristic times</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>DMT for IEC, IEEE and IAC curves.Resolution0.1 A or 1 digitDE50247Accuracy (2)±5 % or ±0.01 In0</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDMTclass</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDMTclass</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMTclass 5 or from -10 ms to +25 ms Timer hold delay T1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>curvesIDMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>curvesIDMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMT for IEC, IEEE and IAC curvesIDMT Class 5 or from -10 ms to +25 ms Timer hold delay T1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDMTsetting</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDMTsetting</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>IDMTsetting 0.1 In0 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IDMTSetting</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IDMTSetting</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>IDMTSetting range0.1 to 1250 s</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2FHFGermanyEX-ResistTelDMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2FHFGermanyEX-ResistTelDMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>777951-JT-504PABXAUTO TELEPHONE1DRILL FLOOR / Zone 2FHFGermanyEX-ResistTelDMT 02 ATEX E 183II 2G EEx em [ib] IIC T5COMPLETE ASS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMTXWGMTXDMTXOTXMTXG6X</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMTXWGMTXDMTXOTXMTXG6X</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>GMTXWGMTXDMTXOTXMTXG6X</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DMTXFemale</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DMTXFemale</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>241 1/235Ð387.1Ñ 3227.1Ñ  Triple-Lok¨ K76Catalogue 4100-7/UK DMTXFemale elbow connectorTriple-Lok¨ 37</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>8-8DMTXS8-8</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8-8DMTXS8-8</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>8-8DMTXS8-8 DTX-SS8-8 DTX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>12DMTXS12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>12DMTXS12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>12DMTXS12 DTX-SS12 DTX-B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs> flare endMale metric thread Ð ED-seal (ISO 9974) RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RHDMTXSNon</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RHDMTXSNon</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>fittings or alternative sealing materials see page I7.  O Valves O27Catalogue 4100-7/UK RHDMTXSNon return valveTriple-Lok¨ 37</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>chrome6-freeCF4RHDMTXSCFNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>chrome6-freeCF4RHDMTXSCFNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Steel, zinc plated., chrome6-freeCF4RHDMTXSCFNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>4RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>4RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>4RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>5RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>6RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>6RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>6RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>8RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>8RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>8RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>10RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>10RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>10RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>12RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>12RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>12RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>16RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>16RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>16RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>20RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>20RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>20RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>24RHDMTXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>24RHDMTXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>24RHDMTXS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

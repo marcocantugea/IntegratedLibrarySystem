@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ETC816FOG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ETC816FOG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ETC816FOG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOGLIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOGLIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>224 BETA 223J224 BETA 223H224    FOGLIO TEC.  40-200 FOGLIO TEC.  40-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOGLIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>224 BETA 223J224 BETA 223H224    FOGLIO TEC.  40-200 FOGLIO TEC.  40-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOGLIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>BETA    H       FOGLIO TEC          FOGLIO TEC          FOGLIO TEC         FOGLIO TEC            TECH  SHEET          TECH  SHEET          TECH  SHEET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>PAOOLJFOGMBGPKLDEDOPNBBJDMNJOCMCKMPODNEEOGBKFLHCM </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOGGER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOGGER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003935_Raid_Flea_Killer_Plus_Fogger_2-23-11.pdf</filepath>
+        <Paragraphs>Material Safety Data Sheet according to ANSI Z400.1- 2004 and 29 CFR 1910.1226  RAID® FLEA KILLER PLUS FOGGER Version  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

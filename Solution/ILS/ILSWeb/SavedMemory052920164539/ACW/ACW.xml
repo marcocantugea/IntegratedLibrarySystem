@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CACW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CACW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\SRV104.pdf</filepath>
+        <Paragraphs>1. CACW cooler. (Refer to section 6.4)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CACW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\5. Generadores Principales (Main Generators)\5.1 Work Orders.pdf</filepath>
+        <Paragraphs>1. CACW cooler. (Refer to section 6.4)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CACW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\5. Generadores Principales (Main Generators)\5.2 Work Orders.pdf</filepath>
+        <Paragraphs>1. CACW cooler. (Refer to section 6.4)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CACW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicadores mauro\5. Generadores Principales (Main Generators)\1.2 Work Orders.pdf</filepath>
+        <Paragraphs>1. CACW cooler. (Refer to section 6.4)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CACW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\indicators pemex 1rev\main generator\9-wo.pdf</filepath>
+        <Paragraphs>1. CACW cooler. (Refer to section 6.4)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CACW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ENERO\WO SERV104.pdf</filepath>
+        <Paragraphs>1. CACW cooler. (Refer to section 6.4)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ACWB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ACWB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>ACWB</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

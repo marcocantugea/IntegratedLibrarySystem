@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BRHE-AC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRHE-AC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>©2002Schlumberger,UnpublishedWork.Allrightsreserved.  BRHE-AC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ModificationRecapBRHE-AC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ModificationRecapBRHE-AC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>ModificationRecapBRHE-AC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TheBRHEwasdevelopedaspartofaTHERMIEprojectfinanciallysupported</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TheBRHEwasdevelopedaspartofaTHERMIEprojectfinanciallysupported</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>TheBRHEwasdevelopedaspartofaTHERMIEprojectfinanciallysupported</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TheuniqueBRHE-Aburnerheadconsistsoftwelveindividualnozzlesseton</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TheuniqueBRHE-Aburnerheadconsistsoftwelveindividualnozzlesseton</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>TheuniqueBRHE-Aburnerheadconsistsoftwelveindividualnozzlesseton</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRHE-ACBurnerHigh</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRHE-ACBurnerHigh</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\brhe.pdf</filepath>
+        <Paragraphs>BRHE-ACBurnerHigh</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

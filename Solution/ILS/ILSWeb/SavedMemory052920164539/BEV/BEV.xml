@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>0005BEVEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0005BEVEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0005BEVEL ROLLER BEARING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0035BEVEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0035BEVEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0035BEVEL ROLLER BEARING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0077BEVEL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0077BEVEL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0077BEVEL ROLLER BEARING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEVERAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEVERAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>VEL AGRICULTURE BEVERAGE   MANUF</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BEVERAGES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BEVERAGES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_Tide_Stain_Release_Pre-Treater_Spray.pdf</filepath>
+        <Paragraphs>PACKAGE FOR DISPENSING BEVERAGES OR OTHER LIQUIDS.224    SECTION V -</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

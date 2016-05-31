@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GuideDYMO256</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GuideDYMO256</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>User GuideDYMO256 LabelWriter256 Label Printers  Copyright</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DYMO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DYMO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>DYMO and LabelWriter are registered marks in the United States and other countries. All other </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>InformationDYMO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>InformationDYMO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>veloper and SDK InformationDYMO provides various types of information designed to help developers create products that </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LabelsDYMO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LabelsDYMO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>page on the DYMO Web site (www.dymo.com). 5 Chapter 2About LabelsDYMO LabelWriter printers use advanced </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DYMO-branded</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DYMO-branded</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>labels other than DYMO-branded labels. Because DYMO LabelWriter printers use thermal printing </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>93490v0TDYMO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>93490v0TDYMO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>           v T       v TDYMO LabelWriter     Turboxxxxx             v T       v TDYMO LabelWriter Twin Turboxxxxx             v M       v M     Chapte</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>93491v0TDYMO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>93491v0TDYMO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>           v T       v TDYMO LabelWriter Twin Turboxxxxx             v M       v M     Chapter  Caring for Your PrinterThe LabelWriter printer is desi</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

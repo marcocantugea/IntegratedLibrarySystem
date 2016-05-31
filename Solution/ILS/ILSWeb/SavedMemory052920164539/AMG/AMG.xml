@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AMGS3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMGS3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>2D                                 FEATURES &amp; BENEFITS  Bacou Peak AMGS3 CI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AMGS1P</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMGS1P</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>424Bacou Original Free FEATURES &amp; BENEFITS  Bacou Eagle AMGS1P</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DAMGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DAMGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\07 Utility drilling room M159.pdf</filepath>
+        <Paragraphs>BASURA QUE REQUIERE SER RETIRADA EQUIPMENT NOT SECURED, MAY FALL AND HURT SOMEBODY OR DAMGE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>2FHFGermanyEX-ResistTelDMT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2FHFGermanyEX-ResistTelDMT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>777951-JT-504PABXAUTO TELEPHONE1DRILL FLOOR / Zone 2FHFGermanyEX-ResistTelDMT 02 ATEX E 183II 2G EEx em [ib] IIC T5COMPLETE ASS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2FHFGermany</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2FHFGermany</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>778951-JF-504PABXPABX BELL &amp; FLASH BEACON1DRILL FLOOR / Zone 2FHFGermany 5842/1PTB 99 ATEX 2115II 2G EEx em [ib] IIC T6COMPLETE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2FHFGermanyD-45478PTB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2FHFGermanyD-45478PTB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>1648+H-H3DRILLINGAUTO TELEPHONE1DRILL FLOOR / Zone 2FHFGermanyD-45478PTB 01 ATEX 1063&lt;Ex&gt; II 2G Ex de IIC T5/T6COMPLETE ASSY.N/</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HFG019B-BKen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFG019B-BKen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HFG019B-BKen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HFG019B-SGen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HFG019B-SGen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>HFG019B-SGen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

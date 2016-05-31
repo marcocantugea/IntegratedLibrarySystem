@@ -1,0 +1,748 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DSME</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\170227-R-BJ241-MB03-0100_01.pdf</filepath>
+        <Paragraphs>Page:  2 of 160   P:\Shared\Document\170227 DSME Grupo R 2\R- Mechanical </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\SA-214.pdf</filepath>
+        <Paragraphs>DSME Cat D No1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\136.002\starboard column.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\167.001.005\ECM-035 Drain Transfer Pump Motor.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                      Authorizer name and signature     Chief Engineer         DSME                                    Worker name</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\175.004\ECM-021 CM Pressure transducer for deluge system LB area.docx</filepath>
+        <Paragraphs>isor     GR  or DSME         PSP SHOOT    Pressure transducer   MPa              Authorizer name and signature     Chief Engineer         DSME        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\194\ECM-034 CM Defective duct heater M111.docx</filepath>
+        <Paragraphs>isor     GR  or DSME         CMH    Electric duct heater         Authorizer name and signature     Chief Engineer         DSME                        </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\194.022\16 CM  LCP in WCCU for CCR LER BCR.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                     Authorizer name and signature     Chief Engineer                                             Worker name and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\194.022.003.003\ECM-038 CCR Backup AHU Control.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                     Authorizer name and signature     Chief Engineer                                             Worker name and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\344\344-FD VALVE FROM TOILET.docx</filepath>
+        <Paragraphs>isor     GR  or DSME               Membrane valve         Authorizer name and signature     Chief Engineer         GR             VPC V controller    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\344\ECM-024 CM Defective pressure transmitter on sewage tank.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     PMC   AB IPBAFBAA    Pressure transducer             Authorizer name and signature     Chief Engineer         DSME           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\531.001\ECM-027 CM Port Crane Radio Preamplifier.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     Kit       PreAmplifier             Authorizer name and signature     Chief Engineer                                          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\531.002\ECM-033 CM Replace damaged cable between boom tip flood lights.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                      Authorizer name and signature     Chief Engineer         DSME                                    Worker name</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\710.01\01 CM- corrective maintenance for PDPH oil Leak.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\734.002\20 CM RGC HPU Control Power Supply.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     SPD            VAC    VDC Power Supply             Authorizer name and signature     Chief Engineer         DSME             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\752\ECM-031 CM For Endress Hauser O-rings on Mud Pits Level sensors.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Sealing kit FMP x    Consists of      x O ring     x    EPDM     x O ring      x     EPDM     x O ring      x    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\753.01\ECM-32 CM 752-ZS-4040 Valve Feebback module.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     CB   PCV R T H E        Feedback Indicator     bar         Authorizer name and signature     Chief Engineer         DSME     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\826.002\ECM-025 CM Defective PIB102A card in thruster No 2.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     PIB   A    PEC controller card             Authorizer name and signature     Chief Engineer         DSME                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.001\831-CD-001-A.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.002\ECM-030 CM Engine No 2 Earth Fault Alarm.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                     Authorizer name and signature     Chief Engineer                                             Worker name and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.003\831-CD-001-C.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.004\831-CD-001-D.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.005\831-CD-001-E.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\831.008\831-CD-001-H.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\842.001.003.001\ECM-029 CM 842-PT-301 SW cooling outlet pressure sensor.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     PMC   ACA PBRDBAA        Pressure Sensor             Authorizer name and signature     Chief Engineer         DSME           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\845.002.007\18 CM Temperature controller for Air Dryer C.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     T  SP    Temperature Controller             Authorizer name and signature     Chief Engineer         DSME        Autonics    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\863.001\19 CM Watermaker A Flowmeter.docx</filepath>
+        <Paragraphs>isor     GR  or DSME     Promag     W    Order number       P    EA A AA ABAD     Damaged paryt has Seria number l  A   CC             Flowmeter of th</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\863.001\863-XX-001-A.docx</filepath>
+        <Paragraphs> Qty     GR  or DSME                                     Worker name and signature  Inspector                                     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\863.002\863-XX-001-B.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                 Authorizer name and signature     Chief Engineer                                             Worker name and sign</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\927.009\ECM-037 Software upgrade on DGPS 1 and 2.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                     Authorizer name and signature     Chief Engineer                                             Worker name and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\941.016.001\ECM-036 Sound reception system.docx</filepath>
+        <Paragraphs>isor     GR  or DSME                     Authorizer name and signature     Chief Engineer                                             Worker name and </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\961\17 CM Smoke Detector 961-YSH-05-050.docx</filepath>
+        <Paragraphs>isor     GR  or DSME        PH    MX Optical Smoke Heat              Authorizer name and signature     Chief Engineer         DSME        Detector    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\961.001\ECM-022 CM Failed smoke detectors.docx</filepath>
+        <Paragraphs>isor     GR  or DSME        PHEX    Tyco smoke detectors          Authorizer name and signature     Chief Engineer         DSME                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>091  Project No.   302 7   DSME Doc.   30 27 - OP - MAN - 0001   Revision   D   R ef. Doc.     Page   1    of    14      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\MGO - Appendix.pdf</filepath>
+        <Paragraphs>091  Project No.   302 7   DSME Doc.   30 27 - OP - MAN - 0001   Revision   D   R ef. Doc.     Page   1    of    14      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ual   MGI  and  DSME Computerized Maintenance Management System  is used to plan and coordinate the maintenance of all equipment and systems on board </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>Rig  La Muralla IV IMO No. 8770091Project No.3027  DSME Doc.3027DR041Z012  Revision Z  Ref. Doc.   Page 1  of  13   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Hull Aperture Blank.pdf</filepath>
+        <Paragraphs>22 DSME 3027 HULL APERTURE MAINTENANCE COVER TABLE DY-ADR-0427-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for Drawworks BG031).pdf</filepath>
+        <Paragraphs>ent    Project  DSME   GRUPO R   Equipment Equipment Tag No   DRAWWORKS GH      EG AC     BG      Document Title  Lifting Equipment Test Certificate  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>Room HC!lllworthy DSME</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>DSME </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\GENERAL DESCRPTIONS &amp; ARRANGEMENTS &amp; PARTS LIST.pdf</filepath>
+        <Paragraphs>AND CERTIFICATESCustomer: DSME</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\ESD logic function description.pdf</filepath>
+        <Paragraphs>IMO NO. 8770091Project No.3027  DSME Doc.3027DA962E001  Revision Z  Ref. Doc. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\HydraulicTech\Larox valve.pdf</filepath>
+        <Paragraphs>DSME Doc. 22Input Signal 4 ~ 20 mA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>  Project Document  Owner / Client    Project  DSME 5 GRUPO R2  Equipment </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\access basket drawings.pdf</filepath>
+        <Paragraphs>Document        DSME Grupo R   R  Mechanical MH Equipment BC     Access Basket BC    User Manual        R  BC    XX        doc  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\VALVULAS DE MARIPOSA.pdf</filepath>
+        <Paragraphs> Project No. 3027  DSME Doc. 3027DV386P203 Revision Z  GVA-C Doc. -  Page -2 of 100-     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>DSME Doc.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>DSME </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Lista de Modificações e Dúvidas a Serem Tiradas Modificada.docx</filepath>
+        <Paragraphs> Gil Vicente  o DSME ir  reposicion  lo                  PAINEL ANAL GICO  BACK UP  EM CASCATA DENTRO DA CABINE DO SONDADOR  ITEM              Enviar </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0007 NOV Fishing Tools\ODR-NB11-POR-0007.docx</filepath>
+        <Paragraphs>erials above is DSME South Korea                  Section     Payment Conditions and Invoicing Instructions            All prices and rates detailed h</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0015 Marinehouse Operational Manuals\ODR-NB11-POR-0015.docx</filepath>
+        <Paragraphs>   Odebrecht in DSME YARD  shall be    days from the Acceptance of this Purchase Order  No partial deliveries are allowed unless expressly authorized </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0015 Marinehouse Operational Manuals\OOSL-NB11-POR-0002.docx</filepath>
+        <Paragraphs>   Odebrecht in DSME YARD  shall be    days from the Acceptance of this Purchase Order  No partial deliveries are allowed unless expressly authorized </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>COMMERCIAL BID FORM PROJECT NAME: DSME H.3603+04 Norbe VIII_File Server_OOG_Drill Ship</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Flare boom\3026DR842R099_Z.pdf</filepath>
+        <Paragraphs> Project No. 3026  DSME Doc. 3026DR842R099  Revision. Z  Ref. Doc.    GRUPO R </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-003  HV UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs> UPS manual and DSME Commissioning procedure    Not having the support documentation    In case the UPS throws an unknown alarm or does not operate as</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\Electric\ET-TRA-004  DP UPS Maintenance and function test (New).docx</filepath>
+        <Paragraphs> UPS manual and DSME Commissioning procedure    Not having the support documentation    In case the UPS throws an unknown alarm or does not operate as</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSME</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>G/A, FS21 X 60 DIVERTER ASSEMBLY DSME H3026:</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OLDSMOBILE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OLDSMOBILE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>OLDSMOBILE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSM303</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSM303</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>DSM303 Remote adva</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSM303DE50566</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSM303DE50566</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>MET      CCA    DSM   DE      D                 PCRED      EN             Installation MET         Temperature sensor module         Function PE      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>presas como DSM para desarrollar materiales que </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>  Kevlar        DSM  Dyneema       Understanding ANSI  EN and all the icons To help you make the smartest decisions about hand  protection and protect</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDSM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Cool Mist (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Cool Mist Scented Oil Vent Clip (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Mountain Air Scented Oil Vent Clip (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Mountain Air(8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners New Car Scented Oil Vent Clip (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners New Car(8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Vanilla (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Vanilla Scented Oil Vent Clip (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Fresheners Wild Berry (8-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Cleaning Wipe (Orange) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Cleaning Wipes Cool Mist _12-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening MP Auto Cleaner Cool Mist _12-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Cool Mist _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Fresh Outdoors _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant New Car _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wild Berry _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Cool Mist _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Fresh Outdoors _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes New Car _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Air Freshening Protectant Wipes Wild Berry _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Auto Glass Cleaner _12-28-2012_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Car Wash Concentrate_8-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Carpet Upholstery Cleaner (1-2012) SpanishMexico.pdf</filepath>
+        <Paragraphs>nadiense   Esta HDSM  MSDS  se prepar  de acuerdo con los criterios del Reglamento de Productos Controlados  CPR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Cleaning Sponge (12-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Cleaning Wipes (12-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Custom Shield - Black _1-2013_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los criterios del Reglamento de Productos Controlados (CPR, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Custom Shield - Clear _1-2013_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>nadiense   Esta HDSM  MSDS  se prepar  de acuerdo con los criterios del Reglamento de Productos Controlados  CPR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Custom Shield - Gray _1-2013_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>nadiense   Esta HDSM  MSDS  se prepar  de acuerdo con los criterios del Reglamento de Productos Controlados  CPR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Custom Shield - White _1-2013_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>nadiense   Esta HDSM  MSDS  se prepar  de acuerdo con los criterios del Reglamento de Productos Controlados  CPR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Detailer's Advantage tire Foam Protectant SpanishMexico(12-2011).pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Extreme Shield Wax  (2-2012) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Extreme Tire Shine (Spray) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Extreme Tire Shine Aerosol (12-2011) SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>ista Interior de Sustancias) Canadiense.  Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Extreme Tire Shine Gel SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Extreme Wheel  Tire Cleaner (12-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Furious Wet Tire Shine Aerosol SpanishMexico_07-2012_.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Glass Wipes _12-28-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Heavy Duty Cleaner-Degreaser (2-2012) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Care Gel (09-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Care Protectant _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Leather Wipes _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA MP Cleaning Spray _12-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Natural Car Wash Concentrate (01-2012) SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los criterios del Reglamento de Productos Controlados (CPR, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Natural Finish Detailer Protectant Wipes (09-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Natural Finish Detailer Protectant _12-28-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Orange Cleaning Wipes (9-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant Sponge (12-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant Wipes _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Original Protectant _01-2013_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Oxi Magic Carpet Upholstery Cleaner (09-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Protectant Gel (09-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Tire Foam _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA To Go Auto Glass Wipes (12-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>ista Interior de Sustancias) Canadiense.  Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA To-Go Cleaning Wipes (01-2012) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Butter Smooth Wax (09-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Liquid Polish (12-2011) SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Protectant Wipes _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Protectant _01-2013_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Tire Foam _01-2013_ SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>Esta   HDSM   (MSDS)   se   prepar363   de   acuerdo   con   los   criterios   del   Regla m ento   de   Productos   Controlados   (CPR,  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Ultra Shine Wash &amp; Wax _08-2012_ SpanishMexico.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA Wheel Protectant Aerosol (3-2012) SpanishMexicoUS.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AA-Air-Fresheners-Wild-Berry-Scented-Oil-Vent-Clip-08-Spanish.pdf</filepath>
+        <Paragraphs>Esta HDSM (MSDS) se preparó de acuerdo con los crit</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_AllPurposeCleaner.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_Antispatter.pdf</filepath>
+        <Paragraphs> ingl   s  y la HDSM contiene toda la informaci   n requerida por la Reglamentaci   n de productos controlados de Canad         Secci   n       OTRA I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_CarWash.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_Crystal.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_ExtremeAircraftPrecision.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_HandCleanerGel.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_PWC-HeavyDutyCleanerDegreaser.pdf</filepath>
+        <Paragraphs> ingl   s  y la HDSM contiene toda la informaci   n requerida por la Reglamentaci   n de productos controlados de Canad         Secci   n       OTRA I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SafetyTowels.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SimpleGreenAllPurposeCleaner.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_SimpleGreenCrystal.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HDSM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_ES-US_WashWax.pdf</filepath>
+        <Paragraphs>HDSM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>06SRKDSM14</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>06SRKDSM14</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>06SRKDSM14</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>15LRKDSM22</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>15LRKDSM22</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>15LRKDSM22</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>22LMKDSM26</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>22LMKDSM26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>22LMKDSM26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>22LRKDSM27</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>22LRKDSM27</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>22LRKDSM27</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

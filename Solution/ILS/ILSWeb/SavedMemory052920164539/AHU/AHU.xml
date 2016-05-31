@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AHU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>5. AHU condition good &amp; filter clean.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\Temporary Maintenance System\MIV Maintenance History\History\194.022.003.003\ECM-038 CCR Backup AHU Control.docx</filepath>
+        <Paragraphs>O No            AHU Local Control Panel for Backup     IP    A        Status   Pending        Type    CM    Priority     Requestor  Roy Gordon    Req </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>accommodation area. Each AHU will consist of 2x50% fan units, 1x100% chilled water </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>Handling Units  AHU  will serve the various living quarters  LQ  as well as the CCR  and other various spaces in the accommodation area  Each AHU will</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\500 hrs Service Main Engine 1.docx</filepath>
+        <Paragraphs> Inspection fan AHU     B    Page   P gina          OF  De          TASK  Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPTION    Res</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AHU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\TRA - Task Risk Assessment\LECR\AHU bearings.docx</filepath>
+        <Paragraphs>ced bearings on AHU fan     GA     B    Page   P gina         OF  De         TASK   Tarea     JOB STEPS     HAZARD  Peligro    HAZARD EFFECT  DESCRIPT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIDRAHULICOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIDRAHULICOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\26 ENE 2013 SUB SEA.pdf</filepath>
+        <Paragraphs>ICA CON FLUIDOS HIDRAHULICOS E </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COAHUILA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COAHUILA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>     TORRE   N  COAHUILA Blvd  Independencia      Pte Colonia Centro Torre   n  Coahuila   M   xico C P        Tel                 ext       Fax      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AHUMADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AHUMADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>LENTE AHUMADO  PROTECTORA, M301SCARA ADVANTAGE 3000 PAQUETE 25 UNDS.  PN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

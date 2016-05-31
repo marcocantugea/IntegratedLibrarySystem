@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FAVORABILIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAVORABILIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>                FAVORABILIDAD DE LA PERFORACI N                                                                                                       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FAVOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FAVOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>FAVOR . 176 DBI-SALA256      800 387 7484 Even if you never use it, you222ll feel better </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

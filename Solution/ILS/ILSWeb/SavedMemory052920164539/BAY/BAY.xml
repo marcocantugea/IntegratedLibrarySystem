@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\12 Riser bay .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   RISER BAY 10:00 HRS MAY 12th 2014FALTA DE CINTA BARRICADA (CORREGIDA) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\26.- Riser bay.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour           BAHIA DE RISER / RISER BAY   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\05 UPPER DECK.pdf</filepath>
+        <Paragraphs>RISER BAY CLEAN AND TIDY TAMBORES CON PRODUCTOS QUIMICOS SIN ROMBO DE IDENTIFICACION </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A303SICK BAYSICK BAY A303UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP838.pdf</filepath>
+        <Paragraphs>961-YSH-04-006B SICK BAY A303 UPPER DECK F566</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.5 Work Orders.pdf</filepath>
+        <Paragraphs>961-YSH-04-006B SICK BAY A303 UPPER DECK F566</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\7261060368-ODEBRECHT revised.pdf</filepath>
+        <Paragraphs>29 TUAS BAY DRIVE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAYBLEND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAYBLEND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\17a02ph.pdf</filepath>
+        <Paragraphs>BAYBLEND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAYSICK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAYSICK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>A303SICK BAYSICK BAY A303UPPER DECK3026DA961E015F566TYCO811PHZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0002BAYLOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0002BAYLOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0002BAYLOR EDDY CURRENT BRAKE TYPE 78381.00PC210006</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

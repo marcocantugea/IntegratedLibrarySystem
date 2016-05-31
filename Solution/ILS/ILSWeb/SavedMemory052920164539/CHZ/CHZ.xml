@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CHZ5</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHZ5</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>Reference Model CHZ   Yellow  TC CHZ  T YL   SIZE  S to XXXL   Does not protect against ionizing radiation </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHZ6</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHZ6</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\LIT_EN_DPP_Catalogue.pdf</filepath>
+        <Paragraphs>Model CHZ6, White (with socks): SL CHZ6 T WH 16 SIZE: S to XXXL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

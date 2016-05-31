@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CIGARRO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CIGARRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\21 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>10:00 HRS 21  DE FEBRERO DE 2014  COLITAS DE CIGARRO EN LA COLADERA. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CIGARRO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\30 MAYO 2014  Fire Station #3.pdf</filepath>
+        <Paragraphs>CABO DE CIGARRO EN DEPOSITO DE BASURA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CIGARRETTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CIGARRETTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\30 MAYO 2014  Fire Station #3.pdf</filepath>
+        <Paragraphs>CIGARRETTE BUTT FOUND IN TRASH BIN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CIGARRILLOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CIGARRILLOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs>PT   CULOS PARA CIGARRILLOS EMBUDOS PARA TAMBORES Y EQUIPOS CONTROL DE DERRAMES Y AMBIENTE ARMARIOS DE SEGURIDAD Y ALMACENAMIENTO Los sistemas de cont</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CIGALE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CIGALE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>easier insertion into the connecting parts. GO85 FRELON ML04 GO100 CIGALE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

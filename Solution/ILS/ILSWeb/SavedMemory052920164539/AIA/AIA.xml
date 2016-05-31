@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>AIAI221FR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIAI221FR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>J1402 AIAI221FR (4)J1527 R3, J1942, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIAI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIAI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>J1402 AIAI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

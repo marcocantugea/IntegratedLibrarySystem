@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ALKALINA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALKALINA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Quotation\PA-00743 LA MURALLA IV  Insp. Balsas (1er. Lote) 3027-14-1017.pdf</filepath>
+        <Paragraphs>   PZA  BATERIA ALKALINA TIPO  D                                                                                       R       PZA  WASHER       X    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ALKALINEen-US</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ALKALINEen-US</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>BATTERY PACK, ALKALINEen-US</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>KALOTRON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>KALOTRON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\3.2.1 FAMERAC.pdf</filepath>
+        <Paragraphs> INTERSA  IUSA  KALOTRON  KIOTO  MAGAMEX  MONARCA  PROCOBRE  SANWAY  TECNOSOL  USOL SITUACI   N QUE GUARDA LA  INDUSTRIA NACIONAL DE  CALENTADORES SOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

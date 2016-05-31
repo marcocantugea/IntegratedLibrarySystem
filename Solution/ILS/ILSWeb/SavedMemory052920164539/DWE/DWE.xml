@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>3DEADWEIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>3DEADWEIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>0 m 3DEADWEIGHT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DEADWEIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DEADWEIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs>ONNAGE       T  DEADWEIGHT        ft        m          MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEADWEIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs>ONNAGE       T  DEADWEIGHT        ft        m          MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEADWEIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs>ONNAGE       T  DEADWEIGHT        ft        m            MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEADWEIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs>ONNAGE       T  DEADWEIGHT        ft        m            MT   CAPACITIES   WATER BALLAST DRILL WATER                 USG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DEADWEIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>1,829 m DEADWEIGHT  2,056 LT. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>11WELDWELDSpecially</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>11WELDWELDSpecially</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>[carton of 12 pairs] T5204201BALDER Glove, size 8 T5204200BALDER Glove, size 11WELDWELDSpecially selected fine grain goat leather creates a</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

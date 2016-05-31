@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>W3ASAEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>W3ASAEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>W3ASAEN 360 CSA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>W3SSAEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>W3SSAEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>W3SSAEN 360 CSA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAENotch</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAENotch</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>20830-6-63/85/8x183/82.81713/415/163/41.6742 JIC / SAENotch on nut signi036es SAE 45035 037are. B-171 B</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

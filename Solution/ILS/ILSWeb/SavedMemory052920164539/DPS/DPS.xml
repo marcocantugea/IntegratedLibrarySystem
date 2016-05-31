@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>forces in case of DPS mode. The buoyancy of the pontoons, columns and wing </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>rces in case of DPS mode  The buoyancy of the pontoons  columns and wing pontoons should carry all vertical components of the gravity  functional  and</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB001 - Plan disconnect of LMRP (12-Apr-12).docx</filepath>
+        <Paragraphs>dated regarding DPS status and the present station keeping performance           Hang off procedure  using Hang Off Tool     Circulate bottoms up and </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OP15-DPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OP15-DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>OP15-DPS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OP15-DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>OP15-DPS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OP15-DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>OP15-DPS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>OP15-DPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>OP15-DPS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>connectorFMFORMMDPSRDPR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>connectorFMFORMMDPSRDPR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Male stud connectorFMFORMMDPSRDPR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPSRDPR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPSRDPR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPSRDPR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DPSR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DPSR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>DPSR ring: DPR DIN fittings I14Catalogue 4100-7/UK SSleeve screwfor threaded ports according to DIN 3854 D1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HDPSTRAIGHT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDPSTRAIGHT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>HDPSTRAIGHT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

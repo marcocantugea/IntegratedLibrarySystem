@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BKT-250HLV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BKT-250HLV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>BKT-250HLV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HLV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HLV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBbqGrillCleanerAerosol.pdf</filepath>
+        <Paragraphs> STEL HLV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HLV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenBikeCleanerAerosol.pdf</filepath>
+        <Paragraphs>   PEL   STEL   HLV     min    HLV    hr    Butane       ppm        ppm             g m             g m           mg m         ppmv      ppmv   Propan</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HLV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\MSDS_EN-US_SimpleGreenCrystalFoam.pdf</filepath>
+        <Paragraphs> STEL HLV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>MAASP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Driller__toolpusher_Exam.docx</filepath>
+        <Paragraphs>ften should the MAASP be recalculated     a  After every bit change    b  After a change in mud weight    c  After every     ft  drilled       The cor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Driller__toolpusher_exam_with_Answers.docx</filepath>
+        <Paragraphs>ften should the MAASP be recalculated     a  After every bit change    b  After a change in mud weight    c  After every     ft  drilled       The cor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig personnel questionaire Blank.docx</filepath>
+        <Paragraphs>you recalculate MAASP when drilling ahead                How often would a crown saver be checked and how would this be recorded             How many </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig personnel questionaire.docx</filepath>
+        <Paragraphs>you recalculate MAASP when drilling ahead  When you change mud weight      How often would a crown saver be checked and how would this be recorded   I</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\drilling\test\Rig_personnel_Compency.docx</filepath>
+        <Paragraphs>you recalculate MAASP when drilling ahead               How often would a crown saver be checked and how would this be recorded            How many BO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MAASP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>Pressure - MAASP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAAssembly</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAAssembly</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>3 MAAssembly of metric straight port connections</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

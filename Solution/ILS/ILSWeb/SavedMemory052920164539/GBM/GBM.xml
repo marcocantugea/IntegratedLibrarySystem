@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GBMARELLI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GBMARELLI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>   ASI CT       GBMARELLI MOTORI reserves the right to change the design  technical specification and dimensions in order to update or improve its pro</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GBMARELLI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>   ASI CT       GBMARELLI MOTORI reserves the right to change the design  technical specification and dimensions in order to update or improve its pro</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>767025GBMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>767025GBMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>767025GBMS Vintage  en-USTortoise </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

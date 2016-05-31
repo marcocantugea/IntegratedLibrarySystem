@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>767001MFCAVAILABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>767001MFCAVAILABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>767001MFCAVAILABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FCAHOUSTON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCAHOUSTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 FINAL PYMT INVOICE.pdf</filepath>
+        <Paragraphs>        COLLECT FCAHOUSTON N           PartNumber Revision Description         S                  CREDITMEMOFORINV                                  NO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FCAHOUSTON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Nueva carpeta\Reqn 3027-11-0075\OC Firmada - PO Apprvd\Factura\46B101 PRE PYMT INVOICE.pdf</filepath>
+        <Paragraphs>        COLLECT FCAHOUSTON N           PartNumber Revision Description         S                  CREDITMEMOFORINV                                  NO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0016 KCC Server Racks\CBF for Vendor-H.3609+10 Norbe VIII_File Server_OOG_Drill Ship Project_KCC_19 EIA Rack_1.pdf</filepath>
+        <Paragraphs>FCA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>QuoteFCA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>QuoteFCA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708232 - 1 ~04082011083354.pdf</filepath>
+        <Paragraphs>QuoteFCA NOV WAREHOUSE KRISTIANSANDTERMS AND CONDITIONS                                                                                               </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

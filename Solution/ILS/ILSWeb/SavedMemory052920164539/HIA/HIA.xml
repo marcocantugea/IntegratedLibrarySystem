@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BAHIA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAHIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\26.- Riser bay.pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour           BAHIA DE RISER / RISER BAY   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BAHIA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2015\ENERO\05 UPPER DECK.pdf</filepath>
+        <Paragraphs>UPPER DECK    10:00 HRS JANUARY 5 th , 2014 BAHIA  DE RISER LIMPIA Y ORDENADA </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BAHIAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BAHIAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\27.- Upper pipe deck.pdf</filepath>
+        <Paragraphs> DE LAS BAHIAS (CORREGIDO) /  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CHIAVE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHIAVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>QUALSIASI CHIAVE O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHIAVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>QUALSIASI CHIAVE O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CHIAVE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>QUALSIASI CHIAVE O </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ingredienteACGIHIARCEPANIOSHNTPOSHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ingredienteACGIHIARCEPANIOSHNTPOSHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Antibacterial-Hand-Soap-Spanish-MSDS-ZUAHP.pdf</filepath>
+        <Paragraphs>Nombre de producto o ingredienteACGIHIARCEPANIOSHNTPOSHA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>nameACGIHIARCEPANIOSHNTPOSHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>nameACGIHIARCEPANIOSHNTPOSHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crystal-Heat-Drain-Opener-English-MSDS-ZUCRY2.pdf</filepath>
+        <Paragraphs>Product/ingredient nameACGIHIARCEPANIOSHNTPOSHA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>nameACGIHIARCEPANIOSHNTPOSHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Instant-Spot-Remover-English-MSDS-ZUSPOT.pdf</filepath>
+        <Paragraphs>Product/ingredient nameACGIHIARCEPANIOSHNTPOSHA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ingredienteACGIHIARPEPANIOSHNTPOSHA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ingredienteACGIHIARPEPANIOSHNTPOSHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crystal-Heat-Drain-Opener-Spanish-MSDS-ZUCRY2.pdf</filepath>
+        <Paragraphs>Nombre de producto o ingredienteACGIHIARPEPANIOSHNTPOSHA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ingredienteACGIHIARPEPANIOSHNTPOSHA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Instant-Spot-and-Stain-Remover-Spanish-MSDS-ZUSPOT.pdf</filepath>
+        <Paragraphs>Nombre de producto o ingredienteACGIHIARPEPANIOSHNTPOSHA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

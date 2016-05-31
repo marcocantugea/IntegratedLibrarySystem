@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>TBRB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TBRB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-024.pdf</filepath>
+        <Paragraphs>TBRB 8x16x3-A200-A4 SS 357733002138-118</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-024.pdf</filepath>
+        <Paragraphs>BRB 8,4x16x1,6 -A4 ISO 708953001786-453</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LOHB3FNMLPNMLOO-ringSBRBraze</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LOHB3FNMLPNMLOO-ringSBRBraze</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>LOHB3FNMLPNMLOO-ringSBRBraze ringTW3L</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SBRBraze</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SBRBraze</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>SBRBraze Ring</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

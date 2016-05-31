@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BILGEWATER-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BILGEWATER-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>BILGEWATER-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>STORAGEWhen</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STORAGEWhen</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>PLACING INTO STORAGEWhen </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FLANGEW12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FLANGEW12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>A2A36 CARBON STEELWIDE FLANGEW12 X #96 X 266-5/83944 LBS(4-C-8)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

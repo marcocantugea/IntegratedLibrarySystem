@@ -1,0 +1,598 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>REFRIGERATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFRIGERATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\19 Compresores de refrigerante M202.pdf</filepath>
+        <Paragraphs>V  Safety Tour                     REFRIGERATION COMP. ROOM M202(Fwd-Port) 22:00 HRS JUN 19thCLEAR AND FREE AISLES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\ROV ac control container.pdf</filepath>
+        <Paragraphs>0 220.0 FILTER ACCESS REFRIGERATION PIPEWORK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>0 220.0 FILTER ACCESS REFRIGERATION PIPEWORK </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>flREFRIGERATOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>flREFRIGERATOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>flREFRIGERATOR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFRIGERATED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Argon Ar Safety Data Sheet SDS P4564.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautiona</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Helium He Safety Data Sheet SDS P4600.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautiona</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Hydrogen Gas H2 Safety Data Sheet SDS P4603.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H         MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Nitrogen Medipure Gas N2 Safety Data Sheet SDS P4630.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC BURNS OR INJURY   OSHA   H        MAY DISPLACE OXYGEN AN D CAUSE RAPID SUFFOCATION    Precaution</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Oxygen Medipure Gas O2 Safety Data Sheet SDS P4637.pdf</filepath>
+        <Paragraphs>       CONTAINS REFRIGERATED GAS  MAY CAUSE CRYOGENIC B URNS OR INJURY   CGA   HG        COMBUSTIBLES IN CONTACT WITH LIQUID OXYGEN MAY EXPLODE ON  IG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SYSTEM75REFRIGERATED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SYSTEM75REFRIGERATED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SYSTEM75REFRIGERATED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERATORS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERATORS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>REFRIGERATORS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRIE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\13 Navigation deck.pdf</filepath>
+        <Paragraphs>FRIE FIGHT EQUIP. IN GOOD SHAPE AND READY TO USE  EQUIPO DE ACCIDENTE DE HELICOPTERO COMPLETO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRIGERIO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRIGERIO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\17 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>FRIGERIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERANTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERANTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\02 Junio Electric Motors Store.pdf</filepath>
+        <Paragraphs>CILINDROS DE REFRIGERANTE BIEN  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFRICAFKI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>e-mail: sales@marelli-ce.fki-et.comSOUTH AFRICAFKI Rotating Machines (Pty) Ltd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>e-mail: sales@marelli-ce.fki-et.comSOUTH AFRICAFKI Rotating Machines (Pty) Ltd</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AFRICAFKI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>e-mail: FKI_EA@froudehofmann.deSOUTH AFRICAFKI Rotating Machines (Pty) Ltd</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRIES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRIES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Certificados Estrobos, Grilletes, Slingas\Lifting gear drilling Certificates\Lifting gear certificate for POD Crane MF021).pdf</filepath>
+        <Paragraphs>  HEINRICH DE FRIES GMBH </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUSTFRITT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUSTFRITT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>RUSTFRITT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUSTFRITTSTAL16</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUSTFRITTSTAL16</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>RUSTFRITTSTAL16</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SAFRIG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SAFRIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ONAL FLEXIGUARD SAFRIG OPTIONS           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SAFRIG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>SAFRIG   þO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRICA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRICA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Capital_Safety_Produktekatalog.pdf</filepath>
+        <Paragraphs>.   00 800 999 55500       www.capitalsafety.eu EUROP þeE , MIDDL þeE  EAST &amp;  þAA FRICA   þFF rance </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRIENDLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRIENDLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>AIR MORE ENVIRONMENTALLY FRIENDLY AND HYPOALLERGENIC </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INFRINGIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Concentrado RMX.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\emulsika.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Frioplast PX.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-in-13070090-al-048-sigunit-p1-mx.pdf</filepath>
+        <Paragraphs>A   QUE PUE DA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sigunit-liquido-al-032-5-6-base-matrix-2.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sika-monotop-723.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikabond-t-35.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikaflex-primer-429-202.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELE CTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-100-esd.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-colorflakes.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-adhesive-componente-a.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQU IER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-adhesive-componente-b.pdf</filepath>
+        <Paragraphs>A   QU E PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-porefiller-componente-a.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-comfort-porefiller-componente-b.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-decoflakes.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikafloor-uretano-premium.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikaguard-62-todos-los-colores.pdf</filepath>
+        <Paragraphs>ANERA QUE PUEDA INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE TIENEN LOS DEM S   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sikalastic-612-gris-blanco.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PA TENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Intraplast-Z.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-sika-manto-app-sika-manto-pro-app-monterplas-app.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-sikahyflex-260.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR  CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\PLastiment CCR Plus.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Plastiment Liquid.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sigunit L-22 R.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sigunit P1 AF.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika 1.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika 2.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Ferrogard 903.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Fiber CHO 6535 NB.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Fiber Microbac.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Fiber Xorex.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Latex AD Concentrado.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Latex AD.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Latex N.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Manto SBS y APP, varios espesores y colores.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sika Multiseal.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\sika-boom-s-espuma.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTEL ECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaCem Fiber.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaCem Fluidificante.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaCem Impermeabilizante.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikacryl-S.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor 100 ESD, componente R y H.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor 110 EpoRok, componentes R y H.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor 262 AS, componente A y B.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikafloor Cure Hard-24.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaGrind 180.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaGrind 200.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaGrind 272 Mx.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikaguard 71W.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikalightcrete.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikalite Plus.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikalite.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikapiso 20.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sikapiso 40.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop 111, componente A y B.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop 123, componente A y B.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Armatec 110 EpoCem, componente A, B y C.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Seal 107, componente A y B.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>INFRINGIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SikaTop Seal 144, componente A y B.pdf</filepath>
+        <Paragraphs>INFRINGIR CUALQUIER PAT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>INFRING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>INFRING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\hoja-seguridad-sika-boom.pdf</filepath>
+        <Paragraphs>RA   QUE PUEDA  INFRING IR CUALQUIER PATENTE O CUALQUIER DERECHO DE PROPIEDAD INTELECTUAL QUE  TIENEN LOS DEM S       </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRIDAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRIDAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>AY   THURSDAY   FRIDAY   SATURDAY       am          am   BREAK   FAST   Cereal Porridg e Toast     x Warm  Option   Cereal Porridg e Toast     x Warm </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AFRICAGrant</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AFRICAGrant</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\eXtreme Rotary Shoulder Handbook (Corrected-1).pdf</filepath>
+        <Paragraphs>Fax: 011.65.6861.0117SOUTHERNEUROPE&amp; AFRICAGrant Prideco</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REFRIGERADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REFRIGERADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\2.- CAFERERIA UP DECK D.pdf</filepath>
+        <Paragraphs>FALTA DE MANTENIMIENTO A REFRIGERADOR  FUGA DE AGUA EN CAFETERA. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENFRIAMIENTO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENFRIAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\8.- CHIMENEAS.pdf</filepath>
+        <Paragraphs>QUE DE ENFRIAMIENTO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENFRIAMIENTO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\10 JULY 2014 ROV..pdf</filepath>
+        <Paragraphs>TOTER DE GLYCOL. MANGUERA PARA DRENAJE DE AGUA DE ENFRIAMIENTO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUFRIR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUFRIR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\22 JULY 2014 UPPER DECK.pdf</filepath>
+        <Paragraphs>CON RIESGO DE SUFRIR INSOLACION. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FRIADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FRIADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\23 JULY 2014 TALLER MECANICO.pdf</filepath>
+        <Paragraphs>FRIADOR DE AGUA PARA CONSUMO HUMANO.  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENFRIADOR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENFRIADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\24 Taller de soldadura.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   TALLER DE SOLDADURA 10:00 HRS JULY 24th  2014FALTA DE BASE Y LUGAR APROPIADO A  ENFRIADOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENFRIADOR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\05 HABITACIONAL CAFETERIA Y GYM.pdf</filepath>
+        <Paragraphs>FALTA ASEGURAMIENTO DE ENFRIADOR DE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

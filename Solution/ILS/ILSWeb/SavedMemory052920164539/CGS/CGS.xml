@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CGS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CGS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-DDM-029.pdf</filepath>
+        <Paragraphs>and plug the ports on the greasing manifold (total four locations) marked on CGS drawing as: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TYPECGSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPECGSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TYPECGSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

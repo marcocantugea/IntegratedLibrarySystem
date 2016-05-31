@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ST140012SCHLAUCHLISTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ST140012SCHLAUCHLISTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>6DKOS RA12 - DN10 2 ST140012SCHLAUCHLISTE                                   HOSE LIST                               Datum:20.11.2006</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SHLARD6A</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SHLARD6A</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-581-mx_generalcatalog_mx.pdf</filepath>
+        <Paragraphs>                SHLARD A     SHLSR          SHLSR            SHLSR          SHLSR          SHLSR          SHLSR          SHW       SKITSMT        SLLN</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HLAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HLAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>HLAND </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HIGHLAND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HIGHLAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Antibacterial_800_mil_HOS80807_msds.pdf</filepath>
+        <Paragraphs>HIGHLAND HEIGHTS OH 44143  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HIGHLAND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Hospeco_Soap_Antibac_800ml_Clear_80807_msds.pdf</filepath>
+        <Paragraphs>HIGHLAND HEIGHTS OH 44143  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HLAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HLAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Tide_High_Efficiency_Laundry_Detergent_08886_msds.pdf</filepath>
+        <Paragraphs>A            X  HLAS                     NA            X    Canada   All ingredients are CEPA approved for im</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HLAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Tide_Instant_Detergent_08349_msds.pdf</filepath>
+        <Paragraphs>HLAS 68584-22-5 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HLAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Tide_Laundry_Detergent_24758_msds.pdf</filepath>
+        <Paragraphs>HLAS 68584-22-5 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TT-DHLAN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TT-DHLAN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\15 - Tethered Tool Kit\Tethered Tool Kit.pdf</filepath>
+        <Paragraphs>oisting Lanyard TT DHLAN Strapping Tape        x        TT C    D       Cresent Wrench TT   CW       Aluminum Pipe Wrench TT   APW  Pc Box Wrench Set </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

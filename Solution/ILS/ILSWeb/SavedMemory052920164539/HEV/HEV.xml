@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CHEVROLET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CHEVROLET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>CHEVROLET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IICHEVROLET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IICHEVROLET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>PLATINUM IICHEVROLET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOTOCHEVROLET</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOTOCHEVROLET</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>BEDXTENDER HD231 MOTOCHEVROLET</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

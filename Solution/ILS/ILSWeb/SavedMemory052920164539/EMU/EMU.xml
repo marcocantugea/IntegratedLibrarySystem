@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>EMU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>ithout          EMU      Engineered Modular Unit The latest from the Flexiguard      product line is the highly customizable   OSHA compliant  Enginee</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMU231</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMU231</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>Without8530538* EMU231 Engineered Modular UnitThe latest from the Flexiguard231 product line is the highly customizable, </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EMULSIFIER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EMULSIFIER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GW-3.pdf</filepath>
+        <Paragraphs>RE PUMPING GW   EMULSIFIER   FOOD ADDITIVE   PAPER COATING   STABILISER   THICKENING AGENT          ITEM NUMBER   GUAR GUM   GW     May      Fax Suppl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EMULSIFIER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Guar_Gum_Rheochem.pdf</filepath>
+        <Paragraphs>M  PRODUCT NAME EMULSIFIER   FOOD ADDITIVE   PAPER COATING   STABILISER   THICKENING AGENT Use s  Synonym s  GUARGUM   CYNOPSIS TETRAGONALOBA   VISCOS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PRESSUREMUD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PRESSUREMUD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>PRESSUREMUD HYDROSTATIC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

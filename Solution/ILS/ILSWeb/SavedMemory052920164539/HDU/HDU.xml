@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HDU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HDU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Clean_Oil_Guide.pdf</filepath>
+        <Paragraphs>CJC231 HDU Fine Filter þ </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DSSHDUV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DSSHDUV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en-US.pdf</filepath>
+        <Paragraphs> SHQ GLDORJ ER  DSSHDUV   DYLJDWH WR DQG VHOHFW WKH WH W RU     ILOH WKDW FRQWDLQV WKH GDWD DQG FOLFN  SHQ    GLDORJ ER  DSSHDUV VKRZLQJ KRZ PDQ  ODEH</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DSSHDUV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\DYMO Label User Guide.en.pdf</filepath>
+        <Paragraphs> SHQ GLDORJ ER  DSSHDUV   DYLJDWH WR DQG VHOHFW WKH WH W RU     ILOH WKDW FRQWDLQV WKH GDWD DQG FOLFN  SHQ    GLDORJ ER  DSSHDUV VKRZLQJ KRZ PDQ  ODEH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

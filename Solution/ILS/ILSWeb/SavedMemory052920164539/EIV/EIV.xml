@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RECEIVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECEIVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>RECEIVER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECEIVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>  GNSS RECEIVER   The </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECEIVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>LOWER RECEIVER with Rem Oil including the Trigger, Hammer, Safety, Bolt Catch, Magazine Release, etc), and</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECEIVED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECEIVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08.L03 Lista de Verificación de Embarcación de Suministro - Supply Boat Checklist Form  (14-Ago-13).docx</filepath>
+        <Paragraphs>   INSTRUCTIONS RECEIVED BY CLIENT     INSTRUCCIONES RECIBIDAS POR EL CLIENTE             ARE ALL ENGINES AND THRUSTERS WORKING           TODOS LOS MO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECEIVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08 L03 Lista de Verificación - Supply Boat Checklist R.01 (23-Jun-14).doc</filepath>
+        <Paragraphs>   INSTRUCTIONS RECEIVED BY CLIENT  INSTRUCCIONES RECIBIDAS POR EL CLIENTE    DP Operators  License No   Operador DP  Numero Licencia      ARE ALL ENG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECEIVED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs> WORK DATE REQ  RECEIVED OUR REF  CDC ACACER N     P        REFERENCE TO FLEET AGREEMENT  IF RELEVANT          Order Specification  Scope of Work  Req</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECEIVER751-TK-001</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECEIVER751-TK-001</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\3027DR041Z012      Report of Inclination Experiment.pdf</filepath>
+        <Paragraphs>FO TANK WITH AIR RECEIVER751-TK-001</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECEIVING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECEIVING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\26 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>SIDE BEFORE RECEIVING RISERS CORRECT ISOLATION PROCEDURE FOR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECEIVING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ammonia_Sun_Brite_AMMONIA_msds.pdf</filepath>
+        <Paragraphs>T IS EXPECTED THAT INDIVIDUALS RECEIVING THE INFORMATION WILL EXERCISE THEIR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>RECEIVING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>or Enerpac Sales office.1.0  IMPORTANT RECEIVING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

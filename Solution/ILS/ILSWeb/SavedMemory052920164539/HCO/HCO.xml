@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>DERRICKWITHCOMPONENTSThisgroup</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DERRICKWITHCOMPONENTSThisgroup</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>DERRICKWITHCOMPONENTSThisgroup</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>2HCOMP3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>2HCOMP3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\31401-RPT-0001-02 Grupo-R La Muralla Exploratus-1DL Drilling Riser Analysis.pdf</filepath>
+        <Paragraphs>ess check        HCOMP  D           Results comparison for different load cases        HTB  XL            Results comparison for different load cases </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-H2HCOIL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-H2HCOIL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-H2HCOIL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EXT-H2HCOIL-10PK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EXT-H2HCOIL-10PK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>EXT-H2HCOIL-10PK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LENGTHCOL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LENGTHCOL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\WWCI-TechDataBook.pdf</filepath>
+        <Paragraphs>ANCED COLUMN    LENGTHCOL FT    bbl ft</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

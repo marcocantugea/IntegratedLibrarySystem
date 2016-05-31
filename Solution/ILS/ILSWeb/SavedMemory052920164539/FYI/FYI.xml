@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FYI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FYI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Quotation\CORREO MARIS.pdf</filepath>
+        <Paragraphs>ERVICE          FYI          De      MARIS    Support   mailto support maris no        Enviado el     viernes     de septiembre de            a m     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RESPIRATORSAIR-PURIFYING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RESPIRATORSAIR-PURIFYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs> RESPIRATORSAIR PURIFYING RESPIRATORSHEAD  EYE   HEARING PROTECTIONBODY PROTECTIONBALLISTIC PROTECTIONTHERMAL IMAGINGPORTABLE GAS DETECTIONPERMANENT G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AIR-PURIFYING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AIR-PURIFYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\msa-katalog-en.pdf</filepath>
+        <Paragraphs>Apparatus36 AIR-PURIFYING RESPIRATORSFull Face Masks  APR44Respiratory Filters51Filter Escape Devices56</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPECIFYING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPECIFYING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\expansion joints.pdf</filepath>
+        <Paragraphs>ORDERING AND SPECIFYING INSTRUCTIONS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>BRG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\COMPRESOR SERVICIOS GENERALES 28-10-2015\INGERSOLL-RAND SERVICE AIR COMPRESSOR.docx</filepath>
+        <Paragraphs>    TUBE  FRONT BRG HOUSING                           CONNECTOR                           ORIFICE  INJECTION      MM  XF                             O</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>BRG</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BRG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708207 -  ~04082011083338.pdf</filepath>
+        <Paragraphs>INBOARD BRG CVR 641103361</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BRGELTETCSSEENGOther</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BRGELTETCSSEENGOther</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\STX Main Engine\SPECIAL TOOLS1_MAN DIESEL STX.pdf</filepath>
+        <Paragraphs>BRGELTETCSSEENGOther</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

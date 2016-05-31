@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FSFood</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FSFood</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_FS_179_msds.pdf</filepath>
+        <Paragraphs>Super Kemite FSFood Service Degreaser</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF-G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF-G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF-G </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF-S</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF-S</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF-S </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF-GSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF-GSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series PAFSF GSAE Straight   bolt flange flat with BSPP threadSAE Flange         Female BSPP thread</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF401G38</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF401G38</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF401G38</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF401G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF401G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF401G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF402G12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF402G12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF402G12</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF402G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF402G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF402G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF403G34</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF403G34</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF403G34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF403G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF403G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF403G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF404G1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF404G1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF404G1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF404G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF404G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF404G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF405G114</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF405G114</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF405G114</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF405G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF405G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF405G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF406G112</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF406G112</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF406G112</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF406G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF406G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF406G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>dippedSPAFSF080GSPAFSF080GSMPAFSF080GSUNBR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>dippedSPAFSF080GSPAFSF080GSMPAFSF080GSUNBR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>and materialincl. metr. screwsincl. UNC screws(no additional and O-ringand O-ringsuffix needed) Steel, oil dippedSPAFSF080GSPAFSF080GSMPAFSF080GSUNBR</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>steelSSPAFSF080GSSPAFSF080GSSMPAFSF080GSSUVIT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>steelSSPAFSF080GSSPAFSF080GSSMPAFSF080GSSUVIT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Stainless steelSSPAFSF080GSSPAFSF080GSSMPAFSF080GSSUVIT 1) Pressure shown = Item deliverable</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF080G38</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF080G38</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF080G38</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF080G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF080G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF080G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF100G12</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF100G12</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF100G12</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF100G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF100G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF100G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF102G34</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF102G34</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF102G34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF102G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF102G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF102G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF104G1</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF104G1</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF104G1</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF104G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF104G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF104G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF106G114</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF106G114</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF106G114</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF106G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF106G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF106G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF108G112</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF108G112</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF108G112</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF108G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF108G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF108G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF110G2</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF110G2</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF110G2</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF110G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF110G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF110G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF112G212</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF112G212</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF112G212</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF112G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF112G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF112G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF114G3</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF114G3</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF114G3</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF114G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF114G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF114G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF116G312</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF116G312</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF116G312</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF116G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF116G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF116G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF118G4</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF118G4</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF118G4</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF118G</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF118G</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF118G</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF-SSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF-SSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series PAFSF SSAE Straight   bolt flange flat  socket weld SAE Flange         Socket weld tube end</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF114S103</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF114S103</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF114S103</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAFSF116S103</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAFSF116S103</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>PAFSF116S103</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,1563 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>SFIGROUPSYSTEMINTRODUCnON</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMINTRODUCnON</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\0 Introduction and Guide.pdf</filepath>
+        <Paragraphs>contactman.0.4   SFIGROUPSYSTEMINTRODUCnON</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFtGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFtGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>    SFtGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>drawings105      SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>etc.3.4 SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>556  SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>797Continued SFIGROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ingp43AIR-ANC       SFIGROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM13PROVISIONAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM13PROVISIONAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>537 MAY91SFIGROUPSYSTEM13PROVISIONAL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\6 Machinery.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>CODENOTEQ.t 4422 ROTATING GROUP 00AMV9610052SC 508401336_METRIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>CODENOTEQ.t 4422 ROTATING GROUP 00AMV9610052SC 508401336_METRIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>Sect. (mm2) Oi  ASI.UM.021.1 Ed. 06/03 MarelliMotoriS.p.A.PART OF THE          FKI GROUP OF COMPANIES Via Sabbionara, 1</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Barren_RTU_Herbicide_55_Gallon_3320-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Eliminator_Non-Selective_Herbicide_145-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Triple_Threat_Selective_363-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Turf_King_Herbicide_Non-Select_322-5_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Zap-It_Concentrate_Non-Select_155-1_msds.pdf</filepath>
+        <Paragraphs>DOT PACKING GROUP </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>GROUP I: SPARES FOR ONE UNIT PER YEAR. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI description.pdf</filepath>
+        <Paragraphs> GROUP SYSTEM </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\SFI Groups\SFI Spec Tec.pdf</filepath>
+        <Paragraphs>HTS FOR THE SFI GROUP SYSTEM   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>OPERATION IN GROUP IIA</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFJGROUPSYSTEMMAY9115</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFJGROUPSYSTEMMAY9115</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\1 Rig General.pdf</filepath>
+        <Paragraphs>trimming142 SFJGROUPSYSTEMMAY9115</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>488 MAY91SFIGROUPSYSTEM23TRUSSEDFRAMESThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>4892.8 MAY91 29 SFIGROUPSYSTEM25SUPERSTRUCTUREANDDECKHOUSESThe</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM26</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM26</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>.  SFIGROUPSYSTEM26</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\2 Hull &amp; Structure.pdf</filepath>
+        <Paragraphs>278 SFIGROUPSYSTEMMAY 91 2.14 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM34</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM34</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\3 Drilling Equipment.pdf</filepath>
+        <Paragraphs>342 MAY91SFIGROUPSYSTEM34</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>STOPPERS, ROUERS Windlasses</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\5 Equipment for crew.pdf</filepath>
+        <Paragraphs>etc.)761 SFIGROUPSYSTEMMAY9159RESERVEDFORCABINSONPLATFORMSGroup59is</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFfGROUPSYSTEM73COMPRESSED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFfGROUPSYSTEM73COMPRESSED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\7 Systems for machinery.pdf</filepath>
+        <Paragraphs>etc.761   MAY91SFfGROUPSYSTEM73COMPRESSED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM82</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM82</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ballast8018.2    MAY91SFIGROUPSYSTEM82</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MAY91SFIGROUPSYSTEM84</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MAY91SFIGROUPSYSTEM84</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>tankstodeck8218.8  MAY91SFIGROUPSYSTEM84</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>Generator861DUC-DYN PAGE22-INDEXEAR-ELEESFIGROUPSYSTEM-MAY91EARTHING-comesunder</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>246FIR-FOR PAGE30-INDEXFOR-FUESFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>s.gp70FUELOILHEATERS(HEATINGCOILSINF.O.TANKS)704FUELOILPIPING,seeresp.systems.gp70FOR-FUE  PAGE32-INDEXGAL-GENGSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUNDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE34-INDEXGYM-GYRSFIGROUP</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE34-INDEXGYM-GYRSFIGROUP</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>804GEN-GUT 267 PAGE34-INDEXGYM-GYRSFIGROUP</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUGHNECK</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUGHNECK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>ROUGHNECK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUGHNECK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-RN-021.pdf</filepath>
+        <Paragraphs>HYDRAULIC ROUGHNECK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUGHNECK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>           IRON ROUGHNECK                  VERTICAL PIPE HANDLING SYSTEM              DRILL FLOOR MANIPULATOR ARM  DFMA               LOWER GUIDING AR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUGHNECK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\00- Prearanque de Pozo Nubiles-1\Hazardous Area Electrical Equipment List.pdf</filepath>
+        <Paragraphs>ILLINGHYDRAULIC ROUGHNECK J BOX ON DERRICK MANIFOLD  E  DRILL FLOOR   Zone  TECHNORNorwayTNCN       DNV      OSL ATEX      Ex  II  G Ex e II T  T COMP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUGHNECK</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB021 - Retrieving the BOP Stack Assembly, Riser &amp; Diverter R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>K OFF DDM UNTIL ROUGHNECK CONFIRMS ALL LOCKING DOGS ARE OUT       Lay diverter on TFM with assistance of DFMA       Pick up riser running tool with DD</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>IRONINGTABLE558INS-IRO  SFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>312MOO-MOT PAGE50-INDEXMOT-MUSSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>225PUMPS,LUBEOILTRANSFER-711PUM-PUM PAGE60-INDEXPUM-PURSFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>194SIG-SOL PAGE70-INDEXSOL-SPRSFIGROUPSYSTEM-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>442TEL-TOO PAGE76-INDEXTOO-TRISFIGROUPSYSTEM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SFIGROUPSYSTEM-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SFIGROUPSYSTEM-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>427TRI-TYP  SFIGROUPSYSTEM-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>VAC-VIS PAGE80-INDEXWAL-WATwSFIGROUPSYSTEM-MAY91WALKIE-TALKIE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUTES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EMERGENCY ESCAPE ROUTES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\17 Jun Void Tank 50S.pdf</filepath>
+        <Paragraphs>V  Safety Tour          VOID TANK 50S     10:00 HRS Jun 17thACCESS AND ROUTES KEPT CLEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\03.- Upper deck AFT.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES CLEAN AND FREE  ESCALERAS EN DESORDEN(CORREGIDO) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\04.-Cement room.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES CLEAN AND FREE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\05.-Pits room.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES CLEAN AND FREE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08.-Tanks 4S STBD pontoon.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES FREE AND AREA PROPERLY BARRICADED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\16.-Cement Room.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES CLEAN AND FREE   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AMR-A806-20.pdf</filepath>
+        <Paragraphs>PRIMARY ROUTES OF </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AMR-R800-4.pdf</filepath>
+        <Paragraphs>PRIMARY ROUTES OF ENTRY:    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AMR-R920-12.pdf</filepath>
+        <Paragraphs>  SECTION 5 - HEALTH HAZARD DATA  PRIMARY ROUTES OF ENTRY:   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\AMR-R993-12.pdf</filepath>
+        <Paragraphs>PRIMARY ROUTES OF ENTRY:    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Barren_RTU_Herbicide_55_Gallon_3320-5_msds.pdf</filepath>
+        <Paragraphs>  ROUTES OF ENTRY INHALATION:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Eliminator_Non-Selective_Herbicide_145-5_msds.pdf</filepath>
+        <Paragraphs>ROUTES O </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Triple_Threat_Selective_363-5_msds.pdf</filepath>
+        <Paragraphs> Will not occur.   VI - Health Hazard Data   ROUTES OF ENTRY INHALATION:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Turf_King_Herbicide_Non-Select_322-5_msds.pdf</filepath>
+        <Paragraphs>  ROUTES OF ENTRY INHALATION:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Athea_Zap-It_Concentrate_Non-Select_155-1_msds.pdf</filepath>
+        <Paragraphs>ROUTES OF ENTRY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\BWK-342-A.pdf</filepath>
+        <Paragraphs>  SECTION 5 - HEALTH HAZARD DATA  PRIMARY ROUTES OF ENTRY:   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Camay_Bar.pdf</filepath>
+        <Paragraphs>ROUTES OF ENTRY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Bravo_Hospital_Disinfectant_2100_msds.pdf</filepath>
+        <Paragraphs> CO, CO2. SECTION 5 - HEALTH HAZARD DATA PRIMARY ROUTES OF ENTRY:   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Clear_Cleaner_28oz_CL-12_msds.pdf</filepath>
+        <Paragraphs>EALTH EFFECTS   ROUTES OF EXPOSURE     Eyes  Skin  Inhalation  Ingestion    TARGET ORGANS   No data    EYE CONTACT    Irritation and blurred vision  E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>        PRIMARY ROUTES QF EXPOSURE                      EYES  UNLIKELY                     ORAL INGESTION  YES                    SKIN  UNLIKELY      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Frosty_Pearl_Soap_Gallon_R915-4_msds.pdf</filepath>
+        <Paragraphs>PRIMARY ROUTES OF ENTRY:    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Glass Cleaner_2020_msds.pdf</filepath>
+        <Paragraphs> CO2, CO SECTION 5 - HEALTH HAZARD DATA PRIMARY ROUTES OF ENTRY:   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Intense_Lotion_Hand_Cleaner_2900030_msds.pdf</filepath>
+        <Paragraphs>ROUTES OF ENTRY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-System_Clean_Furniture_Polish_2030_msds.pdf</filepath>
+        <Paragraphs>PRIMARY ROUTES OF ENTRY:    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Zest_Bar_Soap_Wrapped_02679_msds.pdf</filepath>
+        <Paragraphs>ROUTES OF ENTRY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Pantene_Pro-V_Restoratives_Time_Renewal_Shampoo.pdf</filepath>
+        <Paragraphs> HEALTH AND SAFETY DATA  ROUTES OF ENTRY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\12.DECEMBER\06.-Mud pump room.pdf</filepath>
+        <Paragraphs>ASILES AND ESCAPE ROUTES CLEAN AND FREE  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DANGEROUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>DANGEROUS MATERIAL HANDLING PROCEDURES</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ne              DANGEROUS MATERIAL HANDLING PROCEDURES               General     Pre loaded perforation guns will generally be stored on the supply ve</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\19 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>DANGEROUS RESIDUES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\17 Shaker room 2200 hrs .pdf</filepath>
+        <Paragraphs>CONTAINERS WITH DANGEROUS RESIDUES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\19 Cement unit.pdf</filepath>
+        <Paragraphs>BUCKETS WITH DANGEROUS  RESIDUES </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\04 Dangerous residues area.pdf</filepath>
+        <Paragraphs>   Safety Tour  DANGEROUS RESIDUES AREA AREA DE RESIDUOS PELIGROSOS       HRS  OCT   th       TODOS LOS CONTENEDORES CUENTAN CON IDENTIFICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>DANGEROUS AREAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>DANGEROUS AREAS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>OR TRANSPORT OF DANGEROUS GOODS  UN  IATA  IMDG  Section      REGULATORY INFORMATION  POISONS SCHEDULE None REGULATIONS Regulations for ingredients No</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Absorbent_Oil_&amp;_Petroleum_OP100_msds.pdf</filepath>
+        <Paragraphs>100%    3. HAZARDS IDENTIFICATION.   This product is NOT DANGEROUS in its unused fo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Blanket_ENV150_msds.pdf</filepath>
+        <Paragraphs>100%    3. HAZARDS IDENTIFICATION.   This product is NOT DANGEROUS in its unused fo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_Pad_Oil_M-Wght_SPC300_msds.pdf</filepath>
+        <Paragraphs>100%    3. HAZARDS IDENTIFICATION.   This product is NOT DANGEROUS in its unused fo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sorbent_SPC_Pad_Spc_200_Lw_Oil_SPC200_msds.pdf</filepath>
+        <Paragraphs>100%    3. HAZARDS IDENTIFICATION.   This product is NOT DANGEROUS in its unused fo</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>FOR FIRE FIGHTING AND OTHER IMMEDIATELY DANGEROUS TO LIFE OR HEALTH CONDITI </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYMASTER_5C.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated III   Z UN No  Packing Group DG Class Hazchem Code Subsidiary Ris</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYMASTER_5C_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated III   Z UN No  Packing Group DG Class Hazchem Code Subsidiary Ris</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYTREAT_3C_0.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE          None Allocated III  X UN No  Packing Group DG Class Hazchem Code Subsidiary Ri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_CLAYTREAT_3C_0_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE          None Allocated III  X UN No  Packing Group DG Class Hazchem Code Subsidiary Ri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-12CD.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-12CD_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-18.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE          None Allocated III  Z UN No  Packing Group DG Class Hazchem Code Subsidiary Ri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GBW-18_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE          None Allocated III  Z UN No  Packing Group DG Class Hazchem Code Subsidiary Ri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GLFC-5_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_GW-3.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_MAGNACIDE_575_MICROBIOCIDE.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE          None Allocated III  X UN No  Packing Group DG Class Hazchem Code Subsidiary Ri</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Sodium_Hypochlorite.pdf</filepath>
+        <Paragraphs>DOUS SUBSTANCE  DANGEROUS GOODS  According to NOHSC Criteria  and ADG Code  CHEMWATCH HAZARD RATINGS  Flammability   Toxicity   Body Contact   Reactiv</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-10.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated III  R UN No  Packing Group DG Class Hazchem Code Subsidiary Risk</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-10_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated III  R UN No  Packing Group DG Class Hazchem Code Subsidiary Risk</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-32.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated II   YE UN No  Packing Group DG Class Hazchem Code Subsidiary Ris</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_XLW-32_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated II   YE UN No  Packing Group DG Class Hazchem Code Subsidiary Ris</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Barite_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Caustic_Soda_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE        None Allocated II  X  A  UN No  Pkg Group DG Class Hazchem Code Subsidiary Risk </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_DEFOAM-A_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Fracseal_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD ACCORDING TO LAND TRANSPORT RULE  DANGEROUS GOODS       NZS            UN  IMDG and IATATrigger quantities beyond which</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_GBW-12CD_Chem_Alert_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD ACCORDING TO LAND TRANSPORT RULE  DANGEROUS GOODS       NZS            UN  IMDG and IATATrigger quantities beyond which</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Guar_Gum_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Idcide-20_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Kwikseal_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Potassium_Chloride_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Quickseal_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Rheolube_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_RheoPlug_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Salt_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Salt_Rheochem_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_TruGel_13A_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Gunnedah_MSDS_Xanthan_Gum_Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated None Allocat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-MSDS - Soda Ash - Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-MSDS - Sodium Bicarbonate - Rheochem.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Schlumberger_MSDS_Aluminium_Sulphate_Powder_001.pdf</filepath>
+        <Paragraphs>CLASSIFIED AS A DANGEROUS GOOD BY THE CRITERIA OF THE ADG CODE None Allocated None Allocated None Allocated None Allocated None Allocated UN No  Packi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>RNING BEWARE OF DANGEROUS PROCEDURESBe sure Cam Pin is installed in the Bolt Group If it isn   t  your rifle can still fire and MAY EXPLODE     If you</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>EMERGENCY ESCAPE ROU</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THROUGH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L07 Pasando Herramientas No Cortables a traves de Preventores - Passing Non-Shearables Through BOP Checklist (11-Abr-12).doc</filepath>
+        <Paragraphs> NON SHEARABLES THROUGH BOP CHECKLIST      MGT   L                                                                                            PAGE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08.L07 Pasando Herramientas No Contrables a Través de Preventores - Passing Non-Shearables Through BOP Checklist (14-Ago-13).doc</filepath>
+        <Paragraphs>ON   SHEARABLES THROUGH BOP CHECKLIST      MGT   L                                                                                            PAGE    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L07 Passing non-shearables through BOP checklist.doc</filepath>
+        <Paragraphs> NON SHEARABLES THROUGH BOP CHECKLIST  PASANDO HERRAMIENTAS NO CORTABLES A TRAV S DE PREVENTORES        MGT   L                                       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Boron Trifluoride BF3 Safety Data Sheet SDS P4567.pdf</filepath>
+        <Paragraphs>AMAGE TO ORGANS THROUGH PROLONGED OR REPEATED  EXPOSURE        Aspiration hazard       Not c lassified   SECTION     Ecological information           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Carbon Monoxide CO Safety Data Sheet SDS P4576.pdf</filepath>
+        <Paragraphs>NERVOUS SYSTEM  THROUGH  PROLONGED OR REPEATED EXPOSURE   CGA   HG        MAY FORM EXPLOSIVE MIXTURES WITH AIR   CGA   HG        ASPHYXIATING EVEN WIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Citrus-Garbage-Disposal-Drain-Cleaner-English-MSDS-ZUCDD.pdf</filepath>
+        <Paragraphs>RBED THROUGH SKIN.*Hazard Determination System (HDS): Health, Flammability, Reactivity  Acute Effects</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fast-505-Industrial-Cleaner-and-Degreaser-English-MSDS-ZU505.pdf</filepath>
+        <Paragraphs>ercial.com Emergency overviewWARNING!CAUSES EYE IRRITATION. HARMFUL IF ABSORBED THROUGH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Floor-Care-Kit-4-English-MSDS-ZUFLKIT.pdf</filepath>
+        <Paragraphs>www.zep.com Emergency overviewDANGER!CAUSES BURNS. HARMFUL IF ABSORBED THROUGH SKIN OR IF</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Foaming-Glass-Cleaner-English-MSDS-ZUFGC19.pdf</filepath>
+        <Paragraphs>FUL IF ABSORBED THROUGH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Germanium Tetrafluoride GeF4 Safety Data Sheet SDS P4822.pdf</filepath>
+        <Paragraphs>AMAGE TO ORGANS THROUGH PROLONGED OR REPEATED  EXPOSURE   Precautionary statements  GHS   US        P         Do not handle until all safety prec auti</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Grout-Cleaner-and-Whitener-English-MSDS-ZU1046.pdf</filepath>
+        <Paragraphs>BED THROUGH SKIN.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Heavy-Duty-Citrus-Degreaser-English-MSDS-ZUCIT.pdf</filepath>
+        <Paragraphs>THROUGH SKIN.*Hazard Determination System (HDS): Health, Flammability, Reactivity  Acute Effects</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hexane CH3CH24CH3 or C6H14 Safety Data Sheet SDS P6228.pdf</filepath>
+        <Paragraphs>AMAGE TO ORGANS THROUGH PROLONGED OR REPEATED  EXPOSURE   H         TOXIC TO AQUATIC LIFE WITH LONG LASTING EFFECTS   Precautionary statements  GHS   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Instant-Spot-Remover-English-MSDS-ZUSPOT.pdf</filepath>
+        <Paragraphs>FUL IF ABSORBED THROUGH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Instant-Spot-Remover-Towels-English-MSDS-ZUISRT.pdf</filepath>
+        <Paragraphs>ercial.com Emergency overviewWARNING!CAUSES EYE IRRITATION.  HARMFUL IF ABSORBED THROUGH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ion Implantation Mixture of AsH3 and H2 Safety Data Sheet SDS P4871.pdf</filepath>
+        <Paragraphs>AMAGE TO ORGANS THROUGH PROLONGED OR REPEATED  EXPOSURE   Precautionary statements  GHS   US        P         Obtain special instructions before use  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Chloride CH3Cl Safety Data Sheet SDS P4622.pdf</filepath>
+        <Paragraphs>ERVOUS  SYSTEM  THROUGH PROLONGED OR REPEATED EXPOSURE   CGA   HG        MAY FORM EXPLOSIVE MIXTU RES WITH AIR   CGA   HG        MAY CAUSE FROSTBITE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Lysol_Sanitizing_Wipes_77182_msds.pdf</filepath>
+        <Paragraphs>Wash hands after handling and before eating.  DO NOT PUSH FINGER THROUGH OPENING. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs>ERVOUS  SYSTEM  THROUGH PROLONGED OR REPEATED EXPOSURE        Aspiration hazard       Not classified   Potential Adverse human health effects and  sym</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarFlame C Cutting Fuel Safety Data Sheet SDS P196378.pdf</filepath>
+        <Paragraphs>H373 MAY CAUSE DAMAGE TO ORGANS THROUGH PROLONGED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119865 rev1 - Odebrecht Norbe VIII CVD and TT.pdf</filepath>
+        <Paragraphs>INPARAGRAPHS A  THROUGH F  OF THIS ARTICLE    SHALL APPLY TO ANY CLAIM S  LOSSES OR DAMAGES WITHOUT REGARD TO THE CAUSE S  THEREOF  INCLUDINGBUT NOT L</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0009 NOV Measuring Tools\119928 rev1 - Odebrecht Norbe VIII weight ind.pdf</filepath>
+        <Paragraphs>INPARAGRAPHS A  THROUGH F  OF THIS ARTICLE    SHALL APPLY TO ANY CLAIM S  LOSSES OR DAMAGES WITHOUT REGARD TO THE CAUSE S  THEREOF  INCLUDINGBUT NOT L</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUTE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\08.- AGOSTO\08 PONTON DE LADO STB CTO.pdf</filepath>
+        <Paragraphs>OBSTACLES IN EVACUATION ROUTE  BUEN ORDEN Y LIMPIEZA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\13 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>EVACUATION ROUTE SE CUENTA CON PLACA PARA LETRERO DE RESIDUO PELIGROSO PERO SIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\14 FEB 2014 1000 .pdf</filepath>
+        <Paragraphs>         INDICATING LACK OF ESCAPE ROUTE PISO MOJADO JUNTO A EQUIPOS ELECTRICOS. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\16 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>ROUTE SIGNS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\18 FEB 2014 2200.pdf</filepath>
+        <Paragraphs>EVACUATION ROUTE WELL SINGALIZED  BUEN CONTROL DE DIAS SIN ACCIDENTES.  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\20 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>ESCAPE ROUTE CLEAR ALL THE WAY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\28 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>KING EVACUATION ROUTE    V POWER SWITCH OUT OF ORDER WORK AREA WELL SEALED OFF PTW   TRA AND GAS CERTIFICATE FOR TANK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\08 Jun Thruster #3 Room .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   THRUSTER ROOM #3  22:00 HRS JUN 07 WOODEN BOXES INVADING ESCAPE ROUTE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\19 Jun Upper Deck Port Aft.pdf</filepath>
+        <Paragraphs>V  Safety Tour           Upper Deck Port Aft   10:00 HRS Jun 19th ACCESS ROUTE CLEAR AND CLEAN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\20 Jun Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>ESCAPE ROUTE IS SLIGHTLY RESTRICTED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\02 STBD Pontoon (tank 9S cleaning).pdf</filepath>
+        <Paragraphs>OF THE ESCAPE ROUTE (CORRECTED) </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\29.VOID SPACE 50Spdf.pdf</filepath>
+        <Paragraphs>ROUTE EVACUATION OK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\05.-Pits room.pdf</filepath>
+        <Paragraphs>MUD HOSE OVER THE ESCAPE ROUTE WITH TAPE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\08 MUD PITS ROOM.pdf</filepath>
+        <Paragraphs>STAIRS ON EVACUATION ROUTE  (CORRECTED)  AREA BARRICADA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\09 STBD AFT COLUMN.pdf</filepath>
+        <Paragraphs>EVACUATION ROUTE OK  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\12.-Engine room #2.pdf</filepath>
+        <Paragraphs>ESCAPE ROUTE CLEAN AND CLEAR </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\14 sack room.pdf</filepath>
+        <Paragraphs>ESCAPE ROUTE  AND AISLES CLEAR  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Hidraulic and Hp Compressor room .pdf</filepath>
+        <Paragraphs>NEED TO IDENTIFY ESCAPE ROUTE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\24 Mud pump room.pdf</filepath>
+        <Paragraphs> FREE ESCAPE ROUTE  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>ROUTE OF ENTRY:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs>BLE  NO   CABLE ROUTE   CABLE DETAILS   TEST DETAILS RESULTS   From   To   No of   Cores   Size  mm    Voltage   Test  Voltage   Cable   Type   Core C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>ROUTE OF ENTRY:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>ROUTE OF ENTRY:</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>BLE  NO   CABLE ROUTE   CABLE DETAILS   TEST DETAILS RESULTS   From   To   No of   Cores   Size  mm    Voltage   Test  Voltage   Cable   Type   Core C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sani-Cloth_Plus_Wipe_Q89084_msds.pdf</filepath>
+        <Paragraphs>INHALATION:  NOT NORMAL ROUTE OF ENTRY </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\28 JULY 2014 CUARTO DE BOMBAS.pdf</filepath>
+        <Paragraphs>EVACUACION / HOSE OVER EVACUATION ROUTE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   ALL AROUND THE RIG  10:00 HRS 09 DE FEBRERO DE 2014         PIEZA METALICA CORTADA INSERVIBLE NO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\16 Derrcik (finger board level).pdf</filepath>
+        <Paragraphs>V  Safety Tour                     DERRCIK (FINGER BOARD LEVEL) 22:00 HRS JUN 16thROPES OF DIFFERENTA SIZES SCATTERD ALL AROUND THE DECK (CORRECTED)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>MIN    mm WIDE  AROUND PERIMETER OF  ROOF   ROOF AND LADDER RUNGS TO BE COATED WITH NON SLIP   MODULE ID TO BE PAINTED ON THE ROOF        mm HIGH     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>  UNITED STATES TRUSTED, QUALITY FALL PROTECTION   FULL LINE CATALOG   2015   COMPLIANCE PEOPLE AROUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB021 - Retrieving the BOP Stack Assembly, Riser &amp; Diverter R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>OVING EQUIPMENT AROUND ON THE RIG FLOOR ALWAYS LOOK UP TO MAKE SURE THE TUGGER LINE IS NOT CAUGHT IN THE DERRICK OR ANY EQUIPMENT IN THE DERRICK      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB038 - Rig Up Riser Handling Equipment R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>OVING EQUIPMENT AROUND ON THE RIG FLOOR ALWAYS LOOK UP TO MAKE SURE THE WINCH WORK WIRE IS NOT CAUGHT IN THE DERRICK OR ANY EQUIPMENT IN THE DERRICK  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUTED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUTED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\02 MAR 2014 2200.pdf</filepath>
+        <Paragraphs>HOSE NOT ROUTED RIGHT  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUNDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\03 ABRIL 2014 WELDING SHOP 2200.pdf</filepath>
+        <Paragraphs>GROUNDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\12 ABRIL 2014 Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>THIRD-PARTY CONTAINER IS PROPERLY GROUNDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\20 Jun Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>GROUNDED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\18 Weld shop.pdf</filepath>
+        <Paragraphs>PALLET JACK BLOCKING ESCAPE ROUT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\27 DAT cylinders deck.pdf</filepath>
+        <Paragraphs>GOOD HOUSEKEEPING ARROUND THE CYLINDERS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUSTABOUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUSTABOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\16 Jun Roustabout Office.pdf</filepath>
+        <Paragraphs>V  Safety Tour                ROUSTABOUT OFFICE 10:00 HRS Jun 16thTRA FORMS AVAILABLE FOR WORK</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUSTABOUTS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUSTABOUTS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\01BOP's skids deck.pdf</filepath>
+        <Paragraphs>CLEAN AND CLEAR AISLES AND ROUSTABOUTS CONTAINER IN GOOD ORDER </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\04.FANN ROM M302.pdf</filepath>
+        <Paragraphs>GROUND SYSTEM OK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Marathane_693_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot available      Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213D55_msds.pdf</filepath>
+        <Paragraphs>(FOR GROUND SHIPMENT WITHIN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213P5_msds.pdf</filepath>
+        <Paragraphs>(FOR GROUND SHIPMENT WITHIN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_OMU_Sealer_626_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot available      Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_One_Coat_699_msds.pdf</filepath>
+        <Paragraphs>by GROUND transport in North America.Maritime TransportationNot available.  3  Section 14. Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Reclaim_R_487_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot regulated  Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212D55_msds.pdf</filepath>
+        <Paragraphs>(FOR SHIPPING GROUND TRANSPORT IN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212P5_msds.pdf</filepath>
+        <Paragraphs>(FOR SHIPPING GROUND TRANSPORT IN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      DID UNIT PASS THE HIPOT OF ANY TERMINAL TO GROUND AT 3500V, 60HZ,         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TROUBLE-SHOOTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TROUBLE-SHOOTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>TROUBLE-SHOOTING     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TROUBLE-SHOOTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>TROUBLE-SHOOTING     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TROUBLE-SHOOTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 518 HV_690-60_r02.pdf</filepath>
+        <Paragraphs>TROUBLE-SHOOTING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>46  GROUPS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUPS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>46  GROUPS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>1/2224 x 10224 ROUND TRIP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>    Part No. þ  Description    223247B þ  HiLo231 Hexagonal Earplug HILO231 ROUND EARPLUG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>CHAMBERED ROUND IMMEDIATELY!However, if you are unable to remove the round within 10 seconds,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TROUBLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TROUBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TROUBLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TROUBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\INSTRUCTION MANUAL FOR CENTRIFUGAL PUMPS.pdf</filepath>
+        <Paragraphs>Your motor service and any troubleshooting must be handled by quali001 ed persons with proper tools and equipment. TROUBLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TROUBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>  PROBLEM  REASON  TROUBLE - SHOOTING  Pressure is not generated. External leakage(Damaged dust seal </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TROUBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>TROUBLE SHOOTING CHART.........................................10 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>TROUBLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>TROUBLE SHOOTING CHART.........................................10 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DCROUTSIDE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DCROUTSIDE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1455961-AU-19-002ADDRESSANLE UNIT-OUTSIDE DCROUTSIDE DCRDRILL FLOOR3026DA961E018-TYCOC30 T1Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0090ROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0090ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0090ROUND PACKING RING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERGROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>PROTECTION  FOR UNDERGROUND    MINING AND TUNNELING  SAFLOK      MINING ANCHORS  Our SAFLOK      mining anchors were designed to be used with friction</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>FOR UNDERGROUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\16.-DRILLING SWITCHBOARD ROOM.pdf</filepath>
+        <Paragraphs>CIONES / UNDERGROUND SYSTEM IN GOOD CONDI-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THROUGHOUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THROUGHOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>-Labels with barcodes and basic stock items  4 STIMULATE YOUR PPE ACTIVITY THROUGHOUT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>THROUGHOUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs> SAFE DIRECTION THROUGHOUT THE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AMBIDEXTROUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AMBIDEXTROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>LABORATOIRE NATIONAL D222ESSAIS (French National Test Laboratory) AMBIDEXTROUS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NON-DANGEROUS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NON-DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\128_msds.pdf</filepath>
+        <Paragraphs>DOUS SUBSTANCE  NON DANGEROUS GOODS  According to NOHSC Criteria  and ADG Code  RISK SAFETY  None under normal operating conditions    Do not breathe </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>NON-DANGEROUS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-BJ_Services_MSDS_Boric_Acid_3_6.pdf</filepath>
+        <Paragraphs>DOUS SUBSTANCE  NON DANGEROUS GOODS  According to NOHSC Criteria  and ADG Code  CHEMWATCH HAZARD RATINGS  Flammability   Toxicity   Body Contact   Rea</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HROUGH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Heavy-Duty-Baseboard-Stripper-English-MSDS-ZUBASE.pdf</filepath>
+        <Paragraphs>HROUGH SKIN.*Hazard Determination System (HDS): Health, Flammability, Reactivity  Acute Effects</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUGH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs>VOUS SYSTEM  TH ROUGH PROLONGED OR REPEATED EXPOSURE   Precautionary statements  GHS   US        P         Do not handle until all safety precautions </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUGH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Well Test information 2014\Sub Sea\Diverter\Hydril Diveter.pdf</filepath>
+        <Paragraphs>OTHER ROUGH CUTTING TOOL.Table 4-3.  FS Diverter Assem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\tilextileandgroutgelpenmsds10-04.pdf</filepath>
+        <Paragraphs>I Product: TILEX® TILE AND GROUT GEL (PEN)  Description: WHITE, VISCOUS LIQUID WITH CHLORINE ODOR  Other Designations</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUNDif</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUNDif</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>as we know it today. WARNING:THIS FIREARM COULD CHAMBER A ROUNDif it is dropped or jarred with a </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUTINE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUTINE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>ROUTINE INSPECTION ...................................................................................................... 33</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TROUBLESHOOTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TROUBLESHOOTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>TROUBLESHOOTING 73 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPThe</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPThe</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>Bulletin 947070-B ROTATING GROUPThe rotating group may be heavy. Be</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUPRefer</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUPRefer</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>THE OILGEAR COMPANY21 CONTROL GROUPRefer to CONVERSIONS for flow reversal</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>THOROUGHLY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>THOROUGHLY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\TOP DRIVE MAINTENANCE.pdf</filepath>
+        <Paragraphs>THOROUGHLY VEN T ED! </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUTING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\Pbc10263 - ProForma Invoice 10263-1 091710.pdf</filepath>
+        <Paragraphs>ABA / ROUTING #: 021000021 (for wires)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUTING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0011 Conti Tech Coflexip Hose\Pbc10263 - ProForma Invoice 10263-2 102010.pdf</filepath>
+        <Paragraphs>ABA / ROUTING #: 021000021 (for wires)</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ECROU</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ECROU</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\M872545.pdf</filepath>
+        <Paragraphs>   3 M800080  AA  ECROU                       1.00  EA                          </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

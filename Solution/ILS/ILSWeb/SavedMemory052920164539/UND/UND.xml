@@ -1,0 +1,2638 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>navigation412414UNDERWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>navigation412414UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\4 Platform Equipment.pdf</filepath>
+        <Paragraphs>navigation412414UNDERWATER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSOUNDINGSYSTEMSFROMTANKS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSOUNDINGSYSTEMSFROMTANKS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ANDSOUNDINGSYSTEMSFROMTANKS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ANDSOUNDINGSYSTEMS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ANDSOUNDINGSYSTEMS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\8 Platform Common Systems.pdf</filepath>
+        <Paragraphs>ANDSOUNDINGSYSTEMS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOUNDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>SOUNDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOUNDATIONS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOUNDATIONS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>FOUNDATIONS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUNDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Mi Swaco 90-91-093 BEM 650-10T4.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\CENTRIFUGADO ALTA Y BAJA BOMBAS\Centrifuge CD 414_690V-60Hz_rev02.pdf</filepath>
+        <Paragraphs>GROUNDING</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAUNDRY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>LAUNDRY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\03.- MARZO\01 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>RASH WALKWAY TO LAUNDRY ENTRANCE IS DIRTY LIFEBOAT DAVIT STARTER IS RUSTY   NEEDS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004054_Shout_Triple-Acting_Laundry_Stain_Remover_11-16-2009.pdf</filepath>
+        <Paragraphs>LAUNDRY STAIN REMOVER Version  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Tide_Ultra_07021_msds.pdf</filepath>
+        <Paragraphs>   GRANULAR LAUNDRY DETERGENT FINISHED PRODUCT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\29 Laundry.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   LAUNDRY           22:00 HRS AUGUST 29TH, 2014 BUEN ORDEN Y LIMPIEZA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>LAUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\March 2014\06 MAR 2014 1000.pdf</filepath>
+        <Paragraphs>LAUNDRY </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERWATER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\AMOS Documentation\SFI Group System\9 Index.pdf</filepath>
+        <Paragraphs>UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\boom lacing 29-30.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1363 LA MURALLA IV.pdf</filepath>
+        <Paragraphs>UNDERWATER  SERVICES, TM (GAUGING) AND MPI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1433 MURALLA IV.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Port Crane Boom NDT.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TR 1345a LA MURALLA IV.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1427.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI2.pdf</filepath>
+        <Paragraphs>  UNDERWATER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+        <Paragraphs>UNDERWATER DETACHABLE PROPULSION SYSTEM  Refer to Figure 6-1    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERWATER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Tech Dive 2015\TR´-1499 LALA MURALLA lV TR-1499.pdf</filepath>
+        <Paragraphs>UNDERWATER  SERVICES, TM (GAUGING) AND MPI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPOUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-MDDM-006.pdf</filepath>
+        <Paragraphs>4. MOUNT COVER ITEM 5. USE SEALING COMPOUND BETWEEN</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>Rev.66 Page 1 of 1B0025866_Parts_List.xls    COMPOUND GEAR</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>  þ   þ   þ  þ  en-USenclosure). COMPOUND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>ERNARY AMMONIUM COMPOUND   MYRISTALKONIUM CHLORIDE                                         HAZARD RATING    HEALTH    FIRE REACT                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Floor_Sweeping_Compound_w-o_Grit_100 W-O GRIT_msds.pdf</filepath>
+        <Paragraphs>Product Name:        NO-GRIT SWEEPING COMPOUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Floor_Sweeping_Compund_W-O_50 W-O GRIT_msds.pdf</filepath>
+        <Paragraphs>Product Name:        NO-GRIT SWEEPING COMPOUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Floor_Sweep_N-Grit_Oil_3030-NG_msds.pdf</filepath>
+        <Paragraphs>Product Name:        NO-GRIT SWEEPING COMPOUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Sebreeze_Citrus_Breeze_5139_msds.pdf</filepath>
+        <Paragraphs>OLATILE ORGANIC COMPOUND  VOC   as packaged  minus water                Theoretical           lb gal     Intermediate w o propellant       Analytical </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>COMPOUND MUST BE APPLIED TO THE TOOL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REDUNDANT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REDUNDANT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\GE - Converteam\CTC_PC-2015-005.pdf</filepath>
+        <Paragraphs>DUAL REDUNDANT NETWO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>REDUNDANCY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>REDUNDANCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08.L02 Guias de Operaciones Especificas en Pozo - WSOG NEEDS REVISED.docx</filepath>
+        <Paragraphs>         SYSTEM REDUNDANCY  SISTEMA DE REDUNDANCIA    Condition       Condiciones    Green    Advisory      Aconsejable    Yellow    Red    DP control</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>REDUNDANCY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L02 WSOG NEEDS REVISED.docx</filepath>
+        <Paragraphs>         SYSTEM REDUNDANCY  SISTEMA DE REDUNDANCIA    Condition       Condiciones    Green    Advisory      Aconsejable    Yellow    Red    DP control</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\- Obsoletos\MGT08\MGT08.L09 Reporte de Cambio de Turno - Shift Handover Report (11-Abr-12).doc</filepath>
+        <Paragraphs>UDING EQUIPMENT UNDER REPAIR   ESTATUS DEL EQUIPO   INCLUYENDO EL EQUIPO BAJO REPARACI N   PERMITS   PERMISOS   RMX   OBSERVACIONES   OUTGOING  SALE R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\11 Marina - Marine\Formatos Marina\MGT08\MGT08.L09 Reporte de Cambio de Turno - Shift Handover Report (14-Ago-13).doc</filepath>
+        <Paragraphs>UDING EQUIPMENT UNDER REPAIR   ESTATUS DEL EQUIPO   INCLUYENDO EL EQUIPO BAJO REPARACI N   PERMITS   PERMISOS   RMX   OBSERVACIONES   OUTGOING  SALE R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\11 Marina - Marine\SPANISH\Formatos Listas de Verificacion, Check list\MGT08.L09 SHIFT HANDOVER REPORT.doc</filepath>
+        <Paragraphs>UDING EQUIPMENT UNDER REPAIR   ESTATUS DEL EQUIPO   INCLUYENDO EL EQUIPO BAJO REPARACI N   PERMITS   PERMISOS   RMX   OBSERVACIONES   OUTGOING  SALE R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\12 Submarino-Subsea\Instructive\077.IR001 - ROV Operational Instructions (01-Nov-13).pdf</filepath>
+        <Paragraphs>UNDER NO CIRCUMSTANCES SHOULD ALLOW SUPERVISOR ROV LAUNCH OR CONTINUE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 2200 hrs.pdf</filepath>
+        <Paragraphs>WATER UNDER MAT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\15 MAIN DECK PORT AFT.pdf</filepath>
+        <Paragraphs>RAGS LEFT UNDER CRANE STAIRS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\05 Jun Starboard Aft Vent Room.pdf</filepath>
+        <Paragraphs>OIL SPILL UNDER DRAIN ON MOISTURE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\08 Jun Thruster #3 Room .pdf</filepath>
+        <Paragraphs>TRASH STUFFED UNDER STARTER BOX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\30 TFM and Wire line deck.pdf</filepath>
+        <Paragraphs>BASURA DENTRO DE CHAROLA ECOLOGICA Y MEZCLADA AFUERA DE UNIDAD DE REGISTRO OIL LEAK UNDER TFM AND DRAINING DOWN TO UPPER PIPE DECK</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Phase undercurrent UNDER CURRENTCOURANT &lt;&lt;9</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\1 3 Butadiene C4H6 Safety Data Sheet SDS P4571.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         MAY CAUSE GENETIC DEFECTS   H         MAY CAUSE C ANCER  Inhalation    CGA   HG     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\1 Butene C4H8 Safety Data Sheet SDS P6214.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000003639_Pledge_Clean_%26_Dust_Furniture_Polish.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004593_Glade_Aerosol_Hawaiian_Breeze.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000004693_Glade_Aerosol_Clean_Linen.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000009774_Raid_Ant_Killer_16_Unscented.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000010777_Raid_Wasp_%26_Hornet_Killer_33.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011472_Raid_Ant___Roach_Killer_17_Fragrance_Free.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011476_Raid_Ant___Roach_Killer_17_Lemon.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\350000011973_Edge_Shave_Gel_Clean+(1).pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene Gas C2H2 Safety Data Sheet SDS P4559.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene Gas C2H2 Safety Data Sheet SDS P4559_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Acetylene in DMF Trailer Cylinder Gas C2H2 Safety Data Sheet SDS P6201.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Air Medipure Plasma N2O2 Safety Data Sheet SDS P4560.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   CGA   HG        MAY SUPPORT COMBUSTION    Precautionary   statements  GHS   US        P       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ammonia NH3 Safety Data Sheet SDS P4562.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         TOXIC IF INHALED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         VER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ammonia NH3 Safety Data Sheet SDS P4562_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         TOXIC IF INHALED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         VER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Argon Gas Ar Safety Data Sheet SDS P4563.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Banana Gas 32 Gas Mixture Mixture of C2H4 and CO2 Safety Data Sheet SDS P4818.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CG A   HG        MAY CAUSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Stix_California_9802_msds.pdf</filepath>
+        <Paragraphs>UNDER PCP.   WHMIS CLASS D-1: Material causing immediate </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Boron Trichloride BCl3 Safety Data Sheet SDS P4566.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         TOXIC IF INHALED   CGA   HG     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Boron Trifluoride BF3 Safety Data Sheet SDS P4567.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         CAUSES S ERIOUS EYE DAMAGE   H  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Butane C4H10 Safety Data Sheet SDS P4572.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Carbon Monoxide CO Safety Data Sheet SDS P4576.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         TOXIC IF INHALED   H         MAY DAMAGE FERTILITY OR THE UNBO RN CHILD   H         C</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CDC5703735061.pdf</filepath>
+        <Paragraphs>  EMERGENCY OV ERVIEW   CAUTION: CONTENTS UNDER PRESSURE.  Do not puncture or </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Chlorine Cl 2Safety Data Sheet SDS P4580.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H          CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         VE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\cis 2 Butene C4H8 Safety Data Sheet SDS P4577.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Compressed gas nos Nitrogen Silane Mixture of N2 and SiH4 Safety Data Sheet SDS P196399.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Custom Blended Mixtures Hydrostar H5N Gas Mixtures of H2 and N2 Safety SDS P6291.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Deuterium D2 Safety Data Sheet SDS P4585.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dimethyl Ether C2H6O Safety Data Sheet SDS P4589.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         MAY CAUSE DROWSINESS OR DIZZINESS   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DRK-90129.pdf</filepath>
+        <Paragraphs>CAUTION: CONTENTS UNDER PRESSURE.Emergency</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DRK-94308.pdf</filepath>
+        <Paragraphs>Phone: 1-800-668-3131    Version Number: 2 Preparation date: 2005-05-06 EMERGENCY OVERVIEW CAUTION. CONTENTS UNDER PRESSURE. MAY BE MILDLY IRRI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethane C2H6 Safety Data Sheet SDS P4592.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethylene C2H4 Safety Data Sheet SDS P4598.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         MAY CAUSE DROWSINESS OR DIZZINESS   OSH A   H        MAY DISPLACE OXYGEN AND CAUSE R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ethylene C2H4 Safety Data Sheet SDS P4598_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         MAY CAUSE DROWSINESS OR DIZZINESS   OSH A   H        MAY DISPLACE OXYGEN AND CAUSE R</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Extendapak Food Gases EX 30 38 Mixtures of CO2 and O2 Safety Data Sheet SDS P6303.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Extendapak Food Gases Mixtures of CO2 N2 and O2 Safety Data Sheet SDS P6232.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   CGA   H G        MAY CAUSE FROSTBITE    CGA   HG        MAY INCREASE RESPIRATION AND HEART RAT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Extendapak Food Gases Mixtures of CO2 N2 O2 and Ar Safety Data Sheet SDS P6231.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID   SUFFOCATION    CGA   HG        MAY SUPPO</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Febreze_Home_Rituals_Room_Spray.pdf</filepath>
+        <Paragraphs>following precautionary statement:     US Product Package:  FRONT PANEL: CAUTION:  CONTENTS UNDER PRESSURE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Foaming-Glass-Cleaner-English-MSDS-ZUFGC19.pdf</filepath>
+        <Paragraphs>SKIN. CONTENTS UNDER PRESSURE.*Hazard Determination System (HDS): Health, Flammability, Reactivity  Acute Effects</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 116 C2F6 Safety Data Sheet SDS P4670.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAU SE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 134A C2F4H2 Safety Data Sheet SDS P6213.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG         MAY CAUSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 14 CF4 Safety Data Sheet SDS P4665.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCA TION    Precautionary statements  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 218 Perfluoropropane C3F8 Safety Data Sheet SDS P4640.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   H G        MAY CAUSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 218 Perfluoropropane C3F8 Safety Data Sheet SDS P4640_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   H G        MAY CAUSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 22 CHCIF2 Safety Data Sheet SDS P4667.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         HARMS PUBLIC HEALTH AND THE ENVIRONMENT BY DESTROYING OZONE IN  THE UPPER ATMOSPHERE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon 23 CHF3 Safety Data Sheet SDS P4668.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Halocarbon C318 C4F8 Safety Data Sheet SDS P4671.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Heavy-Duty-Baseboard-Stripper-English-MSDS-ZUBASE.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.   In</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A1025 Helium Mixture of Ar He and CO2 Safety Data Sheet SDS P4713.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER P RESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A25 Shielding Gas Mixtures of Ar and He Safety Data Sheet SDS P4717.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A50 Shielding Gas Mixtures of Ar and He Safety Data Sheet SDS P6297.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar A75 Shielding Gas Mixtures of Ar and He Safety Data Sheet SDS P4716.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar CS HeliStar SS Mixture of Ar He and CO2 Safety Data Sheet SDS P4710.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar GV Shielding Gas Stargon VS Shielding Gas Mixture of Ar CO2 and Hen SDS P6299.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HeliStar Shielding Gas Mixtures of He Ar and O2 Safety Data Sheet SDS P6300.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Helium LaserStar Medipure UltraLift Gas He Safety Data Sheet SDS P4602.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HFC 32 CH2F2 Safety Data Sheet SDS P6205.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HFC 32 CH2F2 Safety Data Sheet SDS P6205_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hydrogen Chloride HCl2 Safety Data Sheet SDS P4606.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H          TOXIC IF INHALED   CGA   HG    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hydrogen Gas H2 Safety Data Sheet SDS P4604.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Hydrogen Sulfide H2S Safety Data Sheet SDS P4611.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         FATAL IF INHALED   H         MAY CAUSE RESPIRATORY IRRITATION   H         VERY TOXIC</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar H2 Shielding Gas Mixture of H2 and Ar Safety Data Sheet SDS P4860.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRES SURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar PBSS Mixture of Ar CO2 and H2 Safety Data Sheet SDS P6296.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Instant-Spot-Remover-English-MSDS-ZUSPOT.pdf</filepath>
+        <Paragraphs>SKIN OR IF SWALLOWED. CONTENTS UNDER PRESSURE. Do </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ion Implantation Mixture of AsH3 and H2 Safety Data Sheet SDS P4871.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         FATAL IF INHALED   H         MAY CAUSE CANCER   H         MAY CAUSE DAMAGE TO ORGANS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Isobutane C4H10 Safety Data Sheet SDS P4613.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID S UFFOCATION    CGA   HG        MAY FORM E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Isobutane C4H10 Safety Data Sheet SDS P4613_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID S UFFOCATION    CGA   HG        MAY FORM E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Isobutylene C4H8 Safety Data Sheet SDS P4614.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Krypton Gas Kr Safety Data Sheet SDS P4616.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied gas n o s octafluorotetrahydrofuran C4F8O Safety Data Sheet SDS P6268.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied gas n o s octafluorotetrahydrofuran C4F8O Safety Data Sheet SDS P6268_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquefied Petroleum Gas C3H8 Safety Data Sheet SDS P4646.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPL ODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Hydrogen Gas H2 Safety Data Sheet SDS P4603.pdf</filepath>
+        <Paragraphs> LIQUID AND GAS UNDER PRESSURE   FORMS  EXPLOSIVE MIXTURES WITH AIR   See sec tion      Immediately evacuate all personnel from  danger area   Liquid </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methane CH4 Safety Data Sheet SDS P4618.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Chloride CH3Cl Safety Data Sheet SDS P4622.pdf</filepath>
+        <Paragraphs>  CONTAINS G AS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   H         SUSPECTED OF CAUSING CANCER   H         MAY CAUSE DAM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Fluoride CH3F Safety Data Sheet SDS P4623.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methyl Fluoride CH3F Safety Data Sheet SDS P4623_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Edwards_Steramine_Sanitize_Tablets_STERAMINE_msds.docx</filepath>
+        <Paragraphs>IAL CARCINOGENS UNDER THE NATONAL TOXICOLOGY                    PROGRAM  I A R C  MONOGRAPHS  OR OSHA                                                 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Glade_Smoke_Eliminator_94787_msds.pdf</filepath>
+        <Paragraphs>TION   CONTENTS UNDER PRESSURE   GLADE Smoke Odor Neutralizer Spray  Manufacturer  importer  supplier   US Headquarters  Diversey  Inc          th St </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Pledge_Lemon_94399_msds.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Raid_Ant_&amp;_Roach_Killer_94400_msds.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Vanish_Bathroom_Cleaner_19oz_91225_msds.pdf</filepath>
+        <Paragraphs>VANISH DISINFECTANT BATHROOM CLEANER III EMERGENCY OVERVIEW CAUTION. CONTENTS UNDER PRESSURE. CAUSES EYE IRRITATION. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Natural Gas CH4 C2H6 C3H8 and C4H10 Safety Data Sheet SDS P4627.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFO CATION    CGA   HG        MAY FORM E</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Neon Gas Ne Safety Data Sheet SDS P4629.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitric Oxide NO Safety Data Sheet SDS P4632.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         MAY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Dioxide NO2 and N2O4 Safety Data Sheet SDS P4633.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         CAUSES SERIOUS EYE DAMAGE   H   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Nitrogen Trifluoride NF3 Safety Data Sheet SDS P4854.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   CGA   HG        ASPHYXIATING EVEN WITH ADEQUATE OXYGEN    CGA  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Phosphine PH3 Safety Data Sheet SDS P4643.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         FATAL IF INHALED   H         VER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Chlorosilane A199 Dichlorosilane Cl2H2Si Safety Data Sheet SDS P4587.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND E YE DAMAGE   H         FATAL IF INHALED   CGA   HG    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair FG 2 C3H6 Safety Data Sheet SDS P4617.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Praxair Monochlorosilane ClH3Si Safety Data Sheet SDS P196401.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         TOXIC IF INHAL ED   CGA   HG    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Propylene C3H6 Safety Data Sheet SDS P4648.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY FORM EX</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\RAID%c2%ae+HOUSE+%26+GARDEN+BUG+KILLER+FORMULA+7.pdf</filepath>
+        <Paragraphs>CONTENTS UNDER PRESSURE.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Robostar AL Mixtures of Ar and He Safety Data Sheet SDS P6306.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\SC Johnson_Glade_Super_Fresh_Air_Freshener_94782_msds.pdf</filepath>
+        <Paragraphs>CAUTION: CONTENTS UNDER PRESSURE.Emergency</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarFlame C Cutting Fuel Safety Data Sheet SDS P196378.pdf</filepath>
+        <Paragraphs>H280 - CONTAINS GAS UNDER PRESSURE; MAY EXPLODE IF HEATED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarGold C10 C15 C18 C20 C25 C40 C50 Shielding Gas Mixtures of Ar and CO2 SDS P4715.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarGold C5 C8 MIG Mix Gold Shielding Gas Mixtures of Ar and CO2 Safety Data Sheet SDS P4714.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\StarGold O1 O2 O5 M1 M2 M5 Sigma 1 2 5 Mixtures of Ar and O2 Safety Data Sheet SDS P4718.pdf</filepath>
+        <Paragraphs>  CONTAINS  GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stargon and Stargon SS Mixture of Ar CO2 and O2 or N2 Safety Data Sheet SDS P4788.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sulfur Dioxide SO2 Safety Data Sheet SDS P4655.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER  PRESSURE  MAY EXPLODE IF HEATED   H         CAUSES SEVERE SKIN BURNS AND EYE DAMAGE   H         TOXIC IF INHALED   CGA   HG    </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Sulfur Hexafluoride SF6 Safety Data Sheet SDS P4657.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\terms-and-conditions-of-sale-usa.pdf</filepath>
+        <Paragraphs>WHETHER ARISING UNDER WARRANTY    CONTRACT   NEGLIGENCE  STRICT LIABILITY  INDEMNIFICATION  OR ANY OTHER   CAUSE OR  COMBINATION OF CAUSES WHATSOEVER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\trans 2 Butene C4H8 Safety Data Sheet SDS P4578.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\trans 2 Butene C4H8 Safety Data Sheet SDS P4578_001.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    CGA   HG        MAY CAUSE F</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Xenon Gas Xe Safety Data Sheet SDS P4677.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UNDER PRESSURE  MAY EXPLODE IF HEATED   OSHA   H        MAY DISPLACE OXYGEN AND CAUSE RAPID SUFFOCATION    Precautionary statements  G</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs> OPERATORS UNDER OPERATION ! </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs> ONLY UNDER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs> ONLY UNDER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\National 14P-220 Manual_80-501-209.pdf</filepath>
+        <Paragraphs>. ASSEMBLY IS STILL UNDER TENSION.           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Rotary Table Slips.pdf</filepath>
+        <Paragraphs>SLIPS UNDER THESE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0001 Grant Prideco Drill String S-135\ODR-NB11-POR-0001.docx</filepath>
+        <Paragraphs>O PRODUCTS FALL UNDER THE FOLLOWING    CATEGORIES     For Drill Pipe and HWDP ONLY    ECCN NO   EAR       HTS NO                  SCHEDULE B NO       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0002 Grant Prideco Drill String\ODR-NB11-POR-0002.docx</filepath>
+        <Paragraphs>O PRODUCTS FALL UNDER THE FOLLOWING CATEGORIES     For Drill Pipe and HWDP ONLY    ECCN NO   EAR       HTS NO                  SCHEDULE B NO          </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODR-NB11-POR-0003.docx</filepath>
+        <Paragraphs>O PRODUCTS FALL UNDER THE FOLLOWING    CATEGORIES     For Drill Pipe and HWDP ONLY    ECCN NO   EAR       HTS NO                  SCHEDULE B NO       </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0005 Grant Prideco DS Componnents\Order Confirmation ODR-NB11-POR-0005.pdf</filepath>
+        <Paragraphs>ALL NOV GRANT PRIDECO PRODUCTS FALL UNDER THE FOLLOWING  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Drivers etiquetas\DYMO Label Software\Documentation\LabelWriter Printer User Guide.en.pdf</filepath>
+        <Paragraphs>UNDER THIS WARRANTY SHALL BE LIMITED TO REPAIR OR REPLACEMENT OF THE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\01 Starboard Aft Vent Room.pdf</filepath>
+        <Paragraphs>OIL SPILL UNDER DRAIN ON MOISTURE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\27 Under rotary table(Moonpool).pdf</filepath>
+        <Paragraphs>                        PSSP LA MURALLA IV  Safety Tour   UNDER ROTARY TABLE/DEBAJO DE LA MESA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\03 Starboard Aft Vent Room.pdf</filepath>
+        <Paragraphs>OIL SPILL UNDER DRAIN ON MOISTURE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGUNDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Mantenimiento\2. Segundo Ingeniero.pdf</filepath>
+        <Paragraphs>EV      CARGO   SEGUNDO INGENIERO   REPORTA A   Primer   Ingeniero    Supervisor Mec  nico        UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISIT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Old procedures before 01 April 2015\5 RH - HR\SPANISH\Descripción de Puestos\Perforacion\6. Ayudante de Perforador (Segundo).pdf</filepath>
+        <Paragraphs>E PERFORADOR    SEGUNDO     REPORTA A   Perforador       UNIDAD  OPERACIONAL   LA MURALLA IV         REQUISITOS   ESCOLARIDAD   Ingeniero   T cnico o </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\08 ABRIL 2014 DERRICK.pdf</filepath>
+        <Paragraphs>CIPAL DEL SEGUNDO NIVEL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\30.- WEEKLY SOC TOUR.pdf</filepath>
+        <Paragraphs>  LAMPARA FUNDIDA EN SEGUNDO NIVEL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\RES-005-2011+-+Febrero+2011.pdf</filepath>
+        <Paragraphs>odolog a        SEGUNDO     Que   mediante Resoluci n RES              de fecha   de julio de         public ada en el DOF el       de  agosto   del m</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Lista de Modificações e Dúvidas a Serem Tiradas Modificada.docx</filepath>
+        <Paragraphs>                SEGUNDO P ID  N O H  V LVULA ENTRE O S MAN METRO S DAS BOMBA S DE LAMA  E AS BOMBAS      Conversado com o Gil e vamos analisar a possi</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\25.- DERRICK.pdf</filepath>
+        <Paragraphs>10:00 HRS NOVEMBER 25th , 2014 LUMINARIA FUERA DE SERVICIO EN EL SEGUNDO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\14 JULY 2014 DERRICK.pdf</filepath>
+        <Paragraphs>LUMINARIA FUERA DE SERVICIO EN SEGUNDO NIVEL DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERCUT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\boom lacing 29-30.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TechDiving NDT Report - ROV Davit OCt  2014 (3).pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Observa</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1433 MURALLA IV.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Date of</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Ship pl</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Technic</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Technic</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Technic</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Port Crane Boom NDT.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TR 1345a LA MURALLA IV.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\TR-1326 LA MURALLA IV 3027-13-1339.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\TechDiving Pedestal crane STBD\WO reports\MPI.pdf</filepath>
+        <Paragraphs>FROM XFROM Y I.F= INCOMPLETE FUSIONUC= UNDERCUT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERCUT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Tech Diving Dec 2014\PRELIMINARY REPORT 09-12-14.pdf</filepath>
+        <Paragraphs>LETE FUSION UC  UNDERCUT P  PORES I P  INCOMPLETE PENETRATION C  CRACK S  SLAG O  OTHER  RE  Repaired  S cify if there are two or more repairs Date of</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TechDiving NDT Report - ROV Davit OCt  2014 (3).pdf</filepath>
+        <Paragraphs>ct No  NOT WERE FOUND INSPECTED AREA   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\26 FEB 2014 1000.pdf</filepath>
+        <Paragraphs> OF METAL WASTE FOUND ON DERRICK E </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\30 MAYO 2014  Fire Station #3.pdf</filepath>
+        <Paragraphs>CIGARRETTE BUTT FOUND IN TRASH BIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\05 Jun Starboard Aft Vent Room.pdf</filepath>
+        <Paragraphs>RIAL COULD BE FOUND</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\12 Jun Doghouse Main Deck.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   Fan Room Aft 10:00 HRS Jun 12thSOME PARTS OF FLOOR WERE FOUND GREASY/OILY</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\ PRELIMINARY REPORT 09-12-14.pdf</filepath>
+        <Paragraphs>    r  WERE NOT FOUND SIGNIFICANT INDICATIONS Lenght CMS INDICATIONS GENERALS  Aceptable  A   Rejected R OBSERVATIONS Aceptable  A   Rejected R Serie </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 07-12-14.pdf</filepath>
+        <Paragraphs>    r  WERE NOT FOUND SIGNIFICANT INDICATIONS Lenght CMS INDICATIONS GENERALS  Aceptable  A   Rejected R OBSERVATIONS Aceptable  A   Rejected R Serie </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 10-12-14.pdf</filepath>
+        <Paragraphs>otos   WERE NOT FOUND SIGNIFICANT INDICATIONS surface conditions NATURAL temperature of the object NA welding process used Instrument   PARKER YOKEE T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 12-12-14.pdf</filepath>
+        <Paragraphs>otos   WERE NOT FOUND SIGNIFICANT INDICATIONS surface conditions NATURAL temperature of the object NA welding process used Instrument   PARKER YOKEE T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\Tech Diving Dec 2014\PRELIMINARY REPORT 14-12-14.pdf</filepath>
+        <Paragraphs>otos   WERE NOT FOUND SIGNIFICANT INDICATIONS surface conditions NATURAL temperature of the object NA welding process used Instrument   PARKER YOKEE T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Tech Diving Dec 2014\PRELIMINARY REPORT 09-12-14.pdf</filepath>
+        <Paragraphs>    r  WERE NOT FOUND SIGNIFICANT INDICATIONS Lenght CMS INDICATIONS GENERALS  Aceptable  A   Rejected R OBSERVATIONS Aceptable  A   Rejected R Serie </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs> THE H M L DATA FOR ALL OUR PRODUCTS CAN BE FOUND ON PAGES 40, 41, 43 and 44.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>REPORT ANY PROBLEMS FOUND TO YOUR SUPERVISOR.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>RT ANY PROBLEMS FOUND TO YOUR SUPERVISOR Page    of     Maintenance Work OrderCLEA    Clean BOP HPU filters</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOUNDATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOUNDATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\LIFTING GEAR\TR 1345a DRILL TOOLS  WINCHES MPI REPORT.pdf</filepath>
+        <Paragraphs>BASE DE WINCHES/WINCHES FOUNDATION TECHNICAL DIVING SERVICES S.A. DE C.V. WE ARE CERTIFIED BY:    ABS, LR, GL, BV, DNV, </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUNDATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Thuster instalation (Receptacle)\Volume 01 Section 02.pdf</filepath>
+        <Paragraphs>le Propulsion System 110600364.doc  17.12.2008  Page 24 of 110  8  INSTALLATION OF MOTOR FOUNDATION INCLUDING BRAKE CA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUNDATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FOUNDATION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUNDATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>FOUNDATION NOT RIGID ENOUGH </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FOUNDATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>BOOM ON THE FOUNDATION </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDIDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\01.- ENERO\31 ENE 2014 CTO. BOMBAS.pdf</filepath>
+        <Paragraphs>V  SOC CARD TOUR            cuarto de bombas                       31 Enero del 2014  LUMINARIA FUNDIDA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\11. NOVIEMBRE\30.- WEEKLY SOC TOUR.pdf</filepath>
+        <Paragraphs>  LAMPARA FUNDIDA EN SEGUNDO NIVEL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\11.- MWD AREA.pdf</filepath>
+        <Paragraphs>MISSING WOODEN WEDGE ON BASE AT TOTE TANK  LAMPARA FUNDIDA /   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\20.-Machine shop .pdf</filepath>
+        <Paragraphs>CLEAR WALKWAYS  LAMPARA FUNDIDA </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\10 DERRICK 10 00.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   DERRICK          10:00 HRS SEPT.         10 th  2014LAMPARA FUNDIDA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\13 MOON POOL.pdf</filepath>
+        <Paragraphs>SEGREGATION NOT PROPERLY (CORRECTED)  LAMPARA FUNDIDA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\26 MUD PITS ROOM.pdf</filepath>
+        <Paragraphs>LAMPARA FUNDIDA  / LAMP OFF </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\21 OXY-ACET ROOM.pdf</filepath>
+        <Paragraphs>FALTA CAMBIAR LAMPARA FUNDIDA / </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\8.-Agosto 2014\31 OXY-ACET ROOM.pdf</filepath>
+        <Paragraphs>CYLINDERS NOT BEING USED WITHOUT CAPS OR MISPLACED CAPS FALTA CAMBIAR LAMPARA FUNDIDA / </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\09 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>V  Safety Tour                   ALL AROUND THE RIG  10:00 HRS 09 DE FEBRERO DE 2014         PIEZA METALICA CORTADA INSERVIBLE NO </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\16 Derrcik (finger board level).pdf</filepath>
+        <Paragraphs>V  Safety Tour                     DERRCIK (FINGER BOARD LEVEL) 22:00 HRS JUN 16thROPES OF DIFFERENTA SIZES SCATTERD ALL AROUND THE DECK (CORRECTED)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>MIN    mm WIDE  AROUND PERIMETER OF  ROOF   ROOF AND LADDER RUNGS TO BE COATED WITH NON SLIP   MODULE ID TO BE PAINTED ON THE ROOF        mm HIGH     </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700506 Protecta Catalog USA Rev D_English.pdf</filepath>
+        <Paragraphs>  UNITED STATES TRUSTED, QUALITY FALL PROTECTION   FULL LINE CATALOG   2015   COMPLIANCE PEOPLE AROUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB021 - Retrieving the BOP Stack Assembly, Riser &amp; Diverter R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>OVING EQUIPMENT AROUND ON THE RIG FLOOR ALWAYS LOOK UP TO MAKE SURE THE TUGGER LINE IS NOT CAUGHT IN THE DERRICK OR ANY EQUIPMENT IN THE DERRICK      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\Procedures\077.PB038 - Rig Up Riser Handling Equipment R.01 (16-Aug-13).docx</filepath>
+        <Paragraphs>OVING EQUIPMENT AROUND ON THE RIG FLOOR ALWAYS LOOK UP TO MAKE SURE THE WINCH WORK WIRE IS NOT CAUGHT IN THE DERRICK OR ANY EQUIPMENT IN THE DERRICK  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUNDED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\03 ABRIL 2014 WELDING SHOP 2200.pdf</filepath>
+        <Paragraphs>GROUNDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\12 ABRIL 2014 Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>THIRD-PARTY CONTAINER IS PROPERLY GROUNDED </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUNDED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\20 Jun Air Pressure Vessel Deck.pdf</filepath>
+        <Paragraphs>GROUNDED </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERHULL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERHULL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\11 ABRIL 2014 MOONPOOL 2200.pdf</filepath>
+        <Paragraphs>OIL LEAK ON  EMERGENCY STOP OF CONTROL STAND, UNDERHULL GUIDE   E </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ARROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ARROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\27 DAT cylinders deck.pdf</filepath>
+        <Paragraphs>GOOD HOUSEKEEPING ARROUND THE CYLINDERS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDIDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\26 Galley dry storepub.pdf</filepath>
+        <Paragraphs>ALGUNAS LUCES DE LOS CONGELADORES ESTAN FUNDIDAS AISLES CLEAN AND CLEAR AND STOCK IN ORDER</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\09 STBD AFT COLUMN.pdf</filepath>
+        <Paragraphs>DEC 9TH 10:00 HRS  , 2014 DOS LAMPARAS FUNDIDAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\09.-SEPTIEMBRE\02 Cement room .pdf</filepath>
+        <Paragraphs>V  Safety Tour                   CEMENT UNIT              22:00 HRS          SEPTEMBER   02nd, 2014FALTA CAMBIAR LAMPARAS FUNDIDAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\28 Battery Room M704.pdf</filepath>
+        <Paragraphs>V    Safety Tour            BATTRY ROOM M704 / CUARTO DE BATERIAS M704            22:00 HRS OCT. 28th  LAMPARAS FUNDIDAS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDIDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\10.- OCTUBRE\31.- Drilling Utility Room..pdf</filepath>
+        <Paragraphs>NEED HOUSEKEEPING   LAMPARAS FUNDIDAS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\12. DICIEMBRE\04.FANN ROM M302.pdf</filepath>
+        <Paragraphs>GROUND SYSTEM OK </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Marathane_693_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot available      Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213D55_msds.pdf</filepath>
+        <Paragraphs>(FOR GROUND SHIPMENT WITHIN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Natural_Solvent_Degreaser_213P5_msds.pdf</filepath>
+        <Paragraphs>(FOR GROUND SHIPMENT WITHIN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_OMU_Sealer_626_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot available      Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_One_Coat_699_msds.pdf</filepath>
+        <Paragraphs>by GROUND transport in North America.Maritime TransportationNot available.  3  Section 14. Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Reclaim_R_487_msds.pdf</filepath>
+        <Paragraphs>when shipped by GROUND transport in North America Maritime TransportationNot regulated  Section     Transport InformationTDG Classification</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212D55_msds.pdf</filepath>
+        <Paragraphs>(FOR SHIPPING GROUND TRANSPORT IN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Water_Rinsable_Solvent_Degreaser_212P5_msds.pdf</filepath>
+        <Paragraphs>(FOR SHIPPING GROUND TRANSPORT IN NORTH AMERICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>      DID UNIT PASS THE HIPOT OF ANY TERMINAL TO GROUND AT 3500V, 60HZ,         </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HYUNDAI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HYUNDAI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>HYUNDAI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERCOVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERCOVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>UNDERCOVER FLEX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CAJAUNDERCOVER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CAJAUNDERCOVER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>PARA CAJA ACCESORIOS  PARA CAJAUNDERCOVER SE FUERTE &amp; DURABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OUTBOUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OUTBOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>220868 OUTBOUND</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>1/2224 x 10224 ROUND TRIP</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA-Catalogue.pdf</filepath>
+        <Paragraphs>    Part No. þ  Description    223247B þ  HiLo231 Hexagonal Earplug HILO231 ROUND EARPLUG </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>CHAMBERED ROUND IMMEDIATELY!However, if you are unable to remove the round within 10 seconds,</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HUNDRED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\00 -Pre Arranque\Informe Reparacion Grua Er LM4 - PEMEX.pdf</filepath>
+        <Paragraphs>SUBTOTAL DESCUENTO FIJO  l.V.A. THREE  HUNDRED  EIGHTY-TWO  THOUSAND  NINE  HUNDRED  TWENTY  MXN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0007\3027-14-0007.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0009A\Procurement Document\OC 3027-14-0009A.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0105\Procurement Document\PO 3027-14-0105.pdf</filepath>
+        <Paragraphs> EN LETRA EIGHT HUNDRED NINETY SEVEN  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                     EIGHT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0153\Procurement Document\PO 3027-14-0153.pdf</filepath>
+        <Paragraphs> THOUSAND EIGHT HUNDRED SIXTY SIX  MXN AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                             </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158A\Procurement Document\OC 3027-14-0158A APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158B\Procurement Document\OC 3027-14-0158B.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0158\3027-14-0158C\Procurement Document\OC 3027-14-0158C.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0365\Procurement Document\PO 3027-14-0365.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0732\Procurement Document\OC 3027-14-0732.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0739\Procurement Document\OC 3027-14-0739.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-13-0820 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820-.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0820\Procurement Document\OC 3027-14-0820.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0927\Procurement Document\OC 3027-14-0927.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\OC 3027-14-0940 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0940\Procurement Document\PO 3027-14-0940.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-0970\3027-14-0970A\Procurement Document\OC 3027-14-0970A.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1009\Procurement Document\OC 3027-14-1009.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1010\Procurement Document\OC 3027-14-1010.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1011\Procurement Document\OC 3027-14-1011.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1014\Procurement Document\OC 3027-14-1014.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1015\Procurement Document\OC 3027-14-1015.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1016\Procurement Document\OC 3027-14-1016.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017A\Procurement Document\OC 3027-14-1017A.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017 AUT..pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1017\3027-14-1017B\Procurement Document\OC 3027-14-1017B.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA Rev2.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018 CANCELADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Procurement Document\OC 3027-14-1018.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018A\Procurement Document\OC 3027-14-1018A.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018C\Procurement Document\OC 3027-14-1018C.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1020\Procurement Document\OC 3027-14-1020.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1025\Procurement Document\OC 3027-14-1025.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1030\Procurement Document\OC 3027-14-1030.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1031\Procurement Document\OC 3027-14-1031.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019 APROBADA.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0019\Procurement Document\OC 3027-15-0019.pdf</filepath>
+        <Paragraphs>HUNDRED</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Procurement Document\PO 3027-15-0479.pdf</filepath>
+        <Paragraphs>N THOUSAND FIVE HUNDRED   USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                         FOURTEEN THOU</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0651\Procurement Document\OC 3027-15-0651.pdf</filepath>
+        <Paragraphs>E EN LETRA NINE HUNDRED TEN  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                     NINE HUNDRED T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733 APROBADA.pdf</filepath>
+        <Paragraphs> THOUSAND SEVEN HUNDRED FORTY ONE  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                         THRE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0733\Procurement Document\OC 3027-15-0733.pdf</filepath>
+        <Paragraphs> THOUSAND SEVEN HUNDRED FORTY ONE  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                         THRE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0834\Procurement Document\OC 3027-15-0834.pdf</filepath>
+        <Paragraphs>IX THOUSAND TWO HUNDRED EIGHTY FOUR  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                           </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HUNDRED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PO 3027-15-0116.pdf</filepath>
+        <Paragraphs>EE THOUSAND SIX HUNDRED THIRTY FOUR  USD AND         DESCUENTO FIJO SUBTOTAL I V A  TRANSPORTE MANEJO TOTAL                                         TH</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-15-0479\Quotation\Copia de Proforma Invoice  MS0000014 (002).pdf</filepath>
+        <Paragraphs>IONS  US DOLLAR FUND TRANSFER INSTRUCTIONS OUTSIDE THE UNITED STATES  Intermediary Bank  Bank of New York Mellon  NY Swift code IRVTUS N     Barclay S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOUNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>DEPTH SOUNDER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Azteca.pdf</filepath>
+        <Paragraphs> K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA RECORDER   Furuno  VR       WEATHER FACSIMILE  Furuno FAX     SAT COMMUNICATIONS  VSAT  COMMUNICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Maya.pdf</filepath>
+        <Paragraphs> K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA RECORDER   Furuno  VR       WEATHER FACSIMILE  Furuno FAX     SAT COMMUNICATIONS  VSAT  COMMUNICA</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Viking.pdf</filepath>
+        <Paragraphs> K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA RECORDER   Furuno  VR       WEATHER FACSIMILE  Furuno FAX      COMMUNICATIONS     SATELLITTE COMM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\285_PSV_SEACOR_Warrior.pdf</filepath>
+        <Paragraphs> K Chief   ECHO SOUNDER  Furuno FE       VOYAGE DATA RECORDER   Furuno  VR       WEATHER FACSIMILE  Furuno FAX      COMMUNICATIONS     SATELLITTE COMM</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\8000_BHP_AHTS_Seacor_Venture.pdf</filepath>
+        <Paragraphs>ad SJS    DEPTH SOUNDER  Sperry ES        Furuno FCB     DGPS  Sperry Trimble NT    D DYNAMIC POSITIONING  None GPS  Trimble NT    D   Furuno GP    GY</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROFUNDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROFUNDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>LORACI N AGUAS  PROFUNDAS NORTE     UNIDAD DE PERFORACI N   AGUAS PROFUNDAS      UNP     EQUIPO MULTIDISCIPLINARIO DE  DISE O INTEGRAL DE  PERFORACI N</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROFUNDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>LORACI N AGUAS  PROFUNDAS     UNIDAD DE PERFORACI N   AGUAS PROFUNDAS       EQUIPO MULTIDISCIPLINARIO DE   DISE O INTEGRAL DE  PERFORACI N DE POZOS  E</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PROFUNDIDAD</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PROFUNDIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>                PROFUNDIDAD TOTAL Y DE OBJETIVOS                                                                                                      </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PROFUNDIDAD</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>                PROFUNDIDAD TOTAL Y DE OBJETIVOS                                                                                                      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ULTRAPROFUNDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ULTRAPROFUNDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\Well Info- Exploratus 1DL (North)\Programa de Perforación Exploratus -1DL_02-01-2015.pdf</filepath>
+        <Paragraphs>AS  PROFUNDAS Y ULTRAPROFUNDAS   PO   EX   OP                 PROCEDIMIENTO OPERATIVO PARA EL  ESTUDIO DE GEOMEC NICA EN  LOCALIZACIONES EXPLORATORIAS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FOUNDATIONNOTRIGID</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FOUNDATIONNOTRIGID</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FOUNDATIONNOTRIGID</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDAMENT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDAMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>FUNDAMENT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDAMENT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\DATA SHEET.pdf</filepath>
+        <Paragraphs>FUNDAMENT IKKE SOLID NOK   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>IPOUNDATION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IPOUNDATION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>IPOUNDATION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MOUNTINGA321ALAUNDARYLAUNDARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MOUNTINGA321ALAUNDARYLAUNDARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>637961-TSH-04-006ADDR. HEAT DET. WITH CEILING MOUNTINGA321ALAUNDARYLAUNDARY A321AUPPER DECK3026DA961E015F566TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAUNDARY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAUNDARY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP842.pdf</filepath>
+        <Paragraphs>961-TSH-04-006 LAUNDARY A321A UPPER DECK F566</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0002COMPOUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0002COMPOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0002COMPOUND GEAR BOX</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>0090ROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>0090ROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\IT\170227-R-BG031-XX01-0100.pdf</filepath>
+        <Paragraphs>0090ROUND PACKING RING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERVOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERVOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Undervoltage UNDERVOLTAGE (3)TENSION &lt;&lt; (3)11</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UnderfrequencyUNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UnderfrequencyUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>UnderfrequencyUNDER FREQ.FREQUENCE &lt;&lt;15</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Underspeed14UNDERSPEED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Underspeed14UNDERSPEED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Underspeed14UNDERSPEED VITESSE &lt;&lt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Underimpedance21BUNDERIMPEDANCEIMPEDANCE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Underimpedance21BUNDERIMPEDANCEIMPEDANCE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Underimpedance21BUNDERIMPEDANCEIMPEDANCE &lt;&lt;</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Undervoltage27UNDERVOLTAGE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Undervoltage27UNDERVOLTAGE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Undervoltage27UNDERVOLTAGE (1)TENSION &lt;&lt; (1)Positive sequence undervoltage27DPositive sequence undervoltageUNDERVOLTAGE.PS TENSION Vd &lt;&lt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>undercurrent37UNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>undercurrent37UNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Phase undercurrent37UNDER CURRENTCOURANT &lt;&lt;</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>underpower37PUNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>underpower37PUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Phase underpower37PUNDER POWERP &lt;&lt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>Underfrequency81LUNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>Underfrequency81LUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\SEPED303001EN.pdf</filepath>
+        <Paragraphs>Underfrequency81LUNDER FREQ. FREQUENCE &lt;&lt; </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>NUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>NUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RigMechanic.3027\TECHNICAL INFO\Clean_Oil_Guide.pdf</filepath>
+        <Paragraphs>NUND Filter efficiencyE =                x 100</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>5462NewUNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>5462NewUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>5462NewUNDER</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MUNDIALES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MUNDIALES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs> Y ASOCIACIONES MUNDIALES L   DER MUNDIAL EN PROTECCI   N BARRERA   CAT   LOGO DE SOLUCIONES DE PROTECCI   N C   MO UTILIZAR ESTA GU   A C   MO UTILIZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUNDIALES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Catalogo-Arseg.pdf</filepath>
+        <Paragraphs>MUNDIALES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MUNDIAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MUNDIAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs> Y ASOCIACIONES MUNDIALES L   DER MUNDIAL EN PROTECCI   N BARRERA   CAT   LOGO DE SOLUCIONES DE PROTECCI   N C   MO UTILIZAR ESTA GU   A C   MO UTILIZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>MUNDIAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs> msa cl L   DER MUNDIAL EN PROTECCI   N RESPIRATORIA Amplia red mundial   con presencia en m   s  de    pa   ses  Mascarillas desechables  M   s   car</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDI-</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDI-</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\1502483586.pdf</filepath>
+        <Paragraphs>L  APLICACIONES FUNDI </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SECUNDARIOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SECUNDARIOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Cat Spanish Cat Pgs 23-44.pdf</filepath>
+        <Paragraphs>OS INDIRECTOS O SECUNDARIOS DERIVADOS DE CUALQUIER DEFECTO DE MATERIAL O FABRICACI   N  Garant   a limitada Justrite  Garant   a limitada de a   os Ar</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MUNDOSOLUCIONES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MUNDOSOLUCIONES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\2013 Int Spanish Cat Pgs 01-22.pdf</filepath>
+        <Paragraphs> CONFIABLES DEL MUNDOSOLUCIONES DE SEGURIDAD A NIVEL GLOBAL ESPA   OL     MEDIDA M   TRICA APROBACI   N justritemfg com   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPOUNDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPOUNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\5555-82-mc_msasafetyproductscatalog.pdf</filepath>
+        <Paragraphs>COMPOUNDS Photo-ionization (PID) 10.6 eV lamp provides ppm readings for</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\DRK-90652.pdf</filepath>
+        <Paragraphs>HER CHLORINATED COMPOUNDS   FOR  COMMERICAL AND INDUSTRIAL USE ONLY   None known      ACCIDENTAL RELEASE MEASURES  Storage   Protect from freezing   K</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Scotchguard_Protector_4101W_msds.pdf</filepath>
+        <Paragraphs> TIN, ORGANIC COMPOUNDS </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs>VOLATILE ORGANIC COMPOUNDS  (Total VOC's)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia_Shine_Aerosol_SS1_msds.pdf</filepath>
+        <Paragraphs>VOLATILE ORGANIC COMPOUNDS  (Total VOC's)</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>COMPOUNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\DRILLING ENGINEERING HANDBOOK.pdf</filepath>
+        <Paragraphs> Drilling Engineering Table 2-2:              PRINCIPLE COMPOUNDS IN PORTLAND CEMENT Tricalcium Silicate - 3CaO:SiO2   -   C3S</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERGROUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9700505 Rev C 2014 DBI_SALA Catalog .pdf</filepath>
+        <Paragraphs>PROTECTION  FOR UNDERGROUND    MINING AND TUNNELING  SAFLOK      MINING ANCHORS  Our SAFLOK      mining anchors were designed to be used with friction</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\DBI-SALA-AN.pdf</filepath>
+        <Paragraphs>FOR UNDERGROUND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERGROUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\16.-DRILLING SWITCHBOARD ROOM.pdf</filepath>
+        <Paragraphs>CIONES / UNDERGROUND SYSTEM IN GOOD CONDI-</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENFUNDAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENFUNDAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>DE ENFUNDAR CON QUICK036MAG231Quick-Mag231 acelera el 035ujo de trabajo y reduce </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>FUNDAS DE HERRAMIENTAS  FUNDA PARA HERRAMIENTAS SIMPLE Y DOBLE N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>FUNDAS DE HERRAMIENTAS  FUNDA PARA HERRAMIENTAS SIMPLE Y DOBLE N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HOL-TAPERETFUNDAS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HOL-TAPERETFUNDAS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>HOL-TAPERETFUNDAS PARA CINTA M311TRICA N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAUNDERING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAUNDERING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\Ansell-product-catalog.pdf</filepath>
+        <Paragraphs>ESOURCES  LAUNDERING GUIDELINES LAUNDERING GUIDELINES FOR ANSELL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>           CAJA 15 UNDS   PN </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>OUND M</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FUNDAMENTAL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FUNDAMENTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\slika~Honeywell Catalog 2013 2014.pdf</filepath>
+        <Paragraphs>FUNDAMENTAL FALL PREVENTION/</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FUNDAMENTAL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>015012012 FUNDAMENTAL PRINCIPLES</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUPERFUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUPERFUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\10 Percent Sterilizing Gas Mixture of CH2CH2O and CO2 SDS P4705.pdf</filepath>
+        <Paragraphs>SARA: SUPERFUND AMENDMENT AND REAUTHORIZATION ACT: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUPERFUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Color Standards for Control Tests Mixtures of HCl CoCl2 CuSO45H2O FeCl3 H2O SDS P4899.pdf</filepath>
+        <Paragraphs>SARA: SUPERFUND AMENDMENT AND REAUTHORIZATION ACT: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUPERFUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar H5 H10 H35 Shielding Gases Mixtures of H2 and Ar SDS P4861.pdf</filepath>
+        <Paragraphs>SARA: SUPERFUND AMENDMENT AND REAUTHORIZATION ACT: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUPERFUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Neon Gas Ne Safety Data Sheet SDS P4628.pdf</filepath>
+        <Paragraphs>SARA: SUPERFUND AMENDMENT AND REAUTHORIZATION ACT: </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUPERFUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methanol UCAR HTF Heat Treating Fluid CH3OH Safety Data Sheet SDS P4672.pdf</filepath>
+        <Paragraphs>   kg    SARA   SUPERFUND AMENDMENT AND REAUTHORIZATION ACT    SECTIONS           Require emergency planning based on Threshold Planning  Qua ntity  T</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SUPERFUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Stargon Gas Blends Mixture of Ar O2 and CO2 Safety Data Sheet SDS P6304.pdf</filepath>
+        <Paragraphs>SARA: SUPERFUND AMENDMENT AND REAUTHORIZATION ACT: </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HEREUNDER</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ax It_151_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ax-It_Plus_Heavy_Duty_No-Rinse_154P5_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX-IT_Plus_No-Rinse_Stripper_154D55_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX-IT_Plus_No-Rinse_Stripper_154P5_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX-IT_Plus_No-Rinse_Stripper_154_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_AX99_Baseboard_Stripper_AX99_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_183_msds.pdf</filepath>
+        <Paragraphs>Products Not available.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_192_msds.pdf</filepath>
+        <Paragraphs>Products Skin contact.  INHALATION  Eye Contact  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_Concentrate_299_msds.pdf</filepath>
+        <Paragraphs>Products Eye Contact  Ingestion.  INHALATION  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_Glass_Cleaner_19947-00_msds.pdf</filepath>
+        <Paragraphs>THE LC   VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_Nonammoniated_299Q_msds.pdf</filepath>
+        <Paragraphs>Products Eye Contact  Ingestion.  INHALATION  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Clear_Image_RTU_192_msds.pdf</filepath>
+        <Paragraphs>Products Skin contact.  INHALATION  Eye Contact  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_182_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Conc_Glass_Cleaner_18147-00_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_&amp;_Surface_Cleaner_108G_msds.pdf</filepath>
+        <Paragraphs>Exposure Limits  Eye contact.  Ingestion.  Inhalation.  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_&amp;_Surface_Cleaner_108_msds.pdf</filepath>
+        <Paragraphs>Exposure Limits  Eye contact.  Ingestion.  Inhalation.  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Deep_Blue_Glass_Cleaner_Conc_281Q_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_No-Rinse_Stripper_184D55_msds.pdf</filepath>
+        <Paragraphs>Products  Dermal contact.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_No-Rinse_Stripper_184P5_msds.pdf</filepath>
+        <Paragraphs>Products  Dermal contact.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_No-Rinse_Stripper_184_msds.pdf</filepath>
+        <Paragraphs>Products  Dermal contact.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Extreme_Ultra_Stripper_194_msds.pdf</filepath>
+        <Paragraphs> Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Fastdraw_Deep_Blue_Concentrated_Glass_Cleaner_18147-00_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Forest_5_Foaming_Cleaner_307_msds.pdf</filepath>
+        <Paragraphs>Products Eye Contact  Ingestion.  INHALATION  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104D55_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104P5_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Geraldine_Nonammoniated_Stripper_104_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_High_Power_Fast_Acting_No-Rinse_184D55_msds.pdf</filepath>
+        <Paragraphs>Products  Dermal contact.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Lubricant_Penetrant_LP40_msds.pdf</filepath>
+        <Paragraphs>Products NONEWARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Nonammoniated_Stripper_104D55_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Speedex_Industrial_Strength_Spot_Cleaner_173_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Cleaner_&amp;_Degreaser_103P5_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Cleaner_&amp;_Degreaser_103_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Super_Kemite_Mega_Base_554_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Top_Flite_Plus_059_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Top_Flite_Plus_APC_Aero_05923_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ultra_2000_Super_Double_Strength_Degreaser_136G_msds.pdf</filepath>
+        <Paragraphs>Products Eye Contact  Ingestion.  INHALATION  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Ultra_2000_Super_Double_Strength_Degreaser_136P5_msds.pdf</filepath>
+        <Paragraphs>Products Eye Contact  Ingestion.  INHALATION  Skin contact.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Unlock_888_msds.pdf</filepath>
+        <Paragraphs>Products  Dermal contact.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Betco_Very_Agressive_No-Rinse_Stripper_154D55_msds.pdf</filepath>
+        <Paragraphs>Products Absorbed through skin.  Eye contact.  Inhalation.  Ingestion.WARNING:  THE LC50 VALUES HEREUNDER ARE ESTIMATED ON THE BASIS OF A</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ammonia_Sun_Brite_AMMONIA_msds.pdf</filepath>
+        <Paragraphs>A PARTICULAR PURPOSE OR OF ANY OTHER NATURE ARE MADE HEREUNDER WITH RESPECT TO THE INFORMATION SET  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>HEREUNDER</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Clear_Cleaner_28oz_CL-12_msds.pdf</filepath>
+        <Paragraphs>NATURE ARE MADE HEREUNDER WITH  RESPECT TO INFORMATION OR THE PRODUCT TO WHICH INFORMATI ON HEREIN REFERS      </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SEGUNDA</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SEGUNDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\CAPITULO1.pdf</filepath>
+        <Paragraphs>SEGUNDA EDICIÓN:Octubre 2002Edita:Centro de publicaciones</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SEGUNDA</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ToolPusher.3027\Programa de Perforación Nobilis- 1(HLB).pdf</filepath>
+        <Paragraphs>gas             SEGUNDA ETAPA   N G      Di metro TR    plg     Profundidad   m    Densida d de  L echadas    g cm       Cima de  C emento   m    Base</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>AUNDRY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>AUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Dreft_-_Regular_Scent_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>     G RANULAR   L AUNDRY   D ETERGENT FINISHED PRODUCT   Brands : </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Gain_with_Febreze_Freshness_-_Regular_Thai_Dragonfruit_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>     G RANULAR   L AUNDRY   D ETERGENT FINISHED PRODUCT   Brands : </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Tide_Coldwater_-_Fresh_Scent_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>     G RANULAR   L AUNDRY   D ETERGENT FINISHED PRODUCT   Brands : </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Tide_with_a_Touch_of_Downy_HE_-_April_Essence_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>     G RANULAR   L AUNDRY   D ETERGENT FINISHED PRODUCT   Brands : </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Tide_with_Bleach_-_Clean_Breeze_Regular_Scent_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>     G RANULAR   L AUNDRY   D ETERGENT FINISHED PRODUCT   Brands : </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>AUNDRY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ultra_Tide_with_Bleach_HE_-_Regular_Scent_Powder_Granular_Feb_2014_-_MSDS.pdf</filepath>
+        <Paragraphs>     G RANULAR   L AUNDRY   D ETERGENT FINISHED PRODUCT   Brands : </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>MUNDO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>MUNDO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Behold_Furniture_Polish_96406_msds.pdf</filepath>
+        <Paragraphs>0026. PARA INFORMACION MEDICA DE URGENCIA EN EL RESTO DEL MUNDO LLAME AL: 1 </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERTAKING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERTAKING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Brillo_Glass_Cleaner_K556422_msds.pdf</filepath>
+        <Paragraphs>1.    IDENTIFICATION OF THE SUBSTANCE / PREPARATION AND OF THE COMPANY / UNDERTAKING </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Oil-Dri_Absorbant_Pad_Universal_Bonded_90902_msds.pdf</filepath>
+        <Paragraphs>C E R C L A / SU P E R F UND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Oil-Dri_Absorbent_Sock_90862_msds.pdf</filepath>
+        <Paragraphs>C E R C L A / SU P E R F UND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Oil-Dri_Oil_Boom_L90855_msds.pdf</filepath>
+        <Paragraphs>C E R C L A / SU P E R F UND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Oil-Dri_Sorbent_Roll_OD_30_L90780_msds.pdf</filepath>
+        <Paragraphs>C E R C L A / SU P E R F UND </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Silane SiH4 Safety Data Sheet SDS P4649.pdf</filepath>
+        <Paragraphs>   CONTAINS GAS UND ER PRESSURE  MAY EXPLODE IF HEATED   H         HARMFUL IF INHALED   Precautionary statements  GHS   US        P         Do not han</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>LAUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>LAUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Ultra_Purex_Dry_80_Use_01837-10_msds.pdf</filepath>
+        <Paragraphs>TABLET LAUND </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SUNDAY</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SUNDAY</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-121114 Wilga Park Camp SEE_Rev0.pdf</filepath>
+        <Paragraphs>  TIME   MEAL   SUNDAY   MONDAY   TUESDAY   WEDNESDAY   THURSDAY   FRIDAY   SATURDAY       am          am   BREAK   FAST   Cereal Porridg e Toast     </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>UNDERSTANDING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>UNDERSTANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>       2.2. INSTALLATION  2.2.1. UNDERSTANDING OF SOFT ZONE   Slew Bearing have surface heat treat</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERSTANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\2011_Hose_Catalog_4400_Linked.pdf</filepath>
+        <Paragraphs>CSA/CGA þ  Assemblies must be made at Davenport IowaKEY TO UNDERSTANDING AGENCY APPROVALS FOR BUILDING HOSE ASSEMBLIES E-15 B</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>UNDERSTANDING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0003 Grant Prideco Drill String\ODEBRECHT NORBE XI REV 245905.pdf</filepath>
+        <Paragraphs>UNDERSTANDING THAT WE MAY MANUFACTURE AND COMPLETE SOME OF  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ROUNDif</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ROUNDif</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>as we know it today. WARNING:THIS FIREARM COULD CHAMBER A ROUNDif it is dropped or jarred with a </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SOUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\R-25_manual.pdf</filepath>
+        <Paragraphs>E DIFFERENCE IN SOUND OR RECOIL IS</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>SOUND MECHANICAL PRACTI</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Drawworks Emergency Braking System.pdf</filepath>
+        <Paragraphs>SOUND MECHANICAL PRACTI</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WOUND</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WOUND</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Draw Works Maintenance Manual.pdf</filepath>
+        <Paragraphs>ASTM A-351 GR. CF8M  CAP ASTM A-351 GR. CF8M  GASKET SPIRAL WOUND SS  SCREEN   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BUNDLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BUNDLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Well Control manual.pdf</filepath>
+        <Paragraphs>UNLATCH HOSE BUNDLE PORT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>COMPOUNDSPRODUCT</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COMPOUNDSPRODUCT</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\17 - DRILL PIPE GREASE OIM\Graxa Para Drill Pipe.pdf</filepath>
+        <Paragraphs>sistance to further make up downhole. Z-50 ME &amp; Z-60 ME TOOL JOINT COMPOUNDSPRODUCT </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RUNDSCHNURRING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RUNDSCHNURRING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\AUTO FUEL FILTER_3609DV703M002.pdf</filepath>
+        <Paragraphs>                RUNDSCHNURRING Mf e    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

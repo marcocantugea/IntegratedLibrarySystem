@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>IVEOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>IVEOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP406.pdf</filepath>
+        <Paragraphs>Maintenance Work Instruction27 - La Muralla IVEOW - LMIV INSPECTION RISER PIN, LINES &amp; SEALS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP406.pdf</filepath>
+        <Paragraphs>Approved Notes  EOW RISER MAINTENANCE, INSPECTION AND SEALS REPLACEMENT.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>   EOW HEM 1 - Transit Team</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>Page 3 of 62  Maintenance Work OrderCHAN410 EOW Change Beacon</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\10. Corona (Crown block Assembly)\10.4 Work Orders.pdf</filepath>
+        <Paragraphs>   EOW HEM 1 - Transit Team</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\10. Corona (Crown block Assembly)\10.7 Work Order.pdf</filepath>
+        <Paragraphs>WO3027-15-08885 Maintenance Plan Notes Work Orders Notes All drilling equipment greased and serviced at EOW throughly. 18.07.2015</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\11. Block Viajero (Travelling Block)\11.4 Work Orders.pdf</filepath>
+        <Paragraphs>   EOW HEM 1 - Transit Team</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\11. Block Viajero (Travelling Block)\11.7 Work Orders.pdf</filepath>
+        <Paragraphs>WO3027-15-08885 Maintenance Plan Notes Work Orders Notes All drilling equipment greased and serviced at EOW throughly. 18.07.2015</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\2. Sistema de Conductores (Riser System)\2.7 Work Order.pdf</filepath>
+        <Paragraphs>rk OrderINSP    EOW   LMIV INSPECTION</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\7. Top Drive (DDM)\7.4 Work Orders.pdf</filepath>
+        <Paragraphs>   EOW HEM 1 - Transit Team</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\8. Mesa Rotaria (Rotary Table)\8.4 Work Orders.pdf</filepath>
+        <Paragraphs>   EOW HEM 1 - Transit Team</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\9. Malacate Principal (Main Drawwork)\9.7 Work Order.pdf</filepath>
+        <Paragraphs>WO3027-15-08885 Maintenance Plan Notes Work Orders Notes All drilling equipment greased and serviced at EOW throughly. 18.07.2015</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>EOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\RELACION DE MANTENIMIENTO\ABRIL\WO SERV206.pdf</filepath>
+        <Paragraphs>otes During the EOW maintenance after Yoka     well  the following work was carried out on this equipment </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OrderEOW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OrderEOW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.4 Work Orders.pdf</filepath>
+        <Paragraphs>Page 1 of 1  Maintenance Work OrderEOW Predeployment Check Well</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

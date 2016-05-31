@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>RECYCLING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECYCLING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\12 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>./GOOD PRACTICE: RECYCLING SATURATED WITH </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DODECYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\04307.pdf</filepath>
+        <Paragraphs>tion     SODIUM DODECYL  BENZENE SULFONATE                                          FABULOSO MULTI SPRAY ALL PURPOSE CLEANER LIQUID LAVENDER   This in</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\46106.pdf</filepath>
+        <Paragraphs>tion     SODIUM DODECYL  BENZENE SULFONATE   LINEAR                                               Lauroylamidopropyl  betaine                         </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53042.pdf</filepath>
+        <Paragraphs>tion     SODIUM DODECYL  BENZENE SULFONATE   LINEAR                                            FABULOSO ALL PURPOSE CLEANER LIQUID OCEAN PARADISE   Th</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Cleansing Powder - Regular.pdf</filepath>
+        <Paragraphs>         SODIUM DODECYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Ajax Scouring Creme- CCG Design for the Environment.pdf</filepath>
+        <Paragraphs>         SODIUM DODECYL </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Fabuloso APC Liquid-Lavender.pdf</filepath>
+        <Paragraphs>1569-01-3  1.00 - 5.00  SODIUM DODECYL </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SODIUMDODECYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SODIUMDODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs> Concentration  SODIUMDODECYL BENZENESULFONATE  LINEAR                              Allconcentrationsarepresentbyweightunlessingredientisagas Gasconce</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SODIUMDODECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs> Concentration  SODIUMDODECYL BENZENESULFONATE  LINEAR                              Allconcentrationsarepresentbyweightunlessingredientisagas Gasconce</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SODIUMDODECYLBENZENESULFONATE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SODIUMDODECYLBENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53041.pdf</filepath>
+        <Paragraphs>ity         lbs SODIUMDODECYLBENZENESULFONATE  LINEAR  METHANOL CleanAirAct CleanAirAct   Standardsof PerformanceforNewStationary Sources   POLYETHYLE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SODIUMDODECYLBENZENESULFONATE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\53096.pdf</filepath>
+        <Paragraphs>ity         lbs SODIUMDODECYLBENZENESULFONATE  LINEAR  METHANOL CleanAirAct CleanAirAct   Standardsof PerformanceforNewStationary Sources   POLYETHYLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECYCLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECYCLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>is equal to or greater than 12.5)  RECYCLE  CONTAINER    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DECYL</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Complements_Gel_Color_Long_Lasting_Semi-Permanent.pdf</filepath>
+        <Paragraphs> DECYL GLUCOSIDE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>DECYL</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Luminize_Gentle_Conditioning_Lightener.pdf</filepath>
+        <Paragraphs>DECYL GLUCOSIDE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECYCLED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECYCLED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\www.santos.com-Santos_EHSMS_Guide.pdf</filepath>
+        <Paragraphs>SUSTAINABLE FOREST CERTIFICATIONISO RECYCLED CONTENT Santos  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

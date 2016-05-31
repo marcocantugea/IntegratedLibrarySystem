@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>COBXSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>COBXSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>COBXSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>TYPECOBXSECTION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>TYPECOBXSECTION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\CENTRIFUGAL PUMPS HAMWORTHY LIST\CENTRIFUGAL PUMP.pdf</filepath>
+        <Paragraphs>TYPECOBXSECTION</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BXS-Slip</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BXS-Slip</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>BXS-Slip Type</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BXS-Slip</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>BXS-Slip Type</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BXS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\USER MANUAL 50000802-MAN-001_BX3-4-5.pdf</filepath>
+        <Paragraphs> BXS Elevator only without Rotator Actuator </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BXS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\NB11 Hull 3610\POs\PO-0008 NOV Handling Tools\ODR-NB11-POR-0008.pdf</filepath>
+        <Paragraphs>Link Block Adapter Kit BX #3, BX #4 and BXS </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

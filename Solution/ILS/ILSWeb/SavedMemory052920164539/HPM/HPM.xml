@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HPM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>HPM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPMHexagon</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPMHexagon</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>logue        UK HPMHexagon head plugMale NPTF  Thread  SAE J    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HP-S1HPMSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HP-S1HPMSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>1 HP-S1HPMSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

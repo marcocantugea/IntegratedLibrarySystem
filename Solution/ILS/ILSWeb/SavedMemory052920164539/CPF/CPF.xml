@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>CPFG</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CPFG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefeng.3027\TCF - OEGU 209739-0.pdf</filepath>
+        <Paragraphs> P I            CPFG Control Panel Operation   Maintenance   Eng         Factory Setting for Cabin Purge Cycle     Pressurisation Fire   Gas Test Reco</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPFG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de cabina de control  Gas y fuego 0 to10.pdf</filepath>
+        <Paragraphs>   off EExd PLC CPFG panel  combine pressurisation  fire and  gas  for controlling the  purge and   pressurisation of the cabin and shutdown of non Ex</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPFG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Manual de panel de fuego y gas de la cabia de control HD36.154 to 203.pdf</filepath>
+        <Paragraphs>   Exd Rated CPFG Panel </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CPFG</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\ROV container System HD36 Containers\TCF 8897.pdf</filepath>
+        <Paragraphs>   off EExd PLC CPFG panel  combine pressurisation  fire and  gas  for controlling the  purge and   pressurisation of the cabin and shutdown of non Ex</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>OJNLCPFGKAAMDGCJBKIPPJHLLBFKDCGJOLNOBMNFOCAOKPDLF </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

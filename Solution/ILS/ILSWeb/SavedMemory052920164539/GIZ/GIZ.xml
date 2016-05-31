@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>ENERGIZADOS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENERGIZADOS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\30 Machine shop .pdf</filepath>
+        <Paragraphs>EQUIPOS ENERGIZADOS SIN ESTAR EN USO. </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENERGIZED</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENERGIZED</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\15 Machine shop.pdf</filepath>
+        <Paragraphs>PASILLO LIMPIO Y DESPEJADO ENERGIZED EQUIPMENT AFTER BEEN USED</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ENERGIZADO</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ENERGIZADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\15 Machine shop.pdf</filepath>
+        <Paragraphs>EQUIPO ENERGIZADO DESPUES DE HABER </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>ENERGIZADO</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Procedimiento de Recuperacion de emergencia de TMS sin funcionalidad.docx</filepath>
+        <Paragraphs>QUE TETHER ESTA ENERGIZADO CON     V  COLOCAR BAR RICADAS Y EN CASO DE TENER QUE MANIPULAR TETHER  USAR EPP ADECUADO     Una vez reestablecida la func</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GIZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GIZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\REGLASGRALESGIZ-FIRCO.pdf</filepath>
+        <Paragraphs> Seite      La  GIZ   Cooperaci n  Alemana al Desarrollo   Actividades en M xico   Dr  Aar n S nchez Ju rez   REUNION DE SEGUIMIENTO       FIRCO   SAG</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

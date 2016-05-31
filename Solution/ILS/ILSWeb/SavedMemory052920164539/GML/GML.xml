@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GML</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>r of the rig    GML   m   Is the longitudinal metacentric height of the rig before free surface correction   GMT   m   Is the transverse metacentric h</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>f the rig       GML      m      Is the longitudinal metacentric height of the rig before free surface correction      GMT      m      Is the transvers</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BNFFFNBPILAGMLMCALADILAHFHAHBKAOMGIOBCJPNPBNFFFNB</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BNFFFNBPILAGMLMCALADILAHFHAHBKAOMGIOBCJPNPBNFFFNB</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PO CERTIFICACIONES\3027-14-1018\3027-14-1018\Invoicing\740 CFDI_VLE1305239J0_GRP090522H23__490000740_P.pdf</filepath>
+        <Paragraphs>BNFFFNBPILAGMLMCALADILAHFHAHBKAOMGIOBCJPNPBNFFFNB </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GMLocknut</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GMLocknut</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>Stainless Steel71BUZM16S71  DIN fittings I132Catalogue 4100-7/UK GMLocknut for bulk headsFor bulkhead SV and WSV Order code</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SGML</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SGML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\Chapter7.pdf</filepath>
+        <Paragraphs>Produce SGML output? No</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>SGML</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Burning boom info\M872545.pdf</filepath>
+        <Paragraphs>Produce SGML output? No</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

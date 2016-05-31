@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FGM</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FGM</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>FGM</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FGMThread</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FGMThread</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>logue        UK FGMThread expander   AdapterMale NPTF  thread  SAE J       Female NPTF  thread  SAE J    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FG-S1FGMSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FG-S1FGMSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>1 FG-S1FGMSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

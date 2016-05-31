@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>FREEZERS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREEZERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\27 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>FAULTY -CAUSING HEAT LEVEL VARIATION FREEZERS TEMPERATURE  KEPT WITHIN </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZERS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\08 Galley dry store .pdf</filepath>
+        <Paragraphs>LIGHT BULBS OUT OF SERVICE I ALL 4 FREEZERS   </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>SPACEA212FREEZEFREEZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>SPACEA212FREEZEFREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>639961-TSH-04-008ADDR. HEAT DETECTOR COLD SPACEA212FREEZEFREEZE A121TWEEN DECK3026DA961E014F450TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREEZEFISH</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREEZEFISH</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>640961-TSH-04-009ADDR. HEAT DETECTOR COLD SPACEA211FISH FREEZEFISH FREEZE A211TWEEN DECK3026DA961E014F450TYCO811HZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREEZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>640961-TSH-04-009ADDR. HEAT DETECTOR COLD SPACEA211FISH FREEZEFISH FREEZE A211TWEEN DECK3026DA961E014F450TYCO811HZ</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP835.pdf</filepath>
+        <Paragraphs>961-TSH-04-008 FREEZE A121 TWEEN DECK F450 Page 1 of 1 </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\Traduccion de las WO REV1\INSP836.pdf</filepath>
+        <Paragraphs>961-TSH-04-009 FISH FREEZE A211 TWEEN DECK F450</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>FREEZE</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.2 Work Orders.pdf</filepath>
+        <Paragraphs>961-TSH-04-008 FREEZE A121 TWEEN DECK F450 Maintenance Plan Notes Work Orders Notes</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\14. Sistema Detector de Gas y Fuego (Fire and Gas System)\14.3 Work Orders.pdf</filepath>
+        <Paragraphs>961-TSH-04-009 FISH FREEZE A211 TWEEN DECK F450</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREEZETWEEN</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREEZETWEEN</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1411961-HS-003COLD ROOM ALARM SWITCHA211Fish FreezeA211 FISH FREEZETWEEN DECK3026DA961E014-TYCO-Z</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FREEZING</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Austins_Institutional_Use_Bleach_BLEACH_msds.pdf</filepath>
+        <Paragraphs>Chlorine FREEZING  POINT </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Color Standards for Control Tests Mixtures of HCl CoCl2 CuSO45H2O FeCl3 H2O SDS P4899.pdf</filepath>
+        <Paragraphs>1.6  FREEZING POINT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\HydroStar H5 H10 H35 Shielding Gases Mixtures of H2 and Ar SDS P4861.pdf</filepath>
+        <Paragraphs>Not applicable.  FREEZING POINT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Liquid Neon Gas Ne Safety Data Sheet SDS P4628.pdf</filepath>
+        <Paragraphs>Not applicable.  FREEZING POINT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Methanol UCAR HTF Heat Treating Fluid CH3OH Safety Data Sheet SDS P4672.pdf</filepath>
+        <Paragraphs> applicable     FREEZING   POINT   at   atm             F          C    BOILING POINT   at   atm           F        C    FLASH PO INT    test method  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia Shine_Stainless_Steel_Cleaner_SS-QT_msds.pdf</filepath>
+        <Paragraphs>FREEZING POINT</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>FREEZING</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\msds-data.com-Shelia_Shine_Aerosol_SS1_msds.pdf</filepath>
+        <Paragraphs>FREEZING POINT</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>EEZ</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>EEZ</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Chem-Eez MSDS English.pdf</filepath>
+        <Paragraphs>EEZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>BREEZE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>BREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest Pro Health For Me Minty Breeze and Rockin Mint 99315052  10-JUL-2014.pdf</filepath>
+        <Paragraphs>TH FOR ME MINTY BREEZE AND ROCKIN MINT  Product Type  Finished Product   Consumer  Retail  Use Only  Recommended Use  Health Care  Synonyms  No inform</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>BREEZE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\MATERIAL SAFETY DATA SHEET\Crest_Pro_Health_Minty_Breeze_and_Rockin_Mint_99315052_10-JUL-2014.pdf</filepath>
+        <Paragraphs>TH FOR ME MINTY BREEZE AND ROCKIN MINT  Product Type  Finished Product   Consumer  Retail  Use Only  Recommended Use  Health Care  Synonyms  Crest Pro</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

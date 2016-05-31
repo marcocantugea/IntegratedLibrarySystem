@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>HSSE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HSSE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Bulletins\Aker\PB-GE-022.pdf</filepath>
+        <Paragraphs>detailed rig status report with recommended actions, HSSE improvements and evaluation of system </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>30PNewFHSS</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>30PNewFHSS</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\ROV\Fire Sale.pdf</filepath>
+        <Paragraphs>30PNewFHSS</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>FHSSAE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>FHSSAE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Parker Tube Fittings.pdf</filepath>
+        <Paragraphs>     PSI Series FHSSAE Split flange halvesISO                                               M  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WRENCHSSW</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WRENCHSSW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>SSW    SPINNING WRENCHSSW    SPINNING WRENCH  POWER TOOLS      POWER TOOLS   SSW   SPINNING WRENCHSSW    PIVOT ARMS  CYLINDER  BEAMS AND PRESSURE ROLL</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WRENCHSSW</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>SSW    SPINNING WRENCHSSW    SPINNING WRENCH  POWER TOOLS      POWER TOOLS   SSW   SPINNING WRENCHSSW    PIVOT ARMS  CYLINDER  BEAMS AND PRESSURE ROLL</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>WRENCHSSW40</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>WRENCHSSW40</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\full_pdf_of_the_catalog.pdf</filepath>
+        <Paragraphs>6 10 2 8 POWER TOOLS - SSW40 SPINNING WRENCHSSW40 MANIFOLD ASSEMBLYItem</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>WRENCHSSW40</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Varco Master Copy.pdf</filepath>
+        <Paragraphs>6 10 2 8 POWER TOOLS - SSW40 SPINNING WRENCHSSW40 MANIFOLD ASSEMBLYItem</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

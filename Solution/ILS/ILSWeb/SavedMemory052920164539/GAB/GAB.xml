@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>GABINETE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GABINETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\02.- FEBRERO\18 FEB 2014 1000.pdf</filepath>
+        <Paragraphs>TACION LAVAOJOS  GABINETE PARA EQUIPO DE AIRE DE EMER-</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GABINETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\06.- JUNIO\03 Air Compressor Room.pdf</filepath>
+        <Paragraphs>DOS BOLSAS PL301STICAS DENTRO DE GABINETE  C.I. </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GABINETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\11.- NOVIEMBRE\6.- uper deck banda babor.pdf</filepath>
+        <Paragraphs>V  Safety Tour         UPER DECK BANDA BABIOR   22:00 HRS NOVEMBER 6 st , 2014 GABINETE DE MANGUERAS CONTRA INCENDIO E  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GABINETE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\SOC Cards\SOC Tours\7.- July 2014\20 Cuarto de maquinas 3.pdf</filepath>
+        <Paragraphs>DENTRO DE UN GABINETE CONTRA INCENDIO</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>GABINETES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>GABINETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\04.- ABRIL\22 Store room.pdf</filepath>
+        <Paragraphs>TRASH IN WRONG PLACE  GABINETES SENTADOS DIRECTO AL PISO , POSINLE </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>GABINETES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\05.- MAYO\07 Mud Mix Control Room.pdf</filepath>
+        <Paragraphs>FALTA ORDEN Y LIMPIEZA EN GABINETES    </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>ORGABIZACION</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>ORGABIZACION</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\captain.3027\SOC Tours\2014\10.- OCTUBRE\05 Cutting boxes area.pdf</filepath>
+        <Paragraphs>EQUIPO NECESITA ORGABIZACION  CORREGIDO </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>RECARGABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>RECARGABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\catalogo big country 2016.pdf</filepath>
+        <Paragraphs>7130111 BATER315A RECARGABLE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DESPLEGABLES</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DESPLEGABLES</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>23  CORREAS DESPLEGABLES N.260 DE PARTE DE </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>DESPLEGABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>DESPLEGABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\9701409 DBI-SALA Python Safety Catalog_Spanish.pdf</filepath>
+        <Paragraphs>10 CORREA DESPLEGABLE</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PLEGABLE</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PLEGABLE</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Catalog\MSA_Respiratoria.pdf</filepath>
+        <Paragraphs>10035770    AFFINITY PLEGABLE P2  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>VEGABAR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>VEGABAR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\1 Material Request\Ribamar\ODN I 02\NOV SPARE PARTS\Sales Quote Acknowledgement 708088 -  ~04082011083213.pdf</filepath>
+        <Paragraphs>PRESSURE TRANSMITTER VEGABAR 54</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

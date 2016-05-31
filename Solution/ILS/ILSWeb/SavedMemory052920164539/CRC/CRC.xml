@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>STOPA801CCRCCR</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>STOPA801CCRCCR</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Fernando.Diaz\procedimientos - gas y fuego\gas y fuego\detector list.pdf</filepath>
+        <Paragraphs>1418284-EST-001DHELI FUEL EMERGENCY STOPA801CCRCCR A801WHEEL HOUSE3026DA961E019-TYCOMEDCZ</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRC16</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRC16</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>Check (2 bytes): CRC16 used to check frame integrity.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CRC</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CRC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Jorge.Aguilar\PCRED301006EN.pdf</filepath>
+        <Paragraphs>error and does not end on an 8-bit frame boundary. CRC errorsA counter that increments each time a received frame has a CRC </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CRC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\14p220.pdf</filepath>
+        <Paragraphs>                CRC Industries Inc  SP    Fastenal                KOPR KOTE Drago Supply Co                  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>CRC</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\Cert\H3027\Delivery Certificates\00 - Certificate List - Expiry Date Summary.pdf</filepath>
+        <Paragraphs>CRC</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dictionary>
+  <key>PSV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_History Report_022313_032213.pdf</filepath>
+        <Paragraphs>TEST301 Operate PSV at 75% Opearting   321.008.001.001.   </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>TEST301 Operate PSV at 75% Opearting</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\10 Perforación - Drilling (751)\Manuals\Anexos\3027-OP-MAN-0001_D.pdf</filepath>
+        <Paragraphs>PSV and water supply connection to prevent pump dry running.</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Quality - Calidad\Revision MGO- Operation Manual - final revision\MGO - La Muralla IV Operation Manual  (REV. 1).docx</filepath>
+        <Paragraphs>ation pumps has PSV and water supply connection to prevent pump dry running             C  Pontoon and Column Tanks Cleaning    The brine and mud stor</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\PSV's\220_PSV_Seacor_Pride.pdf</filepath>
+        <Paragraphs>220222 PSV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\chiefofficer.3027\TRA 01\FORMATO VIEJO\TRA CALIBRACION DE PSV.docx</filepath>
+        <Paragraphs>and assembly of PSV  from Silos  Desinstalar  calibracion y colocacion de Valvulas de seguridad de presion en silos     Page   P gina         OF  De  </Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\Outstanding maintenance\Outstanding maintenance May 2015.pdf</filepath>
+        <Paragraphs>PSV</Paragraphs>
+      </itemcol>
+      <itemcol>
+        <word>PSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\Senior.Subsea\burner boom\user manual.pdf</filepath>
+        <Paragraphs>ype PSV</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>CollectorPSV</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>CollectorPSV</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\PM system\AMOS2_OutstandingWO_022313_032213.pdf</filepath>
+        <Paragraphs>PSV 3016 Dust CollectorPSV - Pressure/Suction Valve ManualCallendar</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>PSVs</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>PSVs</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\scan\RSTC.3027\Indicadores 2015\1. Sistema  de Preventores (BOP System)\1.7 Work Orders.pdf</filepath>
+        <Paragraphs>Check for leakage of PSVs of BOP HPU Accumumlator Racks and Isolation ball valves.</Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+  <key>HPSVI</key>
+  <value>
+    <collection>
+      <itemcol>
+        <word>HPSVI</word>
+        <filepath>\\192.168.2.2\00 - Departments\Common\Share\313131\ELEVATORS&amp;SLIPS MANUALS\Formulas and Calculations.pdf</filepath>
+        <Paragraphs>Determine the hydrostatic pressure of the seawater:  HPSVI  </Paragraphs>
+      </itemcol>
+    </collection>
+  </value>
+</dictionary>
