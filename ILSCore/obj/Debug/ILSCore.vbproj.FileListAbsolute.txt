@@ -17,3 +17,11 @@ C:\Documents and Settings\Administrator\Desktop\Integrated Library System\ILSCor
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\ILSCore\bin\Debug\PDFTextExtract.dll
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\ILSCore\bin\Debug\SharpZipLib.dll
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\ILSCore\bin\Debug\PDFTextExtract.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\bin\Debug\ILSCore.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\bin\Debug\ILSCore.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\bin\Debug\ILSCore.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Debug\ILSCore.Resources.resources
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Debug\ILSCore.vbproj.GenerateResource.Cache
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Debug\ILSCore.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Debug\ILSCore.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Debug\ILSCore.pdb

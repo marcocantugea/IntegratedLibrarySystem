@@ -229,12 +229,122 @@ Namespace ilsserver.server
         Public Function TotalofPhotos(ByVal FilesCollected As FileShowedCollection) As Integer
             Dim total As Integer = 0
             For Each item As FileShowed In FilesCollected.Items
-                If item.GetExtention.ToString.ToLower = ".jpg" And (item.SizeFile / 1024) > 999 Then
-                    total += 1
-                End If
+                Try
+                    If item.GetExtention.ToString.ToLower = ".jpg" And (item.SizeFile / 1024) > 999 Then
+                        total += 1
+                    End If
+                Catch ex As Exception
+
+                End Try
             Next
             Return total
         End Function
+
+        Public Function TotalofAVIMovies(ByVal FilesCollected As FileShowedCollection) As Integer
+            Dim total As Integer = 0
+            For Each item As FileShowed In FilesCollected.Items
+                Try
+                    If item.GetExtention.ToString.ToLower = ".avi" Then
+                        total += 1
+                    End If
+                Catch ex As Exception
+
+                End Try
+            Next
+            Return total
+        End Function
+
+        Public Function TotalMovies(ByVal FilesCollected As FileShowedCollection) As Integer
+            Dim total As Integer = 0
+            For Each item As FileShowed In FilesCollected.Items
+                Try
+                    If item.GetExtention.ToString.ToLower = ".avi" Or item.GetExtention.ToString.ToLower = ".mov" Or item.GetExtention.ToString.ToLower = ".mpg" Or
+                        item.GetExtention.ToString.ToLower = ".wmv" Or item.GetExtention.ToString.ToLower = ".mts" Then
+                        total += 1
+                    End If
+                Catch ex As Exception
+
+                End Try
+            Next
+            Return total
+        End Function
+
+        Public Sub ResizeAVIMovies(ByVal FilesCollected As FileShowedCollection, Optional showlistdetail As Boolean = False)
+            Dim ffmpegTool As String = ConfigurationManager.AppSettings("ffmpegToolPath").ToString
+            Dim command As String = ""
+            Dim totalofavis As Integer = TotalofAVIMovies(FilesCollected)
+            Dim filenum As Integer = 0
+            If Not ffmpegTool.Equals("") Then
+                For Each item As FileShowed In FilesCollected.Items
+                    If item.GetExtention.ToString.ToLower = ".avi" Then
+                        filenum += 1
+                        Dim outputfile As String = item.GetFullActualPath.Replace(item.GetExtention.ToString, "-r" & item.GetExtention)
+                        command = ffmpegTool & " -i """ & item.GetFullActualPath & """ """ & outputfile & """"
+                        If showlistdetail Then
+                            Console.WriteLine("Resizing file " & filenum.ToString & " of " & totalofavis.ToString & " : " & item.GetFullActualPath)
+                        End If
+                        Try
+                            Dim procStartInfo As New System.Diagnostics.ProcessStartInfo("cmd", "/c" & command)
+                            procStartInfo.RedirectStandardOutput = True
+                            procStartInfo.UseShellExecute = False
+                            procStartInfo.CreateNoWindow = True
+                            Dim proc As New Diagnostics.Process
+                            proc.StartInfo = procStartInfo
+                            proc.Start()
+                            Dim result As String = proc.StandardOutput.ReadToEnd
+                            Console.WriteLine(result)
+
+                            Dim backup_path As String = ConfigurationManager.AppSettings("BackupPathPhotos") & item.GetFullActualPath.Remove(0, 2)
+                            If Not System.IO.Directory.Exists(Path.GetDirectoryName(backup_path)) Then
+                                System.IO.Directory.CreateDirectory(Path.GetDirectoryName(backup_path))
+                            End If
+                            File.Move(item.GetFullActualPath, backup_path)
+                        Catch ex As Exception
+                            Console.WriteLine(ex.ToString)
+                        End Try
+                    End If
+                Next
+            End If
+        End Sub
+
+        Public Sub ResizeMovieFiles(ByVal FilesCollected As FileShowedCollection, Optional showlistdetail As Boolean = False)
+            Dim ffmpegTool As String = ConfigurationManager.AppSettings("ffmpegToolPath").ToString
+            Dim command As String = ""
+            Dim totalofavis As Integer = TotalMovies(FilesCollected)
+            Dim filenum As Integer = 0
+            If Not ffmpegTool.Equals("") Then
+                For Each item As FileShowed In FilesCollected.Items
+                    If item.GetExtention.ToString.ToLower = ".avi" Or item.GetExtention.ToString.ToLower = ".mov" Or item.GetExtention.ToString.ToLower = ".mpg" Or
+                        item.GetExtention.ToString.ToLower = ".wmv" Or item.GetExtention.ToString.ToLower = ".mts" Then
+                        filenum += 1
+                        Dim outputfile As String = item.GetFullActualPath.Replace(item.GetExtention.ToString, "-r.avi")
+                        command = ffmpegTool & " -i """ & item.GetFullActualPath & """ """ & outputfile & """"
+                        If showlistdetail Then
+                            Console.WriteLine("Resizing file " & filenum.ToString & " of " & totalofavis.ToString & " : " & item.GetFullActualPath)
+                        End If
+                        Try
+                            Dim procStartInfo As New System.Diagnostics.ProcessStartInfo("cmd", "/c" & command)
+                            procStartInfo.RedirectStandardOutput = True
+                            procStartInfo.UseShellExecute = False
+                            procStartInfo.CreateNoWindow = True
+                            Dim proc As New Diagnostics.Process
+                            proc.StartInfo = procStartInfo
+                            proc.Start()
+                            Dim result As String = proc.StandardOutput.ReadToEnd
+                            Console.WriteLine(result)
+
+                            Dim backup_path As String = ConfigurationManager.AppSettings("BackupPathPhotos") & item.GetFullActualPath.Remove(0, 2)
+                            If Not System.IO.Directory.Exists(Path.GetDirectoryName(backup_path)) Then
+                                System.IO.Directory.CreateDirectory(Path.GetDirectoryName(backup_path))
+                            End If
+                            File.Move(item.GetFullActualPath, backup_path)
+                        Catch ex As Exception
+                            Console.WriteLine(ex.ToString)
+                        End Try
+                    End If
+                Next
+            End If
+        End Sub
 
     End Class
 End Namespace

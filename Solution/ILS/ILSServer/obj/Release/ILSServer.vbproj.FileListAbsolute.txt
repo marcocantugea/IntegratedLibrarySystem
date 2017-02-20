@@ -20,3 +20,22 @@ C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Soluti
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\ILSServer\obj\Release\ILSServer.exe
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\ILSServer\obj\Release\ILSServer.xml
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\ILSServer\obj\Release\ILSServer.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSServer.exe.config
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSServer.exe
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSServer.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSServer.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSCore.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\PDFTextExtract.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\MSWORDReader.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\MSWordXReader.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\itextsharp.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\SharpZipLib.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSCore.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\bin\Release\ILSCore.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\obj\Release\ILSServer.vbprojResolveAssemblyReference.cache
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\obj\Release\ILSServer.Resources.resources
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\obj\Release\ILSServer.vbproj.GenerateResource.Cache
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\obj\Release\ILSServer.exe
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\obj\Release\ILSServer.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSServer\obj\Release\ILSServer.pdb

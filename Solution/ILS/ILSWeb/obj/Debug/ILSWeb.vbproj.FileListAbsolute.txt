@@ -19,3 +19,25 @@ C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Soluti
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\ILSWeb\bin\ILSCore.pdb
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\ILSWeb\bin\ILSCore.xml
 C:\Documents and Settings\Administrator\Desktop\Integrated Library System\Solution\ILS\ILSWeb\bin\PDFTextExtract.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSWeb.dll.config
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSWeb.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSWeb.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSWeb.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSCore.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\PDFTextExtract.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\MSWORDReader.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\MSWordXReader.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\itextsharp.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\SharpZipLib.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSCore.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\ILSCore.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\PDFTextExtract.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\MSWORDReader.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\bin\MSWordXReader.pdb
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\obj\Debug\ILSWeb.vbprojResolveAssemblyReference.cache
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\obj\Debug\ILSWeb.Resources.resources
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\obj\Debug\ILSWeb.vbproj.GenerateResource.Cache
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\obj\Debug\ILSWeb.dll
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\obj\Debug\ILSWeb.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\Solution\ILS\ILSWeb\obj\Debug\ILSWeb.pdb

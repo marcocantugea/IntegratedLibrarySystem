@@ -9,6 +9,7 @@ Module Module1
         Dim l_filesfound As New FileShowedCollection
         Dim d_MainDictionary As New ILSCore.ilscore.lib.entities.DictionaryWords
         Dim threat_opener As System.Threading.Thread
+        Dim _tigered_command As Boolean = False
 
         While doprogram = True
             Dim command As String = Console.ReadLine()
@@ -20,20 +21,27 @@ Module Module1
                 Console.WriteLine("startsearch        Star server to search files.")
                 Console.WriteLine("showfilelist       show the list of files in memory.")
                 Console.WriteLine("showfilestotal     show the total of files in memory.")
+                Console.WriteLine("clearfilelist      clear the list of files in memory.")
                 Console.WriteLine("lookinfiles        start manually the search of words in documents.")
                 Console.WriteLine("findword           find a word in the memory index")
                 Console.WriteLine("countwords         count the total of words in the index")
                 Console.WriteLine("savememory         save the actual state of the index")
                 Console.WriteLine("loadsavedmemory    load in memory the index saved")
+                Console.WriteLine("resizephotos       resize all images found on the actual list")
+                Console.WriteLine("resizeavimovies    create a small version of a avi file")
+                Console.WriteLine("resizemovies       create a small version of movies files with selected extention")
                 Console.WriteLine("exit               quit the ILC server.")
                 Console.WriteLine(" ")
                 Console.WriteLine(" ")
+                _tigered_command = True
             End If
             If command = "showpaths" Then
                 o_commands.ShowPaths()
+                _tigered_command = True
             End If
 
             If command.Contains("addpath") Then
+                _tigered_command = True
                 If command.Contains("""") Then
                     Dim v_command() As String
                     v_command = command.Split("""")
@@ -51,6 +59,7 @@ Module Module1
             End If
 
             If command.Equals("removepath") Then
+                _tigered_command = True
                 Dim o_configuration As New ilsserver.server.Configuration
                 Dim opt As Integer = 0
                 Dim a_optiones() As String
@@ -100,11 +109,11 @@ Module Module1
                     Console.WriteLine("No paths found")
                 End If
 
-               
+
             End If
 
             If command.Contains("startsearch") Then
-
+                _tigered_command = True
                 Dim o_command As New ilsserver.server.Commands
                 o_command.StartManualSearch(l_filesfound)
                 'Console.WriteLine("Files Found : " & l_filesfound.Count.ToString)
@@ -114,16 +123,24 @@ Module Module1
 
 
             If command.Contains("showfilelist") Then
-                For Each item As FileShowed In l_filesfound.Items
-                    Console.WriteLine(item.GetFileName)
-                Next
+                _tigered_command = True
+                If l_filesfound.Count > 0 Then
+                    For Each item As FileShowed In l_filesfound.Items
+                        Console.WriteLine(item.GetFileName)
+                    Next
+                Else
+                    Console.WriteLine("File List is Empty.")
+                End If
+
             End If
             If command.Contains("showfilestotal") Then
+                _tigered_command = True
                 Console.WriteLine("files in memory : " & l_filesfound.Items.Count)
             End If
 
 
             If command.Contains("lookinfiles") Then
+                _tigered_command = True
                 Dim o_t As New ILSCore.ilscore.lib.file.OpenerTextFile
                 Dim o_w As New ILSCore.ilscore.lib.file.OpenerWordFile
                 Dim o_wx As New ILSCore.ilscore.lib.file.OpenerWordXFile
@@ -254,6 +271,7 @@ Module Module1
 
 
             If command.Contains("findword") Then
+                _tigered_command = True
                 Dim wc_wordscollected As New WordFileCollection
 
                 If Not command.Contains("""") Then
@@ -289,6 +307,7 @@ Module Module1
             'End If
 
             If command.Contains("savememory") Then
+                _tigered_command = True
                 Try
                     Console.WriteLine("Saving memory please wait...")
                     'o_commands.SaveXmlFile(ConfigurationManager.AppSettings("MemoryFilePath"), d_MainDictionary)
@@ -301,6 +320,7 @@ Module Module1
             End If
 
             If command.Contains("loadsavedmemory") Then
+                _tigered_command = True
                 Try
                     Console.WriteLine("Loading saved memory please wait...")
                     o_commands.LoadXMLFile(ConfigurationManager.AppSettings("MemoryFilePath"), d_MainDictionary)
@@ -311,21 +331,69 @@ Module Module1
             End If
 
             If command.Contains("countwords") Then
+                _tigered_command = True
                 Console.WriteLine(d_MainDictionary.WordsCollected.Count)
             End If
 
             If command = "exit" Then
+                _tigered_command = True
                 doprogram = False
             End If
 
             If command.Contains("resizephotos") Then
+                _tigered_command = True
                 Console.WriteLine("Resizing Photos .........")
                 Console.Write("Total Of Photos resized.......:")
                 o_commands.reziseJPG(l_filesfound)
                 Console.WriteLine("")
                 Console.WriteLine("Resizing Process Finished")
+                Console.WriteLine("Refreshing File List ...")
+                l_filesfound.Items.Clear()
+                Dim o_command As New ilsserver.server.Commands
+                o_command.StartManualSearch(l_filesfound)
+                Console.WriteLine("")
+                Console.WriteLine("Files List compleated ...")
             End If
 
+            If command.Contains("resizeavimovies") Then
+                _tigered_command = True
+                Console.WriteLine("Resizing AVI Movies .....")
+                o_commands.ResizeAVIMovies(l_filesfound, True)
+                Console.WriteLine("")
+                Console.WriteLine("Resizing Process Finished")
+                Console.WriteLine("Refreshing File List ...")
+                l_filesfound.Items.Clear()
+                Dim o_command As New ilsserver.server.Commands
+                o_command.StartManualSearch(l_filesfound)
+                Console.WriteLine("")
+                Console.WriteLine("Files List is Updated ...")
+            End If
+
+            If command.Contains("resizemovies") Then
+                _tigered_command = True
+                Console.WriteLine("Resizing Movies .....")
+                o_commands.ResizeMovieFiles(l_filesfound, True)
+                Console.WriteLine("")
+                Console.WriteLine("Resizing Process Finished")
+                Console.WriteLine("Refreshing File List ...")
+                l_filesfound.Items.Clear()
+                Dim o_command As New ilsserver.server.Commands
+                o_command.StartManualSearch(l_filesfound)
+                Console.WriteLine("")
+                Console.WriteLine("Files List is Updated ...")
+            End If
+
+            If command.Contains("clearfilelist") Then
+                _tigered_command = True
+                l_filesfound.Items.Clear()
+                Console.WriteLine("Files List cleared.")
+            End If
+
+            If Not _tigered_command Then
+                Console.WriteLine("Command not found, type help for more info.")
+            Else
+                _tigered_command = False
+            End If
 
         End While
     End Sub
