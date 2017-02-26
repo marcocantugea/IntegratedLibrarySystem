@@ -124,6 +124,37 @@ Namespace ilsserver.server
             End Try
         End Sub
 
+
+        Public Sub ProcessFile(ByVal FilesCollected As FileShowedCollection, ByVal filepath As String)
+            Try
+                Dim AcceptedExtencions() As String = ConfigurationManager.AppSettings("AcceptExtFiles").Split("|")
+
+                Dim fileinfo As New FileInfo(filepath)
+                Dim validextention As Boolean = False
+
+                For Each i As String In AcceptedExtencions
+                    If i.Equals(fileinfo.Extension) Then
+                        validextention = True
+                    
+                    End If
+                Next
+
+                If validextention Then
+                    Dim filefound As New FileShowed()
+                    filefound.Setfile(filepath)
+                    FilesCollected.Add(filefound)
+                    Console.WriteLine("> File Added.")
+                    Console.WriteLine(">")
+                Else
+                    Console.WriteLine("> Extention not valid.")
+                    Console.WriteLine("")
+                End If
+
+            Catch ex As Exception
+                Console.WriteLine("Error trying to read the path : " & filepath)
+            End Try
+        End Sub
+
         Public Sub SearchWord(ByVal word As String, ByVal WordsCollected As WordFileCollection, ByVal DictionaryToSearch As ILSCore.ilscore.lib.entities.DictionaryWords)
             For Each item As KeyValuePair(Of String, WordFileCollection) In DictionaryToSearch.WordsCollected
                 Dim s_itemkey As String = item.Key
@@ -259,7 +290,7 @@ Namespace ilsserver.server
             For Each item As FileShowed In FilesCollected.Items
                 Try
                     If item.GetExtention.ToString.ToLower = ".avi" Or item.GetExtention.ToString.ToLower = ".mov" Or item.GetExtention.ToString.ToLower = ".mpg" Or
-                        item.GetExtention.ToString.ToLower = ".wmv" Or item.GetExtention.ToString.ToLower = ".mts" Then
+                        item.GetExtention.ToString.ToLower = ".wmv" Or item.GetExtention.ToString.ToLower = ".mts" Or item.GetExtention.ToString.ToLower = ".mp4" Then
                         total += 1
                     End If
                 Catch ex As Exception
@@ -315,7 +346,7 @@ Namespace ilsserver.server
             If Not ffmpegTool.Equals("") Then
                 For Each item As FileShowed In FilesCollected.Items
                     If item.GetExtention.ToString.ToLower = ".avi" Or item.GetExtention.ToString.ToLower = ".mov" Or item.GetExtention.ToString.ToLower = ".mpg" Or
-                        item.GetExtention.ToString.ToLower = ".wmv" Or item.GetExtention.ToString.ToLower = ".mts" Then
+                        item.GetExtention.ToString.ToLower = ".wmv" Or item.GetExtention.ToString.ToLower = ".mts" Or item.GetExtention.ToString.ToLower = ".mp4" Then
                         filenum += 1
                         Dim outputfile As String = item.GetFullActualPath.Replace(item.GetExtention.ToString, "-r.avi")
                         command = ffmpegTool & " -i """ & item.GetFullActualPath & """ """ & outputfile & """"

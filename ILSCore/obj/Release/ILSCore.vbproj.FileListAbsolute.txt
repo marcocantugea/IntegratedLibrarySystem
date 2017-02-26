@@ -20,6 +20,7 @@ C:\Documents and Settings\Administrator\Desktop\Integrated Library System\ILSCor
 C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\bin\Release\ILSCore.dll
 C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\bin\Release\ILSCore.pdb
 C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\bin\Release\ILSCore.xml
+C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Release\ILSCore.vbprojResolveAssemblyReference.cache
 C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Release\ILSCore.Resources.resources
 C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Release\ILSCore.vbproj.GenerateResource.Cache
 C:\Users\LM4PCVIT01\Desktop\ILS Server\IntegratedLibrarySystem\ILSCore\obj\Release\ILSCore.dll
